@@ -1,4 +1,4 @@
-## Hi, there! I'm Anggi Al'Ansori <img src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/asset/Hi.gif" width="30px">
+## Hi, there! I'm Anggi Al'Ansori <img src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/assets/Hi.gif" width="30px">
 
 <p align="center">
 <a href="https://github.com/anggialansori404"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" /></a>
@@ -6,7 +6,7 @@
 <a href="mailto:anggialansori.rpl4@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></p></a>
 
 **Here is my portofolio as follows:**
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/asset/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/assets/git-header.svg" />
 
 - A ROM maintainer for Riva (Xiaomi Redmi 5A)
 - Official maintainer for [Nusantara ROM](https://github.com/Nusantara-ROM), [RevengeOS](https://github.com/RevengeOS)
