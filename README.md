@@ -9,7 +9,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/assets/git-header.svg" />
 
 - A ROM maintainer for Riva (Xiaomi Redmi 5A)
-- Official maintainer for [Nusantara ROM](https://github.com/Nusantara-ROM), [RevengeOS](https://github.com/RevengeOS)
+- Official maintainer for [Nusantara ROM](https://github.com/Nusantara-ROM)
 - A member  of [Indifa Teknologi Optima](https://github.com/Indifa-Teknologi-Optima)
 - Windows & Ubuntu user 
 
