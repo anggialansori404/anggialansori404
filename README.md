@@ -10,7 +10,6 @@
 
 - A ROM maintainer for Riva (Xiaomi Redmi 5A)
 - Official maintainer for [Nusantara ROM](https://github.com/Nusantara-ROM)
-- A member  of [Indifa Teknologi Optima](https://github.com/Indifa-Teknologi-Optima)
 - Windows & Ubuntu user 
 
 **Some programming languages that are already learned by me as follows:** 
