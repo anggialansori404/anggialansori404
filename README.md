@@ -8,8 +8,9 @@
 **Here is my portofolio as follows:**
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/assets/git-header.svg" />
 
-- A ROM maintainer for Riva (Xiaomi Redmi 5A)
+- A ROM maintainer for Riva (Xiaomi Redmi 5A & Redmi Note 10)
 - Official maintainer for [Nusantara ROM](https://github.com/Nusantara-ROM)
+- Official maintainer for [Ancient ROM](https://github.com/Ancient-Roms)
 - Windows & Ubuntu user 
 
 **Some programming languages that are already learned by me as follows:** 
@@ -18,8 +19,6 @@
     <img width="55%" align="right" alt="Anggi Al'Ansori's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anggialansori404&show_icons=true&hide_border=true" />
   </a>
 
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
