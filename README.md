@@ -25,3 +25,18 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
 </p>
+<hr>
+<h3 align="center">Quote of The Day</h3>
+<p align="center">
+<blockquote>
+<i>"Friends are those rare people who ask how we are and then wait to hear the answer."</i>
+<br>
+<b>- Ed Cunningham</b>
+</blockquote>
+</p>
+<hr>
+<h2 align=\"center\">Thank You 🙏🏼</h2>
+<p align=\"center\"><b><i>Nothing special with me!</i></b></p>
+<p align=\"center\">
+<a href=\"https://rzlamrr.github.io\" alt=\"rzlamrr's profile visitors\"><img src=\"https://dvstr.herokuapp.com/badge\">
+</p
