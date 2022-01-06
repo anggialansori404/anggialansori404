@@ -11,7 +11,6 @@
 
 - A ROM maintainer for Redmi Note 10
 - Official maintainer for [Nusantara ROM](https://github.com/Nusantara-ROM)
-- Official maintainer for [Ancient ROM](https://github.com/Ancient-Roms)
 - Windows & Ubuntu user 
 
 **Some programming languages that are already learned by me as follows:** 
@@ -29,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is easier to fight for one's principles than to live up to them. "</i>
+<i>"A zen master's life is one continuous mistake."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
