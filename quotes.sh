@@ -21,7 +21,7 @@ var() {
 }
 
 main() {
-    echo "## Hi, there! I'm Anggi Al'Ansori <img src=\"https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/assets/Hi.gif"\ width=\"30px\">
+    echo "## Hi, there! I'm Anggi Al'Ansori <img src=\"https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/assets/Hi.gif\" width=\"30px\">
 
 <p align="center">
 <a href=\"https://github.com/anggialansori404"\> <img src=\"https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white\" /></a>
