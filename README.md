@@ -29,8 +29,14 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is not the absence of problems, it's the ability to deal with them."</i>
+<i>"Practice yourself, for heaven’s sake in little things, and then proceed to greater."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Epictetus</b>
 </blockquote>
+</p>
+
+<hr>
+<h2 align="center">Thank You 🙏🏼</h2>
+<p align="center"><b><i>Nothing special with me!</i></b></p>
+<p align="center">
 </p>
