@@ -56,6 +56,12 @@ main() {
 <br>
 <b>- ${author}</b>
 </blockquote>
+</p>
+
+<hr>
+<h2 align=\"center\">Thank You 🙏🏼</h2>
+<p align=\"center\"><b><i>Nothing special with me!</i></b></p>
+<p align=\"center\">
 </p>" > README.md
 }
 
