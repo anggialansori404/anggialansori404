@@ -29,9 +29,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Practice yourself, for heaven’s sake in little things, and then proceed to greater."</i>
+<i>"It is easier to fight for one's principles than to live up to them. "</i>
 <br>
-<b>- Epictetus</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
