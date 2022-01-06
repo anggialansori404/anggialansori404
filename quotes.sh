@@ -34,7 +34,6 @@ main() {
 
 - A ROM maintainer for Redmi Note 10
 - Official maintainer for [Nusantara ROM](https://github.com/Nusantara-ROM)
-- Official maintainer for [Ancient ROM](https://github.com/Ancient-Roms)
 - Windows & Ubuntu user 
 
 **Some programming languages that are already learned by me as follows:** 
