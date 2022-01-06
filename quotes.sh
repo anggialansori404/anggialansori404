@@ -23,8 +23,8 @@ var() {
 main() {
     echo "## Hi, there! I'm Anggi Al'Ansori <img src=\"https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/assets/Hi.gif\" width=\"30px\">
 
-<p align="center">
-<a href=\"https://github.com/anggialansori404"\> <img src=\"https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white\" /></a>
+<p align=\"center\">
+<a href=\"https://github.com/anggialansori404\"> <img src=\"https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white\" /></a>
 <a href=\"https://www.instagram.com/anggialansori_\"> <img src=\"https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white\" /></a>
 <a href=\"mailto:anggialansori.rpl4@gmail.com\"> <img src=\"https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white\" /></p></a>
 
@@ -49,8 +49,8 @@ main() {
 
 </p>
 <hr>
-<h3 align="center">Quote of The Day</h3>
-<p align="center">
+<h3 align=\"center\">Quote of The Day</h3>
+<p align=\"center\">
 <blockquote>
 <i>\"${quote}\"</i>
 <br>
