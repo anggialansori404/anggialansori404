@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To fly, we have to have resistance."</i>
+<i>"Every experience is a lesson. Every loss is a gain."</i>
 <br>
-<b>- Maya Lin</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
