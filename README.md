@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To plant a garden is to believe in tomorrow.  "</i>
+<i>"Every man is guilty of all the good he did not do. "</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
