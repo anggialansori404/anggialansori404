@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sadness flies away on the wings of time."</i>
+<i>"But better die than live mechanically a life that is a repetition of repetitions."</i>
 <br>
-<b>- Jean de La Fontaine</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
