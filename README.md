@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work as though you would live forever, and live as though you would die today. Go another mile."</i>
+<i>"Every man desires to live long, but no man wishes to be old."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
