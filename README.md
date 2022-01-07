@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I cannot make my days longer, so I strive to make them better."</i>
+<i>"Sadness flies away on the wings of time."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Jean de La Fontaine</b>
 </blockquote>
 </p>
 
