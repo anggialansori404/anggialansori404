@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man desires to live long, but no man wishes to be old."</i>
+<i>"I cannot make my days longer, so I strive to make them better."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
