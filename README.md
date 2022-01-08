@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To live a pure unselfish life, one must count nothing as one's own in the midst of abundance."</i>
+<i>"Instead of being intimidated by the limitations, be inspired to find new ways around them."</i>
 <br>
-<b>- Buddha</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
