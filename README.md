@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"While we may not be able to control all that happens to us, we can control what happens inside us."</i>
+<i>"Ideas do not reach perfection in a day, no matter how much study is put upon them."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
