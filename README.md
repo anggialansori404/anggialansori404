@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom is nothing but a preparation of the soul, a capacity, a secret art of thinking, feeling and breathing thoughts of unity at every moment of life."</i>
+<i>"Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it!"</i>
 <br>
-<b>- Hermann Hesse</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
