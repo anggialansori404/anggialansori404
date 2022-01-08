@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Instead of being intimidated by the limitations, be inspired to find new ways around them."</i>
+<i>"Imagination will often carry us to worlds that never were. But without it we go nowhere."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Carl Sagan</b>
 </blockquote>
 </p>
 
