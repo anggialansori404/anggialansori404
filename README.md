@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What loneliness is more lonely than distrust?"</i>
+<i>"How far that little candle throws its beams! So shines a good deed in a naughty world."</i>
 <br>
-<b>- George Eliot</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
