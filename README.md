@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man sees in the world what he carries in his heart."</i>
+<i>"Evil is whatever distracts. "</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
