@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who learns must suffer. And even in our sleep pain that cannot forget falls drop by drop upon the heart, and in our own despair, against our will, comes wisdom to us by the awful grace of God."</i>
+<i>"The question is not what you look at, but what you see."</i>
 <br>
-<b>- Aeschylus</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
