@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Decision is a risk rooted in the courage of being free."</i>
+<i>"A man sees in the world what he carries in his heart."</i>
 <br>
-<b>- Paul Tillich</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
