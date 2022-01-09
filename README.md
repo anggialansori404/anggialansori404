@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more sand that has escaped from the hourglass of our life, the clearer we should see through it."</i>
+<i>"A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value."</i>
 <br>
-<b>- Jean-Paul Sartre</b>
+<b>- Isaac Asimov</b>
 </blockquote>
 </p>
 
