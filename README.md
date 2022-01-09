@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Evil is whatever distracts. "</i>
+<i>"All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
