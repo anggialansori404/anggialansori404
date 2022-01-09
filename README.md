@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns."</i>
+<i>"I took a speed-reading course and read 'War and Peace' in twenty minutes. It involves Russia."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
