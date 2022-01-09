@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The question is not what you look at, but what you see."</i>
+<i>"Where violence reigns, reason is weak."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
