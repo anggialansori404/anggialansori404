@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I took a speed-reading course and read 'War and Peace' in twenty minutes. It involves Russia."</i>
+<i>"The more sand that has escaped from the hourglass of our life, the clearer we should see through it."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Jean-Paul Sartre</b>
 </blockquote>
 </p>
 
