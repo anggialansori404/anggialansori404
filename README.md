@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't make someone feel good about themselves until you feel good about yourself."</i>
+<i>"The most certain sign of wisdom is cheerfulness."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Michel de Montaigne</b>
 </blockquote>
 </p>
 
