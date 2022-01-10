@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most certain sign of wisdom is cheerfulness."</i>
+<i>"All our knowledge has its origins in our perceptions."</i>
 <br>
-<b>- Michel de Montaigne</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
