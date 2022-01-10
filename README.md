@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"This is such a short and precious life that it's really important that you don't spend it being unhappy."</i>
+<i>"Great ideas often receive violent opposition from mediocre minds."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
