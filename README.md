@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like underwear, should be changed twice a day.  "</i>
+<i>"Experience is not what happens to you; it's what you do with what happens to you."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Aldous Huxley</b>
 </blockquote>
 </p>
 
