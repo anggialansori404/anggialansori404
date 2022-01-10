@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world."</i>
+<i>"The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers."</i>
 <br>
-<b>- Gabor Mate</b>
+<b>- Thích Nhất Hạnh</b>
 </blockquote>
 </p>
 
