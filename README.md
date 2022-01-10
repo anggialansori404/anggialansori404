@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Experience is not what happens to you; it's what you do with what happens to you."</i>
+<i>"When in doubt, tell the truth."</i>
 <br>
-<b>- Aldous Huxley</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
