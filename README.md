@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is not to be pursued, it is to be attracted by the person you become."</i>
+<i>"The wise speak only of what they know."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
