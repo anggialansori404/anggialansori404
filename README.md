@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question."</i>
+<i>"I hope our wisdom will grow with our power, and teach us, that the less we use our power the greater it will be."</i>
 <br>
-<b>- John Tukey</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
