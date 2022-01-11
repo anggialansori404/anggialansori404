@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wise speak only of what they know."</i>
+<i>"Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Ovid</b>
 </blockquote>
 </p>
 
