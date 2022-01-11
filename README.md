@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be yourself; everyone else is already taken."</i>
+<i>"Whenever something negative happens to you, there is a deep lesson concealed within it."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
