@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self."</i>
+<i>"Computers are like bikinis. They save people a lot of guesswork."</i>
 <br>
-<b>- Confucius</b>
+<b>- Sam Ewing</b>
 </blockquote>
 </p>
 
