@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We make our own fortunes and we call them fate."</i>
+<i>"You're never a loser until you quit trying."</i>
 <br>
-<b>- Benjamin Disraeli</b>
+<b>- Mike Ditka</b>
 </blockquote>
 </p>
 
