@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A friend is someone who gives you total freedom to be yourself."</i>
+<i>"Whenever something negative happens to you, there is a deep lesson concealed within it."</i>
 <br>
-<b>- Jim Morrison</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
