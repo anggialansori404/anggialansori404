@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whenever something negative happens to you, there is a deep lesson concealed within it."</i>
+<i>"We make our own fortunes and we call them fate."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Benjamin Disraeli</b>
 </blockquote>
 </p>
 
