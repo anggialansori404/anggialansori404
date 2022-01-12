@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Silence is a source of great strength."</i>
+<i>"Whenever you do a thing, act as if all the world were watching."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
