@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whenever you do a thing, act as if all the world were watching."</i>
+<i>"A friend is someone who gives you total freedom to be yourself."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Jim Morrison</b>
 </blockquote>
 </p>
 
