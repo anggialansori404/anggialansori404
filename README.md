@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Yesterday I dared to struggle. Today I dare to win."</i>
+<i>"Those who cannot change their minds cannot change anything."</i>
 <br>
-<b>- Bernadette Devlin</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
