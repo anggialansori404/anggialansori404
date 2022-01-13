@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be the chief but never the lord."</i>
+<i>"The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you."</i>
 <br>
-<b>- Laozi</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
