@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Technology… the knack of so arranging the world that we don't have to experience it."</i>
+<i>"Yesterday I dared to struggle. Today I dare to win."</i>
 <br>
-<b>- Max Frisch</b>
+<b>- Bernadette Devlin</b>
 </blockquote>
 </p>
 
