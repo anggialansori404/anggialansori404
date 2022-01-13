@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One is never afraid of the unknown; one is afraid of the known coming to an end."</i>
+<i>"Be the chief but never the lord."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
