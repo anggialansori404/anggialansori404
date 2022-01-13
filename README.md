@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life becomes easier and more beautiful when we can see the good in other people."</i>
+<i>"Silence is the true friend that never betrays."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
