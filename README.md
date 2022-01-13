@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes you put walls up not to keep people out, but to see who cares enough to break them down."</i>
+<i>"Life becomes easier and more beautiful when we can see the good in other people."</i>
 <br>
-<b>- Socrates</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
