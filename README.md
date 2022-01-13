@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who cannot change their minds cannot change anything."</i>
+<i>"One is never afraid of the unknown; one is afraid of the known coming to an end."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
