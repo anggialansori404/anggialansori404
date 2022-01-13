@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you."</i>
+<i>"Life without love is like a tree without blossoms or fruit."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
