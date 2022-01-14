@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything in the universe goes by indirection. There are no straight lines."</i>
+<i>"Motivation is the art of getting people to do what you want them to do because they want to do it."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Dwight D. Eisenhower</b>
 </blockquote>
 </p>
 
