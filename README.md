@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you live to be a hundred, I want to live to be a hundred minus one day, so I never have to live without you."</i>
+<i>"Turn your face to the sun, as flowers know how to do."</i>
 <br>
-<b>- A. A. Milne</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
