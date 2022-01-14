@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never give up work. Work gives you meaning and purpose and life is empty without it."</i>
+<i>"If you live to be a hundred, I want to live to be a hundred minus one day, so I never have to live without you."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- A. A. Milne</b>
 </blockquote>
 </p>
 
