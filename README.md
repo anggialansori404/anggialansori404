@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The grand essentials of happiness are: something to do, something to love, and something to hope for."</i>
+<i>"The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty."</i>
 <br>
-<b>- Alexander Chalmers</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
