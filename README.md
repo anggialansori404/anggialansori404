@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life a culmination of the past, an awareness of the present, an indication of the future beyond knowledge, the quality that gives a touch of divinity to matter."</i>
+<i>"The grand essentials of happiness are: something to do, something to love, and something to hope for."</i>
 <br>
-<b>- Charles Lindbergh</b>
+<b>- Alexander Chalmers</b>
 </blockquote>
 </p>
 
