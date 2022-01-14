@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Motivation is the art of getting people to do what you want them to do because they want to do it."</i>
+<i>"Success is never final, failure is never fatal. It's courage that counts."</i>
 <br>
-<b>- Dwight D. Eisenhower</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
