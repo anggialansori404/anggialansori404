@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Turn your face to the sun, as flowers know how to do."</i>
+<i>"Great indeed is the sublimity of the Creative, to which all beings owe their beginning, and which permeates all heaven."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
