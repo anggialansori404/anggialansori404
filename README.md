@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enthusiasm makes up for a host of deficiencies."</i>
+<i>"Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Bernice Reagon</b>
 </blockquote>
 </p>
 
