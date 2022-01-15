@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The eye sees only what the mind is prepared to comprehend."</i>
+<i>"What people need and what they want may be very different."</i>
 <br>
-<b>- Henri Bergson</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
