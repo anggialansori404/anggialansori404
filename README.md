@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the end we retain from our studies only that which we practically apply."</i>
+<i>"The eye sees only what the mind is prepared to comprehend."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Henri Bergson</b>
 </blockquote>
 </p>
 
