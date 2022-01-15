@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By perseverance the snail reached the ark."</i>
+<i>"In the end we retain from our studies only that which we practically apply."</i>
 <br>
-<b>- Charles Spurgeon</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
