@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When we feel love and kindness toward others, it not only makes others feel loved and cared for, but it helps us also to develop inner happiness and peace."</i>
+<i>"Do all things with love."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
