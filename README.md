@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whoever is happy will make others happy, too."</i>
+<i>"Even if you're sure you can win, be careful that you can live with what you lose."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
