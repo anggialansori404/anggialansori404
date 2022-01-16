@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is startling to realize how much unbelief is necessary to make belief possible."</i>
+<i>"Whoever is happy will make others happy, too."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
