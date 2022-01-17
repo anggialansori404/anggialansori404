@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He that can have patience can have what he will."</i>
+<i>"Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Arthur Conan Doyle</b>
 </blockquote>
 </p>
 
