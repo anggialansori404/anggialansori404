@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One's friends are that part of the human race with which one can be human."</i>
+<i>"Life is not a problem to be solved, but a reality to be experienced."</i>
 <br>
-<b>- George Santayana</b>
+<b>- Søren Kierkegaard</b>
 </blockquote>
 </p>
 
