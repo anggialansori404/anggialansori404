@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your work is to discover your world and then with all your heart give yourself to it."</i>
+<i>"Absorb what is useful, discard what is useless and add what is specifically your own.  "</i>
 <br>
-<b>- Buddha</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
