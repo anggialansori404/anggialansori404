@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is not a problem to be solved, but a reality to be experienced."</i>
+<i>"Your work is to discover your world and then with all your heart give yourself to it."</i>
 <br>
-<b>- Søren Kierkegaard</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
