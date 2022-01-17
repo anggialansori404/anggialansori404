@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We all live with the objective of being happy; our lives are all different and yet the same."</i>
+<i>"One's friends are that part of the human race with which one can be human."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- George Santayana</b>
 </blockquote>
 </p>
 
