@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each day your life grows a day shorter. Make every move count."</i>
+<i>"People may doubt what you say, but they will believe what you do."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Lewis Cass</b>
 </blockquote>
 </p>
 
