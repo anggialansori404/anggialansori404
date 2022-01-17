@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth."</i>
+<i>"We all live with the objective of being happy; our lives are all different and yet the same."</i>
 <br>
-<b>- Arthur Conan Doyle</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
