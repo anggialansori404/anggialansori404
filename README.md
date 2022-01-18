@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our deeds determine us, as much as we determine our deeds."</i>
+<i>"The only place success comes before work is in the dictionary."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
