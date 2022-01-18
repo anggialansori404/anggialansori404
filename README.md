@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live in the sunshine, swim the sea, drink the wild air."</i>
+<i>"Giving is living. If you stop wanting to give, there's nothing more to live for."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
