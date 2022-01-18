@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life reflects your own thoughts back to you."</i>
+<i>"Honesty is the best policy."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
