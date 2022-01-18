@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who seek the easy way do not seek the true way."</i>
+<i>"Be true to yourself, help others, make each day your masterpiece"</i>
 <br>
-<b>- Dogen</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
