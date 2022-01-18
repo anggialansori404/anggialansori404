@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your heart is the size of an ocean. Go find yourself in its hidden depths."</i>
+<i>"Live in the sunshine, swim the sea, drink the wild air."</i>
 <br>
-<b>- Rumi</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
