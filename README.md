@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never apologize for showing feeling. When you do so, you apologize for truth."</i>
+<i>"Skill to do comes of doing."</i>
 <br>
-<b>- Benjamin Disraeli</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
