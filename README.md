@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Know the rules well, so you can break them effectively."</i>
+<i>"All difficult things have their origin in that which is easy, and great things in that which is small."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
