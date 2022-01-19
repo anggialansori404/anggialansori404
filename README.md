@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just do what must be done. This may not be happiness but it is greatness."</i>
+<i>"Never apologize for showing feeling. When you do so, you apologize for truth."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Benjamin Disraeli</b>
 </blockquote>
 </p>
 
