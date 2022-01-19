@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to."</i>
+<i>"The greatest obstacle to connecting with our joy is resentment."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Pema Chödrön</b>
 </blockquote>
 </p>
 
