@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All difficult things have their origin in that which is easy, and great things in that which is small."</i>
+<i>"Those who dream by day are cognizant of many things which escape those who dream only by night."</i>
 <br>
-<b>- Laozi</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
