@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Skill to do comes of doing."</i>
+<i>"Don't settle, and don't struggle."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
