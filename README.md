@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greater danger for most of us lies not in setting our aim too high and falling short; but in setting our aim too low and achieving our mark."</i>
+<i>"Failure is an option here. If things are not failing, you are not innovating enough."</i>
 <br>
-<b>- Michelangelo</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
