@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is not a goal...it's a by-product of a life well lived."</i>
+<i>"Pure, holy simplicity confounds all the wisdom of this world and the wisdom of the flesh."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Francis of Assisi</b>
 </blockquote>
 </p>
 
