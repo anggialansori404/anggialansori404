@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To dare is to lose ones footing momentarily. To not dare is to lose oneself."</i>
+<i>"Success is getting what you want, happiness is wanting what you get."</i>
 <br>
-<b>- Søren Kierkegaard</b>
+<b>- W.P. Kinsella</b>
 </blockquote>
 </p>
 
