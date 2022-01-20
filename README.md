@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you."</i>
+<i>"To dare is to lose ones footing momentarily. To not dare is to lose oneself."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Søren Kierkegaard</b>
 </blockquote>
 </p>
 
