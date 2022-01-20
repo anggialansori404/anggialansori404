@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Any fool can turn a blind eye but who knows what the ostrich sees in the sand."</i>
+<i>"Music in the soul can be heard by the universe."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
