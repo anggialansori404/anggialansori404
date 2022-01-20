@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What we achieve inwardly will change outer reality."</i>
+<i>"Happiness is not a goal...it's a by-product of a life well lived."</i>
 <br>
-<b>- Plutarch</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
