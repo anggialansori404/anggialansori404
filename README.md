@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Cherish your visions and your dreams as they are the children of your soul; the blueprints of your ultimate achievements."</i>
+<i>"When one does not have what one wants, one must want what one has."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
