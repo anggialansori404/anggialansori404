@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When one does not have what one wants, one must want what one has."</i>
+<i>"What is necessary to change a person is to change his awareness of himself."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Abraham Maslow</b>
 </blockquote>
 </p>
 
