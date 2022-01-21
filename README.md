@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For your life to be great, your faith must be bigger than your fear."</i>
+<i>"Friends ask you questions; enemies question you."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
