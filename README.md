@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To get angry is like to revenge yourself for the guilt of others."</i>
+<i>"True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Isocrates</b>
 </blockquote>
 </p>
 
