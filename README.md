@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What is necessary to change a person is to change his awareness of himself."</i>
+<i>"There is no great genius without some touch of madness."</i>
 <br>
-<b>- Abraham Maslow</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
