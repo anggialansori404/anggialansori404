@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no great genius without some touch of madness."</i>
+<i>"To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
