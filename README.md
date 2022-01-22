@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"With pride, there are many curses. With humility, there come many blessings."</i>
+<i>"Trust is the foundation of great leadership."</i>
 <br>
-<b>- Ezra Taft Benson</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
