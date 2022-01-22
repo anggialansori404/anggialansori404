@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wherever a man turns he can find someone who needs him."</i>
+<i>"We have two ears and one mouth so that we can listen twice as much as we speak."</i>
 <br>
-<b>- Albert Schweitzer</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
