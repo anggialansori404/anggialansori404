@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The time to repair the roof is when the sun is shining."</i>
+<i>"Life is the art of drawing sufficient conclusions from insufficient premises."</i>
 <br>
-<b>- John F. Kennedy</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
