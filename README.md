@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One's philosophy is not best expressed in words; it is expressed in the choices one makes... and the choices we make are ultimately our responsibility."</i>
+<i>"The final wisdom of life requires not the annulment of incongruity but the achievement of serenity within and above it."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Reinhold Niebuhr</b>
 </blockquote>
 </p>
 
