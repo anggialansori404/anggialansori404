@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take time to deliberate, but when the time for action has arrived, stop thinking and go in."</i>
+<i>"In all things of nature there is something of the marvelous."</i>
 <br>
-<b>- Napoleon</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
