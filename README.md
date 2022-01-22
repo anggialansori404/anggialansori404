@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being a good example is the best form of service."</i>
+<i>"With pride, there are many curses. With humility, there come many blessings."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Ezra Taft Benson</b>
 </blockquote>
 </p>
 
