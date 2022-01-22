@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Many a man has failed because he had his wishbone where his backbone should have been."</i>
+<i>"Take time to deliberate, but when the time for action has arrived, stop thinking and go in."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Napoleon</b>
 </blockquote>
 </p>
 
