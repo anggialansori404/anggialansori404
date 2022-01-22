@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is the art of drawing sufficient conclusions from insufficient premises."</i>
+<i>"Wherever a man turns he can find someone who needs him."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Albert Schweitzer</b>
 </blockquote>
 </p>
 
