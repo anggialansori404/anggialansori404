@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have two ears and one mouth so that we can listen twice as much as we speak."</i>
+<i>"One's philosophy is not best expressed in words; it is expressed in the choices one makes... and the choices we make are ultimately our responsibility."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
