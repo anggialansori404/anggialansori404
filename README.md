@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True friends stab you in the front."</i>
+<i>"Fools resist. The wise embrace."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
