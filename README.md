@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a learning experience, only if you learn."</i>
+<i>"Enjoy life. There's plenty of time to be dead."</i>
 <br>
-<b>- Yogi Berra</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
