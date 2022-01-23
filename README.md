@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you know yourself, the more you forgive yourself."</i>
+<i>"Forever is composed of now's."</i>
 <br>
-<b>- Confucius</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
