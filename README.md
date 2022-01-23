@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom begins in wonder."</i>
+<i>"Trust your hunches. They're usually based on facts filed away just below the conscious level."</i>
 <br>
-<b>- Socrates</b>
+<b>- Joyce Brothers</b>
 </blockquote>
 </p>
 
