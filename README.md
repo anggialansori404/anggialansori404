@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In all things of nature there is something of the marvelous."</i>
+<i>"Wisdom begins in wonder."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
