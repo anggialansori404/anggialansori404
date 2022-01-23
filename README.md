@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make your stand today. On this spot. On this day."</i>
+<i>"There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
