@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All things must come to the soul from its roots, from where it is planted."</i>
+<i>"Do the one thing you think you cannot do. Fail at it. Try again. Do better the second time. The only people who never tumble are those who never mount the high wire. This is your moment. Own it."</i>
 <br>
-<b>- Teresa of Ávila</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
