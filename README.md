@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My guiding principle is this: Guilt is never to be doubted. "</i>
+<i>"The idea of ourselves is our escape from the fact of what we really are."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
