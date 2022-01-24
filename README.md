@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In friendship as well as love, ignorance very often contributes more to our happiness than knowledge."</i>
+<i>"Believe you can and you will be halfway there."</i>
 <br>
-<b>- François de La Rochefoucauld</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
