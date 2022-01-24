@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep me away from the wisdom which does not cry, the philosophy which does not laugh and the greatness which does not bow before children."</i>
+<i>"All things must come to the soul from its roots, from where it is planted."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Teresa of Ávila</b>
 </blockquote>
 </p>
 
