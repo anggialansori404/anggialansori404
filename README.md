@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best thing in every noble dream is the dreamer..."</i>
+<i>"Keep me away from the wisdom which does not cry, the philosophy which does not laugh and the greatness which does not bow before children."</i>
 <br>
-<b>- Moncure D. Conway</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
