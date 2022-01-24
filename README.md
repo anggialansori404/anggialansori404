@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Debt is the slavery of the free."</i>
+<i>"The best thing in every noble dream is the dreamer..."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Moncure D. Conway</b>
 </blockquote>
 </p>
 
