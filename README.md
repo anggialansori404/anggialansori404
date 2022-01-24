@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The real danger is not that computers will begin to think like men, but that men will begin to think like computers."</i>
+<i>"My guiding principle is this: Guilt is never to be doubted. "</i>
 <br>
-<b>- Sydney J. Harris</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
