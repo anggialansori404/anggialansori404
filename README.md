@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Business, you know, may bring you money, but friendship hardly ever does."</i>
+<i>"No matter how tall the mountain is, it cannot block the sun."</i>
 <br>
-<b>- Jane Austen</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
