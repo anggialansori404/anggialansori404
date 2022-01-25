@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter how tall the mountain is, it cannot block the sun."</i>
+<i>"Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
