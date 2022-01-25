@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A wise person should have money in their head, but not in their heart."</i>
+<i>"I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Herbert Bayard Swope</b>
 </blockquote>
 </p>
 
