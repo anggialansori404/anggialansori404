@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody."</i>
+<i>"I hope our wisdom will grow with our power, and teach us, that the less we use our power the greater it will be."</i>
 <br>
-<b>- Herbert Bayard Swope</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
