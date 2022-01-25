@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If there is no struggle, there is no progress."</i>
+<i>"Nothing that results in human progress is achieved with unanimous consent."</i>
 <br>
-<b>- Frederick Douglass</b>
+<b>- Christopher Columbus</b>
 </blockquote>
 </p>
 
