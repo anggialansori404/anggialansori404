@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in."</i>
+<i>"A wise person should have money in their head, but not in their heart."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
