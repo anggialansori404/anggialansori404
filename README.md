@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no greater agony than bearing an untold story inside you."</i>
+<i>"The foolish man seeks happiness in the distance, the wise grows it under his feet."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- James Oppenheim</b>
 </blockquote>
 </p>
 
