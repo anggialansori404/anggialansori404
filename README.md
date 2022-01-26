@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Spectacular achievement is always preceded by unspectacular preparation."</i>
+<i>"The question is not what you look at, but what you see."</i>
 <br>
-<b>- Robert Schuller</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
