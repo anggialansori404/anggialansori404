@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Real magic in relationships means an absence of judgement of others."</i>
+<i>"It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Jessamyn West</b>
 </blockquote>
 </p>
 
