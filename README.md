@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The foolish man seeks happiness in the distance, the wise grows it under his feet."</i>
+<i>"Spectacular achievement is always preceded by unspectacular preparation."</i>
 <br>
-<b>- James Oppenheim</b>
+<b>- Robert Schuller</b>
 </blockquote>
 </p>
 
