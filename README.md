@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are what we repeatedly do. Excellence, then, is not an act, but a habit."</i>
+<i>"In the sky, there is no distinction of east and west; people create distinctions out of their own minds and then believe them to be true."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
