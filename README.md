@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must learn our limits. We are all something, but none of us are everything."</i>
+<i>"Unless you're ashamed of yourself now and then, you're not honest."</i>
 <br>
-<b>- Blaise Pascal</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
