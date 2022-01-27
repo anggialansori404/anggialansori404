@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Light a candle instead of cursing the darkness."</i>
+<i>"We must learn our limits. We are all something, but none of us are everything."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Blaise Pascal</b>
 </blockquote>
 </p>
 
