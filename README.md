@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you look for perfection, you'll never be content."</i>
+<i>"Light a candle instead of cursing the darkness."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
