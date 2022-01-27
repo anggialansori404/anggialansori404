@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One loyal friend is worth ten thousand relatives."</i>
+<i>"Plants grow weak without wind."</i>
 <br>
-<b>- Euripides</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
