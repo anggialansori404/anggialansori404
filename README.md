@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A person is only by the thoughts that he chooses."</i>
+<i>"He who is fixed to a star does not change his mind."</i>
 <br>
-<b>- James Allen</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
