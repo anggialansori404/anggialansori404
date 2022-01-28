@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done."</i>
+<i>"Falling down is not failure. Failure comes when you stay where you have fallen."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
