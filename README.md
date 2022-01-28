@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways."</i>
+<i>"There are no strangers here; Only friends you haven't yet met."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- William Butler Yeats</b>
 </blockquote>
 </p>
 
