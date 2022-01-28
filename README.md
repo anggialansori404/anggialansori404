@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thought is the blossom; language the bud; action the fruit behind it."</i>
+<i>"Success is liking yourself, liking what you do, and liking how you do it."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
