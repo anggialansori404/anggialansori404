@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A tiny change today brings a dramatically different tomorrow."</i>
+<i>"Freedom is what you do with what's been done to you."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Jean-Paul Sartre</b>
 </blockquote>
 </p>
 
