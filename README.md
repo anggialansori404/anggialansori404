@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be yourself; everyone else is already taken."</i>
+<i>"Love is never lost. If not reciprocated, it will flow back and soften and purify the heart."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Washington Irving</b>
 </blockquote>
 </p>
 
