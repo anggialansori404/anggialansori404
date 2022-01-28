@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no strangers here; Only friends you haven't yet met."</i>
+<i>"A person is only by the thoughts that he chooses."</i>
 <br>
-<b>- William Butler Yeats</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
