@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man has to learn that he cannot command things but that he can command himself; that he cannot coerce the wills of others but that he can mold and master his own will."</i>
+<i>"Never make friends with people who are above or below you in status. Such friendships will never give you any happiness."</i>
 <br>
-<b>- James Allen</b>
+<b>- Chanakya</b>
 </blockquote>
 </p>
 
