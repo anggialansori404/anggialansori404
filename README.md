@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As a man thinketh in his heart, so shall he be."</i>
+<i>"I will not be concerned at other men's not knowing me; I will be concerned at my own want of ability."</i>
 <br>
-<b>- James Allen</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
