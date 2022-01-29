@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quality is more important than quantity. One home run is much better than two doubles."</i>
+<i>"People should pursue what they're passionate about. That will make them happier than pretty much anything else."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
