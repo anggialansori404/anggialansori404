@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're only given a little spark of madness. You mustn't lose it."</i>
+<i>"As a man thinketh in his heart, so shall he be."</i>
 <br>
-<b>- Robin Williams</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
