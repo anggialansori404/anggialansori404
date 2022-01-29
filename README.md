@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mountains cannot be surmounted except by winding paths."</i>
+<i>"Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
