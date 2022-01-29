@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do good by stealth, and blush to find it fame."</i>
+<i>"Quality is more important than quantity. One home run is much better than two doubles."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
