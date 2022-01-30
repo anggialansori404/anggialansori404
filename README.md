@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them."</i>
+<i>"The truly rich men are the ones who have health, loved ones and a work they love."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
