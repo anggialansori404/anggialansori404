@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take time to deliberate, but when the time for action has arrived, stop thinking and go in."</i>
+<i>"Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant."</i>
 <br>
-<b>- Napoleon</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
