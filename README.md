@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who knows himself is enlightened."</i>
+<i>"Take time to deliberate, but when the time for action has arrived, stop thinking and go in."</i>
 <br>
-<b>- Laozi</b>
+<b>- Napoleon</b>
 </blockquote>
 </p>
 
