@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action."</i>
+<i>"May our hearts garden of awakening bloom with hundreds of flowers."</i>
 <br>
-<b>- Jawaharlal Nehru</b>
+<b>- Thích Nhất Hạnh</b>
 </blockquote>
 </p>
 
