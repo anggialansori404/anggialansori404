@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Science and technology revolutionize our lives, but memory, tradition and myth frame our response."</i>
+<i>"He who knows himself is enlightened."</i>
 <br>
-<b>- Arthur M. Schlesinger Jr.</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
