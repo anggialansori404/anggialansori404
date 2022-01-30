@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom has never made a bigot, but learning has."</i>
+<i>"Do not go where the path may lead, go instead where there is no path and leave a trail."</i>
 <br>
-<b>- Josh Billings</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
