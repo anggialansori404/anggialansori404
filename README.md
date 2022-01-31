@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truly rich men are the ones who have health, loved ones and a work they love."</i>
+<i>"Spread love everywhere you go. Let no one ever come to you without leaving happier."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
