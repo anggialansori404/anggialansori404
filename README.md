@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The person who lives life fully, glowing with life's energy, is the person who lives a successful life."</i>
+<i>"Make the best use of what is in your power and take the rest as it happens."</i>
 <br>
-<b>- Daisaku Ikeda</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
