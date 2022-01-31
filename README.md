@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit."</i>
+<i>"The person who lives life fully, glowing with life's energy, is the person who lives a successful life."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Daisaku Ikeda</b>
 </blockquote>
 </p>
 
