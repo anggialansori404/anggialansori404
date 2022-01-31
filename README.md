@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Spread love everywhere you go. Let no one ever come to you without leaving happier."</i>
+<i>"Only when we are no longer afraid do we begin to live."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Dorothy Thompson</b>
 </blockquote>
 </p>
 
