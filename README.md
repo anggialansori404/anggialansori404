@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is only when the mind and character slumber that the dress can be seen."</i>
+<i>"Discipline is the mark of intelligent living."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
