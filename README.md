@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Human behavior flows from three main sources: desire, emotion, and knowledge."</i>
+<i>"What loneliness is more lonely than distrust?"</i>
 <br>
-<b>- Plato</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
