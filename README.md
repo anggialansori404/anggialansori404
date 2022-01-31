@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only when we are no longer afraid do we begin to live."</i>
+<i>"Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit."</i>
 <br>
-<b>- Dorothy Thompson</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
