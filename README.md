@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What loneliness is more lonely than distrust?"</i>
+<i>"It is only when the mind and character slumber that the dress can be seen."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
