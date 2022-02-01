@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are able to employ your will always for constructive purposes, you become the controller of your destiny."</i>
+<i>"The more you like yourself, the less you are like anyone else, which makes you unique."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
