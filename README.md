@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Raise your words, not voice. It is rain that grows flowers, not thunder."</i>
+<i>"The best teacher is experience and not through someone's distorted point of view."</i>
 <br>
-<b>- Rumi</b>
+<b>- Jack Kerouac</b>
 </blockquote>
 </p>
 
