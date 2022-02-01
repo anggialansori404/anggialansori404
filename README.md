@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Technology… the knack of so arranging the world that we don't have to experience it."</i>
+<i>"Nothing great was ever achieved without enthusiasm."</i>
 <br>
-<b>- Max Frisch</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
