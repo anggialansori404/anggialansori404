@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best teacher is experience and not through someone's distorted point of view."</i>
+<i>"When you are able to employ your will always for constructive purposes, you become the controller of your destiny."</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
