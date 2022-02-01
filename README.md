@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If it turns out that there is a God, I don't think that he's evil. But the worst that you can say about him is that basically he's an underachiever."</i>
+<i>"You must welcome change as the rule but not as your ruler. "</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
