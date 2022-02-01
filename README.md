@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.  "</i>
+<i>"He is a wise man who does not grieve for the things which he has not but rejoices for those which he has."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
