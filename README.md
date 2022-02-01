@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing great was ever achieved without enthusiasm."</i>
+<i>"The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.  "</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
