@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let the beauty of what you love be what you do."</i>
+<i>"Technology… the knack of so arranging the world that we don't have to experience it."</i>
 <br>
-<b>- Rumi</b>
+<b>- Max Frisch</b>
 </blockquote>
 </p>
 
