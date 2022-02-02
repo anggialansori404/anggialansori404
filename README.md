@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody."</i>
+<i>"Wisdom has never made a bigot, but learning has."</i>
 <br>
-<b>- Herbert Bayard Swope</b>
+<b>- Josh Billings</b>
 </blockquote>
 </p>
 
