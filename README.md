@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers. You can do anything you decide to do. You can act to change and control your life; and the procedure, the process is its own reward."</i>
+<i>"A man is not old as long as he is seeking something."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Edmond Rostand</b>
 </blockquote>
 </p>
 
