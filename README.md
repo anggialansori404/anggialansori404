@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is not old as long as he is seeking something."</i>
+<i>"I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody."</i>
 <br>
-<b>- Edmond Rostand</b>
+<b>- Herbert Bayard Swope</b>
 </blockquote>
 </p>
 
