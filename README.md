@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom has never made a bigot, but learning has."</i>
+<i>"Each path to knowledge involves different rules and these rules are not interchangeable."</i>
 <br>
-<b>- Josh Billings</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
