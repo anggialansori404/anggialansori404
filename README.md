@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love."</i>
+<i>"The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
