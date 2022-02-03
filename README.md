@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one saves us but ourselves. No one can and no one may. We ourselves must walk the path."</i>
+<i>"If you want something then you lose everything. If you don't want anything then you already have everything."</i>
 <br>
-<b>- Buddha</b>
+<b>- Seungsahn</b>
 </blockquote>
 </p>
 
