@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want something then you lose everything. If you don't want anything then you already have everything."</i>
+<i>"It's easier to resist at the beginning than at the end."</i>
 <br>
-<b>- Seungsahn</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
