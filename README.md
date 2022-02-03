@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It takes half your life before you discover life is a do-it-yourself project."</i>
+<i>"Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
