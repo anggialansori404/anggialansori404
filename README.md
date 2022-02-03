@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There never was a good knife made of bad steel."</i>
+<i>"You can discover what your enemy fears most by observing the means he uses to frighten you."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
