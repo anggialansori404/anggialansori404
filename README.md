@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"First learn the meaning of what you say, and then speak."</i>
+<i>"No one saves us but ourselves. No one can and no one may. We ourselves must walk the path."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
