@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Real magic in relationships means an absence of judgement of others."</i>
+<i>"Life is divided into the horrible and the miserable."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
