@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Eighty percent of success is showing up. "</i>
+<i>"Whatever you believe with feeling becomes your reality. "</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
