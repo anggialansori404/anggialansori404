@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's easier to resist at the beginning than at the end."</i>
+<i>"In the practice of tolerance, one's enemy is the best teacher."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
