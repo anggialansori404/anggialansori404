@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the practice of tolerance, one's enemy is the best teacher."</i>
+<i>"The quality, not the longevity, of one's life is what is important."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
