@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life without love is like a tree without blossoms or fruit."</i>
+<i>"Real magic in relationships means an absence of judgement of others."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
