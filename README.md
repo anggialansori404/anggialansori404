@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All religions, arts and sciences are branches of the same tree. "</i>
+<i>"Life without love is like a tree without blossoms or fruit."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
