@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We gain the strength of the temptation we resist."</i>
+<i>"Character develops itself in the stream of life."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
