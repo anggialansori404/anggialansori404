@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Character develops itself in the stream of life."</i>
+<i>"The truly rich men are the ones who have health, loved ones and a work they love."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
