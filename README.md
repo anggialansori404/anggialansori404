@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Build a better mousetrap and the world will beat a path to your door."</i>
+<i>"There are two ways of spreading light: to be the candle or the mirror that reflects it."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Edith Wharton</b>
 </blockquote>
 </p>
 
