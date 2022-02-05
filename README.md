@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you become is far more important than what you get."</i>
+<i>"Build a better mousetrap and the world will beat a path to your door."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
