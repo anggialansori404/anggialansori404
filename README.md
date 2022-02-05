@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Beauty is not in the face; beauty is a light in the heart."</i>
+<i>"Opportunity is missed by most because it is dressed in overalls and looks like work."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
