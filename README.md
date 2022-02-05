@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are two ways of spreading light: to be the candle or the mirror that reflects it."</i>
+<i>"Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one."</i>
 <br>
-<b>- Edith Wharton</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
