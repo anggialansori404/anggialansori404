@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To avoid criticism, do nothing, say nothing, and be nothing."</i>
+<i>"I can, therefore I am."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Simone Weil</b>
 </blockquote>
 </p>
 
