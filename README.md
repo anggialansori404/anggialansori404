@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom."</i>
+<i>"At every moment where language can't go, that's your mind."</i>
 <br>
-<b>- Theodore Isaac Rubin</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
