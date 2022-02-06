@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never fear quarrels, but seek hazardous adventures."</i>
+<i>"Friendship is also about liking a person for their failings, their weakness. It's also about mutual help, not about exploitation."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Paul Theroux</b>
 </blockquote>
 </p>
 
