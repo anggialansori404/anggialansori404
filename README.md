@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I can, therefore I am."</i>
+<i>"Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom."</i>
 <br>
-<b>- Simone Weil</b>
+<b>- Theodore Isaac Rubin</b>
 </blockquote>
 </p>
 
