@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"At every moment where language can't go, that's your mind."</i>
+<i>"Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
