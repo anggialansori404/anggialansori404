@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"From wonder into wonder existence opens."</i>
+<i>"If you truly expect something to be difficult, it will be."</i>
 <br>
-<b>- Laozi</b>
+<b>- Peter A. Cohen</b>
 </blockquote>
 </p>
 
