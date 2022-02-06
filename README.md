@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is more important than knowledge."</i>
+<i>"Our deeds determine us, as much as we determine our deeds."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
