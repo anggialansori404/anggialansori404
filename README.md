@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the absence of judgment."</i>
+<i>"If we are not fully ourselves, truly in the present moment, we miss everything."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Thích Nhất Hạnh</b>
 </blockquote>
 </p>
 
