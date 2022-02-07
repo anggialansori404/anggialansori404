@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we are not fully ourselves, truly in the present moment, we miss everything."</i>
+<i>"Live and act within the limit of your knowledge and keep expanding it to the limit of your life."</i>
 <br>
-<b>- Thích Nhất Hạnh</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
