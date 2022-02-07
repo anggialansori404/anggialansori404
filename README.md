@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"May you live all the days of your life."</i>
+<i>"The heart has eyes which the brain knows nothing of."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Charles Henry Parkhurst</b>
 </blockquote>
 </p>
 
