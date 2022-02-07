@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The heart has eyes which the brain knows nothing of."</i>
+<i>"He who hath many friends hath none."</i>
 <br>
-<b>- Charles Henry Parkhurst</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
