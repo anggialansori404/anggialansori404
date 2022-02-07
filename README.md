@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts."</i>
+<i>"Well done is better than well said."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
