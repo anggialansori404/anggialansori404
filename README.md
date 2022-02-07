@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A comfort zone is a beautiful place, but nothing ever grows there."</i>
+<i>"It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way."</i>
 <br>
-<b>- Unknown</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
