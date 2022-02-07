@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no failures. Just experiences and your reactions to them."</i>
+<i>"A comfort zone is a beautiful place, but nothing ever grows there."</i>
 <br>
-<b>- Tom Krause</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
