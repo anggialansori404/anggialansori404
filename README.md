@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you truly expect something to be difficult, it will be."</i>
+<i>"It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it."</i>
 <br>
-<b>- Peter A. Cohen</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
