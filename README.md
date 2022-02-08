@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In nature there is no alienation. Everything belongs."</i>
+<i>"We are willing to believe anything other than the truth."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
