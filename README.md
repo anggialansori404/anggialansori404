@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You do not become good by trying to be good, but by finding the goodness that is already within you."</i>
+<i>"Trust yourself. You know more than you think you do."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Benjamin Spock</b>
 </blockquote>
 </p>
 
