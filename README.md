@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A bird does not sing because it has an answer. It sings because it has a song."</i>
+<i>"A man should look for what is, and not for what he thinks should be."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
