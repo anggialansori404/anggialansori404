@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust yourself. You know more than you think you do."</i>
+<i>"You are a product of your environment. So choose the environment that will best develop you toward your objective. Analyze your life in terms of its environment. Are the things around you helping you toward success - or are they holding you back?"</i>
 <br>
-<b>- Benjamin Spock</b>
+<b>- W. Clement Stone</b>
 </blockquote>
 </p>
 
