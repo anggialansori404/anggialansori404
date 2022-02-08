@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live and act within the limit of your knowledge and keep expanding it to the limit of your life."</i>
+<i>"Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Whoopi Goldberg</b>
 </blockquote>
 </p>
 
