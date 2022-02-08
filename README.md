@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom has its root in goodness, not goodness its root in wisdom."</i>
+<i>"The poor man is not he who is without a cent, but he who is without a dream."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Harry Kemp</b>
 </blockquote>
 </p>
 
