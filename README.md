@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ethics change with technology."</i>
+<i>"Talk does not cook rice."</i>
 <br>
-<b>- Larry Niven</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
