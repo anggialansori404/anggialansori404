@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give me six hours to chop down a tree and I will spend the first four sharpening the axe."</i>
+<i>"Ethics change with technology."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Larry Niven</b>
 </blockquote>
 </p>
 
