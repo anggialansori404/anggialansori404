@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't need a weatherman to know which way the wind blows."</i>
+<i>"A man, as a general rule, owes very little to what he is born with - a man is what he makes of himself."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
