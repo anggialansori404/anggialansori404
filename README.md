@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The attempt to combine wisdom and power has only rarely been successful and then only for a short while."</i>
+<i>"You don't need a weatherman to know which way the wind blows."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
