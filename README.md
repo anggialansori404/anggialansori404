@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My best friend is the one who brings out the best in me."</i>
+<i>"The moment you doubt whether you can fly, you cease for ever to be able to do it."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
