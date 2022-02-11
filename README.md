@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men in general judge more from appearances than from reality. All men have eyes, but few have the gift of penetration."</i>
+<i>"Light tomorrow with today!"</i>
 <br>
-<b>- Niccolò Machiavelli</b>
+<b>- Elizabeth Browning</b>
 </blockquote>
 </p>
 
