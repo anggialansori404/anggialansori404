@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men."</i>
+<i>"There are as many opinions as there are experts."</i>
 <br>
-<b>- Thomas Fuller</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
