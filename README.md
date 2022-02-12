@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To follow, without halt, one aim: There is the secret of success."</i>
+<i>"I enjoy life when things are happening. I don't care if it's good things or bad things. That means you're alive."</i>
 <br>
-<b>- Anna Pavlova</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
