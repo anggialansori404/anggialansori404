@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is like money, easier made than kept."</i>
+<i>"The meaning I picked, the one that changed my life: Overcome fear, behold wonder."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
