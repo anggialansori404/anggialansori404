@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The one thing that you have that nobody else has is you. Your voice, your mind, your story, your vision. So write and draw and build and play and dance and live as only you can."</i>
+<i>"Extraordinary results happen only when you give the best you have to become the best you can be at your most important work."</i>
 <br>
-<b>- Neil Gaiman</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
