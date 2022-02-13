@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each misfortune you encounter will carry in it the seed of tomorrows good luck."</i>
+<i>"Always forgive your enemies - nothing annoys them so much. "</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
