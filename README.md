@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work while you have the light. You are responsible for the talent that has been entrusted to you."</i>
+<i>"Yeah, we all shine on, like the moon, and the stars, and the sun."</i>
 <br>
-<b>- Henri-Frédéric Amiel</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
