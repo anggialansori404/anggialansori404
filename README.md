@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anything worth doing is worth doing slowly."</i>
+<i>"Each misfortune you encounter will carry in it the seed of tomorrows good luck."</i>
 <br>
-<b>- Mae West</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
