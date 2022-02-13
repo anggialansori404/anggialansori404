@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Share your smile with the world. It's a symbol of friendship and peace."</i>
+<i>"We cannot solve our problems with the same thinking we used when we created them."</i>
 <br>
-<b>- Christie Brinkley</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
