@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I enjoy life when things are happening. I don't care if it's good things or bad things. That means you're alive."</i>
+<i>"Just as much as we see in others, we have in ourselves."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- William Hazlitt</b>
 </blockquote>
 </p>
 
