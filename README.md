@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others."</i>
+<i>"We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences "</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Nikola Tesla</b>
 </blockquote>
 </p>
 
