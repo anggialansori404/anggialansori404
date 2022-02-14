@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The possibilities are numerous once we decide to act and not react."</i>
+<i>"Technology is a word that describes something that doesn't work yet."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Douglas Adams</b>
 </blockquote>
 </p>
 
