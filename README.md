@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where violence reigns, reason is weak."</i>
+<i>"There is nothing permanent except change."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
