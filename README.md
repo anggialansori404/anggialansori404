@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take time to deliberate, but when the time for action has arrived, stop thinking and go in."</i>
+<i>"It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others."</i>
 <br>
-<b>- Napoleon</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
