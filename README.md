@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Technology is a word that describes something that doesn't work yet."</i>
+<i>"Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing."</i>
 <br>
-<b>- Douglas Adams</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
