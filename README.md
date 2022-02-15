@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A different result requires doing something different."</i>
+<i>"A failure is a man who has blundered but is not capable of cashing in on the experience."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
