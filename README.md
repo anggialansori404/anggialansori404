@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Many sophisticated, intelligent people lack wisdom and common sense."</i>
+<i>"There is no such thing as a great talent without great willpower."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
