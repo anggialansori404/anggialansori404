@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The final proof of greatness lies in being able to endure criticism without resentment."</i>
+<i>"It's not what you pay a man, but what he costs you that counts."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
