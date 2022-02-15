@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not what you pay a man, but what he costs you that counts."</i>
+<i>"Remember always that you not only have the right to be an individual, you have an obligation to be one."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
