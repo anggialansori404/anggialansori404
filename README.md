@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A failure is a man who has blundered but is not capable of cashing in on the experience."</i>
+<i>"Compassion and happiness are not a sign of weakness but a sign of strength."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
