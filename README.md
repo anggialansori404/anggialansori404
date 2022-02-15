@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Compassion and happiness are not a sign of weakness but a sign of strength."</i>
+<i>"To some degree, you control your life by controlling your time."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Conrad Hilton</b>
 </blockquote>
 </p>
 
