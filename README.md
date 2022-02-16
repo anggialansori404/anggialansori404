@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot change anything in your life with intention alone, which can become a watered-down, occasional hope that you'll get to tomorrow. Intention without action is useless."</i>
+<i>"it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds."</i>
 <br>
-<b>- Caroline Myss</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
