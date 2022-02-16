@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If the stars should appear but one night every thousand years how man would marvel and adore."</i>
+<i>"Whatever you do in life, surround yourself with smart people who'll argue with you."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
