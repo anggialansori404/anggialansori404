@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The difference between treason and patriotism is only a matter of dates."</i>
+<i>"I do not exist to impress the world. I exist to live my life in a way that will make me happy."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
