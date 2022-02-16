@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great minds are always feared by lesser minds."</i>
+<i>"Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
