@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you do in life, surround yourself with smart people who'll argue with you."</i>
+<i>"The difference between treason and patriotism is only a matter of dates."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
