@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friends... they cherish one another's hopes. They are kind to one another's dreams."</i>
+<i>"Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Anne Wilson Schaef</b>
 </blockquote>
 </p>
 
