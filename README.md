@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When we allow negative messages to fester in our head, they take on a life of their own."</i>
+<i>"No act of kindness, no matter how small, is ever wasted."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Aesop</b>
 </blockquote>
 </p>
 
