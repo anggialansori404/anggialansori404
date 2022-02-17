@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not go where the path may lead, go instead where there is no path and leave a trail."</i>
+<i>"Happiness is not something ready-made. It comes from your own actions."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
