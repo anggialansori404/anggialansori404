@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I do not exist to impress the world. I exist to live my life in a way that will make me happy."</i>
+<i>"What kills the creative force is not age or lack of talent, but our own spirit, our own attitude."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
