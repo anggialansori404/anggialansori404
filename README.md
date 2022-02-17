@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is not something ready-made. It comes from your own actions."</i>
+<i>"Our happiness depends on the habit of mind we cultivate."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
