@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Appearances are often deceiving."</i>
+<i>"Some of the best lessons we ever learn are learned from past mistakes. The error of the past is the wisdom and success of the future."</i>
 <br>
-<b>- Aesop</b>
+<b>- Dale Turner</b>
 </blockquote>
 </p>
 
