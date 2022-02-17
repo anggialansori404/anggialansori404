@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No act of kindness, no matter how small, is ever wasted."</i>
+<i>"Trust only movement. Life happens at the level of events, not of words. Trust movement."</i>
 <br>
-<b>- Aesop</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
