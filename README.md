@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every gift from a friend is a wish for your happiness."</i>
+<i>"Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Eknath Easwaran</b>
 </blockquote>
 </p>
 
