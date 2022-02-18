@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To avoid criticism, do nothing, say nothing, be nothing."</i>
+<i>"Freedom is the right to live as we wish."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
