@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To change one's life, start immediately, do it flamboyantly, no exceptions."</i>
+<i>"To dare is to lose ones footing momentarily. To not dare is to lose oneself."</i>
 <br>
-<b>- William James</b>
+<b>- Søren Kierkegaard</b>
 </blockquote>
 </p>
 
