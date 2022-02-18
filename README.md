@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no value in anything until it is finished. "</i>
+<i>"The path to success is to take massive, determined action."</i>
 <br>
-<b>- Genghis Khan</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
