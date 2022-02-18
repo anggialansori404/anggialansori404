@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Freedom is the right to live as we wish."</i>
+<i>"There is no value in anything until it is finished. "</i>
 <br>
-<b>- Epictetus</b>
+<b>- Genghis Khan</b>
 </blockquote>
 </p>
 
