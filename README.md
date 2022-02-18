@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whoso loves, believes the impossible."</i>
+<i>"To change one's life, start immediately, do it flamboyantly, no exceptions."</i>
 <br>
-<b>- Elizabeth Browning</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
