@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To dare is to lose ones footing momentarily. To not dare is to lose oneself."</i>
+<i>"The greatest minds are capable of the greatest vices as well as of the greatest virtues."</i>
 <br>
-<b>- Søren Kierkegaard</b>
+<b>- René Descartes</b>
 </blockquote>
 </p>
 
