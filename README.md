@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest minds are capable of the greatest vices as well as of the greatest virtues."</i>
+<i>"In the depth of winter, I finally learned that there was within me an invincible summer."</i>
 <br>
-<b>- René Descartes</b>
+<b>- Albert Camus</b>
 </blockquote>
 </p>
 
