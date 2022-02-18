@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The path to success is to take massive, determined action."</i>
+<i>"Whoso loves, believes the impossible."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Elizabeth Browning</b>
 </blockquote>
 </p>
 
