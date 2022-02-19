@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A mountain never yields to the wind no matter how strong it is."</i>
+<i>"It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
