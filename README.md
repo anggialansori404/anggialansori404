@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not all those who wander are lost."</i>
+<i>"The best thing about the future is that it only comes one day at a time."</i>
 <br>
-<b>- J. R. R. Tolkien</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
