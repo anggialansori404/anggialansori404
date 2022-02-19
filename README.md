@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success on the outside means nothing unless you also have success within."</i>
+<i>"The greatest step towards a life of simplicity is to learn to let go."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
