@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity."</i>
+<i>"Keep silence for the most part, and speak only when you must, and then briefly."</i>
 <br>
-<b>- William C. Menninger</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
