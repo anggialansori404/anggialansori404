@@ -28,7 +28,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best thing about the future is that it only comes one day at a time."</i>
+<i>"Always bear in mind that your own resolution to succeed is more important than any one thing."</i>
 <br>
 <b>- Abraham Lincoln</b>
 </blockquote>
