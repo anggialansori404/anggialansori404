@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always bear in mind that your own resolution to succeed is more important than any one thing."</i>
+<i>"Faith is taking the first step even when you don't see the whole staircase."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
