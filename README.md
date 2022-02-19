@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question."</i>
+<i>"The best revenge is to be unlike him who performed the injury."</i>
 <br>
-<b>- John Tukey</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
