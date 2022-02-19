@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best revenge is to be unlike him who performed the injury."</i>
+<i>"Success on the outside means nothing unless you also have success within."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
