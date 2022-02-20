@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you aim at nothing, you will hit it every time.  "</i>
+<i>"There is no excuse for not trying."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
