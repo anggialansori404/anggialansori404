@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most difficult times for many of us are the ones we give ourselves."</i>
+<i>"When an opponent comes forward, move in and greet him; if he wants to pull back, send him on his way."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
