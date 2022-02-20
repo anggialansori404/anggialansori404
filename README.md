@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I begin with an idea and then it becomes something else."</i>
+<i>"Decide upon your major definite purpose in life and then organize all your activities around it."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
