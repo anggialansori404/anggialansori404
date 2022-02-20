@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When an opponent comes forward, move in and greet him; if he wants to pull back, send him on his way."</i>
+<i>"The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
