@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no excuse for not trying."</i>
+<i>"I begin with an idea and then it becomes something else."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
