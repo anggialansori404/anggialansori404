@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Through perseverance many people win success out of what seemed destined to be certain failure."</i>
+<i>"Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions."</i>
 <br>
-<b>- Benjamin Disraeli</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
