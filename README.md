@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"With the realization of one's own potential and self-confidence in one's ability, one can build a better world."</i>
+<i>"It is truth that liberates, not your effort to be free."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
