@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Respect should be earned by actions, and not acquired by years."</i>
+<i>"To free us from the expectations of others, to give us back to ourselves... there lies the great, singular power of self-respect."</i>
 <br>
-<b>- Frank Lloyd Wright</b>
+<b>- Joan Didion</b>
 </blockquote>
 </p>
 
