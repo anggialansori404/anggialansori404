@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing strengthens authority so much as silence."</i>
+<i>"Respect should be earned by actions, and not acquired by years."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Frank Lloyd Wright</b>
 </blockquote>
 </p>
 
