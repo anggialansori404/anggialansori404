@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To free us from the expectations of others, to give us back to ourselves... there lies the great, singular power of self-respect."</i>
+<i>"With the realization of one's own potential and self-confidence in one's ability, one can build a better world."</i>
 <br>
-<b>- Joan Didion</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
