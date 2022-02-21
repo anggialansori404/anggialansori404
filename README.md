@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not wisdom but Authority that makes a law."</i>
+<i>"The greatest healing therapy is friendship and love."</i>
 <br>
-<b>- Thomas Hobbes</b>
+<b>- Hubert Humphrey</b>
 </blockquote>
 </p>
 
