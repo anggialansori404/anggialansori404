@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest healing therapy is friendship and love."</i>
+<i>"They can conquer who believe they can."</i>
 <br>
-<b>- Hubert Humphrey</b>
+<b>- Virgil</b>
 </blockquote>
 </p>
 
