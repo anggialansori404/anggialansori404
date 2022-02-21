@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart."</i>
+<i>"Would you rather live your life according to the approval of others or aligned with your truth and your dreams?"</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
