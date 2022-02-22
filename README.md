@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A day without laughter is a day wasted."</i>
+<i>"You're never a loser until you quit trying."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Mike Ditka</b>
 </blockquote>
 </p>
 
