@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friends are those rare people who ask how we are and then wait to hear the answer."</i>
+<i>"When a friend is in trouble, don't annoy him by asking if there is anything you can do. Think up something appropriate and do it."</i>
 <br>
-<b>- Ed Cunningham</b>
+<b>- A. Powell Davies</b>
 </blockquote>
 </p>
 
