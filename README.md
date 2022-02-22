@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Genius unrefined resembles a flash of lightning, but wisdom is like the sun."</i>
+<i>"The deeper the truth in a creative work, the longer it will live.  "</i>
 <br>
-<b>- Franz Grillparzer</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
