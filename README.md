@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your neighbor is the man who needs you."</i>
+<i>"Friends are those rare people who ask how we are and then wait to hear the answer."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Ed Cunningham</b>
 </blockquote>
 </p>
 
