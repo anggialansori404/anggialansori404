@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do good by stealth, and blush to find it fame."</i>
+<i>"We know what we are but know not what we may be."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
