@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some of us learn from other people's mistakes and the rest of us have to be other people.  "</i>
+<i>"Who looks outside, dreams; who looks inside, awakes."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
