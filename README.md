@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We know what we are but know not what we may be."</i>
+<i>"Start each day with a positive thought and a grateful heart."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
