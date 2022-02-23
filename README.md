@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is but one dream flowing into another."</i>
+<i>"Life is like riding a bicycle. To keep your balance you must keep moving."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
