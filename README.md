@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are bitter, you are like a dry leaf that you can just squash, and you can get blown away by the wind. There is much more wisdom in forgiveness."</i>
+<i>"Nature takes away any faculty that is not used."</i>
 <br>
-<b>- Vusi Mahlasela</b>
+<b>- William Inge</b>
 </blockquote>
 </p>
 
