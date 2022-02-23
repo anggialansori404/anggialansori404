@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you are, be a good one."</i>
+<i>"Never apologize for showing feelings. When you do so, you apologize for the truth."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Benjamin Disraeli</b>
 </blockquote>
 </p>
 
