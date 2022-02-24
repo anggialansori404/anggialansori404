@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"With pride, there are many curses. With humility, there come many blessings."</i>
+<i>"Dreams come true. Without that possibility, nature would not incite us to have them."</i>
 <br>
-<b>- Ezra Taft Benson</b>
+<b>- John Updike</b>
 </blockquote>
 </p>
 
