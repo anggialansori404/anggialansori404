@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Much wisdom often goes with fewer words."</i>
+<i>"Silence at the proper season is wisdom, and better than any speech."</i>
 <br>
-<b>- Sophocles</b>
+<b>- Plutarch</b>
 </blockquote>
 </p>
 
