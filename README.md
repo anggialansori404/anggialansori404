@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All religions, arts and sciences are branches of the same tree. "</i>
+<i>"Growing up is losing some illusions, in order to acquire others."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
