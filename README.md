@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Silence at the proper season is wisdom, and better than any speech."</i>
+<i>"I always wanted to be somebody, but I should have been more specific."</i>
 <br>
-<b>- Plutarch</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
