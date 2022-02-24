@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams come true. Without that possibility, nature would not incite us to have them."</i>
+<i>"You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life."</i>
 <br>
-<b>- John Updike</b>
+<b>- Albert Camus</b>
 </blockquote>
 </p>
 
