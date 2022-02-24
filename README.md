@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who knows that enough is enough will always have enough."</i>
+<i>"Technological progress has merely provided us with more efficient means for going backwards."</i>
 <br>
-<b>- Laozi</b>
+<b>- Aldous Huxley</b>
 </blockquote>
 </p>
 
