@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I always wanted to be somebody, but I should have been more specific."</i>
+<i>"He who knows that enough is enough will always have enough."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
