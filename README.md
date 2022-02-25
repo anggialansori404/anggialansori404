@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence comes not from always being right but not fearing to be wrong."</i>
+<i>"The wisdom of the wise, and the experience of ages, may be preserved by quotation."</i>
 <br>
-<b>- Unknown</b>
+<b>- Isaac D'Israeli</b>
 </blockquote>
 </p>
 
