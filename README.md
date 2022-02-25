@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Small opportunities are often the beginning of great enterprises."</i>
+<i>"Conscience is a man's compass. "</i>
 <br>
-<b>- Demosthenes</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
