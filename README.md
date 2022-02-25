@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Conscience is a man's compass. "</i>
+<i>"Keep others in suspense, cultivate an air of unpredictability."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
