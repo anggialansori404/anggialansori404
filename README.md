@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not what you look at that matters, it's what you see."</i>
+<i>"You are the only person on earth who can use your ability."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
