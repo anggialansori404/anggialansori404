@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wisdom of the wise, and the experience of ages, may be preserved by quotation."</i>
+<i>"He is no fool who gives what he cannot keep to gain what he cannot lose."</i>
 <br>
-<b>- Isaac D'Israeli</b>
+<b>- Jim Elliot</b>
 </blockquote>
 </p>
 
