@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences "</i>
+<i>"It's not what you look at that matters, it's what you see."</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
