@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are the only person on earth who can use your ability."</i>
+<i>"When the world is so complicated, the simple gift of friendship is within all of our hands."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Maria Shriver</b>
 </blockquote>
 </p>
 
