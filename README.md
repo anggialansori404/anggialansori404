@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fiction is the truth inside the lie."</i>
+<i>"Imagination is the beginning of creation."</i>
 <br>
-<b>- Stephen King</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
