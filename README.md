@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The smallest act of kindness is worth more than the greatest intention.  "</i>
+<i>"Fiction is the truth inside the lie."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
