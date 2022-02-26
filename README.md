@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I care not so much what I am to others as what I am to myself. I will be rich by myself, and not by borrowing."</i>
+<i>"No day in which you learn something is a complete loss."</i>
 <br>
-<b>- Michel de Montaigne</b>
+<b>- David Eddings</b>
 </blockquote>
 </p>
 
