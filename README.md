@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When fate hands us a lemon, let's try to make lemonade."</i>
+<i>"O, what a tangled web we weave when first we practice to deceive!"</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Walter Scott</b>
 </blockquote>
 </p>
 
