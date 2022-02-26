@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A failure is a man who has blundered but is not capable of cashing in on the experience."</i>
+<i>"May our hearts garden of awakening bloom with hundreds of flowers."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Thích Nhất Hạnh</b>
 </blockquote>
 </p>
 
