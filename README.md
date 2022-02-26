@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Real magic in relationships means an absence of judgement of others."</i>
+<i>"A failure is a man who has blundered but is not capable of cashing in on the experience."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
