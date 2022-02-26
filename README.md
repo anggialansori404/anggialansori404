@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the world is so complicated, the simple gift of friendship is within all of our hands."</i>
+<i>"When fate hands us a lemon, let's try to make lemonade."</i>
 <br>
-<b>- Maria Shriver</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
