@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Far more crucial than what we know or do not know is what we do not want to know."</i>
+<i>"I care not so much what I am to others as what I am to myself. I will be rich by myself, and not by borrowing."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Michel de Montaigne</b>
 </blockquote>
 </p>
 
