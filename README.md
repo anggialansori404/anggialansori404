@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is the beginning of creation."</i>
+<i>"Real magic in relationships means an absence of judgement of others."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
