@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people are not without problems. They're simply people who've learned to solve their problems."</i>
+<i>"It's the little details that are vital. Little things make big things happen."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
