@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When one does not have what one wants, one must want what one has."</i>
+<i>"Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
