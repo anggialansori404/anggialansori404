@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Maxim for life: You get treated in life the way you teach people to treat you."</i>
+<i>"When one does not have what one wants, one must want what one has."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
