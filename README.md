@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk."</i>
+<i>"Maxim for life: You get treated in life the way you teach people to treat you."</i>
 <br>
-<b>- Doug Larson</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
