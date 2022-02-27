@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's the little details that are vital. Little things make big things happen."</i>
+<i>"The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Winston Churchill </b>
 </blockquote>
 </p>
 
