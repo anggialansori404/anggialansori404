@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The awareness of our own strength makes us modest."</i>
+<i>"Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world."</i>
 <br>
-<b>- Paul Cézanne</b>
+<b>- Blaise Pascal</b>
 </blockquote>
 </p>
 
