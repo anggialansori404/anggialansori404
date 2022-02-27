@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good luck is another name for tenacity of purpose."</i>
+<i>"The awareness of our own strength makes us modest."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Paul Cézanne</b>
 </blockquote>
 </p>
 
