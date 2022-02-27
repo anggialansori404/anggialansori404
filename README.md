@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"May our hearts garden of awakening bloom with hundreds of flowers."</i>
+<i>"Good luck is another name for tenacity of purpose."</i>
 <br>
-<b>- Thích Nhất Hạnh</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
