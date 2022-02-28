@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way."</i>
+<i>"Do what is right, not what is easy, nor what is popular."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
