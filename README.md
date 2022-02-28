@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort."</i>
+<i>"Act as if what you do makes a difference. It does."</i>
 <br>
-<b>- Epictetus</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
