@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be slow to fall into friendship; but when thou art in, continue firm and constant."</i>
+<i>"Well done is better than well said."</i>
 <br>
-<b>- Isocrates</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
