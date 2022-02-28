@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Obstacles are those frightful things you see when you take your eyes off your goal."</i>
+<i>"Do it with passion, or not at all."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Rosa Nouchette Carey</b>
 </blockquote>
 </p>
 
