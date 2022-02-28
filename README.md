@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Act as if what you do makes a difference. It does."</i>
+<i>"Be slow to fall into friendship; but when thou art in, continue firm and constant."</i>
 <br>
-<b>- William James</b>
+<b>- Isocrates</b>
 </blockquote>
 </p>
 
