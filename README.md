@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change will not come if we wait for some other person, or if we wait for some other time."</i>
+<i>"Not engaging in ignorance is wisdom."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
