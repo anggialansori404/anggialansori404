@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Silence is the sleep that nourishes wisdom."</i>
+<i>"Logic is like the sword - those who appeal to it shall perish by it."</i>
 <br>
-<b>- Francis Bacon</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
