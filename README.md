@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't need a weatherman to know which way the wind blows."</i>
+<i>"Nothing good ever comes of violence."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
