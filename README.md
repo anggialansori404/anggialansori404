@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is certainly the finest balm for the pangs of disappointed love."</i>
+<i>"Silence is the sleep that nourishes wisdom."</i>
 <br>
-<b>- Jane Austen</b>
+<b>- Francis Bacon</b>
 </blockquote>
 </p>
 
