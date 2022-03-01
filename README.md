@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The Truth is realized in an instant; the Act is practiced step by step."</i>
+<i>"Friendship is certainly the finest balm for the pangs of disappointed love."</i>
 <br>
-<b>- Seungsahn</b>
+<b>- Jane Austen</b>
 </blockquote>
 </p>
 
