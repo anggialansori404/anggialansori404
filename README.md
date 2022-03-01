@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is powerful and it prevails."</i>
+<i>"The Truth is realized in an instant; the Act is practiced step by step."</i>
 <br>
-<b>- Sojourner Truth</b>
+<b>- Seungsahn</b>
 </blockquote>
 </p>
 
