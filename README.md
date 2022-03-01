@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have no more right to consume happiness without producing it than to consume wealth without producing it."</i>
+<i>"Change will not come if we wait for some other person, or if we wait for some other time."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
