@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing good ever comes of violence."</i>
+<i>"Truth is powerful and it prevails."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Sojourner Truth</b>
 </blockquote>
 </p>
 
