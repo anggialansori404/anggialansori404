@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are content to be simply yourself and don't compare or compete, everybody will respect you."</i>
+<i>"If we are not fully ourselves, truly in the present moment, we miss everything."</i>
 <br>
-<b>- Laozi</b>
+<b>- Thích Nhất Hạnh</b>
 </blockquote>
 </p>
 
