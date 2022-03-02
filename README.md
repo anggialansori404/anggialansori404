@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have to do your own growing no matter how tall your grandfather was."</i>
+<i>"There are no uninteresting things, only uninterested people."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
