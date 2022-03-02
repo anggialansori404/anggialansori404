@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man is a damn fool for at least five minutes every day; wisdom consists in not exceeding the limit."</i>
+<i>"Words can only have a positive effect on others if and when they are ready to listen."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
