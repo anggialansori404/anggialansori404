@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Creativity comes from trust. Trust your instincts. And never hope more than you work."</i>
+<i>"I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- G. K. Chesterton</b>
 </blockquote>
 </p>
 
