@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no uninteresting things, only uninterested people."</i>
+<i>"When you are content to be simply yourself and don't compare or compete, everybody will respect you."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
