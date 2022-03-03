@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves."</i>
+<i>"Without freedom of thought, there can be no such thing as wisdom - and no such thing as public liberty without freedom of speech."</i>
 <br>
-<b>- Laozi</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
