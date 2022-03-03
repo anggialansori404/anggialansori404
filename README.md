@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The art of progress is to preserve order amid change, and to preserve change amid order."</i>
+<i>"The primary cause of unhappiness is never the situation but your thoughts about it."</i>
 <br>
-<b>- Alfred North Whitehead</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
