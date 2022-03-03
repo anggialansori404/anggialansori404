@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Without freedom of thought, there can be no such thing as wisdom - and no such thing as public liberty without freedom of speech."</i>
+<i>"It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
