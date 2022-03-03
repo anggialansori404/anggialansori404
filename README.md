@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The personal life deeply lived always expands into truths beyond itself."</i>
+<i>"Great minds discuss ideas. Average minds discuss events. Small minds discuss people."</i>
 <br>
-<b>- Anaïs Nin</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
