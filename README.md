@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How far that little candle throws its beams! So shines a good deed in a naughty world."</i>
+<i>"The art of progress is to preserve order amid change, and to preserve change amid order."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- Alfred North Whitehead</b>
 </blockquote>
 </p>
 
