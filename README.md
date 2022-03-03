@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In seed time learn, in harvest teach, in winter enjoy."</i>
+<i>"It always seems impossible until it's done."</i>
 <br>
-<b>- William Blake</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
