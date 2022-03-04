@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want things to be different, perhaps the answer is to become different yourself."</i>
+<i>"When the world is so complicated, the simple gift of friendship is within all of our hands."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Maria Shriver</b>
 </blockquote>
 </p>
 
