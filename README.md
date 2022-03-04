@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Kindness is the golden chain by which society is bound together."</i>
+<i>"Technological progress has merely provided us with more efficient means for going backwards."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Aldous Huxley</b>
 </blockquote>
 </p>
 
