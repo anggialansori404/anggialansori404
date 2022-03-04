@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the world is so complicated, the simple gift of friendship is within all of our hands."</i>
+<i>"Kindness is the golden chain by which society is bound together."</i>
 <br>
-<b>- Maria Shriver</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
