@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A wise man will be master of his mind, a fool will be its slave."</i>
+<i>"A good head and a good heart are always a formidable combination."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
