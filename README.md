@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make the most of yourself, for that is all there is of you."</i>
+<i>"Life is either a daring adventure, or it is nothing."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
