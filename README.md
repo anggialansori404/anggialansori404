@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Today is the oldest you've ever been, and the youngest you'll ever be again."</i>
+<i>"If you want things to be different, perhaps the answer is to become different yourself."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
