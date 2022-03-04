@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good head and a good heart are always a formidable combination."</i>
+<i>"Make the most of yourself, for that is all there is of you."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
