@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just as a flower, which seems beautiful has color but no perfume, so are the fruitless words of a man who speaks them but does them not."</i>
+<i>"There is no friendship, no love, like that of the parent for the child."</i>
 <br>
-<b>- Dhammapada</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
