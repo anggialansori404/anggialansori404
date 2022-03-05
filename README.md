@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. "</i>
+<i>"Life and death are of supreme importance. Time swiftly passes by and opportunity is lost."</i>
 <br>
-<b>- George Washington</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
