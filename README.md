@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Conflict is the gadfly of thought. It stirs us to observation and memory. It instigates to invention. It shocks us out of sheeplike passivity, and sets us at noting and contriving."</i>
+<i>"A lie can travel half way around the world while the truth is putting on its shoes."</i>
 <br>
-<b>- John Dewey</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
