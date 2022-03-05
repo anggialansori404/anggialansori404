@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The winner ain't the one with the fastest car it's the one who refuses to lose."</i>
+<i>"The only way to make sense out of change is to plunge into it, move with it, and join the dance."</i>
 <br>
-<b>- Dale Earnhardt</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
