@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Technological progress has merely provided us with more efficient means for going backwards."</i>
+<i>"Don't look back. Something might be gaining on you."</i>
 <br>
-<b>- Aldous Huxley</b>
+<b>- Satchel Paige</b>
 </blockquote>
 </p>
 
