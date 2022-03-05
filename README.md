@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life and death are of supreme importance. Time swiftly passes by and opportunity is lost."</i>
+<i>"Whoso loves, believes the impossible."</i>
 <br>
-<b>- Dogen</b>
+<b>- Elizabeth Browning</b>
 </blockquote>
 </p>
 
