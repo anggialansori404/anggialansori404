@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else."</i>
+<i>"Be like the flower, turn your face to the sun."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
