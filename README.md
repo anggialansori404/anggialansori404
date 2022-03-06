@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Miracles come in moments. Be ready and willing."</i>
+<i>"Fear grows in darkness; if you think there's a bogeyman around, turn on the light."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Dorothy Thompson</b>
 </blockquote>
 </p>
 
