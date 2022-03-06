@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your greatest asset is your earning ability. Your greatest resource is your time."</i>
+<i>"To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
