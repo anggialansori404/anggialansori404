@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I love my past. I love my present. I'm not ashamed of what I've had, and I'm not sad because I have it no longer."</i>
+<i>"Everything that happens as it should, and if you observe carefully, you will find this to be so."</i>
 <br>
-<b>- Colette</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
