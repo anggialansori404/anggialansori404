@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be like the flower, turn your face to the sun."</i>
+<i>"I love my past. I love my present. I'm not ashamed of what I've had, and I'm not sad because I have it no longer."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Colette</b>
 </blockquote>
 </p>
 
