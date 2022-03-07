@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friends ask you questions; enemies question you."</i>
+<i>"Truth is the offspring of silence and meditation."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
