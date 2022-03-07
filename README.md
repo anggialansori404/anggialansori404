@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is the offspring of silence and meditation."</i>
+<i>"Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
