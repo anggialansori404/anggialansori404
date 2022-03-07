@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts."</i>
+<i>"Waste no more time arguing about what a good man should be. Be one."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
