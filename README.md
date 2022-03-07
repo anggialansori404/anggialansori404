@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions."</i>
+<i>"Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through."</i>
 <br>
-<b>- Naguib Mahfouz</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
