@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Light a candle instead of cursing the darkness."</i>
+<i>"You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Naguib Mahfouz</b>
 </blockquote>
 </p>
 
