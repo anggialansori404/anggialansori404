@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He is richest who is content with the least, for content is the wealth of nature."</i>
+<i>"The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life."</i>
 <br>
-<b>- Socrates</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
