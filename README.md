@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I define friendship as a bond that transcends all barriers. When you are ready to expect anything and everything from friends, good, bad or ugly... that's what I call true friendship."</i>
+<i>"The future will be shaped by those willing to commit their minds and their bodies to the task."</i>
 <br>
-<b>- Harbhajan Singh</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
