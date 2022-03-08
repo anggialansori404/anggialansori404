@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All is flux; nothing stays still."</i>
+<i>"The more perfect a person is on the outside, the more demons they have on the inside."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
