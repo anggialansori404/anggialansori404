@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life."</i>
+<i>"If we are not given the chance to forget, we are also not given the chance to recover our memories, to alter them with time, perspective, and wisdom. Forgetting, we can be ourselves beyond what the past has told us we are; we can evolve. That is the possibility we want from the future."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Caterina Fake</b>
 </blockquote>
 </p>
 
