@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty."</i>
+<i>"I define friendship as a bond that transcends all barriers. When you are ready to expect anything and everything from friends, good, bad or ugly... that's what I call true friendship."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Harbhajan Singh</b>
 </blockquote>
 </p>
 
