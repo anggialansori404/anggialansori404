@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we are not given the chance to forget, we are also not given the chance to recover our memories, to alter them with time, perspective, and wisdom. Forgetting, we can be ourselves beyond what the past has told us we are; we can evolve. That is the possibility we want from the future."</i>
+<i>"The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back."</i>
 <br>
-<b>- Caterina Fake</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
