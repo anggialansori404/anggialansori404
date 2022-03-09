@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never allow someone to be your priority while allowing yourself to be their option."</i>
+<i>"To handle yourself, use your head; to handle others, use your heart."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
