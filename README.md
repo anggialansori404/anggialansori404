@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is like money, easier made than kept."</i>
+<i>"If you aren't going all the way, why go at all?"</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Joe Namath</b>
 </blockquote>
 </p>
 
