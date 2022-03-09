@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you aren't going all the way, why go at all?"</i>
+<i>"Silence is the great teacher and to learn its lessons you must pay attention to it."</i>
 <br>
-<b>- Joe Namath</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
