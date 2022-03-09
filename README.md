@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only person you should try to be better than is the person you were yesterday."</i>
+<i>"Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!"</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
