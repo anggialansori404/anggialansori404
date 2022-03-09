@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To handle yourself, use your head; to handle others, use your heart."</i>
+<i>"Keep me away from the wisdom which does not cry, the philosophy which does not laugh and the greatness which does not bow before children."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
