@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Silence is the true friend that never betrays."</i>
+<i>"We suffer more often in imagination than in reality."</i>
 <br>
-<b>- Confucius</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
