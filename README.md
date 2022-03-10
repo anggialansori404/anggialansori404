@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who can, does."</i>
+<i>"A man is not old as long as he is seeking something."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Edmond Rostand</b>
 </blockquote>
 </p>
 
