@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The beginning is always today."</i>
+<i>"Never allow someone to be your priority while allowing yourself to be their option."</i>
 <br>
-<b>- Mary Wollstonecraft</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
