@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do what you can, with what you have, where you are."</i>
+<i>"Just as a candle cannot burn without fire, men cannot live without a spiritual life."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
