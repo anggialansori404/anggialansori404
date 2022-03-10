@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Miracles come in moments. Be ready and willing."</i>
+<i>"Only put off until tomorrow what you are willing to die having left undone."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
