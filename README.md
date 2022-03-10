@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Strength does not come from physical capacity. It comes from an indomitable will."</i>
+<i>"Do what you can, with what you have, where you are."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
