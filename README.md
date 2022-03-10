@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine."</i>
+<i>"Optimism, when applied to your life, develops strength and peace within you."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
