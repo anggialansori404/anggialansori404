@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"From wonder into wonder existence opens."</i>
+<i>"Liberty, taking the word in its concrete sense, consists in the ability to choose."</i>
 <br>
-<b>- Laozi</b>
+<b>- Simone Weil</b>
 </blockquote>
 </p>
 
