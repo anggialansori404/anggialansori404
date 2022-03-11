@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Real magic in relationships means an absence of judgement of others."</i>
+<i>"Our passion is our strength."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Billie Armstrong</b>
 </blockquote>
 </p>
 
