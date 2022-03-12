@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is found in unlikely places."</i>
+<i>"Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- William Ellery Channing</b>
 </blockquote>
 </p>
 
