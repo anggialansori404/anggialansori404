@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't wait for extraordinary opportunities. Seize common occasions and make them great."</i>
+<i>"Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- Blaise Pascal</b>
 </blockquote>
 </p>
 
