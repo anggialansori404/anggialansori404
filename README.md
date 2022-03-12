@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever we expect with confidence becomes our own self-fulfilling prophecy."</i>
+<i>"We make a living by what we get, but we make a life by what we give."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
