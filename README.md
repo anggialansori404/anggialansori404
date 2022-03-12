@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world."</i>
+<i>"There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return."</i>
 <br>
-<b>- Blaise Pascal</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
