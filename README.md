@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Well done is better than well said."</i>
+<i>"Whatever we expect with confidence becomes our own self-fulfilling prophecy."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
