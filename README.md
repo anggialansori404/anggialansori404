@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return."</i>
+<i>"Be thankful for everything that happens in your life; it's all an experience."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
