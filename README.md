@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never confuse a single defeat with a final defeat."</i>
+<i>"Write your plans in pencil and give God the eraser."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
