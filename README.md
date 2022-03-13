@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge is a treasure, but practice is the key to it."</i>
+<i>"Love is a friendship set to music."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Joseph Campbell</b>
 </blockquote>
 </p>
 
