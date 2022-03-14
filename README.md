@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There's power in looking silly and not caring that you do."</i>
+<i>"Happiness cannot be travelled to, owned, earned, worn or consumed. Happiness is the spiritual experience of living every minute with love, grace and gratitude."</i>
 <br>
-<b>- Amy Poehler</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
