@@ -28,7 +28,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To enjoy good health, to bring true happiness to one's family, to bring peace to all, one must first discipline and control one's own mind. If a man can control his mind, he can find the way to Enlightenment, and all wisdom and virtue will naturally come to him."</i>
+<i>"Remembering a wrong is like carrying a burden on the mind."</i>
 <br>
 <b>- Buddha</b>
 </blockquote>
