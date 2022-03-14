@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom is nothing but a preparation of the soul, a capacity, a secret art of thinking, feeling and breathing thoughts of unity at every moment of life."</i>
+<i>"Great are they who see that spiritual is stronger than any material force, that thoughts rule the world."</i>
 <br>
-<b>- Hermann Hesse</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
