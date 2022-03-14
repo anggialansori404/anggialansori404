@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are as many opinions as there are experts."</i>
+<i>"Don't judge each day by the harvest you reap but by the seeds that you plant."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Robert Louis Stevenson</b>
 </blockquote>
 </p>
 
