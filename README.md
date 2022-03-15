@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All the world is a stage, And all the men and women merely players. They have their exits and entrances; Each man in his time plays many parts."</i>
+<i>"Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
