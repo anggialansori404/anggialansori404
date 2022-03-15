@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes things become possible if we want them bad enough."</i>
+<i>"There's no next time. It's now or never."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
