@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great are they who see that spiritual is stronger than any material force, that thoughts rule the world."</i>
+<i>"We do not quit playing because we grow old, we grow old because we quit playing."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Oliver Wendell Holmes Jr.</b>
 </blockquote>
 </p>
 
