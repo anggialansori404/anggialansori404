@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Technology… is a queer thing. It brings you great gifts with one hand, and it stabs you in the back with the other."</i>
+<i>"Never allow a person to tell you no who doesn't have the power to say yes."</i>
 <br>
-<b>- Carrie Snow</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
