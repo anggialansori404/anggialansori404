@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There's no next time. It's now or never."</i>
+<i>"You just can't beat the person who never gives up. "</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Babe Ruth</b>
 </blockquote>
 </p>
 
