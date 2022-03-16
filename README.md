@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The difference between treason and patriotism is only a matter of dates."</i>
+<i>"In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
