@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You just can't beat the person who never gives up. "</i>
+<i>"Don't be pushed by your problems; be led by your dreams."</i>
 <br>
-<b>- Babe Ruth</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
