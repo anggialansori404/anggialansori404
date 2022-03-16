@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One today is worth two tomorrows."</i>
+<i>"It's always to soon to quit!"</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
