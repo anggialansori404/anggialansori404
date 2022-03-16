@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's always to soon to quit!"</i>
+<i>"The difference between treason and patriotism is only a matter of dates."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
