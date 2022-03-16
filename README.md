@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who has imagination without learning has wings but no feet."</i>
+<i>"Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water."</i>
 <br>
-<b>- Joseph Joubert</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
