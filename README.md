@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish."</i>
+<i>"Knowledge rests not upon truth alone, but upon error also."</i>
 <br>
-<b>- Ovid</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
