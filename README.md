@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Integrity is the ability to stand by an idea."</i>
+<i>"If the shoe doesn't fit, must we change the foot?"</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Gloria Steinem</b>
 </blockquote>
 </p>
 
