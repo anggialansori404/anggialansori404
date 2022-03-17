@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A lot of times people look at the negative side of what they feel they can't do. I always look on the positive side of what I can do."</i>
+<i>"You know you're in love when you can't fall asleep because reality is finally better than your dreams."</i>
 <br>
-<b>- Chuck Norris</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
