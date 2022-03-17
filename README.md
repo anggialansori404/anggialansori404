@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water."</i>
+<i>"There's no next time. It's now or never."</i>
 <br>
-<b>- Buddha</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
