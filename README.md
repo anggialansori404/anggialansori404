@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True friendship is a plant of slow growth, and must undergo and withstand the shocks of adversity, before it is entitled to the appellation."</i>
+<i>"Friendship brings in a lot of honesty and trust into any relationship, especially a marriage."</i>
 <br>
-<b>- George Washington</b>
+<b>- Farhan Akhtar</b>
 </blockquote>
 </p>
 
