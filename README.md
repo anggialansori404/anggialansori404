@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If the shoe doesn't fit, must we change the foot?"</i>
+<i>"Our passion is our strength."</i>
 <br>
-<b>- Gloria Steinem</b>
+<b>- Billie Armstrong</b>
 </blockquote>
 </p>
 
