@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be fascinated instead of frustrated."</i>
+<i>"True friendship is a plant of slow growth, and must undergo and withstand the shocks of adversity, before it is entitled to the appellation."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
