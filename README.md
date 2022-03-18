@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Discipline yourself, and others won't need to."</i>
+<i>"Show me a hero, and I'll write you a tragedy."</i>
 <br>
-<b>- John Wooden</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
