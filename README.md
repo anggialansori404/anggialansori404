@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"With the new day comes new strength and new thoughts."</i>
+<i>"Let us always meet each other with smile, for the smile is the beginning of love."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
