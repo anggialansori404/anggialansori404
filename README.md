@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He that respects himself is safe from others; he wears a coat of mail that none can pierce."</i>
+<i>"If we know how to adapt, we end up being superior."</i>
 <br>
-<b>- Henry Wadsworth Longfellow</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
