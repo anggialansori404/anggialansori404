@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we know how to adapt, we end up being superior."</i>
+<i>"With the new day comes new strength and new thoughts."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
