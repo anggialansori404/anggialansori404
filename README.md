@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship brings in a lot of honesty and trust into any relationship, especially a marriage."</i>
+<i>"Discipline yourself, and others won't need to."</i>
 <br>
-<b>- Farhan Akhtar</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
