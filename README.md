@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most great people have attained their greatest success just one step beyond their greatest failure."</i>
+<i>"Better than a thousand hollow words, is one word that brings peace."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
