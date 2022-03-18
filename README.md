@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better than a thousand hollow words, is one word that brings peace."</i>
+<i>"He who knows, does not speak. He who speaks, does not know."</i>
 <br>
-<b>- Buddha</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
