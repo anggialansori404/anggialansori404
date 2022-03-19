@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The present moment is filled with joy and happiness. If you are attentive, you will see it."</i>
+<i>"Life is 10% what happens to you and 90% how you react to it. "</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Charles Swindoll</b>
 </blockquote>
 </p>
 
