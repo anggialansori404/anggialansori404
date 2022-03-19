@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must become the change we want to see."</i>
+<i>"Be sure you put your feet in the right place, then stand firm."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
