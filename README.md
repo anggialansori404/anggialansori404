@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. "</i>
+<i>"Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances."</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
