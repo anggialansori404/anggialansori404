@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I like the dreams of the future better than the history of the past."</i>
+<i>"I want you to be everything that's you, deep at the center of your being."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
