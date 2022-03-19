@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each day provides it's own gifts."</i>
+<i>"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. "</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Nikola Tesla</b>
 </blockquote>
 </p>
 
