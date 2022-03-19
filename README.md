@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is 10% what happens to you and 90% how you react to it. "</i>
+<i>"Each day provides it's own gifts."</i>
 <br>
-<b>- Charles Swindoll</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
