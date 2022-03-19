@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must not be afraid of dreaming the seemingly impossible if we want the seemingly impossible to become a reality."</i>
+<i>"I like the dreams of the future better than the history of the past."</i>
 <br>
-<b>- Vaclav Havel</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
