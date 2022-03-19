@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to make God laugh, tell him about your plans. "</i>
+<i>"We must become the change we want to see."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
