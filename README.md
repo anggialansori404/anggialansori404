@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The key is to keep company only with people who uplift you, whose presence calls forth your best."</i>
+<i>"Start each day with a positive thought and a grateful heart."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
