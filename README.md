@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances."</i>
+<i>"The more you feed your mind with positive thoughts, the more you can attract great things into your life."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
