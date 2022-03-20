@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It all depends on how we look at things, and not how they are in themselves."</i>
+<i>"The key is to keep company only with people who uplift you, whose presence calls forth your best."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
