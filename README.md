@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is not old as long as he is seeking something."</i>
+<i>"Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. "</i>
 <br>
-<b>- Edmond Rostand</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
