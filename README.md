@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are going to achieve excellence in big things, you develop the habit in little matters."</i>
+<i>"Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Marie Curie</b>
 </blockquote>
 </p>
 
