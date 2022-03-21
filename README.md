@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long."</i>
+<i>"The heart has eyes which the brain knows nothing of."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Charles Henry Parkhurst</b>
 </blockquote>
 </p>
 
