@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth, and goodness, and beauty are but different faces of the same all."</i>
+<i>"I have lost friends, some by death...others by sheer inability to cross the street."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
