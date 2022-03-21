@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The heart has eyes which the brain knows nothing of."</i>
+<i>"Many sophisticated, intelligent people lack wisdom and common sense."</i>
 <br>
-<b>- Charles Henry Parkhurst</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
