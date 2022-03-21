@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world is a book, and those who do not travel read only a page."</i>
+<i>"A person who never made a mistake never tried anything new."</i>
 <br>
-<b>- Augustine of Hippo</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
