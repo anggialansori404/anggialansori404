@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All is flux; nothing stays still."</i>
+<i>"Nothing is softer or more flexible than water, yet nothing can resist it."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
