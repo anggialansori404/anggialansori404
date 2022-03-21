@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A person who never made a mistake never tried anything new."</i>
+<i>"All is flux; nothing stays still."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
