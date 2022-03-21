@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Start each day with a positive thought and a grateful heart."</i>
+<i>"If you run you stand a chance of losing, but if you don't run you've already lost."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
