@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you run you stand a chance of losing, but if you don't run you've already lost."</i>
+<i>"The world is a book, and those who do not travel read only a page."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Augustine of Hippo</b>
 </blockquote>
 </p>
 
