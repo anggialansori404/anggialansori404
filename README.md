@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember to look up at the stars and not down at your feet."</i>
+<i>"Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
