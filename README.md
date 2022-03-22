@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing impossible to him who will try."</i>
+<i>"Inspiration exists, but it has to find you working."</i>
 <br>
-<b>- Alexander the Great</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
