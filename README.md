@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only real mistake is the one from which we learn nothing. "</i>
+<i>"Every great change is preceded by chaos."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
