@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every great change is preceded by chaos."</i>
+<i>"Computers are like bikinis. They save people a lot of guesswork."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Sam Ewing</b>
 </blockquote>
 </p>
 
