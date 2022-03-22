@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Computers are like bikinis. They save people a lot of guesswork."</i>
+<i>"Remember to look up at the stars and not down at your feet."</i>
 <br>
-<b>- Sam Ewing</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
