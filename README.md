@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always seek out the seed of triumph in every adversity."</i>
+<i>"There is nothing impossible to him who will try."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Alexander the Great</b>
 </blockquote>
 </p>
 
