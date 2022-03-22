@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The past has no power to stop you from being present now. Only your grievance about the past can do that."</i>
+<i>"To escape from the world means that one's mind is not concerned with the opinions of the world."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
