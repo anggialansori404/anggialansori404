@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot be lonely if you like the person you're alone with."</i>
+<i>"The past has no power to stop you from being present now. Only your grievance about the past can do that."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
