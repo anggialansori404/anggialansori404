@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Inspiration exists, but it has to find you working."</i>
+<i>"Love is not about possession. Love is about appreciation."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
