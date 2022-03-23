@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice."</i>
+<i>"Never do to others what you would not like them to do to you. "</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
