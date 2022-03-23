@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds."</i>
+<i>"When your desires are strong enough you will appear to possess superhuman powers to achieve."</i>
 <br>
-<b>- Will Durant</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
