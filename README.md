@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who hesitates is a damned fool."</i>
+<i>"When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy."</i>
 <br>
-<b>- Mae West</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
