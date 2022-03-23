@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The doorstep to the temple of wisdom is a knowledge of our own ignorance."</i>
+<i>"In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
