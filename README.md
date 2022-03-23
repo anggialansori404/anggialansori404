@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When your desires are strong enough you will appear to possess superhuman powers to achieve."</i>
+<i>"He who hesitates is a damned fool."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
