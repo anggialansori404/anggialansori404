@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never do to others what you would not like them to do to you. "</i>
+<i>"Before you put on a frown, make absolutely sure there are no smiles available."</i>
 <br>
-<b>- Confucius</b>
+<b>- James M. Beggs</b>
 </blockquote>
 </p>
 
