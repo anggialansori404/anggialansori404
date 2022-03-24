@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Loss is nothing else but change and change is nature's delight."</i>
+<i>"Awakening is possible only for those who seek it and want it."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- G.I. Gurdjieff</b>
 </blockquote>
 </p>
 
