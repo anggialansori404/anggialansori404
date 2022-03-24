@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to have enough ideas for some of them to be wrong, than to be always right by having no ideas at all."</i>
+<i>"The only true wisdom is in knowing you know nothing."</i>
 <br>
-<b>- Edward de Bono</b>
+<b>- Isocrates</b>
 </blockquote>
 </p>
 
