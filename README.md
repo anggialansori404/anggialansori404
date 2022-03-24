@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only true wisdom is in knowing you know nothing."</i>
+<i>"It is useless to attempt to reason a man out of a thing he was never reasoned into."</i>
 <br>
-<b>- Isocrates</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
