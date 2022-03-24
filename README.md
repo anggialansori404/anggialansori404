@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can do no great things, only small things with great love."</i>
+<i>"The will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
