@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All know the way; few actually walk it."</i>
+<i>"Absence makes the heart grow fonder."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Thomas Haynes Bayly</b>
 </blockquote>
 </p>
 
