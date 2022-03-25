@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best dreams happen when you're awake."</i>
+<i>"Neatness begets order; but from order to taste there is the same difference as from taste to genius, or from love to friendship."</i>
 <br>
-<b>- Cherie Gilderbloom</b>
+<b>- Johann Kaspar Lavater</b>
 </blockquote>
 </p>
 
