@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life may be full of pain but that's not an excuse to give up."</i>
+<i>"Do you want to know who you are? Don't ask. Act! Action will delineate and define you."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
