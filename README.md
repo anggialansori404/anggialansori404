@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Absence makes the heart grow fonder."</i>
+<i>"The best dreams happen when you're awake."</i>
 <br>
-<b>- Thomas Haynes Bayly</b>
+<b>- Cherie Gilderbloom</b>
 </blockquote>
 </p>
 
