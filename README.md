@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is generally the best vindication against slander."</i>
+<i>"All our dreams can come true, if we have the courage to pursue them."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
