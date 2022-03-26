@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Elegance does not consist in putting on a new dress."</i>
+<i>"When you judge another, you do not define them, you define yourself"</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
