@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle."</i>
+<i>"Act as if what you do makes a difference. It does."</i>
 <br>
-<b>- Anaïs Nin</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
