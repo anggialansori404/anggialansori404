@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence comes from crossing thresholds."</i>
+<i>"When you are tough on yourself, life is going to be infinitely easier on you.  "</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
