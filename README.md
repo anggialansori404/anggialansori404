@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not mind anything that anyone tells you about anyone else. Judge everyone and everything for yourself."</i>
+<i>"You have to do your own growing no matter how tall your grandfather was."</i>
 <br>
-<b>- Henry James</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
