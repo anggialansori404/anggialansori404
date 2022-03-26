@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is what happens while you are making other plans."</i>
+<i>"There are dark shadows on the earth, but its lights are stronger in the contrast."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
