@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you judge another, you do not define them, you define yourself"</i>
+<i>"Rivers know this: there is no hurry. We shall get there some day."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- A.A. Milne</b>
 </blockquote>
 </p>
 
