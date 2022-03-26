@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have to do your own growing no matter how tall your grandfather was."</i>
+<i>"Do not go where the path may lead, go instead where there is no path and leave a trail."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
