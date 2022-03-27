@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember always that you not only have the right to be an individual, you have an obligation to be one."</i>
+<i>"The person who lives life fully, glowing with life's energy, is the person who lives a successful life."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Daisaku Ikeda</b>
 </blockquote>
 </p>
 
