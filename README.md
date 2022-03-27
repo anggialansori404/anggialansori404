@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The person who lives life fully, glowing with life's energy, is the person who lives a successful life."</i>
+<i>"A good head and a good heart are always a formidable combination."</i>
 <br>
-<b>- Daisaku Ikeda</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
