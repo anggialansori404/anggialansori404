@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is great not because he hasn't failed; a man is great because failure hasn't stopped him."</i>
+<i>"A lot of people have gone further than they thought they could because someone else thought they could."</i>
 <br>
-<b>- Confucius</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
