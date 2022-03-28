@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To accomplish big things, I am convinced you must first dream big dreams."</i>
+<i>"Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it!"</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
