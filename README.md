@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change in all things is sweet."</i>
+<i>"No matter how carefully you plan your goals they will never be more that pipe dreams unless you pursue them with gusto."</i>
 <br>
-<b>- Aristotle</b>
+<b>- W. Clement Stone</b>
 </blockquote>
 </p>
 
