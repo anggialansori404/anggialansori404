@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Action is the foundational key to all success."</i>
+<i>"The thoughts we choose to think are the tools we use to paint the canvas of our lives."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Louise Hay</b>
 </blockquote>
 </p>
 
