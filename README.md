@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Either I will find a way, or I will make one."</i>
+<i>"My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time."</i>
 <br>
-<b>- Philip Sidney</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
