@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time."</i>
+<i>"You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
