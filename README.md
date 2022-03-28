@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it!"</i>
+<i>"Change in all things is sweet."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
