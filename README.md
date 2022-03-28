@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter how carefully you plan your goals they will never be more that pipe dreams unless you pursue them with gusto."</i>
+<i>"Action is the foundational key to all success."</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
