@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The thoughts we choose to think are the tools we use to paint the canvas of our lives."</i>
+<i>"Either I will find a way, or I will make one."</i>
 <br>
-<b>- Louise Hay</b>
+<b>- Philip Sidney</b>
 </blockquote>
 </p>
 
