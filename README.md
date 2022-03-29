@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I alone cannot change the world, but I can cast a stone across the waters to create many ripples."</i>
+<i>"Experience is not what happens to you; it's what you do with what happens to you."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Aldous Huxley</b>
 </blockquote>
 </p>
 
