@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Loss is nothing else but change, and change is Nature's delight."</i>
+<i>"Quality is never an accident; it is always the result of intelligent effort."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- John Ruskin</b>
 </blockquote>
 </p>
 
