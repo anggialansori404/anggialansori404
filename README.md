@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your life does not get better by chance, it gets better by change."</i>
+<i>"No act of kindness, no matter how small, is ever wasted."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Aesop</b>
 </blockquote>
 </p>
 
