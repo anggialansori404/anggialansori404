@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No act of kindness, no matter how small, is ever wasted."</i>
+<i>"If you do not change direction, you may end up where you are heading."</i>
 <br>
-<b>- Aesop</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
