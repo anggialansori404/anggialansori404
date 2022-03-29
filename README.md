@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quality is never an accident; it is always the result of intelligent effort."</i>
+<i>"It is far better to be alone, than to be in bad company."</i>
 <br>
-<b>- John Ruskin</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
