@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A successful person is one who can lay a firm foundation with the bricks that others throw at him or her."</i>
+<i>"I alone cannot change the world, but I can cast a stone across the waters to create many ripples."</i>
 <br>
-<b>- David Brinkley</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
