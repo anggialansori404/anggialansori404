@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not uncommon for people to spend their whole life waiting to start living."</i>
+<i>"Your life does not get better by chance, it gets better by change."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
