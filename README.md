@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never let your memories be greater than your dreams."</i>
+<i>"Those who will play with cats must expect to be scratched."</i>
 <br>
-<b>- Doug Ivester</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
