@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always remember that you are absolutely unique. Just like everyone else. "</i>
+<i>"Real magic in relationships means an absence of judgement of others."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
