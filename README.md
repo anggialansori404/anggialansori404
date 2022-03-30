@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. "</i>
+<i>"Never let your memories be greater than your dreams."</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- Doug Ivester</b>
 </blockquote>
 </p>
 
