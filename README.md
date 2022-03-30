@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world."</i>
+<i>"There are people who have money and people who are rich."</i>
 <br>
-<b>- Blaise Pascal</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
