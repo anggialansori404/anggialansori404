@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who will play with cats must expect to be scratched."</i>
+<i>"You are free, and that is why you are lost. "</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
