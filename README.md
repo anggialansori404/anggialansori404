@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better be ignorant of a matter than half know it."</i>
+<i>"Enthusiasm is a vital element toward the individual success of every man or woman."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Conrad Hilton</b>
 </blockquote>
 </p>
 
