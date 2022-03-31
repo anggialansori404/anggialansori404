@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Smell the cheese often so you know when it is getting old."</i>
+<i>"Not all of us can do great things. But we can do small things with great love."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
