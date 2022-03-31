@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give me a lever long enough and a fulcrum on which to place it, and I shall move the world."</i>
+<i>"He has no enemies, but is intensely disliked by his friends."</i>
 <br>
-<b>- Archimedes</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
