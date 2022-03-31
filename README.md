@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition."</i>
+<i>"Give me a lever long enough and a fulcrum on which to place it, and I shall move the world."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Archimedes</b>
 </blockquote>
 </p>
 
