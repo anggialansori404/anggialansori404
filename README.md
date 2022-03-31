@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What do we live for if not to make life less difficult for each other?"</i>
+<i>"Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
