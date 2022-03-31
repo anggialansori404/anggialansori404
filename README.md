@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not all of us can do great things. But we can do small things with great love."</i>
+<i>"I don't want to achieve immortality through my work... I want to achieve it through not dying."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
