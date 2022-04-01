@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people tend to become more successful because they are always thinking about their successes."</i>
+<i>"Let us rather run the risk of wearing out than rusting out."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
