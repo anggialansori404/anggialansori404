@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Respect should be earned by actions, and not acquired by years."</i>
+<i>"There are no second chances in life, except to feel remorse."</i>
 <br>
-<b>- Frank Lloyd Wright</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
