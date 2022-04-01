@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the master key that opens the gates of happiness."</i>
+<i>"In the middle of difficulty lies opportunity."</i>
 <br>
-<b>- Oliver Wendell Holmes Jr.</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
