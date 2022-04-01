@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no second chances in life, except to feel remorse."</i>
+<i>"You are never too old to become younger."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
