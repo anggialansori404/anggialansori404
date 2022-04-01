@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are never too old to become younger."</i>
+<i>"Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk."</i>
 <br>
-<b>- Mae West</b>
+<b>- Doug Larson</b>
 </blockquote>
 </p>
 
