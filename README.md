@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the middle of difficulty lies opportunity."</i>
+<i>"Just as a candle cannot burn without fire, men cannot live without a spiritual life."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
