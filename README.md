@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is literally what he thinks."</i>
+<i>"Knowing your own darkness is the best method for dealing with the darkness of other people."</i>
 <br>
-<b>- James Allen</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
