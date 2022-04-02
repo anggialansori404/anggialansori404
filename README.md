@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trying to define yourself is like trying to bite your own teeth."</i>
+<i>"Trust your hunches. They're usually based on facts filed away just below the conscious level."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Joyce Brothers</b>
 </blockquote>
 </p>
 
