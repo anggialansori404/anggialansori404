@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it."</i>
+<i>"Trying to define yourself is like trying to bite your own teeth."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
