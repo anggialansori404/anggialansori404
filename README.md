@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust your hunches. They're usually based on facts filed away just below the conscious level."</i>
+<i>"If you want things to be different, perhaps the answer is to become different yourself."</i>
 <br>
-<b>- Joyce Brothers</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
