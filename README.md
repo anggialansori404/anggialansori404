@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mistakes are the usual bridge between inexperience and wisdom."</i>
+<i>"Nothing you do is going to matter that much in the long run. Don't take yourself so seriously."</i>
 <br>
-<b>- Phyllis Grissim-Theroux</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
