@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good head and a good heart are always a formidable combination."</i>
+<i>"Technology… the knack of so arranging the world that we don't have to experience it."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Max Frisch</b>
 </blockquote>
 </p>
 
