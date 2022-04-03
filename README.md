@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A person who never made a mistake never tried anything new."</i>
+<i>"You can't stop the waves, but you can learn to surf."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
