@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fears are nothing more than a state of mind."</i>
+<i>"The friendship that can cease has never been real."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Jerome</b>
 </blockquote>
 </p>
 
