@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom is always an overmatch for strength."</i>
+<i>"Think like a man of action; act like a man of thought."</i>
 <br>
-<b>- Phil Jackson</b>
+<b>- Henri Bergson</b>
 </blockquote>
 </p>
 
