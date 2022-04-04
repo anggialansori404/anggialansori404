@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When people are like each other they tend to like each other."</i>
+<i>"Wherever a man turns he can find someone who needs him."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Albert Schweitzer</b>
 </blockquote>
 </p>
 
