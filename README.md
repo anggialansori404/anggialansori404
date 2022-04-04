@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wise kings generally have wise counselors; and he must be a wise man himself who is capable of distinguishing one."</i>
+<i>"The most important thing is to enjoy your life, to be happy, it's all that matters."</i>
 <br>
-<b>- Diogenes</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
