@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As you think, so shall you become."</i>
+<i>"One who is too insistent on his own views, finds few to agree with him."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
