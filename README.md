@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't stop the waves, but you can learn to surf."</i>
+<i>"Think big thoughts but relish small pleasures."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- H. Jackson Brown Jr.</b>
 </blockquote>
 </p>
 
