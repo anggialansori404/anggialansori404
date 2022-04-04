@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you judge others, you do not define them, you define yourself."</i>
+<i>"Wise kings generally have wise counselors; and he must be a wise man himself who is capable of distinguishing one."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Diogenes</b>
 </blockquote>
 </p>
 
