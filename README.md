@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One who is too insistent on his own views, finds few to agree with him."</i>
+<i>"Silence is the sleep that nourishes wisdom."</i>
 <br>
-<b>- Laozi</b>
+<b>- Francis Bacon</b>
 </blockquote>
 </p>
 
