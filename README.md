@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Have the courage to follow your heart and intuition. They somehow know what you truly want to become."</i>
+<i>"When you judge others, you do not define them, you define yourself."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
