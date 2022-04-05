@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where there is charity and wisdom, there is neither fear nor ignorance."</i>
+<i>"You have to do your own growing no matter how tall your grandfather was."</i>
 <br>
-<b>- Francis of Assisi</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
