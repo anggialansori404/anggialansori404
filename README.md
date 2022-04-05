@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our strength grows out of our weaknesses."</i>
+<i>"Where there is charity and wisdom, there is neither fear nor ignorance."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Francis of Assisi</b>
 </blockquote>
 </p>
 
