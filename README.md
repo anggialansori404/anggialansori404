@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have to do your own growing no matter how tall your grandfather was."</i>
+<i>"Play your part in life, but never forget that it is only a role."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
