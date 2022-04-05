@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The amount of happiness that you have depends on the amount of freedom you have in your heart."</i>
+<i>"Old age is like everything else. To make a success of it, you've got to start young."</i>
 <br>
-<b>- Thích Nhất Hạnh</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
