@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Freedom is the right to live as we wish."</i>
+<i>"Our strength grows out of our weaknesses."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
