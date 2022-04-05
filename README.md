@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One must be fond of people and trust them if one is not to make a mess of life."</i>
+<i>"The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge."</i>
 <br>
-<b>- E. M. Forster</b>
+<b>- Daniel J. Boorstin</b>
 </blockquote>
 </p>
 
