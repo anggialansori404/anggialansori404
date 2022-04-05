@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To climb steep hills requires a slow pace at first."</i>
+<i>"He who angers you conquers you."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- Elizabeth Kenny</b>
 </blockquote>
 </p>
 
