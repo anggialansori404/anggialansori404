@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable."</i>
+<i>"The way we feel is the direct result of what we think."</i>
 <br>
-<b>- Kathleen Norris</b>
+<b>- Peter A. Cohen</b>
 </blockquote>
 </p>
 
