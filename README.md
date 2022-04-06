@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How wonderful it is that nobody need wait a single moment before starting to improve the world."</i>
+<i>"Perhaps the most tragic thing about mankind is that we are all dreaming about some magical garden over the horizon, instead of enjoying the roses that are right outside today."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
