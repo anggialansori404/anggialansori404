@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way we feel is the direct result of what we think."</i>
+<i>"Happiness is an effect of doing what you love, not an end goal to be achieved."</i>
 <br>
-<b>- Peter A. Cohen</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
