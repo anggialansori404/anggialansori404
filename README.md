@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing others is wisdom, knowing yourself is enlightenment."</i>
+<i>"Friendship brings in a lot of honesty and trust into any relationship, especially a marriage."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Farhan Akhtar</b>
 </blockquote>
 </p>
 
