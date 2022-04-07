@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is what happens to you while you're busy making other plans."</i>
+<i>"The future is completely open, and we are writing it moment to moment."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Pema Chödrön</b>
 </blockquote>
 </p>
 
