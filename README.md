@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I cannot always control what goes on outside. But I can always control what goes on inside."</i>
+<i>"Knowing others is wisdom, knowing yourself is enlightenment."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
