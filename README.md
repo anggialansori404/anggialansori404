@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future is completely open, and we are writing it moment to moment."</i>
+<i>"We've got to live, no matter how many skies have fallen."</i>
 <br>
-<b>- Pema Chödrön</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
