@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want your life to be more rewarding, you have to change the way you think."</i>
+<i>"I endeavor to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Elizabeth Montagu</b>
 </blockquote>
 </p>
 
