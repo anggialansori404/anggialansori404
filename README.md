@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I endeavor to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress."</i>
+<i>"It is not enough to win a war; it is more important to organize the peace."</i>
 <br>
-<b>- Elizabeth Montagu</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
