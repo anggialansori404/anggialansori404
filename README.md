@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sad thing is, you can still love someone and be wrong for them."</i>
+<i>"It takes a minute to have a crush on someone, an hour to like someone, and a day to love someone... but it takes a lifetime to forget someone."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
