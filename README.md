@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you come to the end of your rope, tie a knot and hang on."</i>
+<i>"The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. "</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- St. Jerome</b>
 </blockquote>
 </p>
 
