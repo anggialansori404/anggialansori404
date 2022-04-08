@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone must choose one of two pains: The pain of discipline or the pain of regret."</i>
+<i>"Sad thing is, you can still love someone and be wrong for them."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
