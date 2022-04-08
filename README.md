@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you come to the end of your rope, tie a knot and hang on."</i>
+<i>"Everyone must choose one of two pains: The pain of discipline or the pain of regret."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
