@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do one thing every day that scares you."</i>
+<i>"When you come to the end of your rope, tie a knot and hang on."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
