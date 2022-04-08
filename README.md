@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We've got to live, no matter how many skies have fallen."</i>
+<i>"Do one thing every day that scares you."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
