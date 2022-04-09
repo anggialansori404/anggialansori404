@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't let praise or criticism get to you. It's a weakness to get caught up in either one."</i>
+<i>"The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now!"</i>
 <br>
-<b>- John Wooden</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
