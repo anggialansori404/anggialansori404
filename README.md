@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom is oftentimes nearer when we stoop than when we soar."</i>
+<i>"A goal is a dream with a deadline."</i>
 <br>
-<b>- William Wordsworth</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
