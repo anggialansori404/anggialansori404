@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To find yourself, think for yourself."</i>
+<i>"A diamond is a piece of charcoal that handled stress exceptionally well."</i>
 <br>
-<b>- Socrates</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
