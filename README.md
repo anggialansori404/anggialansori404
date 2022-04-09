@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can often change your circumstances by changing your attitude."</i>
+<i>"To find yourself, think for yourself."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
