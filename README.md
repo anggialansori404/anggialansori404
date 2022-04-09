@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A goal is a dream with a deadline."</i>
+<i>"Simple words, repeated daily, can change your life."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
