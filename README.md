@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A diamond is a piece of charcoal that handled stress exceptionally well."</i>
+<i>"You can't let praise or criticism get to you. It's a weakness to get caught up in either one."</i>
 <br>
-<b>- Unknown</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
