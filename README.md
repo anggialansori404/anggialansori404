@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars."</i>
+<i>"You cannot always control what goes on outside. But you can always control what goes on inside. "</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
