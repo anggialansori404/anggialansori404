@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The healthiest response to life is joy."</i>
+<i>"Attitude drives actions. Actions drive results. Results drive lifestyles."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
