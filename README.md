@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence."</i>
+<i>"The healthiest response to life is joy."</i>
 <br>
-<b>- Confucius</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
