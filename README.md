@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Waste no more time arguing about what a good man should be. Be one."</i>
+<i>"The most important thing in communication is to hear what isn't being said."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
