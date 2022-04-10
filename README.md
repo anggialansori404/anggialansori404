@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where focus goes, energy flows."</i>
+<i>"Dream big. Start small. But most of all, start."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
