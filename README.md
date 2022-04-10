@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot always control what goes on outside. But you can always control what goes on inside. "</i>
+<i>"Waste no more time arguing about what a good man should be. Be one."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
