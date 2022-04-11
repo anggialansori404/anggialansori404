@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sweet is the memory of distant friends! Like the mellow rays of the departing sun, it falls tenderly, yet sadly, on the heart."</i>
+<i>"When the fish is caught we pay no more attention to the trap."</i>
 <br>
-<b>- Washington Irving</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
