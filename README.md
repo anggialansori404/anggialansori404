@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Moral excellence comes about as a result of habit. We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts."</i>
+<i>"Fear not for the future, weep not for the past."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Percy Bysshe Shelley</b>
 </blockquote>
 </p>
 
