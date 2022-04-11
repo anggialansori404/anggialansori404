@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the fish is caught we pay no more attention to the trap."</i>
+<i>"In seed time learn, in harvest teach, in winter enjoy."</i>
 <br>
-<b>- Huang Po</b>
+<b>- William Blake</b>
 </blockquote>
 </p>
 
