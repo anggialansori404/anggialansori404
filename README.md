@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In seed time learn, in harvest teach, in winter enjoy."</i>
+<i>"The primary point of this existence is to live, and all living things move and grow."</i>
 <br>
-<b>- William Blake</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
