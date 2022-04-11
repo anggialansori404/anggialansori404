@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing brings down walls as surely as acceptance."</i>
+<i>"I'll prepare and someday my chance will come."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
