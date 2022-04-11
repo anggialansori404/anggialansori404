@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear not for the future, weep not for the past."</i>
+<i>"Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace."</i>
 <br>
-<b>- Percy Bysshe Shelley</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
