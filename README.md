@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise. "</i>
+<i>"People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine."</i>
 <br>
-<b>- Buddha</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
