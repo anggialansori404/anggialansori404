@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace."</i>
+<i>"Nothing brings down walls as surely as acceptance."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
