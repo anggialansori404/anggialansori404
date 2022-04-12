@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It doesn't matter where you are coming from. All that matters is where you are going. "</i>
+<i>"I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
