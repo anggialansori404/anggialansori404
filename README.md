@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"TEAMWORK: the fuel that allows common people attain uncommon results."</i>
+<i>"It doesn't matter where you are coming from. All that matters is where you are going. "</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
