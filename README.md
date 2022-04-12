@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't settle for a relationship that won't let you be yourself."</i>
+<i>"A zen master's life is one continuous mistake."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
