@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A zen master's life is one continuous mistake."</i>
+<i>"TEAMWORK: the fuel that allows common people attain uncommon results."</i>
 <br>
-<b>- Dogen</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
