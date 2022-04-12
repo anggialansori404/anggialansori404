@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't stop the waves, but you can learn to surf."</i>
+<i>"Don't settle for a relationship that won't let you be yourself."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
