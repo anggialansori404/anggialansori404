@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To bring anything into your life, imagine that it's already there."</i>
+<i>"Blessed are the hearts that can bend; they shall never be broken."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Albert Camus</b>
 </blockquote>
 </p>
 
