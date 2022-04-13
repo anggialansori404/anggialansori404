@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want others to be happy, practice compassion. If you want to be happy, practice compassion."</i>
+<i>"Be yourself; everyone else is already taken."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
