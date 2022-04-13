@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in."</i>
+<i>"Age does not protect you from love. But love, to some extent, protects you from age."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Anaïs Nin</b>
 </blockquote>
 </p>
 
