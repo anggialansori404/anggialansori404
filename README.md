@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great deeds are usually wrought at great risks."</i>
+<i>"The best way to pay for a lovely moment is to enjoy it."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
