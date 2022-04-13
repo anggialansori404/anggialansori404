@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't find the time, if you don't do the work, you don't get the results."</i>
+<i>"Only by attracting the best people will you accomplish great deeds."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
