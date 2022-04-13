@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Blessed are the hearts that can bend; they shall never be broken."</i>
+<i>"Silence at the proper season is wisdom, and better than any speech."</i>
 <br>
-<b>- Albert Camus</b>
+<b>- Plutarch</b>
 </blockquote>
 </p>
 
