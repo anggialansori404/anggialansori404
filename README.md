@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Silence at the proper season is wisdom, and better than any speech."</i>
+<i>"Failure means you've now learned another valuable lesson that pushes you one step closer to success."</i>
 <br>
-<b>- Plutarch</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
