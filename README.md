@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only by attracting the best people will you accomplish great deeds."</i>
+<i>"To bring anything into your life, imagine that it's already there."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
