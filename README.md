@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The power of human thought grows exponentially with the number of minds that share that thought."</i>
+<i>"If you don't find the time, if you don't do the work, you don't get the results."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
