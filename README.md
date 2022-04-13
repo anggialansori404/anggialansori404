@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Age does not protect you from love. But love, to some extent, protects you from age."</i>
+<i>"If you want others to be happy, practice compassion. If you want to be happy, practice compassion."</i>
 <br>
-<b>- Anaïs Nin</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
