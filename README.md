@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When written in Chinese, the word 'crisis' is composed of two characters. One represents danger and the other represents opportunity."</i>
+<i>"If your mind is empty, it is always ready for anything, it is open to everything."</i>
 <br>
-<b>- John F. Kennedy</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
