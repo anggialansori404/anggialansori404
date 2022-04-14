@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The heart wants what it wants. There's no logic. "</i>
+<i>"In matters of style, swim with the current; in matters of principle, stand like a rock."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
