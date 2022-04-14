@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We run to win, not just to be in the race.  "</i>
+<i>"What we think, we become."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
