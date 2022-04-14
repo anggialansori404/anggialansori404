@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to pay for a lovely moment is to enjoy it."</i>
+<i>"When written in Chinese, the word 'crisis' is composed of two characters. One represents danger and the other represents opportunity."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- John F. Kennedy</b>
 </blockquote>
 </p>
 
