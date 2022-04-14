@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If your mind is empty, it is always ready for anything, it is open to everything."</i>
+<i>"Wisdom and penetration are the fruit of experience, not the lessons of retirement and leisure. Great necessities call out great virtues."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Abigail Adams</b>
 </blockquote>
 </p>
 
