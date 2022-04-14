@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In matters of style, swim with the current; in matters of principle, stand like a rock."</i>
+<i>"Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
