@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You only lose what you cling to."</i>
+<i>"We run to win, not just to be in the race.  "</i>
 <br>
-<b>- Buddha</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
