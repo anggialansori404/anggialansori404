@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who permits himself to tell a lie once, finds it much easier to do it the second time."</i>
+<i>"Things turn out best for those who make the best of the way things turn out."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Jack Buck</b>
 </blockquote>
 </p>
 
