@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is literally what he thinks."</i>
+<i>"He who permits himself to tell a lie once, finds it much easier to do it the second time."</i>
 <br>
-<b>- James Allen</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
