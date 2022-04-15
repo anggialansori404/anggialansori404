@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less."</i>
+<i>"There is only the one reality, neither to be realized nor attained."</i>
 <br>
-<b>- Marie Curie</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
