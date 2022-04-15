@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Art, like morality, consists of drawing the line somewhere."</i>
+<i>"The quality of your life is the quality of your relationships."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
