@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Beauty is not in the face; beauty is a light in the heart."</i>
+<i>"Give a girl the right shoes, and she can conquer the world."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Bette Midler</b>
 </blockquote>
 </p>
 
