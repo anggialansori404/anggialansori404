@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give a girl the right shoes, and she can conquer the world."</i>
+<i>"Do you want to know who you are? Don't ask. Act! Action will delineate and define you."</i>
 <br>
-<b>- Bette Midler</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
