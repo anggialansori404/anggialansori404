@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Things turn out best for those who make the best of the way things turn out."</i>
+<i>"Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less."</i>
 <br>
-<b>- Jack Buck</b>
+<b>- Marie Curie</b>
 </blockquote>
 </p>
 
