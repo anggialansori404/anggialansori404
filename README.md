@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A lie can travel half way around the world while the truth is putting on its shoes."</i>
+<i>"It is in your moments of decision that your destiny is shaped."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
