@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There can be no deep disappointment where there is not deep love."</i>
+<i>"Art, like morality, consists of drawing the line somewhere."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
