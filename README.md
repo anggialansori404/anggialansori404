@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be approximately right rather than exactly wrong."</i>
+<i>"No snowflake in an avalanche ever feels responsible."</i>
 <br>
-<b>- John Tukey</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
