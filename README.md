@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you want something in life, you just gotta reach out and grab it."</i>
+<i>"Knowledge is going to make you stronger. Knowledge is going to let you control your life. Knowledge is going to give you the wisdom to teach their children. Knowledge is the thing that makes you smile in the face of disaster."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Avery Brooks</b>
 </blockquote>
 </p>
 
