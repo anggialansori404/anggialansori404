@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is in your moments of decision that your destiny is shaped."</i>
+<i>"Simplicity is the glory of expression."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
