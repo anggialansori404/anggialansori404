@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust is the foundation of great leadership."</i>
+<i>"When you want something in life, you just gotta reach out and grab it."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
