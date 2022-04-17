@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be your own hero, it's cheaper than a movie ticket."</i>
+<i>"Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway."</i>
 <br>
-<b>- Doug Horton</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
