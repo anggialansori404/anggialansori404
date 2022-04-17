@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you want something in life, you just gotta reach out and grab it."</i>
+<i>"I have lived with several Zen masters -- all of them cats."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
