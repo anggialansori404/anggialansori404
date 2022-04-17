@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have lived with several Zen masters -- all of them cats."</i>
+<i>"It is the quality of our work which will please God, not the quantity."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
