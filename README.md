@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To profit from good advice requires more wisdom than to give it."</i>
+<i>"Magic is believing in yourself, if you can do that, you can make anything happen."</i>
 <br>
-<b>- Wilson Mizner</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
