@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're never given a dream without also being given the power to make it true."</i>
+<i>"Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
