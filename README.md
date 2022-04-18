@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wise accomplish all that they want without arousing the envy or scorn of others."</i>
+<i>"There is little success where there is little laughter."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
