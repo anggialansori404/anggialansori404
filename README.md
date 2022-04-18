@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a quality of the soul...not a function of one's material circumstances."</i>
+<i>"When you can't make them see the light, make them feel the heat."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
