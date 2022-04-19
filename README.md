@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life can be wonderful if you're not afraid of it."</i>
+<i>"Think for yourselves and let others enjoy the privilege to do so too."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
