@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man is free who is not master of himself."</i>
+<i>"Vanity can easily overtake wisdom. It usually overtakes common sense."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Julian Casablancas</b>
 </blockquote>
 </p>
 
