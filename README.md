@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Vanity can easily overtake wisdom. It usually overtakes common sense."</i>
+<i>"The heart has its reasons which reason knows not of."</i>
 <br>
-<b>- Julian Casablancas</b>
+<b>- Blaise Pascal</b>
 </blockquote>
 </p>
 
