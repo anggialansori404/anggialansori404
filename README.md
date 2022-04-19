@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To belittle, you have to be little."</i>
+<i>"No man is free who is not master of himself."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
