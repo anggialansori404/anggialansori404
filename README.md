@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear not the path of Truth for the lack of People walking on it."</i>
+<i>"Life can be wonderful if you're not afraid of it."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
