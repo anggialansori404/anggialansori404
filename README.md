@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have no special talent. I am only passionately curious."</i>
+<i>"Study the past, if you would divine the future."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
