@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want a thing done well, do it yourself."</i>
+<i>"Life is a question and how we live it is our answer."</i>
 <br>
-<b>- Napoleon</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
