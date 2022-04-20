@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're never given a dream without also being given the power to make it true."</i>
+<i>"If you want a thing done well, do it yourself."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Napoleon</b>
 </blockquote>
 </p>
 
