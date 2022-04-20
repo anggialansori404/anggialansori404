@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Study the past, if you would divine the future."</i>
+<i>"I allow my intuition to lead my path."</i>
 <br>
-<b>- Confucius</b>
+<b>- Manuel Puig</b>
 </blockquote>
 </p>
 
