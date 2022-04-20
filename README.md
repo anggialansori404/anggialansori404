@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I allow my intuition to lead my path."</i>
+<i>"Your success and happiness lie in you."</i>
 <br>
-<b>- Manuel Puig</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
