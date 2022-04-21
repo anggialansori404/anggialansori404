@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live your life as an exclamation rather than an explanation."</i>
+<i>"Forget safety. Live where you fear to live."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
