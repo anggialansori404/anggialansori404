@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want your life to be more rewarding, you have to change the way you think."</i>
+<i>"Find your Light; They can't love you if they can't see you."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Bette Midler</b>
 </blockquote>
 </p>
 
