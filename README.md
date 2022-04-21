@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To know oneself is to study oneself in action with another person."</i>
+<i>"Only through our connectedness to others can we really know and enhance the self. And only through working on the self can we begin to enhance our connectedness to others."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Harriet Lerner</b>
 </blockquote>
 </p>
 
