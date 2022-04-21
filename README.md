@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Find your Light; They can't love you if they can't see you."</i>
+<i>"There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction."</i>
 <br>
-<b>- Bette Midler</b>
+<b>- G.I. Gurdjieff</b>
 </blockquote>
 </p>
 
