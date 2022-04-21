@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live life as though nobody is watching, and express yourself as though everyone is listening."</i>
+<i>"If you want your life to be more rewarding, you have to change the way you think."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
