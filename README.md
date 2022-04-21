@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a question and how we live it is our answer."</i>
+<i>"No matter how hard the past, you can always begin again."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
