@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter how hard the past, you can always begin again."</i>
+<i>"To know oneself is to study oneself in action with another person."</i>
 <br>
-<b>- Buddha</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
