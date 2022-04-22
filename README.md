@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good system shortens the road to the goal. "</i>
+<i>"Forget safety. Live where you fear to live."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
