@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I put my heart and soul into my work, and I have lost my mind in the process."</i>
+<i>"Arriving at one point is the starting point to another."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- John Dewey</b>
 </blockquote>
 </p>
 
