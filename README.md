@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Arriving at one point is the starting point to another."</i>
+<i>"The most formidable weapon against errors of every kind is reason."</i>
 <br>
-<b>- John Dewey</b>
+<b>- Thomas Paine</b>
 </blockquote>
 </p>
 
