@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Attitude drives actions. Actions drive results. Results drive lifestyles."</i>
+<i>"I was wise enough to never grow up while fooling most people into believing I had. "</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
