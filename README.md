@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I was wise enough to never grow up while fooling most people into believing I had. "</i>
+<i>"You know the more one does the more one can do."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
