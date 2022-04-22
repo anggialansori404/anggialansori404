@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You know the more one does the more one can do."</i>
+<i>"A good system shortens the road to the goal. "</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Orison Swett Marden</b>
 </blockquote>
 </p>
 
