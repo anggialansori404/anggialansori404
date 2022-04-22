@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most formidable weapon against errors of every kind is reason."</i>
+<i>"In order to be irreplaceable one must always be different."</i>
 <br>
-<b>- Thomas Paine</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
