@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who dream by day are cognizant of many things which escape those who dream only by night."</i>
+<i>"You gain strength, courage and confidence by every experience in which you really stop to look fear in the face."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
