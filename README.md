@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship always benefits; love sometimes injures."</i>
+<i>"One secret of success in life is for a man to be ready for his opportunity when it comes."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Benjamin Disraeli</b>
 </blockquote>
 </p>
 
