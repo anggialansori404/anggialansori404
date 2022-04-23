@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take up one idea. Make that one idea your life - think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success."</i>
+<i>"It is better to disappoint people with the truth than to appease them with a lie."</i>
 <br>
-<b>- Swami Vivekananda</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
