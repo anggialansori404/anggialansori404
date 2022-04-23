@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Real growth comes through intense, difficult, and challenging situations."</i>
+<i>"Friendship always benefits; love sometimes injures."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
