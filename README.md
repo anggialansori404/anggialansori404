@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where you are right now doesn't have to determine where you'll end up."</i>
+<i>"The world makes way for the man who knows where he is going."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
