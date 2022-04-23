@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Decision is a risk rooted in the courage of being free."</i>
+<i>"Work for something because it is good, not just because it stands a chance to succeed."</i>
 <br>
-<b>- Paul Tillich</b>
+<b>- Václav Havel</b>
 </blockquote>
 </p>
 
