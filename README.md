@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You gain strength, courage and confidence by every experience in which you really stop to look fear in the face."</i>
+<i>"To be fully alive, fully human, and completely awake is to be continually thrown out of the nest."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
