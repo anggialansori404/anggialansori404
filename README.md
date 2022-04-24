@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How wonderful it is that nobody need wait a single moment before starting to improve the world."</i>
+<i>"Wrong does not cease to be wrong because the majority share in it."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
