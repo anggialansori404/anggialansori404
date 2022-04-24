@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A simple rule in dealing with those who are hard to get along with is to remember that this person is striving to assert his superiority; and you must deal with him from that point of view."</i>
+<i>"Your dream has to be bigger than your fear."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
