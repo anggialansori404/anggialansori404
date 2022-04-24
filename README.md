@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There's power in looking silly and not caring that you do."</i>
+<i>"A leader is one who knows the way, goes the way, and shows the way."</i>
 <br>
-<b>- Amy Poehler</b>
+<b>- John C. Maxwell</b>
 </blockquote>
 </p>
 
