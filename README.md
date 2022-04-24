@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To belittle, you have to be little."</i>
+<i>"Friendship, like credit, is highest when it is not used."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
