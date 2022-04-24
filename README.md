@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight."</i>
+<i>"A simple rule in dealing with those who are hard to get along with is to remember that this person is striving to assert his superiority; and you must deal with him from that point of view."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
