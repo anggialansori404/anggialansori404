@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The person born with a talent they are meant to use will find their greatest happiness in using it."</i>
+<i>"If you do what you've always done, you'll get what you've always gotten."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
