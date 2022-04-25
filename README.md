@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ignorance and bungling with love are better than wisdom and skill without."</i>
+<i>"If we could see the miracle of a single flower clearly, our whole life would change."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
