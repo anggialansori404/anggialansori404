@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be here now. Be someplace else later. Is that so complicated?"</i>
+<i>"The person born with a talent they are meant to use will find their greatest happiness in using it."</i>
 <br>
-<b>- David Bader</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
