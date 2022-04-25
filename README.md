@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In dwelling, live close to the ground. In thinking, keep to the simple. In conflict, be fair and generous. In governing, don't try to control. In work, do what you enjoy. In family life, be completely present."</i>
+<i>"Go put your creed into the deed. Nor speak with double tongue."</i>
 <br>
-<b>- Laozi</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
