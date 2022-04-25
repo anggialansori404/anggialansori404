@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit."</i>
+<i>"The fall of dropping water wears away the Stone."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Lucretius</b>
 </blockquote>
 </p>
 
