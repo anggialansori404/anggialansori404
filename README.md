@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do what you've always done, you'll get what you've always gotten."</i>
+<i>"Ignorance and bungling with love are better than wisdom and skill without."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
