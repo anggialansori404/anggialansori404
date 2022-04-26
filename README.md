@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom has never made a bigot, but learning has."</i>
+<i>"Only those who dare to fail greatly can ever achieve greatly."</i>
 <br>
-<b>- Josh Billings</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
