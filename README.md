@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Logic will get you from A to B. Imagination will take you everywhere."</i>
+<i>"If you don't know where you are going, any road will get you there."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Lewis Carroll</b>
 </blockquote>
 </p>
 
