@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't know where you are going, any road will get you there."</i>
+<i>"We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly."</i>
 <br>
-<b>- Lewis Carroll</b>
+<b>- Sam Keen</b>
 </blockquote>
 </p>
 
