@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who knows, does not speak. He who speaks, does not know."</i>
+<i>"Logic will get you from A to B. Imagination will take you everywhere."</i>
 <br>
-<b>- Laozi</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
