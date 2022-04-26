@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you realize how perfect everything is you will tilt your head back and laugh at the sky."</i>
+<i>"Wisdom has never made a bigot, but learning has."</i>
 <br>
-<b>- Buddha</b>
+<b>- Josh Billings</b>
 </blockquote>
 </p>
 
