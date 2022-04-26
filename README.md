@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes the most important thing in a whole day is the rest we take between two deep breaths."</i>
+<i>"When you realize how perfect everything is you will tilt your head back and laugh at the sky."</i>
 <br>
-<b>- Etty Hillesum</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
