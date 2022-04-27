@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The right thing to do and the hard thing to do are usually the same."</i>
+<i>"Technology is teaching us to be human again."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Simon Mainwaring</b>
 </blockquote>
 </p>
 
