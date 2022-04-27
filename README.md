@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The difference between what we do and what we are capable of doing would suffice to solve most of the world's problems."</i>
+<i>"Never explain - your friends do not need it and your enemies will not believe you anyway."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
