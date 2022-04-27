@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To avoid criticism, do nothing, say nothing, be nothing."</i>
+<i>"A good system shortens the road to the goal. "</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Orison Swett Marden</b>
 </blockquote>
 </p>
 
