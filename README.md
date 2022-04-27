@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One must be poor to know the luxury of giving."</i>
+<i>"The greatest minds are capable of the greatest vices as well as of the greatest virtues."</i>
 <br>
-<b>- George Eliot</b>
+<b>- René Descartes</b>
 </blockquote>
 </p>
 
