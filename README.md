@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Technology is teaching us to be human again."</i>
+<i>"No pessimist ever discovered the secrets of the stars, or sailed to an uncharted land, or opened a new heaven to the human spirit."</i>
 <br>
-<b>- Simon Mainwaring</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
