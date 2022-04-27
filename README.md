@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be great in act, as you have been in thought."</i>
+<i>"People who say it cannot be done should not interrupt those who are doing it."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
