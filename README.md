@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly."</i>
+<i>"The difference between what we do and what we are capable of doing would suffice to solve most of the world's problems."</i>
 <br>
-<b>- Sam Keen</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
