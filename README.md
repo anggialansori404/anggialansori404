@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust is built and maintained by many small actions over time."</i>
+<i>"Life is simply what our feelings do to us."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
