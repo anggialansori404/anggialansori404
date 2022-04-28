@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better the cottage where one is merry than the palace where one weeps."</i>
+<i>"Happiness is not the absence of problems, it's the ability to deal with them."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
