@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The dead receive more flowers than the living because regret is stronger than gratitude."</i>
+<i>"Better the cottage where one is merry than the palace where one weeps."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
