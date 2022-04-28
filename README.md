@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A goal is a dream with a deadline."</i>
+<i>"Empty your mind, be formless."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
