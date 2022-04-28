@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest minds are capable of the greatest vices as well as of the greatest virtues."</i>
+<i>"The quality of your life is determined by the quality of questions you ask."</i>
 <br>
-<b>- René Descartes</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
