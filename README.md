@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quality of your life is determined by the quality of questions you ask."</i>
+<i>"Change the changeable, accept the unchangeable, and remove yourself from the unacceptable. "</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
