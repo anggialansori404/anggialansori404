@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change the changeable, accept the unchangeable, and remove yourself from the unacceptable. "</i>
+<i>"Trust is built and maintained by many small actions over time."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
