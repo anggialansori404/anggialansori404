@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who look for the bad in people will surely find it."</i>
+<i>"Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
