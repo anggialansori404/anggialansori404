@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is not something outside to be discovered, it is something inside to be realized."</i>
+<i>"Loss is nothing else but change, and change is Nature's delight."</i>
 <br>
-<b>- Osho</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
