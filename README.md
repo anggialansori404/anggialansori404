@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you take responsibility for yourself you will develop a hunger to accomplish your dream."</i>
+<i>"I care not so much what I am to others as what I am to myself. I will be rich by myself, and not by borrowing."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Michel de Montaigne</b>
 </blockquote>
 </p>
 
