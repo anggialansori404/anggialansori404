@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If there's a definition of freedom, I think it's this: living life on your terms."</i>
+<i>"Those who look for the bad in people will surely find it."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
