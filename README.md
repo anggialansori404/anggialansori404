@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Patience is the companion of wisdom."</i>
+<i>"Of all the things which wisdom provides to make us entirely happy, much the greatest is the possession of friendship."</i>
 <br>
-<b>- Augustine of Hippo</b>
+<b>- Epicurus</b>
 </blockquote>
 </p>
 
