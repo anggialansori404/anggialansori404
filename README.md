@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wisdom of life consists in the elimination of the nonessentials."</i>
+<i>"Perfection is not attainable, but if we chase perfection we can catch excellence."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
