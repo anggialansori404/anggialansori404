@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When we are no longer able to change a situation - we are challenged to change ourselves."</i>
+<i>"True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances."</i>
 <br>
-<b>- Viktor Frankl</b>
+<b>- Daisaku Ikeda</b>
 </blockquote>
 </p>
 
