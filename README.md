@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances."</i>
+<i>"Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality."</i>
 <br>
-<b>- Daisaku Ikeda</b>
+<b>- James Cameron</b>
 </blockquote>
 </p>
 
