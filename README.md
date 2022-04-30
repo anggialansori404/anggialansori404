@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality."</i>
+<i>"Take no thought of who is right or wrong or who is better than. Be not for or against."</i>
 <br>
-<b>- James Cameron</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
