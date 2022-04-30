@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you spend too much time thinking about a thing, you'll never get it done."</i>
+<i>"Patience is the companion of wisdom."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Augustine of Hippo</b>
 </blockquote>
 </p>
 
