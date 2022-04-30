@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Loss is nothing else but change, and change is Nature's delight."</i>
+<i>"When we are no longer able to change a situation - we are challenged to change ourselves."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Viktor Frankl</b>
 </blockquote>
 </p>
 
