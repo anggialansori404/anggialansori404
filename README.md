@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only in the agony of parting do we look into the depths of love."</i>
+<i>"Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Bernice Reagon</b>
 </blockquote>
 </p>
 
