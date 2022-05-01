@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed."</i>
+<i>"Only in the agony of parting do we look into the depths of love."</i>
 <br>
-<b>- Blaise Pascal</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
