@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Of all the things which wisdom provides to make us entirely happy, much the greatest is the possession of friendship."</i>
+<i>"Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed."</i>
 <br>
-<b>- Epicurus</b>
+<b>- Blaise Pascal</b>
 </blockquote>
 </p>
 
