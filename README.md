@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My friends are my estate."</i>
+<i>"The grand essentials of happiness are: something to do, something to love, and something to hope for."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Alexander Chalmers</b>
 </blockquote>
 </p>
 
