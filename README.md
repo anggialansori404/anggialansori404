@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no limitations to the mind except those we acknowledge."</i>
+<i>"If one way be better than another, that you may be sure is nature's way."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
