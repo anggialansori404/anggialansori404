@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People grow through experience if they meet life honestly and courageously. This is how character is built."</i>
+<i>"We are stuck with technology when what we really want is just stuff that works."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Douglas Adams</b>
 </blockquote>
 </p>
 
