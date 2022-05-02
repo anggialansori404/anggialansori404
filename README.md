@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your friend is your needs answered."</i>
+<i>"It is one of the severest tests of friendship to tell your friend his faults. So to love a man that you cannot bear to see a stain upon him, and to speak painful truth through loving words, that is friendship."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
