@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The grand essentials of happiness are: something to do, something to love, and something to hope for."</i>
+<i>"People have the illusion that all over the world, all the time, all kinds of fantastic things are happening."</i>
 <br>
-<b>- Alexander Chalmers</b>
+<b>- David Brinkley</b>
 </blockquote>
 </p>
 
