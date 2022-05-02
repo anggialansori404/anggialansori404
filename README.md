@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fools talk, cowards are silent, wise men listen."</i>
+<i>"Your friend is your needs answered."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
