@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People have the illusion that all over the world, all the time, all kinds of fantastic things are happening."</i>
+<i>"Don't Let Yesterday Take Up Too Much Of Today."</i>
 <br>
-<b>- David Brinkley</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
