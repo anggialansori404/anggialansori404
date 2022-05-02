@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is one of the severest tests of friendship to tell your friend his faults. So to love a man that you cannot bear to see a stain upon him, and to speak painful truth through loving words, that is friendship."</i>
+<i>"Friendship is also about liking a person for their failings, their weakness. It's also about mutual help, not about exploitation."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Paul Theroux</b>
 </blockquote>
 </p>
 
