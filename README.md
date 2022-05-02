@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is never lost. If not reciprocated, it will flow back and soften and purify the heart."</i>
+<i>"The time is always right to do what is right."</i>
 <br>
-<b>- Washington Irving</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
