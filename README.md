@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't Let Yesterday Take Up Too Much Of Today."</i>
+<i>"The foot feels the foot when it feels the ground."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
