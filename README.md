@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is also about liking a person for their failings, their weakness. It's also about mutual help, not about exploitation."</i>
+<i>"People grow through experience if they meet life honestly and courageously. This is how character is built."</i>
 <br>
-<b>- Paul Theroux</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
