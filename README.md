@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are two ways of spreading light: to be the candle or the mirror that reflects it."</i>
+<i>"Permanence, perseverance and persistence in spite of all obstacles, discouragements, and impossibilities: It is this, that in all things distinguishes the strong soul from the weak."</i>
 <br>
-<b>- Edith Wharton</b>
+<b>- Thomas Carlyle</b>
 </blockquote>
 </p>
 
