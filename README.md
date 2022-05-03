@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you correct your mind, the rest of your life will fall into place."</i>
+<i>"There are two ways of spreading light: to be the candle or the mirror that reflects it."</i>
 <br>
-<b>- Laozi</b>
+<b>- Edith Wharton</b>
 </blockquote>
 </p>
 
