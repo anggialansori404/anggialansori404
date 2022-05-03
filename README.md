@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The moment you stop to think about whether you love someone, you've already stopped loving that person forever."</i>
+<i>"If you do not conquer self, you will be conquered by self."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
