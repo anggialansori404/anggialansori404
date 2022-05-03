@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Permanence, perseverance and persistence in spite of all obstacles, discouragements, and impossibilities: It is this, that in all things distinguishes the strong soul from the weak."</i>
+<i>"Happiness must be grown in one's own garden."</i>
 <br>
-<b>- Thomas Carlyle</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
