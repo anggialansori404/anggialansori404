@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Experience is not what happens to you; it's what you do with what happens to you."</i>
+<i>"If you correct your mind, the rest of your life will fall into place."</i>
 <br>
-<b>- Aldous Huxley</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
