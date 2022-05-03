@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths."</i>
+<i>"Life is movement-we breathe, we eat, we walk, we move!"</i>
 <br>
-<b>- Charles Spurgeon</b>
+<b>- John Pierrakos</b>
 </blockquote>
 </p>
 
