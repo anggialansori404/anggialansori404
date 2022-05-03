@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time."</i>
+<i>"For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Mary Kay Ash</b>
 </blockquote>
 </p>
 
