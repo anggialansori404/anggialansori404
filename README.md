@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes you will never know the value of something, until it becomes a memory."</i>
+<i>"Every man desires to live long, but no man wishes to be old."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
