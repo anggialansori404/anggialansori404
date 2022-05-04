@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must do the things you think you cannot do."</i>
+<i>"Sometimes you will never know the value of something, until it becomes a memory."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
