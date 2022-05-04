@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mistakes are always forgivable, if one has the courage to admit them. "</i>
+<i>"You must do the things you think you cannot do."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
