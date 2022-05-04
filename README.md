@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is softer or more flexible than water, yet nothing can resist it."</i>
+<i>"Mistakes are always forgivable, if one has the courage to admit them. "</i>
 <br>
-<b>- Laozi</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
