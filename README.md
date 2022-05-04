@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot change anything in your life with intention alone, which can become a watered-down, occasional hope that you'll get to tomorrow. Intention without action is useless."</i>
+<i>"Never settle for the crumbs of life."</i>
 <br>
-<b>- Caroline Myss</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
