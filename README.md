@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The real meditation is how you live your life."</i>
+<i>"Nothing is softer or more flexible than water, yet nothing can resist it."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
