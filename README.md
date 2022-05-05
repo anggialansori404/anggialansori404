@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is not just the passing of time. Life is the collection of experiences and their intensity."</i>
+<i>"By accepting yourself and being fully what you are, your presence can make others happy."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Jane Roberts</b>
 </blockquote>
 </p>
 
