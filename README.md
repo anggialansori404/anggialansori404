@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always seek out the seed of triumph in every adversity."</i>
+<i>"Imagination will often carry us to worlds that never were. But without it we go nowhere."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Carl Sagan</b>
 </blockquote>
 </p>
 
