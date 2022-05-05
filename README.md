@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The universe is transformation; our life is what our thoughts make it."</i>
+<i>"Life is not just the passing of time. Life is the collection of experiences and their intensity."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
