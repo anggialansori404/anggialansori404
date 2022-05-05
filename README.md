@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination will often carry us to worlds that never were. But without it we go nowhere."</i>
+<i>"Friendship brings in a lot of honesty and trust into any relationship, especially a marriage."</i>
 <br>
-<b>- Carl Sagan</b>
+<b>- Farhan Akhtar</b>
 </blockquote>
 </p>
 
