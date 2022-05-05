@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By accepting yourself and being fully what you are, your presence can make others happy."</i>
+<i>"Always seek out the seed of triumph in every adversity."</i>
 <br>
-<b>- Jane Roberts</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
