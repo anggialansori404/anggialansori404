@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Focus is a matter of deciding what things you're not going to do."</i>
+<i>"Change your thoughts and you change your world."</i>
 <br>
-<b>- John Carmack</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
