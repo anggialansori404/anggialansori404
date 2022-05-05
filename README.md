@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship brings in a lot of honesty and trust into any relationship, especially a marriage."</i>
+<i>"Focus is a matter of deciding what things you're not going to do."</i>
 <br>
-<b>- Farhan Akhtar</b>
+<b>- John Carmack</b>
 </blockquote>
 </p>
 
