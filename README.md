@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change the changeable, accept the unchangeable, and remove yourself from the unacceptable. "</i>
+<i>"In the middle of every difficulty lies opportunity."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
