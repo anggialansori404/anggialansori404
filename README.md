@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To handle yourself, use your head; to handle others, use your heart."</i>
+<i>"The fall of dropping water wears away the Stone."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Lucretius</b>
 </blockquote>
 </p>
 
