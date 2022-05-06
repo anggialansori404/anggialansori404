@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are many ways of going forward, but only one way of standing still."</i>
+<i>"Life is not a problem to be solved, but a reality to be experienced."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Søren Kierkegaard</b>
 </blockquote>
 </p>
 
