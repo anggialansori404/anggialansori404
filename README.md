@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The fall of dropping water wears away the Stone."</i>
+<i>"Real magic in relationships means an absence of judgement of others."</i>
 <br>
-<b>- Lucretius</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
