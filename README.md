@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some men see things as they are and ask why. Others dream things that never were and ask why not."</i>
+<i>"There are many ways of going forward, but only one way of standing still."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
