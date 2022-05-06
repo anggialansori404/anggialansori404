@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Real magic in relationships means an absence of judgement of others."</i>
+<i>"Some men see things as they are and ask why. Others dream things that never were and ask why not."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
