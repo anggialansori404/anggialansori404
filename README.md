@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is not a problem to be solved, but a reality to be experienced."</i>
+<i>"Self-control is strength."</i>
 <br>
-<b>- Søren Kierkegaard</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
