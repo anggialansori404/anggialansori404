@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear not for the future, weep not for the past."</i>
+<i>"Real growth comes through intense, difficult, and challenging situations."</i>
 <br>
-<b>- Percy Bysshe Shelley</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
