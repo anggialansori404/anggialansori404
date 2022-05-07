@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's OK to have your eggs in one basket as long as you control what happens to that basket."</i>
+<i>"From a certain point onward there is no longer any turning back. That is the point that must be reached."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
