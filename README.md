@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Forget safety. Live where you fear to live."</i>
+<i>"If you love life, don't waste time, for time is what life is made up of. "</i>
 <br>
-<b>- Rumi</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
