@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time is the most valuable thing a man can spend."</i>
+<i>"If only wed stop trying to be happy wed have a pretty good time."</i>
 <br>
-<b>- Theophrastus</b>
+<b>- Edith Wharton</b>
 </blockquote>
 </p>
 
