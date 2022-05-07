@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the middle of every difficulty lies opportunity."</i>
+<i>"Chop your own wood and it will warm you twice. "</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
