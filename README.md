@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Discipline yourself, and others won't need to."</i>
+<i>"Time is the most valuable thing a man can spend."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Theophrastus</b>
 </blockquote>
 </p>
 
