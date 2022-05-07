@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never lose hope. Storms make people stronger and never last forever."</i>
+<i>"Discipline yourself, and others won't need to."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
