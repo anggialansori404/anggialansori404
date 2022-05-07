@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you love life, don't waste time, for time is what life is made up of. "</i>
+<i>"Sorrow is knowledge, those that know the most must mourn the deepest, the tree of knowledge is not the tree of life."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Lord Byron</b>
 </blockquote>
 </p>
 
