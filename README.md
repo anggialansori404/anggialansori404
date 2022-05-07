@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If someone betrays you once, it's their fault; if they betray you twice, it's your fault."</i>
+<i>"Forget safety. Live where you fear to live."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
