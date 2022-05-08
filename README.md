@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For the things we have to learn before we can do them, we learn by doing them."</i>
+<i>"The quality of your life is the quality of your relationships."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
