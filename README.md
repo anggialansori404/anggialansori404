@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our intention creates our reality."</i>
+<i>"Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside, awakens."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
