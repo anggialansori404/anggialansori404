@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You learn to speak by speaking, to study by studying, to run by running, to work by working; in just the same way, you learn to love by loving."</i>
+<i>"What is not started today is never finished tomorrow."</i>
 <br>
-<b>- Anatole France</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
