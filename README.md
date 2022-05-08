@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside, awakens."</i>
+<i>"No snowflake in an avalanche ever feels responsible."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
