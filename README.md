@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nine-tenths of wisdom is being wise in time."</i>
+<i>"Wisdom is found only in truth."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
