@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fame usually comes to those who are thinking about something else."</i>
+<i>"Determine never to be idle. No person will have occasion to complain of the want of time who never loses any."</i>
 <br>
-<b>- Oliver Wendell Holmes Jr.</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
