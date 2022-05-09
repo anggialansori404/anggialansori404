@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be wronged is nothing unless you continue to remember it."</i>
+<i>"False friendship, like the ivy, decays and ruins the walls it embraces; but true friendship gives new life and animation to the object it supports."</i>
 <br>
-<b>- Confucius</b>
+<b>- Richard Burton</b>
 </blockquote>
 </p>
 
