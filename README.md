@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"False friendship, like the ivy, decays and ruins the walls it embraces; but true friendship gives new life and animation to the object it supports."</i>
+<i>"Honor is the foundation of courage."</i>
 <br>
-<b>- Richard Burton</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
