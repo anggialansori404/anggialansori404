@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Honor is the foundation of courage."</i>
+<i>"The opportunity of defeating the enemy is provided by the enemy himself."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
