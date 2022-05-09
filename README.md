@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is softer or more flexible than water, yet nothing can resist it."</i>
+<i>"Fame usually comes to those who are thinking about something else."</i>
 <br>
-<b>- Laozi</b>
+<b>- Oliver Wendell Holmes Jr.</b>
 </blockquote>
 </p>
 
