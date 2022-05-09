@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do something wonderful, people may imitate it."</i>
+<i>"To be wronged is nothing unless you continue to remember it."</i>
 <br>
-<b>- Albert Schweitzer</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
