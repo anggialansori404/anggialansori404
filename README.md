@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom is found only in truth."</i>
+<i>"Nothing is softer or more flexible than water, yet nothing can resist it."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
