@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool."</i>
+<i>"Where is the Life we have lost in living? Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?"</i>
 <br>
-<b>- Joseph Roux</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
