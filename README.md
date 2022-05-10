@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where is the Life we have lost in living? Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?"</i>
+<i>"The sum of wisdom is that time is never lost that is devoted to work."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
