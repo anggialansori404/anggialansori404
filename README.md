@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is like reaching an important birthday and finding you're exactly the same."</i>
+<i>"Life becomes easier and more beautiful when we can see the good in other people."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
