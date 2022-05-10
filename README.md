@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men are equal; it is not birth but virtue that makes the difference."</i>
+<i>"Failure is a prerequisite for great success. If you want success faster, double your rate of failure."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
