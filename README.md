@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is a prerequisite for great success. If you want success faster, double your rate of failure."</i>
+<i>"Every strike brings me closer to the next home run. "</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Babe Ruth</b>
 </blockquote>
 </p>
 
