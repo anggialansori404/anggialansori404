@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What lies behind us and what lies before us are small matters compared to what lies within us."</i>
+<i>"Men are equal; it is not birth but virtue that makes the difference."</i>
 <br>
-<b>- Oliver Wendell Holmes Jr.</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
