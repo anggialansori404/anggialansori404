@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The superior man acts before he speaks, and afterwards speaks according to his action."</i>
+<i>"So is cheerfulness, or a good temper, the more it is spent, the more remains."</i>
 <br>
-<b>- Confucius</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
