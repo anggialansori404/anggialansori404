@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can't help everyone, but everyone can help someone."</i>
+<i>"When we are no longer able to change a situation - we are challenged to change ourselves."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Viktor Frankl</b>
 </blockquote>
 </p>
 
