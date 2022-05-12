@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When we are no longer able to change a situation - we are challenged to change ourselves."</i>
+<i>"Raise your words, not voice. It is rain that grows flowers, not thunder."</i>
 <br>
-<b>- Viktor Frankl</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
