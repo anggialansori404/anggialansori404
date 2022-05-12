@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Raise your words, not voice. It is rain that grows flowers, not thunder."</i>
+<i>"Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another."</i>
 <br>
-<b>- Rumi</b>
+<b>- Eustace Budgell</b>
 </blockquote>
 </p>
 
