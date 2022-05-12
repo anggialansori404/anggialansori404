@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Adversity causes some men to break, others to break records."</i>
+<i>"The great myth of our times is that technology is communication."</i>
 <br>
-<b>- William Arthur Ward</b>
+<b>- Libby Larsen</b>
 </blockquote>
 </p>
 
