@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship often ends in love, but love in friendship - never."</i>
+<i>"Your next step is simple. You are the first domino."</i>
 <br>
-<b>- Albert Camus</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
