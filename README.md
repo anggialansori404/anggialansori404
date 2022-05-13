@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work out your own salvation. Do not depend on others."</i>
+<i>"Communications tools don't get socially interesting until they get technologically boring."</i>
 <br>
-<b>- Buddha</b>
+<b>- Clay Shirky</b>
 </blockquote>
 </p>
 
