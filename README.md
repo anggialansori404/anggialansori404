@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All things change; nothing perishes."</i>
+<i>"Our greatest glory is not in never falling, but in rising every time we fall."</i>
 <br>
-<b>- Ovid</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
