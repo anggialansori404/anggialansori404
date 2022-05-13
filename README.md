@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our greatest glory is not in never falling, but in rising every time we fall."</i>
+<i>"Love is the wisdom of the fool and the folly of the wise."</i>
 <br>
-<b>- Confucius</b>
+<b>- Samuel Johnson</b>
 </blockquote>
 </p>
 
