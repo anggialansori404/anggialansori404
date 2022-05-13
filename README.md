@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the wisdom of the fool and the folly of the wise."</i>
+<i>"The goal of an artist is to create the definitive work that cannot be surpassed."</i>
 <br>
-<b>- Samuel Johnson</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
