@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Communications tools don't get socially interesting until they get technologically boring."</i>
+<i>"It's OK to have your eggs in one basket as long as you control what happens to that basket."</i>
 <br>
-<b>- Clay Shirky</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
