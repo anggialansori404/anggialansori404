@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more man meditates upon good thoughts, the better will be his world and the world at large."</i>
+<i>"Work out your own salvation. Do not depend on others."</i>
 <br>
-<b>- Confucius</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
