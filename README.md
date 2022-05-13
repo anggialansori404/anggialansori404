@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The big thing is to make a winning effort. I'm not obsessed with wins."</i>
+<i>"Be happy in the moment, that's enough. Each moment is all we need, not more."</i>
 <br>
-<b>- Morgan Wootten</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
