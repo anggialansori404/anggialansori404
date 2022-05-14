@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not what we have but what we enjoy constitutes our abundance."</i>
+<i>"Fear of death is fear of surrender to Infinity. Learn to surrender, to exist at Infinity while alive, and fear of death dissolves."</i>
 <br>
-<b>- Jean Antoine Petit-Senn</b>
+<b>- Adi Da Samraj</b>
 </blockquote>
 </p>
 
