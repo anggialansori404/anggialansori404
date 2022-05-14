@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The goal of an artist is to create the definitive work that cannot be surpassed."</i>
+<i>"A man is great by deeds, not by birth."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Chanakya</b>
 </blockquote>
 </p>
 
