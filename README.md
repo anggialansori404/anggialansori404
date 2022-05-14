@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"However difficult life may seem, there is always something you can do and succeed at."</i>
+<i>"The invariable mark of wisdom is to see the miraculous in the common."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
