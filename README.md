@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Self-control is strength."</i>
+<i>"Over time, loneliness gets inside you and doesn't go away."</i>
 <br>
-<b>- James Allen</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
