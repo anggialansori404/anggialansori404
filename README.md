@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let your learning lead to knowledge. Let your learning lead to action."</i>
+<i>"If you're really truthful with yourself, it's a wonderful guidance.  "</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
