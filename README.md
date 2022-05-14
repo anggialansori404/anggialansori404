@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head."</i>
+<i>"Wisdom is a kind of knowledge. It is knowledge of the nature, career, and consequences of human values."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Sidney Hook</b>
 </blockquote>
 </p>
 
