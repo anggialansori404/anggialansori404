@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is great by deeds, not by birth."</i>
+<i>"The attempt to escape from pain, is what creates more pain."</i>
 <br>
-<b>- Chanakya</b>
+<b>- Gabor Mate</b>
 </blockquote>
 </p>
 
