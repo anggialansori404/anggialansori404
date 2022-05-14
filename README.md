@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're really truthful with yourself, it's a wonderful guidance.  "</i>
+<i>"An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
