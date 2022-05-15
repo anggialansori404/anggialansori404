@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trusting our intuition often saves us from disaster. "</i>
+<i>"If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest."</i>
 <br>
-<b>- Anne Wilson Schaef</b>
+<b>- Seungsahn</b>
 </blockquote>
 </p>
 
