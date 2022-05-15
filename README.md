@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere."</i>
+<i>"Trusting our intuition often saves us from disaster. "</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Anne Wilson Schaef</b>
 </blockquote>
 </p>
 
