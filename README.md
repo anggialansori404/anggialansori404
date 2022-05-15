@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"They can conquer who believe they can."</i>
+<i>"However many holy words you read, however many you speak, what good will they do you if you do not act on upon them?"</i>
 <br>
-<b>- Virgil</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
