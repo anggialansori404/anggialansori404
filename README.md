@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The heart wants what it wants - or else it does not care."</i>
+<i>"They can conquer who believe they can."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Virgil</b>
 </blockquote>
 </p>
 
