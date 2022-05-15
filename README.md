@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"However many holy words you read, however many you speak, what good will they do you if you do not act on upon them?"</i>
+<i>"Until you change how you get things done, you'll never know what works best."</i>
 <br>
-<b>- Buddha</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
