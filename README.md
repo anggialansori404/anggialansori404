@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not so important to know everything as to appreciate what we learn."</i>
+<i>"Formula for success: under promise and over deliver."</i>
 <br>
-<b>- Hannah More</b>
+<b>- Tom Peters</b>
 </blockquote>
 </p>
 
