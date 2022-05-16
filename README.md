@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wise warrior avoids the battle."</i>
+<i>"Everything in the universe goes by indirection. There are no straight lines."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
