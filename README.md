@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just do what must be done. This may not be happiness but it is greatness."</i>
+<i>"I look forward to a great future for America - a future in which our country will match its military strength with our moral restraint, its wealth with our wisdom, its power with our purpose."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- John F. Kennedy</b>
 </blockquote>
 </p>
 
