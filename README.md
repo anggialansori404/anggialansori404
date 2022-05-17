@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As soon as you truly commit to making something happen, the 'how' will reveal itself."</i>
+<i>"The greatest gift of life is friendship, and I have received it."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Hubert Humphrey</b>
 </blockquote>
 </p>
 
