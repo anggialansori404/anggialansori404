@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The happiest people in the world are those who feel absolutely terrific about themselves."</i>
+<i>"Just do what must be done. This may not be happiness but it is greatness."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
