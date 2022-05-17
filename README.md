@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only in the agony of parting do we look into the depths of love."</i>
+<i>"The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Thích Nhất Hạnh</b>
 </blockquote>
 </p>
 
