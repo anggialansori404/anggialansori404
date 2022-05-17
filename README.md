@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest gift of life is friendship, and I have received it."</i>
+<i>"Do not turn back when you are just at the goal."</i>
 <br>
-<b>- Hubert Humphrey</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
