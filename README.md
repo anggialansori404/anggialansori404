@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything in the universe goes by indirection. There are no straight lines."</i>
+<i>"Only in the agony of parting do we look into the depths of love."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
