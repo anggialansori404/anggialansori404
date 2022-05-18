@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not how long, but how well you have lived is the main thing."</i>
+<i>"This is the whole point of technology. It creates an appetite for immortality on the one hand. It threatens universal extinction on the other. Technology is lust removed from nature."</i>
 <br>
-<b>- Seneca</b>
+<b>- Don DeLillo</b>
 </blockquote>
 </p>
 
