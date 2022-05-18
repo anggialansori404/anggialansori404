@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Little by little, one travels far."</i>
+<i>"Anything you really want, you can attain, if you really go after it."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
