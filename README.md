@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant."</i>
+<i>"Victory is always possible for the person who refuses to stop fighting."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
