@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It doesn't matter where you are coming from. All that matters is where you are going. "</i>
+<i>"If you want peace, you won't get it with violence."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
