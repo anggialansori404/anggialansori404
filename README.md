@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who knows that enough is enough will always have enough."</i>
+<i>"We will now discuss in a little more detail the Struggle for Existence."</i>
 <br>
-<b>- Laozi</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
