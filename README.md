@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thought is so cunning, so clever, that it distorts everything for its own convenience."</i>
+<i>"All the world is a stage, And all the men and women merely players. They have their exits and entrances; Each man in his time plays many parts."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
