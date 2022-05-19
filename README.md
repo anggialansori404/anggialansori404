@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is not the absence of fear, but simply moving on with dignity despite that fear."</i>
+<i>"It doesn't matter where you are coming from. All that matters is where you are going. "</i>
 <br>
-<b>- Pat Riley</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
