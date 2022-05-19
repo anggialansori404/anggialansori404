@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry."</i>
+<i>"Thought is so cunning, so clever, that it distorts everything for its own convenience."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
