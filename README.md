@@ -28,7 +28,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing others is wisdom, knowing yourself is Enlightenment."</i>
+<i>"He who knows that enough is enough will always have enough."</i>
 <br>
 <b>- Laozi</b>
 </blockquote>
