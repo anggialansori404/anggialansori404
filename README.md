@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your talent is God's gift to you. What you do with it is your gift back to God."</i>
+<i>"When you believe in a thing, believe in it all the way, implicitly and unquestionable."</i>
 <br>
-<b>- Leo Buscaglia</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
