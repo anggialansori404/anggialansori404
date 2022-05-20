@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you believe in a thing, believe in it all the way, implicitly and unquestionable."</i>
+<i>"Wisdom is the supreme part of happiness."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Sophocles</b>
 </blockquote>
 </p>
 
