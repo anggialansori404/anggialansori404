@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who knows that enough is enough will always have enough."</i>
+<i>"Be sure you put your feet in the right place, then stand firm."</i>
 <br>
-<b>- Laozi</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
