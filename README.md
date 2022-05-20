@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For beautiful eyes, look for the good in others; for beautiful lips, speak only words of kindness; and for poise, walk with the knowledge that you are never alone."</i>
+<i>"He who knows that enough is enough will always have enough."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
