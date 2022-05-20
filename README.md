@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom is the supreme part of happiness."</i>
+<i>"I destroy my enemies when I make them my friends."</i>
 <br>
-<b>- Sophocles</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
