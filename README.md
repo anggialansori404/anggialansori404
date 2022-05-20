@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be sure you put your feet in the right place, then stand firm."</i>
+<i>"The two most important days in your life are the day you are born and the day you find out why."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
