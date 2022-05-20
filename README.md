@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I destroy my enemies when I make them my friends."</i>
+<i>"For beautiful eyes, look for the good in others; for beautiful lips, speak only words of kindness; and for poise, walk with the knowledge that you are never alone."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
