@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man's worth is no greater than his ambitions."</i>
+<i>"Your talent is God's gift to you. What you do with it is your gift back to God."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Leo Buscaglia</b>
 </blockquote>
 </p>
 
