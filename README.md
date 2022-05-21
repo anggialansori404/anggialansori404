@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I walk slowly, but I never walk backward."</i>
+<i>"Great are they who see that spiritual is stronger than any material force, that thoughts rule the world."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
