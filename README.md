@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I would rather be a little nobody, then to be an evil somebody."</i>
+<i>"The function of wisdom is to discriminate between good and evil."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Cicero</b>
 </blockquote>
 </p>
 
