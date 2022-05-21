@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's better to stand by someone's side than by yourself."</i>
+<i>"No matter how qualified or deserving we are, we will never reach a better life until we can imagine it for ourselves and allow ourselves to have it."</i>
 <br>
-<b>- Jack London</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
