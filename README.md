@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The function of wisdom is to discriminate between good and evil."</i>
+<i>"Integrity is the ability to stand by an idea."</i>
 <br>
-<b>- Cicero</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
