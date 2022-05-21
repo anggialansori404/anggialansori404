@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True knowledge exists in knowing that you know nothing."</i>
+<i>"Impossibilities are merely things which we have not yet learned."</i>
 <br>
-<b>- Isocrates</b>
+<b>- Charles W. Chesnutt</b>
 </blockquote>
 </p>
 
