@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The problem happens when we have multiple desires. When we have fuzzy desires. When we want to do ten different things and we're not clear about which is the one we care about."</i>
+<i>"Rudeness is the weak man's imitation of strength."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
