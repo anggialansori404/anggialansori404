@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rudeness is the weak man's imitation of strength."</i>
+<i>"I walk slowly, but I never walk backward."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
