@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is only with the heart that one can see rightly, what is essential is invisible to the eye."</i>
+<i>"The fact is, with every friendship you make, and every bond of trust you establish, you are shaping the image of America projected to the rest of the world. That is so important. So when you study abroad, you're actually helping to make America stronger."</i>
 <br>
-<b>- Antoine de Saint-Exupéry</b>
+<b>- Michelle Obama</b>
 </blockquote>
 </p>
 
