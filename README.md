@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'd rather welcome change than cling to the past."</i>
+<i>"It is only with the heart that one can see rightly, what is essential is invisible to the eye."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Antoine de Saint-Exupéry</b>
 </blockquote>
 </p>
 
