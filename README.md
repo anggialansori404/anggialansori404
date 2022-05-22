@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no failures. Just experiences and your reactions to them."</i>
+<i>"You are always free to change your mind and choose a different future, or a different past."</i>
 <br>
-<b>- Tom Krause</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
