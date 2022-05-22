@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stay away from what might have been and look at what will be."</i>
+<i>"Your conscience is the measure of the honesty of your selfishness. Listen to it carefully."</i>
 <br>
-<b>- Marsha Petrie Sue</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
