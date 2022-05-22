@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter how qualified or deserving we are, we will never reach a better life until we can imagine it for ourselves and allow ourselves to have it."</i>
+<i>"Stay away from what might have been and look at what will be."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Marsha Petrie Sue</b>
 </blockquote>
 </p>
 
