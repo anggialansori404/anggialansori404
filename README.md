@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We've got to have a dream if we are going to make a dream come true."</i>
+<i>"The deeper the truth in a creative work, the longer it will live.  "</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
