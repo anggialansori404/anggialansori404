@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe deep down in your heart that you're destined to do great things."</i>
+<i>"Your friend is your needs answered."</i>
 <br>
-<b>- Joe Paterno</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
