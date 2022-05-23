@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything you can imagine is real."</i>
+<i>"The act of taking the first step is what separates the winners from the losers."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
