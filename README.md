@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The final wisdom of life requires not the annulment of incongruity but the achievement of serenity within and above it."</i>
+<i>"We've got to have a dream if we are going to make a dream come true."</i>
 <br>
-<b>- Reinhold Niebuhr</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
