@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you love life, don't waste time, for time is what life is made up of. "</i>
+<i>"The least movement is of importance to all nature. The entire ocean is affected by a pebble."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Blaise Pascal</b>
 </blockquote>
 </p>
 
