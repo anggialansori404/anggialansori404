@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The least movement is of importance to all nature. The entire ocean is affected by a pebble."</i>
+<i>"Believe deep down in your heart that you're destined to do great things."</i>
 <br>
-<b>- Blaise Pascal</b>
+<b>- Joe Paterno</b>
 </blockquote>
 </p>
 
