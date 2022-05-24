@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All I required to be happy was friendship and people I could admire."</i>
+<i>"Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit."</i>
 <br>
-<b>- Christian Dior</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
