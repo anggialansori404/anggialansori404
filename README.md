@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you see yourself as prosperous, you will be."</i>
+<i>"All I required to be happy was friendship and people I could admire."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- Christian Dior</b>
 </blockquote>
 </p>
 
