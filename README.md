@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are only two mistakes one can make along the road to truth; not going all the way, and not starting."</i>
+<i>"Know what's important and what isn't. Have the wisdom to know the right thing to do, the integrity to do it, the character to stand up to those who don't, and the courage to stop those who won't."</i>
 <br>
-<b>- Buddha</b>
+<b>- Mark Goulston</b>
 </blockquote>
 </p>
 
