@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The harder the conflict, the greater the triumph. "</i>
+<i>"There are only two mistakes one can make along the road to truth; not going all the way, and not starting."</i>
 <br>
-<b>- George Washington</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
