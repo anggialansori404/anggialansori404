@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Autumn is a second spring when every leaf is a flower."</i>
+<i>"Don't be afraid to go out on a limb. That's where the fruit is."</i>
 <br>
-<b>- Albert Camus</b>
+<b>- H. Jackson Brown Jr.</b>
 </blockquote>
 </p>
 
