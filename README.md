@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only place where success comes before work is in the dictionary."</i>
+<i>"We are all faced with a series of great opportunities brilliantly disguised as impossible situations."</i>
 <br>
-<b>- Vidal Sassoon</b>
+<b>- Chuck Swindoll</b>
 </blockquote>
 </p>
 
