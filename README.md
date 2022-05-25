@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Begin, be bold, and venture to be wise."</i>
+<i>"A Rolling Stone Gathers No Moss."</i>
 <br>
-<b>- Horace</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
