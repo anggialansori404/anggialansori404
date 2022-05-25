@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are offended at any man's fault, turn to yourself and study your own failings. Then you will forget your anger."</i>
+<i>"Do you have the patience to wait until your mud settles and the water is clear?"</i>
 <br>
-<b>- Epictetus</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
