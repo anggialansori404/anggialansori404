@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do you have the patience to wait until your mud settles and the water is clear?"</i>
+<i>"It is passion that makes man live; wisdom makes one only last."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
