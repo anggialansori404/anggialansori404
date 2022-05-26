@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our distrust is very expensive."</i>
+<i>"A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
