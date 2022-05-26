@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can avoid reality, but you cannot avoid the consequences of avoiding reality."</i>
+<i>"To keep your secret is wisdom; but to expect others to keep it is folly."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Samuel Johnson</b>
 </blockquote>
 </p>
 
