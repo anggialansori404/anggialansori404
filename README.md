@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your next step is simple. You are the first domino."</i>
+<i>"No idea, no matter how good, will work if it doesn't get used."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Peter A. Cohen</b>
 </blockquote>
 </p>
 
