@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Independence is happiness."</i>
+<i>"The way a woman carries herself and the way she dresses ought to promote the following types of words: modesty, discretion, wisdom, beauty, elegance and refinement, but not sensuality, luxury, extravagance."</i>
 <br>
-<b>- Susan B. Anthony</b>
+<b>- Paul Washer</b>
 </blockquote>
 </p>
 
