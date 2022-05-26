@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When fate hands us a lemon, let's try to make lemonade."</i>
+<i>"There are three faithful friends - an old wife, an old dog, and ready money."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
