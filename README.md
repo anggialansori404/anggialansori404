@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest danger for most of us is not that our aim is too high, and we miss it, but that it is too low, and we reach it."</i>
+<i>"The pine stays green in winter... wisdom in hardship."</i>
 <br>
-<b>- Michelangelo</b>
+<b>- Norman Douglas</b>
 </blockquote>
 </p>
 
