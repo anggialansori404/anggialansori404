@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is merely the name for the desire and pursuit of the whole."</i>
+<i>"Learn from yesterday, live for today, hope for tomorrow."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
