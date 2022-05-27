@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pine stays green in winter... wisdom in hardship."</i>
+<i>"In nature there is no alienation. Everything belongs."</i>
 <br>
-<b>- Norman Douglas</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
