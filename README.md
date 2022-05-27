@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One secret of success in life is for a man to be ready for his opportunity when it comes."</i>
+<i>"The greatest danger for most of us is not that our aim is too high, and we miss it, but that it is too low, and we reach it."</i>
 <br>
-<b>- Benjamin Disraeli</b>
+<b>- Michelangelo</b>
 </blockquote>
 </p>
 
