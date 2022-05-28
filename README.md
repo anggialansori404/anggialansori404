@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man should look for what is, and not for what he thinks should be."</i>
+<i>"Your heart is the size of an ocean. Go find yourself in its hidden depths."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
