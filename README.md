@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches."</i>
+<i>"Action is eloquence."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
