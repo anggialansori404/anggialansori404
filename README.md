@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our lives are the only meaningful expression of what we believe and in Whom we believe. And the only real wealth, for any of us, lies in our faith."</i>
+<i>"Life is just a chance to grow a soul."</i>
 <br>
-<b>- Gordon Hinckley</b>
+<b>- A. Powell Davies</b>
 </blockquote>
 </p>
 
