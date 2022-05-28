@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People will forget what you said, people will forget what you did, but people will never forget how you made them feel."</i>
+<i>"The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
