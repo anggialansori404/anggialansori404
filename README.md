@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A poet should be so crafty with words that he is envied even for his pains."</i>
+<i>"Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
