@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is just a chance to grow a soul."</i>
+<i>"Take time to deliberate, but when the time for action has arrived, stop thinking and go in."</i>
 <br>
-<b>- A. Powell Davies</b>
+<b>- Napoleon</b>
 </blockquote>
 </p>
 
