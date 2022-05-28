@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"God has given you one face, and you make yourself another."</i>
+<i>"I believe that we are solely responsible for our choices, and we have to accept the consequences of every deed, word, and thought throughout our lifetime."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- Elisabeth Kübler-Ross</b>
 </blockquote>
 </p>
 
