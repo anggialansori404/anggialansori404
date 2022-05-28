@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take time to deliberate, but when the time for action has arrived, stop thinking and go in."</i>
+<i>"A man should look for what is, and not for what he thinks should be."</i>
 <br>
-<b>- Napoleon</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
