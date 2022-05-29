@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nobody will believe in you unless you believe in yourself."</i>
+<i>"Teachers open the door. You enter by yourself. "</i>
 <br>
-<b>- Liberace</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
