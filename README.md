@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Teachers open the door. You enter by yourself. "</i>
+<i>"He suffers more than necessary, who suffers before it is necessary.  "</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
