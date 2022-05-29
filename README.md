@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do."</i>
+<i>"Be the change that you want to see in the world."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
