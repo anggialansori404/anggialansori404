@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Action is eloquence."</i>
+<i>"A man must be big enough to admit his mistakes, smart enough to profit from them, and strong enough to correct them."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- John C. Maxwell</b>
 </blockquote>
 </p>
 
