@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To fly as fast as thought, you must begin by knowing that you have already arrived."</i>
+<i>"Wherever a man turns he can find someone who needs him."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Albert Schweitzer</b>
 </blockquote>
 </p>
 
