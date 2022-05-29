@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be the change that you want to see in the world."</i>
+<i>"To fly as fast as thought, you must begin by knowing that you have already arrived."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
