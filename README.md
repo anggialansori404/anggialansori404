@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember that the best relationship is one in which your love for each other exceeds your need for each other."</i>
+<i>"It's important to know that words don't move mountains. Work, exacting work moves mountains."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Danilo Dolci</b>
 </blockquote>
 </p>
 
