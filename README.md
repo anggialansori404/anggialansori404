@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To the mind that is still, the whole universe surrenders."</i>
+<i>"It is the nature of the wise to resist pleasures, but the foolish to be a slave to them."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
