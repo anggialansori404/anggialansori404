@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Conscience is a dog that does not stop us from passing but that we cannot prevent from barking."</i>
+<i>"Before you put on a frown, make absolutely sure there are no smiles available."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- James M. Beggs</b>
 </blockquote>
 </p>
 
