@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I hope our wisdom will grow with our power, and teach us, that the less we use our power the greater it will be."</i>
+<i>"Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
