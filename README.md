@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not try to be on the side of the majority, but live according to your inner laws."</i>
+<i>"Throw your heart over the bar and your body will follow."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
