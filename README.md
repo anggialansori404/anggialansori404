@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them."</i>
+<i>"When you see a good person, think of becoming like him. When you see someone not so good, reflect on your own weak points."</i>
 <br>
-<b>- John F. Kennedy</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
