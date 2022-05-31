@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Winners don't Quit. That's why they Win."</i>
+<i>"Every man is guilty of all the good he did not do. "</i>
 <br>
-<b>- Unknown</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
