@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you see a good person, think of becoming like him. When you see someone not so good, reflect on your own weak points."</i>
+<i>"Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot."</i>
 <br>
-<b>- Confucius</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
