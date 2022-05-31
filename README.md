@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man is guilty of all the good he did not do. "</i>
+<i>"The industrial landscape is already littered with remains of once successful companies that could not adapt their strategic vision to altered conditions of competition."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Ralph Abernathy</b>
 </blockquote>
 </p>
 
