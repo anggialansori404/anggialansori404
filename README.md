@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No yesterdays are ever wasted for those who give themselves to today."</i>
+<i>"Love is blind; friendship closes its eyes."</i>
 <br>
-<b>- Brendan Behan</b>
+<b>- Friedrich Nietzsche</b>
 </blockquote>
 </p>
 
