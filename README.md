@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The industrial landscape is already littered with remains of once successful companies that could not adapt their strategic vision to altered conditions of competition."</i>
+<i>"No yesterdays are ever wasted for those who give themselves to today."</i>
 <br>
-<b>- Ralph Abernathy</b>
+<b>- Brendan Behan</b>
 </blockquote>
 </p>
 
