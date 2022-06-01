@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either."</i>
+<i>"Nature and books belong to the eyes that see them."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
