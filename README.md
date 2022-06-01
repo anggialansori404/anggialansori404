@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In separateness lies the world's great misery, in compassion lies the world's true strength."</i>
+<i>"The hard path is often the right one. The river teaches more than the shore."</i>
 <br>
-<b>- Buddha</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
