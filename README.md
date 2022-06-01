@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I must also have a dark side if I am to be whole."</i>
+<i>"Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
