@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All truths are easy to understand once they are discovered; the point is to discover them."</i>
+<i>"In separateness lies the world's great misery, in compassion lies the world's true strength."</i>
 <br>
-<b>- Galileo Galilei</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
