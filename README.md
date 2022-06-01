@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing."</i>
+<i>"Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
