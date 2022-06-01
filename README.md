@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest."</i>
+<i>"While we stop to think, we often miss our opportunity."</i>
 <br>
-<b>- Sri Chinmoy</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
