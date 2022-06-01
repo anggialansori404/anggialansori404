@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nature and books belong to the eyes that see them."</i>
+<i>"All truths are easy to understand once they are discovered; the point is to discover them."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Galileo Galilei</b>
 </blockquote>
 </p>
 
