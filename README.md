@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be of use to the world is the only way to be happy."</i>
+<i>"Most great people have achieved their greatest success just one step beyond their greatest failure."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
