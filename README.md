@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The number one cause of failure is the fear of failure."</i>
+<i>"Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Sri Chinmoy</b>
 </blockquote>
 </p>
 
