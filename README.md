@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy."</i>
+<i>"It is our experiences that mold us into who we are...during times of adversity our true character will show."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
