@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you accept the expectations of others, especially negative ones, then you never will change the outcome."</i>
+<i>"Wealth consists not in having great possessions, but in having few wants."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
