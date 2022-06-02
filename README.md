@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Silence is the true friend that never betrays."</i>
+<i>"For every minute you are angry you lose sixty seconds of happiness."</i>
 <br>
-<b>- Confucius</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
