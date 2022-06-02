@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship always benefits; love sometimes injures."</i>
+<i>"Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
