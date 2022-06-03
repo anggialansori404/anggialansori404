@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quality means doing it right when no one is looking."</i>
+<i>"How far that little candle throws its beams! So shines a good deed in a naughty world."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
