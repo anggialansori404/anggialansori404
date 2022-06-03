@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A prudent question is one half of wisdom."</i>
+<i>"Change is the law of life. And those who look only to the past or present are certain to miss the future."</i>
 <br>
-<b>- Francis Bacon</b>
+<b>- John F. Kennedy</b>
 </blockquote>
 </p>
 
