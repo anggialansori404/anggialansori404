@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man takes the limits of his own field of vision for the limits of the world."</i>
+<i>"Take care of your cents: dollars will take care of themselves."</i>
 <br>
-<b>- Arthur Schopenhauer</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
