@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How far that little candle throws its beams! So shines a good deed in a naughty world."</i>
+<i>"Before you put on a frown, make absolutely sure there are no smiles available."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- James M. Beggs</b>
 </blockquote>
 </p>
 
