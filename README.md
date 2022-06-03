@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change is the law of life. And those who look only to the past or present are certain to miss the future."</i>
+<i>"There are no uninteresting things, only uninterested people."</i>
 <br>
-<b>- John F. Kennedy</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
