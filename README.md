@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wise men speak because they have something to say; Fools because they have to say something."</i>
+<i>"Be confident, not certain."</i>
 <br>
-<b>- Plato</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
