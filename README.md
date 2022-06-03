@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before you put on a frown, make absolutely sure there are no smiles available."</i>
+<i>"The best teacher is experience and not through someone's distorted point of view."</i>
 <br>
-<b>- James M. Beggs</b>
+<b>- Jack Kerouac</b>
 </blockquote>
 </p>
 
