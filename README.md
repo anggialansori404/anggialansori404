@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When we seek to discover the best in others, we somehow bring out the best in ourselves."</i>
+<i>"The most formidable weapon against errors of every kind is reason."</i>
 <br>
-<b>- William Arthur Ward</b>
+<b>- Thomas Paine</b>
 </blockquote>
 </p>
 
