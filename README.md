@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have the freedom to be yourself, your true self, here and now, and nothing can stand in your way."</i>
+<i>"See what you're doing wrong, laugh at it, change and do better."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
