@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He is no fool who gives what he cannot keep to gain what he cannot lose."</i>
+<i>"Love is the attempt to form a friendship inspired by beauty."</i>
 <br>
-<b>- Jim Elliot</b>
+<b>- Cicero</b>
 </blockquote>
 </p>
 
