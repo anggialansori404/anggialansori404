@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Preoccupied with a single leaf you won't see the tree."</i>
+<i>"When we seek to discover the best in others, we somehow bring out the best in ourselves."</i>
 <br>
-<b>- Unknown</b>
+<b>- William Arthur Ward</b>
 </blockquote>
 </p>
 
