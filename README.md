@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who has overcome his fears will truly be free."</i>
+<i>"When people are free to do as they please, they usually imitate each other."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
