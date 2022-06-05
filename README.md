@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I love my past. I love my present. I'm not ashamed of what I've had, and I'm not sad because I have it no longer."</i>
+<i>"What lies behind us and what lies before us are small matters compared to what lies within us."</i>
 <br>
-<b>- Colette</b>
+<b>- Oliver Wendell Holmes Jr.</b>
 </blockquote>
 </p>
 
