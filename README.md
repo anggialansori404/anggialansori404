@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness depends on your mindset and attitude."</i>
+<i>"I always wanted to be somebody, but I should have been more specific."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
