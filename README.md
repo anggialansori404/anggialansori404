@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task."</i>
+<i>"There are no limitations to the mind except those we acknowledge..."</i>
 <br>
-<b>- William James</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
