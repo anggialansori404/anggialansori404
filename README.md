@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Many roads lead to the path, but basically there are only two: reason and practice. "</i>
+<i>"There are two ways of spreading light: to be the candle or the mirror that reflects it."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Edith Wharton</b>
 </blockquote>
 </p>
 
