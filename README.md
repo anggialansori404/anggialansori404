@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes you have to shut your eyes, so you can see the real beauty."</i>
+<i>"In order for you to be the BEST you can be for others, first you must be BEST for yourself."</i>
 <br>
-<b>- Kilian Jornet</b>
+<b>- Jeffrey Gitomer</b>
 </blockquote>
 </p>
 
