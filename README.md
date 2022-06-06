@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I always wanted to be somebody, but I should have been more specific."</i>
+<i>"Many roads lead to the path, but basically there are only two: reason and practice. "</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
