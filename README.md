@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are two ways of spreading light: to be the candle or the mirror that reflects it."</i>
+<i>"When one door closes another door opens. "</i>
 <br>
-<b>- Edith Wharton</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
