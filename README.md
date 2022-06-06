@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When one door closes another door opens. "</i>
+<i>"Sometimes good things fall apart so better things can fall together."</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Marilyn Monroe</b>
 </blockquote>
 </p>
 
