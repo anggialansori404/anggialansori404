@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Passion is born deaf and dumb."</i>
+<i>"Sometimes you have to shut your eyes, so you can see the real beauty."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Kilian Jornet</b>
 </blockquote>
 </p>
 
