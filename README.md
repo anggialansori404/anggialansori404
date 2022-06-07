@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are never too old to become younger."</i>
+<i>"A goal is a dream with a deadline."</i>
 <br>
-<b>- Mae West</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
