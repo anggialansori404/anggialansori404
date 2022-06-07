@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No person is your friend who demands your silence or denies your right to grow."</i>
+<i>"The mind unlearns with difficulty what it has long learned."</i>
 <br>
-<b>- Alice Walker</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
