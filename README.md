@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nobody made a greater mistake than he who did nothing because he could do only a little."</i>
+<i>"No person is your friend who demands your silence or denies your right to grow."</i>
 <br>
-<b>- Edmund Burke</b>
+<b>- Alice Walker</b>
 </blockquote>
 </p>
 
