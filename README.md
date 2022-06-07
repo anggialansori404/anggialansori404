@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The past has no power over the present moment. "</i>
+<i>"Luck is what happens when preparation meets opportunity.  "</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
