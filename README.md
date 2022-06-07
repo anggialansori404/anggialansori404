@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes."</i>
+<i>"Nobody made a greater mistake than he who did nothing because he could do only a little."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Edmund Burke</b>
 </blockquote>
 </p>
 
