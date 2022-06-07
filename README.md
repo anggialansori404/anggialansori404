@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit."</i>
+<i>"Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
