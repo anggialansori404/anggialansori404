@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Luck is what happens when preparation meets opportunity.  "</i>
+<i>"You are never too old to become younger."</i>
 <br>
-<b>- Seneca</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
