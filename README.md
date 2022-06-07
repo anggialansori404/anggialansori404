@@ -28,7 +28,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A goal is a dream with a deadline."</i>
+<i>"Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit."</i>
 <br>
 <b>- Napoleon Hill</b>
 </blockquote>
