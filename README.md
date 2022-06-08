@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be dismayed by good-byes. A farewell is necessary before you can meet again. And meeting again, after moments or lifetimes, is certain for those who are friends."</i>
+<i>"Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
