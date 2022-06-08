@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions."</i>
+<i>"Talk sense to a fool and he calls you foolish."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
