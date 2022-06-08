@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Who looks outside, dreams; who looks inside, awakes."</i>
+<i>"What you become is far more important than what you get."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
