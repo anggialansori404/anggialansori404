@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way a woman carries herself and the way she dresses ought to promote the following types of words: modesty, discretion, wisdom, beauty, elegance and refinement, but not sensuality, luxury, extravagance."</i>
+<i>"Nothing could be worse than the fear that one had given up too soon and left one unexpended effort that might have saved the world."</i>
 <br>
-<b>- Paul Washer</b>
+<b>- Jane Addams</b>
 </blockquote>
 </p>
 
