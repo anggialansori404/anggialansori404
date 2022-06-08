@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing could be worse than the fear that one had given up too soon and left one unexpended effort that might have saved the world."</i>
+<i>"He who experiences the unity of life sees his own Self in all beings, and all beings in his own Self, and looks on everything with an impartial eye."</i>
 <br>
-<b>- Jane Addams</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
