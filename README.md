@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Decision is a risk rooted in the courage of being free."</i>
+<i>"Man must use what he has, not hope for what is not."</i>
 <br>
-<b>- Paul Tillich</b>
+<b>- G.I. Gurdjieff</b>
 </blockquote>
 </p>
 
