@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be what we are, and to become what we are capable of becoming, is the only end of life."</i>
+<i>"Decision is a risk rooted in the courage of being free."</i>
 <br>
-<b>- Robert Louis Stevenson</b>
+<b>- Paul Tillich</b>
 </blockquote>
 </p>
 
