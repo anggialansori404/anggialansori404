@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Talk sense to a fool and he calls you foolish."</i>
+<i>"To be what we are, and to become what we are capable of becoming, is the only end of life."</i>
 <br>
-<b>- Euripides</b>
+<b>- Robert Louis Stevenson</b>
 </blockquote>
 </p>
 
