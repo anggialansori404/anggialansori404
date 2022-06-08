@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man must use what he has, not hope for what is not."</i>
+<i>"Who looks outside, dreams; who looks inside, awakes."</i>
 <br>
-<b>- G.I. Gurdjieff</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
