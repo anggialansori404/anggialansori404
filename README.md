@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In every walk with nature, one receives far more than he seeks."</i>
+<i>"Try all things, hold fast that which is good."</i>
 <br>
-<b>- John Muir</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
