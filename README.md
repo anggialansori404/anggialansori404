@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep me away from the wisdom which does not cry, the philosophy which does not laugh and the greatness which does not bow before children."</i>
+<i>"No man was ever wise by chance."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
