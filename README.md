@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments."</i>
+<i>"Keep me away from the wisdom which does not cry, the philosophy which does not laugh and the greatness which does not bow before children."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
