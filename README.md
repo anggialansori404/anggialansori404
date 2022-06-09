@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My best friend is the one who brings out the best in me."</i>
+<i>"Whatever your mind can conceive and believe, it can achieve."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
