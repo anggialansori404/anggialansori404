@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rather than love, than money, than fame, give me truth."</i>
+<i>"Change your life today. Don't gamble on the future, act now, without delay."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Simone de Beauvoir</b>
 </blockquote>
 </p>
 
