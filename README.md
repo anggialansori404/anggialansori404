@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No distance of place or lapse of time can lessen the friendship of those who are thoroughly persuaded of each other's worth."</i>
+<i>"The only limits in our life are those we impose on ourselves."</i>
 <br>
-<b>- Robert Southey</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
