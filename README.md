@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is at last sacred but the integrity of your own mind."</i>
+<i>"Be sure you put your feet in the right place, then stand firm."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
