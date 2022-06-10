@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'd rather regret the things that I have done than the things that I have not done."</i>
+<i>"Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate."</i>
 <br>
-<b>- Lucille Ball</b>
+<b>- Albert Schweitzer</b>
 </blockquote>
 </p>
 
