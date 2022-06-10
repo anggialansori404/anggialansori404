@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate."</i>
+<i>"If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor."</i>
 <br>
-<b>- Albert Schweitzer</b>
+<b>- Daisaku Ikeda</b>
 </blockquote>
 </p>
 
