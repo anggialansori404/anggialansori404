@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom is found only in truth."</i>
+<i>"I'd rather regret the things that I have done than the things that I have not done."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Lucille Ball</b>
 </blockquote>
 </p>
 
