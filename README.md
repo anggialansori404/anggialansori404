@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change your life today. Don't gamble on the future, act now, without delay."</i>
+<i>"You're not obligated to win. You're obligated to keep trying to do the best you can every day."</i>
 <br>
-<b>- Simone de Beauvoir</b>
+<b>- Marian Wright Edelman</b>
 </blockquote>
 </p>
 
