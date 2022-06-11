@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good character is the best tombstone. Carve your name on hearts, not on marble."</i>
+<i>"Never stand begging for that which you have the power to earn."</i>
 <br>
-<b>- Charles Spurgeon</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
