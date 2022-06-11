@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some of us learn from other people's mistakes and the rest of us have to be other people.  "</i>
+<i>"A good character is the best tombstone. Carve your name on hearts, not on marble."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Charles Spurgeon</b>
 </blockquote>
 </p>
 
