@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The person born with a talent they are meant to use will find their greatest happiness in using it."</i>
+<i>"Make your mind your own business."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
