@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't shortchange yourself when it comes to investing in your own better future."</i>
+<i>"And as we let our own light shine, we unconsciously give other people permission to do the same."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
