@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"And as we let our own light shine, we unconsciously give other people permission to do the same."</i>
+<i>"The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Walter Benjamin</b>
 </blockquote>
 </p>
 
