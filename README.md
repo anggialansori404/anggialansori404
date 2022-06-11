@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never stand begging for that which you have the power to earn."</i>
+<i>"The person born with a talent they are meant to use will find their greatest happiness in using it."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
