@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have as much laughter as you have faith."</i>
+<i>"Truth is generally the best vindication against slander."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
