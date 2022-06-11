@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make your mind your own business."</i>
+<i>"Respect is earned by effort not age, all things age without effort."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- C. Sean McGee</b>
 </blockquote>
 </p>
 
