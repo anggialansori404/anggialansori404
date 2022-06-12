@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Respect is earned by effort not age, all things age without effort."</i>
+<i>"It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others."</i>
 <br>
-<b>- C. Sean McGee</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
