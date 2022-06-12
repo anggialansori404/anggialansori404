@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday."</i>
+<i>"A very little key will open a very heavy door."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
