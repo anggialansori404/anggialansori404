@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Circumstances do not make the man, they reveal him."</i>
+<i>"A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday."</i>
 <br>
-<b>- James Allen</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
