@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship... is not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything."</i>
+<i>"Trust your instincts: my first reaction is almost invariably the right one.  "</i>
 <br>
-<b>- Muhammad Ali</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
