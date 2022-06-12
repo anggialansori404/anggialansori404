@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How far that little candle throws its beams! So shines a good deed in a naughty world."</i>
+<i>"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
