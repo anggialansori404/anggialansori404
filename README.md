@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A creative man is motivated by the desire to achieve, not by the desire to beat others."</i>
+<i>"People spend too much time doing and not enough time thinking about what they should be doing."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
