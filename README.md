@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Technology… is a queer thing. It brings you great gifts with one hand, and it stabs you in the back with the other."</i>
+<i>"A creative man is motivated by the desire to achieve, not by the desire to beat others."</i>
 <br>
-<b>- Carrie Snow</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
