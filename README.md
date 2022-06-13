@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Beware of false knowledge; it is more dangerous than ignorance."</i>
+<i>"Life is what happens while you are making other plans."</i>
 <br>
-<b>- Bernard Shaw</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
