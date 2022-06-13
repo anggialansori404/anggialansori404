@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever."</i>
+<i>"Blessed is the man who expects nothing, for he shall never be disappointed."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
