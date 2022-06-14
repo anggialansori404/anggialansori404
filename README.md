@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be grateful for what you have now, and nothing should be taken for granted."</i>
+<i>"Begin at once to live and count each separate day as a separate life."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
