@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Decision is a risk rooted in the courage of being free."</i>
+<i>"If we are not given the chance to forget, we are also not given the chance to recover our memories, to alter them with time, perspective, and wisdom. Forgetting, we can be ourselves beyond what the past has told us we are; we can evolve. That is the possibility we want from the future."</i>
 <br>
-<b>- Paul Tillich</b>
+<b>- Caterina Fake</b>
 </blockquote>
 </p>
 
