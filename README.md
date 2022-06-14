@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Follow the man who seeks the truth; run from the man who has found it."</i>
+<i>"It's not about what it is, it's about what it can become."</i>
 <br>
-<b>- Vaclav Havel</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
