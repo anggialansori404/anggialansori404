@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Begin at once to live and count each separate day as a separate life."</i>
+<i>"If we could see the miracle of a single flower clearly, our whole life would change."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
