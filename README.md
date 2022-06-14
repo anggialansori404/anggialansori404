@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The decisions of our past are the architects of our present."</i>
+<i>"For it was not into my ear you whispered, but into my heart. It was not my lips you kissed, but my soul."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
