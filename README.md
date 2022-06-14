@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For it was not into my ear you whispered, but into my heart. It was not my lips you kissed, but my soul."</i>
+<i>"Decision is a risk rooted in the courage of being free."</i>
 <br>
-<b>- Judy Garland</b>
+<b>- Paul Tillich</b>
 </blockquote>
 </p>
 
