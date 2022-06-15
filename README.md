@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learning is a weightless treasure you can always carry easily."</i>
+<i>"There is a difference between happiness and wisdom: he that thinks himself the happiest man is really so; but he that thinks himself the wisest is generally the greatest fool."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Francis Bacon</b>
 </blockquote>
 </p>
 
