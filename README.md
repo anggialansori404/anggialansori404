@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A path is made by walking on it."</i>
+<i>"O, what a tangled web we weave when first we practice to deceive!"</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Walter Scott</b>
 </blockquote>
 </p>
 
