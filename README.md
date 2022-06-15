@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the sky, there is no distinction of east and west; people create distinctions out of their own minds and then believe them to be true."</i>
+<i>"The more you like yourself, the less you are like anyone else, which makes you unique."</i>
 <br>
-<b>- Buddha</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
