@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greater the impact you want to make, the greater your influence needs to be."</i>
+<i>"Know that although in the eternal scheme of things you are small, you are also unique and irreplaceable, as are all your fellow humans everywhere in the world."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Margaret Laurence</b>
 </blockquote>
 </p>
 
