@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why compare yourself with others? No one in the entire world can do a better job of being you than you."</i>
+<i>"Love doesn't make the world go round; love is what makes the ride worthwhile."</i>
 <br>
-<b>- Unknown</b>
+<b>- Elizabeth Browning</b>
 </blockquote>
 </p>
 
