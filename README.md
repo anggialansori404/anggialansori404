@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The three great essentials to achieve anything worthwhile are: Hard work, Stick-to-itiveness, and Common sense."</i>
+<i>"He who fears being conquered is sure of defeat."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Napoleon</b>
 </blockquote>
 </p>
 
