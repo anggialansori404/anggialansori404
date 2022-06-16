@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The thing about smart people is that they seem like crazy people to dumb people."</i>
+<i>"Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Blaise Pascal</b>
 </blockquote>
 </p>
 
