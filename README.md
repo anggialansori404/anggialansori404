@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who fears being conquered is sure of defeat."</i>
+<i>"Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict."</i>
 <br>
-<b>- Napoleon</b>
+<b>- William Ellery Channing</b>
 </blockquote>
 </p>
 
