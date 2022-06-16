@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Kind words can be short and easy to speak, but their echoes are truly endless."</i>
+<i>"The greater the impact you want to make, the greater your influence needs to be."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
