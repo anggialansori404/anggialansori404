@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"O, what a tangled web we weave when first we practice to deceive!"</i>
+<i>"The three great essentials to achieve anything worthwhile are: Hard work, Stick-to-itiveness, and Common sense."</i>
 <br>
-<b>- Walter Scott</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
