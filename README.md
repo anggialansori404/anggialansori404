@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People don't care how much you know until they know how much you care."</i>
+<i>"The free man is he who does not fear to go to the end of his thought."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Léon Blum</b>
 </blockquote>
 </p>
 
