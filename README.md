@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People who say it cannot be done should not interrupt those who are doing it."</i>
+<i>"I allow my intuition to lead my path."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Manuel Puig</b>
 </blockquote>
 </p>
 
