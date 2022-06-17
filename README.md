@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I allow my intuition to lead my path."</i>
+<i>"The friend is the man who knows all about you, and still likes you."</i>
 <br>
-<b>- Manuel Puig</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
