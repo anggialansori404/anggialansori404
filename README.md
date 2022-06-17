@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The friend is the man who knows all about you, and still likes you."</i>
+<i>"People don't care how much you know until they know how much you care."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
