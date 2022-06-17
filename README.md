@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love doesn't make the world go round; love is what makes the ride worthwhile."</i>
+<i>"The greatest mistake you can make in life is to be continually fearing you will make one."</i>
 <br>
-<b>- Elizabeth Browning</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
