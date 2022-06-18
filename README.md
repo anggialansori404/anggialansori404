@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'm not interested in age. People who tell me their age are silly. You're as old as you feel."</i>
+<i>"The heart has eyes which the brain knows nothing of."</i>
 <br>
-<b>- Elizabeth Arden</b>
+<b>- Charles Henry Parkhurst</b>
 </blockquote>
 </p>
 
