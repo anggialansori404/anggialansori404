@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your body is precious. It is our vehicle for awakening. Treat it with care."</i>
+<i>"Nothing will work unless you do."</i>
 <br>
-<b>- Buddha</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
