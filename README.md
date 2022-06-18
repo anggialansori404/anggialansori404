@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The two most powerful warriors are patience and time."</i>
+<i>"I allow my intuition to lead my path."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Manuel Puig</b>
 </blockquote>
 </p>
 
