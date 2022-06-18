@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rudeness is the weak man's imitation of strength."</i>
+<i>"Tragedy is a tool for the living to gain wisdom, not a guide by which to live."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
