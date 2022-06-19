@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one."</i>
+<i>"Continuous effort - not strength or intelligence - is the key to unlocking our potential."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
