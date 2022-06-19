@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"So long as a person is capable of self-renewal they are a living being."</i>
+<i>"You don't have to be great to start, but you have to start to be great.  "</i>
 <br>
-<b>- Henri-Frédéric Amiel</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
