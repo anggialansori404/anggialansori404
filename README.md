@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great ideas often receive violent opposition from mediocre minds."</i>
+<i>"Rivers know this: there is no hurry. We shall get there some day."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- A.A. Milne</b>
 </blockquote>
 </p>
 
