@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rivers know this: there is no hurry. We shall get there some day."</i>
+<i>"Great things are not accomplished by those who yield to trends and fads and popular opinion."</i>
 <br>
-<b>- A.A. Milne</b>
+<b>- Jack Kerouac</b>
 </blockquote>
 </p>
 
