@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't have to be great to start, but you have to start to be great.  "</i>
+<i>"You can do two things at once, but you can't focus effectively on two things at once."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
