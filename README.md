@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All we have to decide is what to do with the time that is given to us."</i>
+<i>"A friendship founded on business is better than a business founded on friendship."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
