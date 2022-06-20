@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are two things a person should never be angry at, what they can help, and what they cannot."</i>
+<i>"All we have to decide is what to do with the time that is given to us."</i>
 <br>
-<b>- Plato</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
