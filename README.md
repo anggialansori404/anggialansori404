@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A really great talent finds its happiness in execution."</i>
+<i>"A lie can travel half way around the world while the truth is putting on its shoes."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
