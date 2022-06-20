@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True knowledge exists in knowing that you know nothing."</i>
+<i>"It's better to be a lion for a day than a sheep all your life."</i>
 <br>
-<b>- Isocrates</b>
+<b>- Elizabeth Kenny</b>
 </blockquote>
 </p>
 
