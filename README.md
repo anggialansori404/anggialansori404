@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great things are not accomplished by those who yield to trends and fads and popular opinion."</i>
+<i>"A monarchy conducted with infinite wisdom and infinite benevolence is the most perfect of all possible governments."</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- Ezra Stiles</b>
 </blockquote>
 </p>
 
