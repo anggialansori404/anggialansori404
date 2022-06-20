@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A lie can travel half way around the world while the truth is putting on its shoes."</i>
+<i>"True knowledge exists in knowing that you know nothing."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Isocrates</b>
 </blockquote>
 </p>
 
