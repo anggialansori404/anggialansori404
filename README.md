@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do all things with love."</i>
+<i>"One today is worth two tomorrows."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
