@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe you can and you're halfway there."</i>
+<i>"The difference between what we do and what we are capable of doing would suffice to solve most of the world's problems."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
