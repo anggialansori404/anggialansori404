@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you see a good person, think of becoming like him. When you see someone not so good, reflect on your own weak points."</i>
+<i>"Believe you can and you're halfway there."</i>
 <br>
-<b>- Confucius</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
