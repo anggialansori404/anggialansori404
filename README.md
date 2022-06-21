@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The difference between what we do and what we are capable of doing would suffice to solve most of the world's problems."</i>
+<i>"Do all things with love."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
