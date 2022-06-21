@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Death is not an ending. It is a transformation."</i>
+<i>"When you see a good person, think of becoming like him. When you see someone not so good, reflect on your own weak points."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
