@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Longevity is a fleeting moment that lasts forever."</i>
+<i>"We must not say every mistake is a foolish one."</i>
 <br>
-<b>- Vidal Sassoon</b>
+<b>- Cicero</b>
 </blockquote>
 </p>
 
