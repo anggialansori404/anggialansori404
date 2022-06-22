@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People think about what they don't want and attract more of the same."</i>
+<i>"Confidence breeds beauty.  "</i>
 <br>
-<b>- Unknown</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
