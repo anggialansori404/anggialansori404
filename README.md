@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The grass is greener where you water it."</i>
+<i>"Time changes everything except something within us which is always surprised by change."</i>
 <br>
-<b>- Neil Barringham</b>
+<b>- Thomas Hardy</b>
 </blockquote>
 </p>
 
