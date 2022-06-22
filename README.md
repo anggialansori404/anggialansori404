@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not fear failure but rather fear not trying."</i>
+<i>"People think about what they don't want and attract more of the same."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
