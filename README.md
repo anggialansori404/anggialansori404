@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence breeds beauty.  "</i>
+<i>"To love means loving the unlovable."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
