@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To choose what is difficult all one's days, as if it were easy, that is faith."</i>
+<i>"Success is getting what you want, happiness is wanting what you get."</i>
 <br>
-<b>- W. H. Auden</b>
+<b>- W.P. Kinsella</b>
 </blockquote>
 </p>
 
