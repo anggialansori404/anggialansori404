@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Passion is born deaf and dumb."</i>
+<i>"Our happiness depends on the habit of mind we cultivate."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
