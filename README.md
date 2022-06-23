@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reality is merely an illusion, albeit a very persistent one."</i>
+<i>"Never mistake activity for achievement."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
