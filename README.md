@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We make our own fortunes and we call them fate."</i>
+<i>"Rich people have small TVs and big libraries, and poor people have small libraries and big TVs."</i>
 <br>
-<b>- Benjamin Disraeli</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
