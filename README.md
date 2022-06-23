@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing."</i>
+<i>"If you do not get the chills when you set your goal you're not setting big enough goals."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
