@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enjoy life. There's plenty of time to be dead."</i>
+<i>"Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
