@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not get the chills when you set your goal you're not setting big enough goals."</i>
+<i>"We make our own fortunes and we call them fate."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Benjamin Disraeli</b>
 </blockquote>
 </p>
 
