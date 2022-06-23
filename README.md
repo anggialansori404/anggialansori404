@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to not feel hopeless is to get up and do something."</i>
+<i>"A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
