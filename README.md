@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The whole of life, from the moment you are born to the moment you die, is a process of learning."</i>
+<i>"No one saves us but ourselves. No one can and no one may. We ourselves must walk the path."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
