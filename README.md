@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who cannot be a good follower cannot be a good leader."</i>
+<i>"FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
