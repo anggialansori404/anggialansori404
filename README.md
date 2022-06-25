@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only way to 'find out if it will work out' is to do it."</i>
+<i>"Forgiveness is that subtle thread that binds both love and friendship. Without forgiveness, you may not even have a child one day."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- George Foreman</b>
 </blockquote>
 </p>
 
