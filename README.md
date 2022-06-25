@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live the moment for the moment."</i>
+<i>"Difficulties are things that show a person what they are."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
