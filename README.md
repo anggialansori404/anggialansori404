@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything that irritates us about others can lead us to an understanding of ourselves."</i>
+<i>"Just throw away all thoughts of imaginary things, and stand firm in that which you are."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
