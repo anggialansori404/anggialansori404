@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Difficulties are things that show a person what they are."</i>
+<i>"The only way to 'find out if it will work out' is to do it."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
