@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Forgiveness is that subtle thread that binds both love and friendship. Without forgiveness, you may not even have a child one day."</i>
+<i>"Only I can change my life. No one can do it for me."</i>
 <br>
-<b>- George Foreman</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
