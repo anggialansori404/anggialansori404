@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are the average of the five people you spend most time with."</i>
+<i>"Life is the only real counselor; wisdom unfiltered through personal experience does not become a part of the moral tissue."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Edith Wharton</b>
 </blockquote>
 </p>
 
