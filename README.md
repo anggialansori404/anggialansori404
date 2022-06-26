@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The universe is made of stories, not atoms."</i>
+<i>"I'm a great believer in luck and I find the harder I work, the more I have of it."</i>
 <br>
-<b>- Muriel Rukeyser</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
