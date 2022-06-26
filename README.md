@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness must be grown in one's own garden."</i>
+<i>"The universe is made of stories, not atoms."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Muriel Rukeyser</b>
 </blockquote>
 </p>
 
