@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'm a great believer in luck and I find the harder I work, the more I have of it."</i>
+<i>"The more you trust yourself, the less you compare yourself to others."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
