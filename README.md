@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be totally at leisure for one day is to be immortal for one day. "</i>
+<i>"From a certain point onward there is no longer any turning back. That is the point that must be reached."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
