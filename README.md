@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you try to micromanage yourself all you're going to do is make yourself miserable."</i>
+<i>"Wise kings generally have wise counselors; and he must be a wise man himself who is capable of distinguishing one."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Diogenes</b>
 </blockquote>
 </p>
 
