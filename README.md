@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever is begun in anger, ends in shame."</i>
+<i>"If someone betrays you once, it's their fault; if they betray you twice, it's your fault."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
