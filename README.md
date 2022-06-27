@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If someone betrays you once, it's their fault; if they betray you twice, it's your fault."</i>
+<i>"We should not look back unless it is to derive useful lessons from past errors."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
