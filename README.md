@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex."</i>
+<i>"It's important to know that words don't move mountains. Work, exacting work moves mountains."</i>
 <br>
-<b>- Kurt Vonnegut</b>
+<b>- Danilo Dolci</b>
 </blockquote>
 </p>
 
