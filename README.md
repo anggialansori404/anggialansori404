@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"From a certain point onward there is no longer any turning back. That is the point that must be reached."</i>
+<i>"I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Kurt Vonnegut</b>
 </blockquote>
 </p>
 
