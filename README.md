@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A Quitter never wins - and - a Winner never quits."</i>
+<i>"To be totally at leisure for one day is to be immortal for one day. "</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
