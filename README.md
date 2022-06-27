@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wise kings generally have wise counselors; and he must be a wise man himself who is capable of distinguishing one."</i>
+<i>"I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars."</i>
 <br>
-<b>- Diogenes</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
