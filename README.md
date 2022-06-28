@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great loves too must be endured."</i>
+<i>"It's not what happens to you, but how you react to it that matters."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
