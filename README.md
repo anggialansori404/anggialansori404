@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"They say love is the best investment; the more you give, the more you get in return."</i>
+<i>"In friendship as well as love, ignorance very often contributes more to our happiness than knowledge."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- François de La Rochefoucauld</b>
 </blockquote>
 </p>
 
