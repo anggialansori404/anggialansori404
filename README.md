@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sooner or later, those who win are those who think they can."</i>
+<i>"No one ever is defeated until defeat has been accepted as a reality."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
