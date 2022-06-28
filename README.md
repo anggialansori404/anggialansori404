@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In friendship as well as love, ignorance very often contributes more to our happiness than knowledge."</i>
+<i>"Watch the little things; a small leak will sink a great ship."</i>
 <br>
-<b>- François de La Rochefoucauld</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
