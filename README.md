@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The outer conditions of a person's life will always be found to reflect their inner beliefs."</i>
+<i>"Great loves too must be endured."</i>
 <br>
-<b>- James Allen</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
