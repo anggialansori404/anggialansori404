@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's important to know that words don't move mountains. Work, exacting work moves mountains."</i>
+<i>"Sooner or later, those who win are those who think they can."</i>
 <br>
-<b>- Danilo Dolci</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
