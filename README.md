@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You will not be punished for your anger; you will be punished by your anger."</i>
+<i>"The real measure of your wealth is how much you'd be worth if you lost all your money."</i>
 <br>
-<b>- Buddha</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
