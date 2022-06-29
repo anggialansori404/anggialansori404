@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let them drag you down by rumors. Just go with what you believe in."</i>
+<i>"The free man is he who does not fear to go to the end of his thought."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Léon Blum</b>
 </blockquote>
 </p>
 
