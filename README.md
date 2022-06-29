@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome."</i>
+<i>"Discovery consists of seeing what everybody has seen and thinking what nobody else has thought."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
