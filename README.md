@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly."</i>
+<i>"We cannot change anything unless we accept it."</i>
 <br>
-<b>- Henri Bergson</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
