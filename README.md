@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The price of greatness is responsibility."</i>
+<i>"The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
