@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We cannot change anything unless we accept it."</i>
+<i>"By living deeply in the present moment we can understand the past better and we can prepare for a better future."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Thích Nhất Hạnh</b>
 </blockquote>
 </p>
 
