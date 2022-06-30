@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't compromise yourself. You are all you've got."</i>
+<i>"Communications tools don't get socially interesting until they get technologically boring."</i>
 <br>
-<b>- Janis Joplin</b>
+<b>- Clay Shirky</b>
 </blockquote>
 </p>
 
