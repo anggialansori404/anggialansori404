@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The act of taking the first step is what separates the winners from the losers."</i>
+<i>"If we look at the world with a love of life, the world will reveal its beauty to us."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Daisaku Ikeda</b>
 </blockquote>
 </p>
 
