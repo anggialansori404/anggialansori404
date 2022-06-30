@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we look at the world with a love of life, the world will reveal its beauty to us."</i>
+<i>"What you resist, persists."</i>
 <br>
-<b>- Daisaku Ikeda</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
