@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The free man is he who does not fear to go to the end of his thought."</i>
+<i>"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful."</i>
 <br>
-<b>- Léon Blum</b>
+<b>- Albert Schweitzer</b>
 </blockquote>
 </p>
 
