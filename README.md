@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ask yourself the secret of your success. Listen to your answer and practice it."</i>
+<i>"We must never forget that it is through our actions, words, and thoughts that we have a choice."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Sogyal Rinpoche</b>
 </blockquote>
 </p>
 
