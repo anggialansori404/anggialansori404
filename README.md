@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The real problem is not whether machines think but whether men do."</i>
+<i>"Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot."</i>
 <br>
-<b>- B. F. Skinner</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
