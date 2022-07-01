@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rare as is true love, true friendship is rarer."</i>
+<i>"The real problem is not whether machines think but whether men do."</i>
 <br>
-<b>- Jean de La Fontaine</b>
+<b>- B. F. Skinner</b>
 </blockquote>
 </p>
 
