@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The industrial landscape is already littered with remains of once successful companies that could not adapt their strategic vision to altered conditions of competition."</i>
+<i>"He who is contented is rich."</i>
 <br>
-<b>- Ralph Abernathy</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
