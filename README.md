@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never say never, because limits, like fears, are often just an illusion."</i>
+<i>"There is no way to happiness - happiness is the way."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
