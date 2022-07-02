@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Force has no place where there is need of skill. "</i>
+<i>"Wherever you are, it's the place you need to be."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
