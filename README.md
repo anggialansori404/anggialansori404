@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Things turn out best for the people who make the best of the way things turn out."</i>
+<i>"Great are they who see that spiritual is stronger than any material force, that thoughts rule the world."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
