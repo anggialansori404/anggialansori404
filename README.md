@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wherever you are, it's the place you need to be."</i>
+<i>"Change your life today. Don't gamble on the future, act now, without delay."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Simone de Beauvoir</b>
 </blockquote>
 </p>
 
