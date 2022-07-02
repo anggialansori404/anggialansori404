@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Human beings, who are almost unique in having the ability to learn from the experience of others, are also remarkable for their apparent disinclination to do so."</i>
+<i>"The world is a book, and those who do not travel read only a page."</i>
 <br>
-<b>- Douglas Adams</b>
+<b>- Augustine of Hippo</b>
 </blockquote>
 </p>
 
