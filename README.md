@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The universe is transformation; our life is what our thoughts make it."</i>
+<i>"If you'll not settle for anything less than your best, you will be amazed at what you can accomplish in your lives."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
