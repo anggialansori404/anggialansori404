@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you'll not settle for anything less than your best, you will be amazed at what you can accomplish in your lives."</i>
+<i>"Force has no place where there is need of skill. "</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
