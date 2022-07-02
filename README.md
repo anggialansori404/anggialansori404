@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great are they who see that spiritual is stronger than any material force, that thoughts rule the world."</i>
+<i>"Human beings, who are almost unique in having the ability to learn from the experience of others, are also remarkable for their apparent disinclination to do so."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Douglas Adams</b>
 </blockquote>
 </p>
 
