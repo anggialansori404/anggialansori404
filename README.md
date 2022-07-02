@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Adopt the pace of nature: her secret is patience."</i>
+<i>"The universe is transformation; our life is what our thoughts make it."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
