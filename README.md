@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To seek is to suffer. To seek nothing is bliss."</i>
+<i>"Your worst enemy cannot harm you as much as your own unguarded thoughts."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
