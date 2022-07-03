@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The things that one most wants to do are the things that are probably most worth doing."</i>
+<i>"The mind unlearns with difficulty what it has long learned."</i>
 <br>
-<b>- Winifred Holtby</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
