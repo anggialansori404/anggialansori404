@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No yesterdays are ever wasted for those who give themselves to today."</i>
+<i>"Success is about doing the right thing, not about doing everything right."</i>
 <br>
-<b>- Brendan Behan</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
