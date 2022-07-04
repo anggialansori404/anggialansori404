@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Any sufficiently advanced technology is equivalent to magic."</i>
+<i>"Difficult and meaningful will always bring more satisfaction than easy and meaningless."</i>
 <br>
-<b>- Arthur C. Clarke</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
