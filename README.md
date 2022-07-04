@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those that know, do. Those that understand, teach."</i>
+<i>"What is necessary to change a person is to change his awareness of himself."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Abraham Maslow</b>
 </blockquote>
 </p>
 
