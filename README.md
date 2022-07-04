@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whoever is happy will make others happy too."</i>
+<i>"Thinking is the hardest work there is. That is why so few people engage in it."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
