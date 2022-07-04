@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is about doing the right thing, not about doing everything right."</i>
+<i>"Better to have loved and lost, than to have never loved at all."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Augustine of Hippo</b>
 </blockquote>
 </p>
 
