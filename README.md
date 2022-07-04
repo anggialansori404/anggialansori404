@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What is necessary to change a person is to change his awareness of himself."</i>
+<i>"Whoever is happy will make others happy too."</i>
 <br>
-<b>- Abraham Maslow</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
