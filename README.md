@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every artist dips his brush in his own soul, and paints his own nature into his pictures."</i>
+<i>"Those that know, do. Those that understand, teach."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
