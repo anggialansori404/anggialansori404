@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wise kings generally have wise counselors; and he must be a wise man himself who is capable of distinguishing one."</i>
+<i>"Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present."</i>
 <br>
-<b>- Diogenes</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
