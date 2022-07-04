@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Difficult and meaningful will always bring more satisfaction than easy and meaningless."</i>
+<i>"Every artist dips his brush in his own soul, and paints his own nature into his pictures."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
