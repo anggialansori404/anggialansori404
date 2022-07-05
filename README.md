@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who knows how to wait need make no concessions."</i>
+<i>"Anything you really want, you can attain, if you really go after it."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
