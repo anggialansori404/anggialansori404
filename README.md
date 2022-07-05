@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man is free who is not master of himself."</i>
+<i>"Spread love everywhere you go. Let no one ever come to you without leaving happier."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
