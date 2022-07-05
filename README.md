@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Spread love everywhere you go. Let no one ever come to you without leaving happier."</i>
+<i>"It's your road, and yours alone, others may walk it with you, but no one can walk it for you."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
