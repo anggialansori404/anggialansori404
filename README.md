@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The art of being happy lies in the power of extracting happiness from common things."</i>
+<i>"To know oneself is to study oneself in action with another person."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
