@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember, today is the tomorrow you worried about yesterday."</i>
+<i>"The only true wisdom is in knowing you know nothing."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Isocrates</b>
 </blockquote>
 </p>
 
