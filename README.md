@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anything you really want, you can attain, if you really go after it."</i>
+<i>"Every man is guilty of all the good he did not do. "</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
