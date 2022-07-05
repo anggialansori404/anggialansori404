@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To know oneself is to study oneself in action with another person."</i>
+<i>"Remember, today is the tomorrow you worried about yesterday."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
