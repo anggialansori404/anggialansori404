@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Instead of worrying about what you cannot control, shift your energy to what you can create."</i>
+<i>"There is always room in your life for thinking bigger, pushing limits and imagining the impossible."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
