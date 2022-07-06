@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's your road, and yours alone, others may walk it with you, but no one can walk it for you."</i>
+<i>"Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing."</i>
 <br>
-<b>- Rumi</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
