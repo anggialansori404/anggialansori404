@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing."</i>
+<i>"It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
