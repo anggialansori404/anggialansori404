@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you think you can do a thing or think you can't do a thing, you're right."</i>
+<i>"Go confidently in the direction of your dreams. Live the life you've imagined."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
