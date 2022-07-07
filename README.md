@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live."</i>
+<i>"Don't smother each other. No one can grow in the shade."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Leo Buscaglia</b>
 </blockquote>
 </p>
 
