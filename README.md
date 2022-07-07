@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quiet people have the loudest minds."</i>
+<i>"It is during our darkest moments that we must focus to see the light."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
