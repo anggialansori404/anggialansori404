@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life has no blessing like a prudent friend."</i>
+<i>"The greatest obstacle to connecting with our joy is resentment."</i>
 <br>
-<b>- Euripides</b>
+<b>- Pema Chödrön</b>
 </blockquote>
 </p>
 
