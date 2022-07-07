@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is not something ready-made. It comes from your own actions."</i>
+<i>"Quiet people have the loudest minds."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
