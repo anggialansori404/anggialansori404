@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who conquers others is strong; He who conquers himself is mighty."</i>
+<i>"Your work is to discover your work and then with all your heart to give yourself to it."</i>
 <br>
-<b>- Laozi</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
