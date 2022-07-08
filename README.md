@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All human wisdom is contained in these two words - Wait and Hope"</i>
+<i>"We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
