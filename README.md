@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge rests not upon truth alone, but upon error also."</i>
+<i>"Life is what happens to you while you're busy making other plans."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
