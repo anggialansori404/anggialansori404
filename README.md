@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started."</i>
+<i>"Don't let the silly little dramas of each day get you down. For you are here to do great things."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
