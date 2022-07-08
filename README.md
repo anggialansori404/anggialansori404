@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary."</i>
+<i>"Life is a succession of lessons, which must be lived to be understood."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
