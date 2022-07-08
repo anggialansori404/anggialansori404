@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All power is from within and therefore under our control."</i>
+<i>"Paths are made by walking."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
