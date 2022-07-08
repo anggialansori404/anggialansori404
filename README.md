@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let the silly little dramas of each day get you down. For you are here to do great things."</i>
+<i>"The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
