@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only person who never makes mistakes is the person who never does anything."</i>
+<i>"The truest greatness lies in being kind, the truest wisdom in a happy mind."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Ella Wheeler Wilcox</b>
 </blockquote>
 </p>
 
