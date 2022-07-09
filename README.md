@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"While we stop to think, we often miss our opportunity."</i>
+<i>"Sincerity is the way of Heaven. The attainment of sincerity is the way of men."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
