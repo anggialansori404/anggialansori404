@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sincerity is the way of Heaven. The attainment of sincerity is the way of men."</i>
+<i>"Learning never exhausts the mind. "</i>
 <br>
-<b>- Confucius</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
