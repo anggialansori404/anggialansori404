@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are what we think. All that we are arises with our thoughts. With our thoughts, we make the world."</i>
+<i>"Success is getting what you want. Happiness is wanting what you get."</i>
 <br>
-<b>- Buddha</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
