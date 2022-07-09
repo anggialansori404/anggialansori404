@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is getting what you want. Happiness is wanting what you get."</i>
+<i>"While we stop to think, we often miss our opportunity."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
