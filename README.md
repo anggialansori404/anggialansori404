@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man can succeed in a line of endeavor which he does not like."</i>
+<i>"We are what we think. All that we are arises with our thoughts. With our thoughts, we make the world."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
