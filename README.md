@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Marriage: A friendship recognized by the police."</i>
+<i>"To me, it doesn't matter how good you are. Sport is all about playing and competing. Whatever you do in cricket and in sport, enjoy it, be positive and try to win."</i>
 <br>
-<b>- Robert Louis Stevenson</b>
+<b>- Ian Botham</b>
 </blockquote>
 </p>
 
