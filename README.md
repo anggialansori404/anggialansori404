@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truest greatness lies in being kind, the truest wisdom in a happy mind."</i>
+<i>"You learn to speak by speaking, to study by studying, to run by running, to work by working; in just the same way, you learn to love by loving."</i>
 <br>
-<b>- Ella Wheeler Wilcox</b>
+<b>- Anatole France</b>
 </blockquote>
 </p>
 
