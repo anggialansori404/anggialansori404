@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking."</i>
+<i>"Not what we have but what we enjoy constitutes our abundance."</i>
 <br>
-<b>- Alfred Korzybski</b>
+<b>- Jean Antoine Petit-Senn</b>
 </blockquote>
 </p>
 
