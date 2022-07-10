@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People don't notice whether it's winter or summer when they're happy."</i>
+<i>"The only real mistake is the one from which we learn nothing. "</i>
 <br>
-<b>- Anton Chekhov</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
