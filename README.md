@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Definitions belong to the definers, not the defined."</i>
+<i>"If one way be better than another, that you may be sure is nature's way."</i>
 <br>
-<b>- Toni Morrison</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
