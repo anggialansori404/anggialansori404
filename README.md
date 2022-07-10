@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest good you can do for another is not just share your riches but reveal to them their own."</i>
+<i>"The key to success is to focus our conscious mind on things we desire not things we fear. "</i>
 <br>
-<b>- Benjamin Disraeli</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
