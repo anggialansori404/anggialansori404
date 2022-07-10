@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"God made me fast. And when I run, I feel His pleasure."</i>
+<i>"Happiness does not come from having much, but from being attached to little."</i>
 <br>
-<b>- Eric Liddell</b>
+<b>- Cheng Yen</b>
 </blockquote>
 </p>
 
