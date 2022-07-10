@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To me, it doesn't matter how good you are. Sport is all about playing and competing. Whatever you do in cricket and in sport, enjoy it, be positive and try to win."</i>
+<i>"The greatest good you can do for another is not just share your riches but reveal to them their own."</i>
 <br>
-<b>- Ian Botham</b>
+<b>- Benjamin Disraeli</b>
 </blockquote>
 </p>
 
