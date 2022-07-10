@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not what we have but what we enjoy constitutes our abundance."</i>
+<i>"How to get more opportunity: Create more opportunity for others."</i>
 <br>
-<b>- Jean Antoine Petit-Senn</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
