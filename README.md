@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If the plan doesn't work, change the plan, but never the goal."</i>
+<i>"People don't notice whether it's winter or summer when they're happy."</i>
 <br>
-<b>- Unknown</b>
+<b>- Anton Chekhov</b>
 </blockquote>
 </p>
 
