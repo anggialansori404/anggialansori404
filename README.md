@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The power of man has grown in every sphere, except over himself."</i>
+<i>"People have the illusion that all over the world, all the time, all kinds of fantastic things are happening."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- David Brinkley</b>
 </blockquote>
 </p>
 
