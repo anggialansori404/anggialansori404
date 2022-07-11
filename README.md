@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For everything that lives is holy, life delights in life."</i>
+<i>"The power of man has grown in every sphere, except over himself."</i>
 <br>
-<b>- William Blake</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
