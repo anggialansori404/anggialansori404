@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Have a heart that never hardens, and a temper that never tires, and a touch that never hurts."</i>
+<i>"For everything that lives is holy, life delights in life."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- William Blake</b>
 </blockquote>
 </p>
 
