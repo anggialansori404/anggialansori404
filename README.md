@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Kindness is a language which the deaf can hear and the blind can see."</i>
+<i>"Write your plans in pencil and give God the eraser."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
