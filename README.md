@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness does not come from having much, but from being attached to little."</i>
+<i>"Kindness is a language which the deaf can hear and the blind can see."</i>
 <br>
-<b>- Cheng Yen</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
