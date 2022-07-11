@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Write your plans in pencil and give God the eraser."</i>
+<i>"Kind words can be short and easy to speak, but their echoes are truly endless."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
