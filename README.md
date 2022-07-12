@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. "</i>
+<i>"The person who makes a success of living is the one who see his goal steadily and aims for it unswervingly. That is dedication."</i>
 <br>
-<b>- St. Jerome</b>
+<b>- Cecil B. DeMille</b>
 </blockquote>
 </p>
 
