@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach."</i>
+<i>"All that we see or seem is but a dream within a dream."</i>
 <br>
-<b>- Benjamin Mays</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
