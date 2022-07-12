@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The person who makes a success of living is the one who see his goal steadily and aims for it unswervingly. That is dedication."</i>
+<i>"I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on man unless they act."</i>
 <br>
-<b>- Cecil B. DeMille</b>
+<b>- G. K. Chesterton</b>
 </blockquote>
 </p>
 
