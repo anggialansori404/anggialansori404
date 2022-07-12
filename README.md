@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even when a friend does something you do not like, he continues to be your friend. "</i>
+<i>"Be Impeccable with Your Word. Speak with integrity. Say only what you mean. Avoid using the word to speak against yourself or to gossip about others. Use the power of your word in the direction of truth and love."</i>
 <br>
-<b>- Genghis Khan</b>
+<b>- Don Miguel Ruiz</b>
 </blockquote>
 </p>
 
