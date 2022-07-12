@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All that we see or seem is but a dream within a dream."</i>
+<i>"As you love yourself, life loves you back."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
