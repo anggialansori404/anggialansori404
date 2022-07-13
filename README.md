@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are masters of the unsaid words, but slaves of those we let slip out."</i>
+<i>"To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to do."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
