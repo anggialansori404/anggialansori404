@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no greatness where there is not simplicity, goodness, and truth."</i>
+<i>"All the world is a stage, And all the men and women merely players. They have their exits and entrances; Each man in his time plays many parts."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
