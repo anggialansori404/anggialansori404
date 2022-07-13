@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Over time, loneliness gets inside you and doesn't go away."</i>
+<i>"There is no greatness where there is not simplicity, goodness, and truth."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
