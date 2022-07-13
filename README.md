@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new."</i>
+<i>"The only true wisdom is in knowing you know nothing."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Isocrates</b>
 </blockquote>
 </p>
 
