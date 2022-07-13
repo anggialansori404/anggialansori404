@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ignorant men raise questions that wise men answered a thousand years ago."</i>
+<i>"We are masters of the unsaid words, but slaves of those we let slip out."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
