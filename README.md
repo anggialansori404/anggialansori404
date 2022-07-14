@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sincerity is the way of Heaven. The attainment of sincerity is the way of men."</i>
+<i>"If you want others to be happy, practice compassion. If you want to be happy, practice compassion."</i>
 <br>
-<b>- Confucius</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
