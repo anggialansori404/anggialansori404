@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are things so deep and complex that only intuition can reach it in our stage of development as human beings."</i>
+<i>"Great things happen to those who don't stop believing, trying, learning, and being grateful."</i>
 <br>
-<b>- John Astin</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
