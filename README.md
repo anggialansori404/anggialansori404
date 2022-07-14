@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To some degree, you control your life by controlling your time."</i>
+<i>"Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want."</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
