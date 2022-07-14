@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The mind unlearns with difficulty what it has long learned."</i>
+<i>"To some degree, you control your life by controlling your time."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Conrad Hilton</b>
 </blockquote>
 </p>
 
