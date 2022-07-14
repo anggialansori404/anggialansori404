@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Creative people are often found either disagreeable or intimidating by mediocrities."</i>
+<i>"The mind unlearns with difficulty what it has long learned."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
