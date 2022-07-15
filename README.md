@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your vision will become clear only when you can look into your own heart. Who looks outside, dreams, who looks inside, awakes."</i>
+<i>"Success is not final, failure is not fatal: it is the courage to continue that counts."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
