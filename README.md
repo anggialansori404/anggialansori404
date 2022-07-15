@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!"</i>
+<i>"Without passion man is a mere latent force and possibility, like the flint which awaits the shock of the iron before it can give forth its spark."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Henri-Frédéric Amiel</b>
 </blockquote>
 </p>
 
