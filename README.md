@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great things happen to those who don't stop believing, trying, learning, and being grateful."</i>
+<i>"When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
