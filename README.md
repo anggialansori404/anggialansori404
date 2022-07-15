@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who fears being conquered is sure of defeat."</i>
+<i>"He who lives in harmony with himself lives in harmony with the universe."</i>
 <br>
-<b>- Napoleon</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
