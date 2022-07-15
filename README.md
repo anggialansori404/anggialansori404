@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything."</i>
+<i>"He who fears being conquered is sure of defeat."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Napoleon</b>
 </blockquote>
 </p>
 
