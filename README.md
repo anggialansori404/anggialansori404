@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To forgive means pardoning the unpardonable."</i>
+<i>"In order to succeed, we must first believe that we can."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Nikos Kazantzakis</b>
 </blockquote>
 </p>
 
