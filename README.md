@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success in any endeavor depends on the degree to which it is an expression of your true self. "</i>
+<i>"And as we let our own light shine, we unconsciously give other people permission to do the same."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
