@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunity often comes disguised in the form of misfortune, or temporary defeat."</i>
+<i>"Teachers open the door. You enter by yourself. "</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
