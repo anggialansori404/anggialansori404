@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing."</i>
+<i>"Prefer to be defeated in the presence of the wise than to excel among fools."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
