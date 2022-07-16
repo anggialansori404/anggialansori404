@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"None knows the weight of another's burden."</i>
+<i>"You learn to speak by speaking, to study by studying, to run by running, to work by working; in just the same way, you learn to love by loving."</i>
 <br>
-<b>- George Herbert</b>
+<b>- Anatole France</b>
 </blockquote>
 </p>
 
