@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"And as we let our own light shine, we unconsciously give other people permission to do the same."</i>
+<i>"Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
