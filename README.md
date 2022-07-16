@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If one advances confidently in the direction of his dream, and endeavors to live the life which he had imagines, he will meet with a success unexpected in common hours."</i>
+<i>"Do anything, but let it produce joy."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
