@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is one of our most treasured relationships, but it isn't codified and celebrated; it's never going to give you a party."</i>
+<i>"Do not follow where the path may lead. Go, instead, where there is no path and leave a trail."</i>
 <br>
-<b>- Hanya Yanagihara</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
