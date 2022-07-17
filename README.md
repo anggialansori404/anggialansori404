@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He is no fool who gives what he cannot keep to gain what he cannot lose."</i>
+<i>"What lies behind us and what lies before us are tiny matters compared to what lies within us."</i>
 <br>
-<b>- Jim Elliot</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
