@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man is a volume if you know how to read him."</i>
+<i>"He is no fool who gives what he cannot keep to gain what he cannot lose."</i>
 <br>
-<b>- William Ellery Channing</b>
+<b>- Jim Elliot</b>
 </blockquote>
 </p>
 
