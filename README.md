@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not follow where the path may lead. Go, instead, where there is no path and leave a trail."</i>
+<i>"Don't talk about what you have done or what you are going to do."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
