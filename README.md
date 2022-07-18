@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's easier to lose than to win.  "</i>
+<i>"I never think of the future. It comes soon enough."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
