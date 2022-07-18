@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I never think of the future. It comes soon enough."</i>
+<i>"A single rose can be my garden... a single friend, my world."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Leo Buscaglia</b>
 </blockquote>
 </p>
 
