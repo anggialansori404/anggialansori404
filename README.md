@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The key to wisdom is this - constant and frequent questioning, for by doubting we are led to question and by questioning we arrive at the truth."</i>
+<i>"It's easier to lose than to win.  "</i>
 <br>
-<b>- Peter Abelard</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
