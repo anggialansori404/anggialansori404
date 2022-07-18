@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I think and that is all that I am."</i>
+<i>"Do not follow where the path may lead. Go, instead, where there is no path and leave a trail."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
