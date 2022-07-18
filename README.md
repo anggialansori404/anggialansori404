@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most effective way to do it, is to do it."</i>
+<i>"Every strike brings me closer to the next home run. "</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Babe Ruth</b>
 </blockquote>
 </p>
 
