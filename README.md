@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A single rose can be my garden... a single friend, my world."</i>
+<i>"I think and that is all that I am."</i>
 <br>
-<b>- Leo Buscaglia</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
