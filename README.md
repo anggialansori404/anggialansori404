@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Know, first, who you are, and then adorn yourself accordingly."</i>
+<i>"The most effective way to do it, is to do it."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
