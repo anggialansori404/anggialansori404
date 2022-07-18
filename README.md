@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every strike brings me closer to the next home run. "</i>
+<i>"Believe you can and you're halfway there."</i>
 <br>
-<b>- Babe Ruth</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
