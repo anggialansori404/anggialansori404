@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The moment you doubt whether you can fly, you cease for ever to be able to do it."</i>
+<i>"Beauty is not in the face; beauty is a light in the heart."</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
