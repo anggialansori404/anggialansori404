@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others."</i>
+<i>"If no one ever broke the rules, then we'd never advance."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
