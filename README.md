@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be brave to stand for what you believe in even if you stand alone."</i>
+<i>"I believe that every person is born with talent."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
