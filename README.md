@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Things do not change; we change."</i>
+<i>"Be brave to stand for what you believe in even if you stand alone."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
