@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.  "</i>
+<i>"Just as a candle cannot burn without fire, men cannot live without a spiritual life."</i>
 <br>
-<b>- Seneca</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
