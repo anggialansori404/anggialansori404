@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The aim of life is self-development. To realize one's nature perfectly - that is what each of us is here for."</i>
+<i>"Happiness often sneaks in through a door you didn't know you left open."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- John Barrymore</b>
 </blockquote>
 </p>
 
