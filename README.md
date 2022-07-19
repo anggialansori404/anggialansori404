@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be tested is good. The challenged life may be the best therapist."</i>
+<i>"Fear of death is fear of the Unknown."</i>
 <br>
-<b>- Gail Sheehy</b>
+<b>- Adi Da Samraj</b>
 </blockquote>
 </p>
 
