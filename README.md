@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear of death is fear of the Unknown."</i>
+<i>"Things do not change; we change."</i>
 <br>
-<b>- Adi Da Samraj</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
