@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness often sneaks in through a door you didn't know you left open."</i>
+<i>"To be tested is good. The challenged life may be the best therapist."</i>
 <br>
-<b>- John Barrymore</b>
+<b>- Gail Sheehy</b>
 </blockquote>
 </p>
 
