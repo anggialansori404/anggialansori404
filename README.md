@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold."</i>
+<i>"Before you put on a frown, make absolutely sure there are no smiles available."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- James M. Beggs</b>
 </blockquote>
 </p>
 
