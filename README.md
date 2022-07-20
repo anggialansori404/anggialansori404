@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no charm equal to tenderness of heart."</i>
+<i>"We are all inclined to judge ourselves by our ideals; others, by their acts."</i>
 <br>
-<b>- Jane Austen</b>
+<b>- Harold Nicolson</b>
 </blockquote>
 </p>
 
