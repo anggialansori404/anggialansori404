@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will."</i>
+<i>"Be thankful for everything that happens in your life; it's all an experience."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
