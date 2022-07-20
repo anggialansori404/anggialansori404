@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before you put on a frown, make absolutely sure there are no smiles available."</i>
+<i>"Ignorant men raise questions that wise men answered a thousand years ago."</i>
 <br>
-<b>- James M. Beggs</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
