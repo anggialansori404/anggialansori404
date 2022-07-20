@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ignorant men raise questions that wise men answered a thousand years ago."</i>
+<i>"However rare true love may be, it is less so than true friendship."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- François de La Rochefoucauld</b>
 </blockquote>
 </p>
 
