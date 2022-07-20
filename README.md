@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"However rare true love may be, it is less so than true friendship."</i>
+<i>"Mistakes are always forgivable, if one has the courage to admit them."</i>
 <br>
-<b>- François de La Rochefoucauld</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
