@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A heart well prepared for adversity in bad times hopes, and in good times fears for a change in fortune."</i>
+<i>"Kindness is the language which the deaf can hear and the blind can see."</i>
 <br>
-<b>- Horace</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
