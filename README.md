@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great acts are made up of small deeds."</i>
+<i>"A heart well prepared for adversity in bad times hopes, and in good times fears for a change in fortune."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Horace</b>
 </blockquote>
 </p>
 
