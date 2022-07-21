@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking."</i>
+<i>"Every day is a new opportunity. You can build on yesterday's success or put its failures behind and start over again. That's the way life is, with a new game every day, and that's the way baseball is."</i>
 <br>
-<b>- Alfred Korzybski</b>
+<b>- Bob Feller</b>
 </blockquote>
 </p>
 
