@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're not making mistakes, then you're not doing anything."</i>
+<i>"In the end we retain from our studies only that which we practically apply."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
