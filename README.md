@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Know what's important and what isn't. Have the wisdom to know the right thing to do, the integrity to do it, the character to stand up to those who don't, and the courage to stop those who won't."</i>
+<i>"You know you're in love when you can't fall asleep because reality is finally better than your dreams."</i>
 <br>
-<b>- Mark Goulston</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
