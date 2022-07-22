@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only true wisdom is in knowing you know nothing."</i>
+<i>"The time is always right to do what is right."</i>
 <br>
-<b>- Isocrates</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
