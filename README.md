@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If one does not know to which port is sailing, no wind is favorable."</i>
+<i>"The smallest deed is better than the greatest intention."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- John Burroughs</b>
 </blockquote>
 </p>
 
