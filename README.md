@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the end we retain from our studies only that which we practically apply."</i>
+<i>"Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Ovid</b>
 </blockquote>
 </p>
 
