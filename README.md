@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody."</i>
+<i>"Relax. Nothing is under control."</i>
 <br>
-<b>- Henry Wadsworth Longfellow</b>
+<b>- Adi Da Samraj</b>
 </blockquote>
 </p>
 
