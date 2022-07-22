@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What gets measured gets improved."</i>
+<i>"The only true wisdom is in knowing you know nothing."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Isocrates</b>
 </blockquote>
 </p>
 
