@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I hope our wisdom will grow with our power, and teach us, that the less we use our power the greater it will be."</i>
+<i>"Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- M. Scott Peck</b>
 </blockquote>
 </p>
 
