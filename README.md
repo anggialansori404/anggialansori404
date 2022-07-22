@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The smallest deed is better than the greatest intention."</i>
+<i>"The more you care, the stronger you can be."</i>
 <br>
-<b>- John Burroughs</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
