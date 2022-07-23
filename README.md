@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man is a damn fool for at least five minutes every day; wisdom consists in not exceeding the limit."</i>
+<i>"The whole is greater than the sum of its parts."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
