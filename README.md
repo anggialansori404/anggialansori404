@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The whole is greater than the sum of its parts."</i>
+<i>"If you want to kill any idea in the world, get a committee working on it."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Charles F. Kettering</b>
 </blockquote>
 </p>
 
