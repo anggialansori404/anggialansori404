@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to kill any idea in the world, get a committee working on it."</i>
+<i>"Peace comes from within. Do not seek it without."</i>
 <br>
-<b>- Charles F. Kettering</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
