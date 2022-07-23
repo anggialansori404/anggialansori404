@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it."</i>
+<i>"Care about what other people think and you will always be their prisoner."</i>
 <br>
-<b>- M. Scott Peck</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
