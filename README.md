@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Step with care and great tact and remember that Life's a Great Balancing Act."</i>
+<i>"The greatest of all mistakes is to do nothing because you think you can only do a little.  "</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
