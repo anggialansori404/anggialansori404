@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest of all mistakes is to do nothing because you think you can only do a little.  "</i>
+<i>"The greater the impact you want to make, the greater your influence needs to be."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
