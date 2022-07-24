@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the power of the mind to be unconquerable."</i>
+<i>"When you consider things like the stars, our affairs don't seem to matter very much, do they?"</i>
 <br>
-<b>- Seneca</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
