@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be strong. Be confident. Be the star of your own life."</i>
+<i>"We could never learn to be brave and patient if there were only joy in the world."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
