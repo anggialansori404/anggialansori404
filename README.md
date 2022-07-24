@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greater the impact you want to make, the greater your influence needs to be."</i>
+<i>"Do all things with love."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
