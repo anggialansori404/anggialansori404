@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way we communicate with others and with ourselves ultimately determines the quality of our lives."</i>
+<i>"Don't give up the fight, Stand up for your rights."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
