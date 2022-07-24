@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man should look for what is, and not for what he thinks should be."</i>
+<i>"Not all those who wander are lost."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- J. R. R. Tolkien</b>
 </blockquote>
 </p>
 
