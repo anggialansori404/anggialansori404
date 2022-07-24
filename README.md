@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We could never learn to be brave and patient if there were only joy in the world."</i>
+<i>"The way we communicate with others and with ourselves ultimately determines the quality of our lives."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
