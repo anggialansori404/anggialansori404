@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't give up the fight, Stand up for your rights."</i>
+<i>"A man should look for what is, and not for what he thinks should be."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
