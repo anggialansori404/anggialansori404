@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only by attracting the best people will you accomplish great deeds."</i>
+<i>"It is better to understand a little than to misunderstand a lot."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Anatole France</b>
 </blockquote>
 </p>
 
