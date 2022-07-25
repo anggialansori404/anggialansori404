@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we will be quiet and ready enough, we shall find compensation in every disappointment."</i>
+<i>"Motivation is what gets you started. Habit is what keeps you going."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
