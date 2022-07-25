@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Motivation is what gets you started. Habit is what keeps you going."</i>
+<i>"An ounce of performance is worth pounds of promises."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
