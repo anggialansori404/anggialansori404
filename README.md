@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throw your heart over the bar and your body will follow."</i>
+<i>"Imagination is the highest kite one can fly."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Lauren Bacall</b>
 </blockquote>
 </p>
 
