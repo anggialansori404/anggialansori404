@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dream big and dare to fail."</i>
+<i>"Attitude is a little thing that makes a big difference."</i>
 <br>
-<b>- Norman Vaughan</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
