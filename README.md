@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is softer or more flexible than water, yet nothing can resist it."</i>
+<i>"Where you are right now doesn't have to determine where you'll end up."</i>
 <br>
-<b>- Laozi</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
