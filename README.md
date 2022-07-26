@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man."</i>
+<i>"Dream big and dare to fail."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Norman Vaughan</b>
 </blockquote>
 </p>
 
