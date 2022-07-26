@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Attitude is a little thing that makes a big difference."</i>
+<i>"Growth comes at the point of resistance."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
