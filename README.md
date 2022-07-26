@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To seek is to suffer. To seek nothing is bliss."</i>
+<i>"A little impatience will spoil great plans."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
