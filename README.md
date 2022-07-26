@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It has never been my object to record my dreams, just to realize them."</i>
+<i>"What you do today can improve all your tomorrows."</i>
 <br>
-<b>- Man Ray</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
