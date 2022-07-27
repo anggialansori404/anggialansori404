@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The question isn't who is going to let me; it's who is going to stop me."</i>
+<i>"Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
