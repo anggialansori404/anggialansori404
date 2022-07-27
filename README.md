@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One must be fond of people and trust them if one is not to make a mess of life."</i>
+<i>"Where you are right now doesn't have to determine where you'll end up."</i>
 <br>
-<b>- E. M. Forster</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
