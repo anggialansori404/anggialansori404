@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams."</i>
+<i>"Honesty is the first chapter in the book of wisdom."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
