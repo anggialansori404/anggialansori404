@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Either you run the day or the day runs you."</i>
+<i>"Be kind whenever possible. It is always possible."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
