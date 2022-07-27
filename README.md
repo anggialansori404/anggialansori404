@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Attitude, not aptitude, determines altitude.  "</i>
+<i>"One must be fond of people and trust them if one is not to make a mess of life."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- E. M. Forster</b>
 </blockquote>
 </p>
 
