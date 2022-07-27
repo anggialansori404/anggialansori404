@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Honesty is the first chapter in the book of wisdom."</i>
+<i>"Either you run the day or the day runs you."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
