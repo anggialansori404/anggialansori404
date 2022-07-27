@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be kind whenever possible. It is always possible."</i>
+<i>"Attitude, not aptitude, determines altitude.  "</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
