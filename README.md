@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"God made me fast. And when I run, I feel His pleasure."</i>
+<i>"All wealth is the product of labor."</i>
 <br>
-<b>- Eric Liddell</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
