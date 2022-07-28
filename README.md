@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must learn our limits. We are all something, but none of us are everything."</i>
+<i>"We may encounter many defeats, but we must not be defeated."</i>
 <br>
-<b>- Blaise Pascal</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
