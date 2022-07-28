@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Although there may be tragedy in your life, there's always a possibility to triumph. It doesn't matter who you are, where you come from. The ability to triumph begins with you. Always."</i>
+<i>"We must learn our limits. We are all something, but none of us are everything."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Blaise Pascal</b>
 </blockquote>
 </p>
 
