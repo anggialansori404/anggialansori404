@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is literally what he thinks."</i>
+<i>"Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned."</i>
 <br>
-<b>- James Allen</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
