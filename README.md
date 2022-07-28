@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are the only person on earth who can use your ability."</i>
+<i>"Successful people ask better questions, and as a result, they get better answers."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
