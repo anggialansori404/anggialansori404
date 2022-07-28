@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"So much technology, so little talent."</i>
+<i>"Although there may be tragedy in your life, there's always a possibility to triumph. It doesn't matter who you are, where you come from. The ability to triumph begins with you. Always."</i>
 <br>
-<b>- Vernor Vinge</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
