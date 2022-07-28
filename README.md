@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We may encounter many defeats, but we must not be defeated."</i>
+<i>"A man is literally what he thinks."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
