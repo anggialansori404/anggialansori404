@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Victory belongs to the most persevering."</i>
+<i>"God made me fast. And when I run, I feel His pleasure."</i>
 <br>
-<b>- Napoleon</b>
+<b>- Eric Liddell</b>
 </blockquote>
 </p>
 
