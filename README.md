@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where you are right now doesn't have to determine where you'll end up."</i>
+<i>"So much technology, so little talent."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Vernor Vinge</b>
 </blockquote>
 </p>
 
