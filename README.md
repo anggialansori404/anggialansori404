@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The majority of what you want will come from the minority of what you do."</i>
+<i>"You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
