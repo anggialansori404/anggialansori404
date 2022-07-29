@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry."</i>
+<i>"Respect is earned by effort not age, all things age without effort."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- C. Sean McGee</b>
 </blockquote>
 </p>
 
