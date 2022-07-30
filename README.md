@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the attempt to form a friendship inspired by beauty."</i>
+<i>"Life is but one dream flowing into another."</i>
 <br>
-<b>- Cicero</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
