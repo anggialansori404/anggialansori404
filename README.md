@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do your duty and a little more and the future will take care of itself."</i>
+<i>"Being in a good frame of mind helps keep one in the picture of health."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
