@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is never enough time to do everything, but there is always enough time to do the most important thing."</i>
+<i>"Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Arthur Rubinstein</b>
 </blockquote>
 </p>
 
