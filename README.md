@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who bring sunshine into the lives of others cannot keep it from themselves."</i>
+<i>"We could never learn to be brave and patient if there were only joy in the world."</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
