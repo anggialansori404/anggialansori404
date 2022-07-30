@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace is not absence of conflict, it is the ability to handle conflict by peaceful means."</i>
+<i>"Love is the attempt to form a friendship inspired by beauty."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Cicero</b>
 </blockquote>
 </p>
 
