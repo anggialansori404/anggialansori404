@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are not only responsible for what you say, but also for what you do not say. "</i>
+<i>"I can't imagine a person becoming a success who doesn't give this game of life everything he's got."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Walter Cronkite</b>
 </blockquote>
 </p>
 
