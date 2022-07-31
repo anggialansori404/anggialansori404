@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I can't imagine a person becoming a success who doesn't give this game of life everything he's got."</i>
+<i>"Meditation brings wisdom, lack of meditation leaves ignorance. Know well what leads you forward and what holds you back and choose the path that leads to wisdom."</i>
 <br>
-<b>- Walter Cronkite</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
