@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Meditation brings wisdom, lack of meditation leaves ignorance. Know well what leads you forward and what holds you back and choose the path that leads to wisdom."</i>
+<i>"Your next step is simple. You are the first domino."</i>
 <br>
-<b>- Buddha</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
