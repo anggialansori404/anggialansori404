@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"New beginnings are disguised as painful endings."</i>
+<i>"Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
