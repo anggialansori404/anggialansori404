@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The virtue of justice consists in moderation, as regulated by wisdom."</i>
+<i>"You cannot swim for new horizons until you have courage to lose sight of the shore."</i>
 <br>
-<b>- Aristotle</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
