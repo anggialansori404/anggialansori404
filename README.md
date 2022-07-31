@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your next step is simple. You are the first domino."</i>
+<i>"The virtue of justice consists in moderation, as regulated by wisdom."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
