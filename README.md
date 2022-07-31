@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even though you are on the right track - you will get run over if you just sit there."</i>
+<i>"New beginnings are disguised as painful endings."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
