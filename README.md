@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot swim for new horizons until you have courage to lose sight of the shore."</i>
+<i>"Nothing good ever comes of violence."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
