@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing good ever comes of violence."</i>
+<i>"Education breeds confidence. Confidence breeds hope. Hope breeds peace."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
