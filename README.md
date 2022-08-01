@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thousands of candles can be lighted from a single candle, and the life of the candle will not be shortened. Happiness never decreases by being shared."</i>
+<i>"So is cheerfulness, or a good temper, the more it is spent, the more remains."</i>
 <br>
-<b>- Buddha</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
