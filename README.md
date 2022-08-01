@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By changing nothing, nothing changes."</i>
+<i>"I don't turn to greeting cards for wisdom and advice, but they are a fine reflection of the general drift of the culture."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Susan Orlean</b>
 </blockquote>
 </p>
 
