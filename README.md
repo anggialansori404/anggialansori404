@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Education breeds confidence. Confidence breeds hope. Hope breeds peace."</i>
+<i>"Reversing your treatment of the man you have wronged is better than asking his forgiveness."</i>
 <br>
-<b>- Confucius</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
