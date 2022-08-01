@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship with oneself is all important, because without it one cannot be friends with anyone else in the world."</i>
+<i>"Thousands of candles can be lighted from a single candle, and the life of the candle will not be shortened. Happiness never decreases by being shared."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
