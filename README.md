@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'm tired of hearing about money, money, money, money, money. I just want to play the game, drink Pepsi, and wear Reebok."</i>
+<i>"We may encounter many defeats, but we must not be defeated."</i>
 <br>
-<b>- Shaquille O'Neal</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
