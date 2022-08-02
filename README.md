@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have two ears and one mouth so that we can listen twice as much as we speak."</i>
+<i>"The amount of happiness that you have depends on the amount of freedom you have in your heart."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Thích Nhất Hạnh</b>
 </blockquote>
 </p>
 
