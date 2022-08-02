@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People who avoid failure also avoid success."</i>
+<i>"We have two ears and one mouth so that we can listen twice as much as we speak."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
