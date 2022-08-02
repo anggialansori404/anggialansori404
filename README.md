@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To have faith is to trust yourself to the water. When you swim you don't grab hold of the water, because if you do you will sink and drown. Instead you relax, and float."</i>
+<i>"Life is movement-we breathe, we eat, we walk, we move!"</i>
 <br>
-<b>- Alan Watts</b>
+<b>- John Pierrakos</b>
 </blockquote>
 </p>
 
