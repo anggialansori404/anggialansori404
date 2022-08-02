@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We may encounter many defeats, but we must not be defeated."</i>
+<i>"If you want your life to be more rewarding, you have to change the way you think."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
