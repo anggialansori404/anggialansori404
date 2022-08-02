@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is movement-we breathe, we eat, we walk, we move!"</i>
+<i>"When times are bad is when the real entrepreneurs emerge."</i>
 <br>
-<b>- John Pierrakos</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
