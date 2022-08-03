@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The amount of happiness that you have depends on the amount of freedom you have in your heart."</i>
+<i>"How wonderful it is that nobody need wait a single moment before starting to improve the world."</i>
 <br>
-<b>- Thích Nhất Hạnh</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
