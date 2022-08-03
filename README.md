@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Decide what your truth is. Then live it."</i>
+<i>"It has never been my object to record my dreams, just to realize them."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Man Ray</b>
 </blockquote>
 </p>
 
