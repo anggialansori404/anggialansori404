@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Logic will get you from A to B. Imagination will take you everywhere."</i>
+<i>"To improve is to change; to be perfect is to change often."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
