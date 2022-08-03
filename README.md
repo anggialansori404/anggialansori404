@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To improve is to change; to be perfect is to change often."</i>
+<i>"The more you are motivated by Love, The more Fearless & Free your action will be."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
