@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are the average of the five people you spend the most time with."</i>
+<i>"Go for it now. The future is promised to no one."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
