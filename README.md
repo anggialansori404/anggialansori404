@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It has never been my object to record my dreams, just to realize them."</i>
+<i>"Logic will get you from A to B. Imagination will take you everywhere."</i>
 <br>
-<b>- Man Ray</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
