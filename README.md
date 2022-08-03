@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How wonderful it is that nobody need wait a single moment before starting to improve the world."</i>
+<i>"While some of us act without thinking, too many of us think without acting."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
