@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust yourself. You know more than you think you do."</i>
+<i>"The young man knows the rules, but the old man knows the exceptions."</i>
 <br>
-<b>- Benjamin Spock</b>
+<b>- Oliver Wendell Holmes Jr.</b>
 </blockquote>
 </p>
 
