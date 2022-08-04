@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Accept challenges, so that you may feel the exhilaration of victory."</i>
+<i>"Trust yourself. You know more than you think you do."</i>
 <br>
-<b>- George S. Patton</b>
+<b>- Benjamin Spock</b>
 </blockquote>
 </p>
 
