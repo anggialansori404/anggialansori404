@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A dream is your creative vision for your life in the future. You must break out of your current comfort zone and become comfortable with the unfamiliar and the unknown."</i>
+<i>"You don't get in life what you want; you get in life what you are."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
