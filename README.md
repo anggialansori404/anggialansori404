@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not engaging in ignorance is wisdom."</i>
+<i>"Accept challenges, so that you may feel the exhilaration of victory."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- George S. Patton</b>
 </blockquote>
 </p>
 
