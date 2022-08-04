@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is one long process of getting tired."</i>
+<i>"Never find fault with the absent."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
