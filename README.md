@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't get in life what you want; you get in life what you are."</i>
+<i>"Life is one long process of getting tired."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
