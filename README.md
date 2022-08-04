@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let go of your attachment to being right, and suddenly your mind is more open. You're able to benefit from the unique viewpoints of others, without being crippled by your own judgement."</i>
+<i>"Forgive those who have hurt you."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
