@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is not something ready-made. It comes from your own actions."</i>
+<i>"A dream is your creative vision for your life in the future. You must break out of your current comfort zone and become comfortable with the unfamiliar and the unknown."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
