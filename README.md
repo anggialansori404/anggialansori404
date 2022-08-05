@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you only have a hammer, you tend to see every problem as a nail."</i>
+<i>"It is those who concentrate on but one thing at a time who advance in this world."</i>
 <br>
-<b>- Abraham Maslow</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
