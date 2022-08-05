@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A really great talent finds its happiness in execution."</i>
+<i>"We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- James Freeman Clarke</b>
 </blockquote>
 </p>
 
