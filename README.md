@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the flower you've got to let grow."</i>
+<i>"There are people who have money and people who are rich."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
