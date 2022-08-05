@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life."</i>
+<i>"Life is like riding a bicycle. To keep your balance you must keep moving."</i>
 <br>
-<b>- James Freeman Clarke</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
