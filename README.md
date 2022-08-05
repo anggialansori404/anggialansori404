@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A crisis is an opportunity riding the dangerous wind."</i>
+<i>"Love is the flower you've got to let grow."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
