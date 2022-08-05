@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As you think, so shall you become."</i>
+<i>"If you only have a hammer, you tend to see every problem as a nail."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Abraham Maslow</b>
 </blockquote>
 </p>
 
