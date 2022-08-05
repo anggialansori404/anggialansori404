@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like riding a bicycle. To keep your balance you must keep moving."</i>
+<i>"The Superior Man is aware of Righteousness, the inferior man is aware of advantage."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
