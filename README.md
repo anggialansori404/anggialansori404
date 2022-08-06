@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind."</i>
+<i>"The supreme art of war is to subdue the enemy without fighting."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
