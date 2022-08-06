@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In matters of style, swim with the current; in matters of principle, stand like a rock."</i>
+<i>"Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
