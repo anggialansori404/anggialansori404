@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The supreme art of war is to subdue the enemy without fighting."</i>
+<i>"If you do not change direction, you may end up where you are heading."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
