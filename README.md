@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't talk about what you have done or what you are going to do."</i>
+<i>"Life is like underwear, should be changed twice a day.  "</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
