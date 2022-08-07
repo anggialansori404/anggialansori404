@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wise men make more opportunities than they find."</i>
+<i>"Perseverance and spirit have done wonders in all ages. "</i>
 <br>
-<b>- Francis Bacon</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
