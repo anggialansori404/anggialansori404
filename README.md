@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every human being is the author of his own health or disease."</i>
+<i>"Some people dream of success, while others wake up and work hard at it."</i>
 <br>
-<b>- Buddha</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
