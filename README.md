@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people dream of success, while others wake up and work hard at it."</i>
+<i>"It does not matter how slowly you go as long as you do not stop."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
