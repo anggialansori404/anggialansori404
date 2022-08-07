@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunities multiply as they are seized."</i>
+<i>"Joy is the best makeup."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Anne Lamott</b>
 </blockquote>
 </p>
 
