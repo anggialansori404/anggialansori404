@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor."</i>
+<i>"I will prepare and some day my chance will come."</i>
 <br>
-<b>- Daisaku Ikeda</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
