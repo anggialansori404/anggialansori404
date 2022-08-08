@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Joy is the best makeup."</i>
+<i>"Don't settle for a relationship that won't let you be yourself."</i>
 <br>
-<b>- Anne Lamott</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
