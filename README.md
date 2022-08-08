@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can always count on Americans to do the right thing - after they've tried everything else."</i>
+<i>"If you have made mistakes, there is always another chance for you. You may have a fresh start any moment you choose."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Mary Pickford</b>
 </blockquote>
 </p>
 
