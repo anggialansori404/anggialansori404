@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your mind is infinite, it's your doubts that are limiting."</i>
+<i>"Nothing great was ever achieved without enthusiasm."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
