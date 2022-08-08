@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I will prepare and some day my chance will come."</i>
+<i>"To improve is to change; to be perfect is to change often."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
