@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Night is a more quiet time to work. It aids thought."</i>
+<i>"There's no coming to consciousness without pain"</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
