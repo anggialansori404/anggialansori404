@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To improve is to change; to be perfect is to change often."</i>
+<i>"To earn more you must learn more."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
