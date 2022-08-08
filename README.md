@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't settle for a relationship that won't let you be yourself."</i>
+<i>"Your mind is infinite, it's your doubts that are limiting."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
