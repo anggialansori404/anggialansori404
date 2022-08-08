@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you have made mistakes, there is always another chance for you. You may have a fresh start any moment you choose."</i>
+<i>"If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor."</i>
 <br>
-<b>- Mary Pickford</b>
+<b>- Daisaku Ikeda</b>
 </blockquote>
 </p>
 
