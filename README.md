@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In three words I can sum up everything I've learned about life: it goes on."</i>
+<i>"You can always count on Americans to do the right thing - after they've tried everything else."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
