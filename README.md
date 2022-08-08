@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To earn more you must learn more."</i>
+<i>"Night is a more quiet time to work. It aids thought."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
