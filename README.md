@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Living at risk is jumping off the cliff and building your wings on the way down."</i>
+<i>"Fool me once, shame on you; fool me twice, shame on me. "</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
