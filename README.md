@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hope and fear come from feeling that we lack something; they come from a sense of poverty."</i>
+<i>"Every strike brings me closer to the next home run. "</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Babe Ruth</b>
 </blockquote>
 </p>
 
