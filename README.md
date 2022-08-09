@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember that the best relationship is one in which your love for each other exceeds your need for each other."</i>
+<i>"In the middle of chaos lies opportunity.  "</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
