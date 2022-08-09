@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It has been my experience that folks who have no vices have very few virtues."</i>
+<i>"Life is a traveling to the edge of knowledge, then a leap taken."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
