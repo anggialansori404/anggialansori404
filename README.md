@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Help others achieve their dreams and you will achieve yours."</i>
+<i>"The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
