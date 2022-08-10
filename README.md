@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Art is the signature of civilizations. "</i>
+<i>"An organization, no matter how well designed, is only as good as the people who live and work in it."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Dee Hock</b>
 </blockquote>
 </p>
 
