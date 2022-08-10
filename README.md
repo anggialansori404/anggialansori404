@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you resist, persists."</i>
+<i>"The only journey is the one within."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Rainer Maria Rilke</b>
 </blockquote>
 </p>
 
