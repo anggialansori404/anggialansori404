@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never find fault with the absent."</i>
+<i>"Your worth consists in what you are and not in what you have."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
