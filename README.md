@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An organization, no matter how well designed, is only as good as the people who live and work in it."</i>
+<i>"Appreciation is the highest form of prayer, for it acknowledges the presence of good wherever you shine the light of your thankful thoughts."</i>
 <br>
-<b>- Dee Hock</b>
+<b>- Alan Cohen</b>
 </blockquote>
 </p>
 
