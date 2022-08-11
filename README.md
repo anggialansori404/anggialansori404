@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Pleasure can be supported by an illusion; but happiness rests upon truth. "</i>
+<i>"Wherever you go, go with all your heart."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
