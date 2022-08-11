@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest obstacle to connecting with our joy is resentment."</i>
+<i>"Stop acting so small. You are the universe in ecstatic motion."</i>
 <br>
-<b>- Pema Chödrön</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
