@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Minds are like parachutes. They only function when open."</i>
+<i>"Failure is a great teacher. If you're open to it every mistake has a lesson to offer."</i>
 <br>
-<b>- Thomas Dewar</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
