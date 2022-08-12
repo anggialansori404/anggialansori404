@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The cautious seldom err."</i>
+<i>"There is a wisdom of the head, and a wisdom of the heart."</i>
 <br>
-<b>- Confucius</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
