@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is rightly esteemed the first of human qualities... because it is the quality which guarantees all others."</i>
+<i>"Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
