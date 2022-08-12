@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is a very taxing and arduous form of leisure activity."</i>
+<i>"Happiness is only real, when shared."</i>
 <br>
-<b>- Mortimer J. Adler</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
