@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People become attached to their burdens sometimes more than the burdens are attached to them."</i>
+<i>"Life is the art of drawing sufficient conclusions from insufficient premises."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
