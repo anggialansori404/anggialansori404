@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you focus on results and finding shortcuts, you'll get impatient. If you focus on the process and doing the right thing, you'll be unstoppable."</i>
+<i>"Courage is rightly esteemed the first of human qualities... because it is the quality which guarantees all others."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
