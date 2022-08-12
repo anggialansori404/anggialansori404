@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I don't want to achieve immortality through my work... I want to achieve it through not dying."</i>
+<i>"The cautious seldom err."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
