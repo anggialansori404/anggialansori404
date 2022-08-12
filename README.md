@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I believe in one thing only, the power of human will."</i>
+<i>"The best way to find yourself is to lose yourself in the service of others."</i>
 <br>
-<b>- Joseph Stalin</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
