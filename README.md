@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is the art of drawing sufficient conclusions from insufficient premises."</i>
+<i>"I believe in one thing only, the power of human will."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Joseph Stalin</b>
 </blockquote>
 </p>
 
