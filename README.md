@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Can miles truly separate you from friends... If you want to be with someone you love, aren't you already there?"</i>
+<i>"When it hurts - observe. Life is trying to teach you something."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Anita Krizzan</b>
 </blockquote>
 </p>
 
