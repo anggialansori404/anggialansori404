@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone thinks of changing the world, but no one thinks of changing himself."</i>
+<i>"Quality is more important than quantity. One home run is much better than two doubles."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
