@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Think and wonder, wonder and think."</i>
+<i>"Life reflects your own thoughts back to you."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
