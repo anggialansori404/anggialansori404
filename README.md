@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When it hurts - observe. Life is trying to teach you something."</i>
+<i>"The attempt to combine wisdom and power has only rarely been successful and then only for a short while."</i>
 <br>
-<b>- Anita Krizzan</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
