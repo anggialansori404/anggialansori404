@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be thankful for everything that happens in your life; it's all an experience."</i>
+<i>"Think and wonder, wonder and think."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
