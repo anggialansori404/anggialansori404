@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom."</i>
+<i>"Can miles truly separate you from friends... If you want to be with someone you love, aren't you already there?"</i>
 <br>
-<b>- Theodore Isaac Rubin</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
