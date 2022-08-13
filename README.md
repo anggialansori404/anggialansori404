@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The attempt to combine wisdom and power has only rarely been successful and then only for a short while."</i>
+<i>"Be thankful for everything that happens in your life; it's all an experience."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
