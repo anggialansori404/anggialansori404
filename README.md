@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In a controversy the instant we feel anger we have already ceased striving for the truth, and have begun striving for ourselves."</i>
+<i>"I am always doing that which I cannot do, in order that I may learn how to do it."</i>
 <br>
-<b>- Buddha</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
