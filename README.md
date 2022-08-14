@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We suffer more often in imagination than in reality."</i>
+<i>"In a controversy the instant we feel anger we have already ceased striving for the truth, and have begun striving for ourselves."</i>
 <br>
-<b>- Seneca</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
