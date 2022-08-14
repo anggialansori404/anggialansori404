@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you seek truth, you will not seek victory by dishonorable means, and if you find truth you will become invincible."</i>
+<i>"Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Whoopi Goldberg</b>
 </blockquote>
 </p>
 
