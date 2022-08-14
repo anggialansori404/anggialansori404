@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I like the dreams of the future better than the history of the past."</i>
+<i>"If you seek truth, you will not seek victory by dishonorable means, and if you find truth you will become invincible."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
