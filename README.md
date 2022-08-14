@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way."</i>
+<i>"Be kind whenever possible. It is always possible."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
