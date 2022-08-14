@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Cunning... is but the low mimic of wisdom."</i>
+<i>"The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way."</i>
 <br>
-<b>- Plato</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
