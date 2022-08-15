@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An optimist is a person who sees a green light everywhere, while the pessimist sees only the red spotlight... The truly wise person is color-blind."</i>
+<i>"Share your smile with the world. It's a symbol of friendship and peace."</i>
 <br>
-<b>- Albert Schweitzer</b>
+<b>- Christie Brinkley</b>
 </blockquote>
 </p>
 
