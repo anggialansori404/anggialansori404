@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Blessed are the hearts that can bend; they shall never be broken."</i>
+<i>"Friendship is one of our most treasured relationships, but it isn't codified and celebrated; it's never going to give you a party."</i>
 <br>
-<b>- Albert Camus</b>
+<b>- Hanya Yanagihara</b>
 </blockquote>
 </p>
 
