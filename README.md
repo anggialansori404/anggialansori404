@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When reading, only read. When eating, only eat. When thinking, only think."</i>
+<i>"Vanity can easily overtake wisdom. It usually overtakes common sense."</i>
 <br>
-<b>- Seungsahn</b>
+<b>- Julian Casablancas</b>
 </blockquote>
 </p>
 
