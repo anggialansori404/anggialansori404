@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is one of our most treasured relationships, but it isn't codified and celebrated; it's never going to give you a party."</i>
+<i>"You must welcome change as the rule but not as your ruler. "</i>
 <br>
-<b>- Hanya Yanagihara</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
