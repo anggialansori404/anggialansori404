@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If a thing is worth doing, it is worth doing badly."</i>
+<i>"You can always tell a real friend: when you've made a fool of yourself he doesn't feel you've done a permanent job."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
