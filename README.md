@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom has never made a bigot, but learning has."</i>
+<i>"Darkness is the absence of light."</i>
 <br>
-<b>- Josh Billings</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
