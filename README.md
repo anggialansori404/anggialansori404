@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't play against opponents, you play against the game of basketball."</i>
+<i>"Just as a flower, which seems beautiful has color but no perfume, so are the fruitless words of a man who speaks them but does them not."</i>
 <br>
-<b>- Bob Knight</b>
+<b>- Dhammapada</b>
 </blockquote>
 </p>
 
