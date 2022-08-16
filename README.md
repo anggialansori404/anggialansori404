@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just as a flower, which seems beautiful has color but no perfume, so are the fruitless words of a man who speaks them but does them not."</i>
+<i>"Blessed are the hearts that can bend; they shall never be broken."</i>
 <br>
-<b>- Dhammapada</b>
+<b>- Albert Camus</b>
 </blockquote>
 </p>
 
