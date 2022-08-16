@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I have seen further than others, it is by standing upon the shoulders of giants."</i>
+<i>"We live in a society bloated with data yet starved for wisdom. We're connected 24/7, yet anxiety, fear, depression and loneliness are at an all-time high. We must course-correct."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Elizabeth Kapu'uwailani Lindsey</b>
 </blockquote>
 </p>
 
