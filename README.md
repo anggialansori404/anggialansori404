@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity."</i>
+<i>"Parents can only give good advice or put them on the right paths, but the final forming of a person's character lies in their own hands."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
