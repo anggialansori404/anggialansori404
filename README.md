@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Share your smile with the world. It's a symbol of friendship and peace."</i>
+<i>"You don't play against opponents, you play against the game of basketball."</i>
 <br>
-<b>- Christie Brinkley</b>
+<b>- Bob Knight</b>
 </blockquote>
 </p>
 
