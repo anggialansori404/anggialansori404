@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Darkness is the absence of light."</i>
+<i>"Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
