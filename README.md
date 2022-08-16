@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be slow in choosing a friend, slower in changing."</i>
+<i>"If I have seen further than others, it is by standing upon the shoulders of giants."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
