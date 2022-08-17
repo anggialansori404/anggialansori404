@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Allow the world to live as it chooses, and allow yourself to live as you choose."</i>
+<i>"To want to be what one can be is purpose in life."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Cynthia Ozick</b>
 </blockquote>
 </p>
 
