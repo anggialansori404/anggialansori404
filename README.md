@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The highest stage in moral culture at which we can arrive is when we recognize that we ought to control our thoughts."</i>
+<i>"A house divided against itself cannot stand."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
