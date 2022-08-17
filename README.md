@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today."</i>
+<i>"The greatest test of courage on earth is to bear defeat without losing heart."</i>
 <br>
-<b>- Tryon Edwards</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
