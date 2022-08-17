@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you focus on results, you will never change. If you focus on change, you will get results."</i>
+<i>"The highest stage in moral culture at which we can arrive is when we recognize that we ought to control our thoughts."</i>
 <br>
-<b>- Jack Dixon</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
