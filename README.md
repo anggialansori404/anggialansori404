@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To accomplish great things, we must not only act, but also dream; not only plan, but also believe."</i>
+<i>"He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today."</i>
 <br>
-<b>- Anatole France</b>
+<b>- Tryon Edwards</b>
 </blockquote>
 </p>
 
