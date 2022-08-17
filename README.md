@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is not just the passing of time. Life is the collection of experiences and their intensity."</i>
+<i>"If you focus on results, you will never change. If you focus on change, you will get results."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Jack Dixon</b>
 </blockquote>
 </p>
 
