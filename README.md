@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A house divided against itself cannot stand."</i>
+<i>"When you learn, teach. When you get, give."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
