@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man's growth is seen in the successive choirs of his friends"</i>
+<i>"To accomplish great things, we must not only act, but also dream; not only plan, but also believe."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Anatole France</b>
 </blockquote>
 </p>
 
