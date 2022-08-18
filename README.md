@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are many ways of going forward, but only one way of standing still."</i>
+<i>"If you must tell me your opinions, tell me what you believe in. I have plenty of doubts of my own."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
