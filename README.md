@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you learn, teach. When you get, give."</i>
+<i>"Be slow to fall into friendship; but when thou art in, continue firm and constant."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Isocrates</b>
 </blockquote>
 </p>
 
