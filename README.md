@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe deep down in your heart that you're destined to do great things."</i>
+<i>"You will not be punished for your anger; you will be punished by your anger."</i>
 <br>
-<b>- Joe Paterno</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
