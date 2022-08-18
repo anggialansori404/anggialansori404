@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Forever is composed of now's."</i>
+<i>"There are many ways of going forward, but only one way of standing still."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
