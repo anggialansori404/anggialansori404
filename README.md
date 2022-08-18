@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You will not be punished for your anger; you will be punished by your anger."</i>
+<i>"Minds are like parachutes. They only function when open."</i>
 <br>
-<b>- Buddha</b>
+<b>- Thomas Dewar</b>
 </blockquote>
 </p>
 
