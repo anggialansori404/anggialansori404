@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who bring sunshine into the lives of others cannot keep it from themselves."</i>
+<i>"Fear is stupid. So are regrets."</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Marilyn Monroe</b>
 </blockquote>
 </p>
 
