@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time is the most valuable thing a man can spend."</i>
+<i>"An idea that is developed and put into action is more important than an idea that exists only as an idea."</i>
 <br>
-<b>- Theophrastus</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
