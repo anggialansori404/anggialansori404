@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Logic is like the sword - those who appeal to it shall perish by it."</i>
+<i>"When you realize you've made a mistake, take immediate steps to correct it."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
