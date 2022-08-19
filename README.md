@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let the noise of others' opinions drown out your own inner voice."</i>
+<i>"Time is the most valuable thing a man can spend."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Theophrastus</b>
 </blockquote>
 </p>
 
