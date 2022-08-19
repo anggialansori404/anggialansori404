@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Minds are like parachutes. They only function when open."</i>
+<i>"Logic is like the sword - those who appeal to it shall perish by it."</i>
 <br>
-<b>- Thomas Dewar</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
