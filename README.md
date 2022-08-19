@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An idea that is developed and put into action is more important than an idea that exists only as an idea."</i>
+<i>"Do not go where the path may lead, go instead where there is no path and leave a trail."</i>
 <br>
-<b>- Buddha</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
