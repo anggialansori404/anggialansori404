@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes it is better to lose and do the right thing than to win and do the wrong thing."</i>
+<i>"Outstanding people have one thing in common: an absolute sense of mission.  "</i>
 <br>
-<b>- Tony Blair</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
