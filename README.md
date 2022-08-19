@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Outstanding people have one thing in common: an absolute sense of mission.  "</i>
+<i>"Life is either a daring adventure, or it is nothing."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
