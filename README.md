@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns."</i>
+<i>"For beautiful eyes, look for the good in others; for beautiful lips, speak only words of kindness; and for poise, walk with the knowledge that you are never alone."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
