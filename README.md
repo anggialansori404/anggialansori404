@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For beautiful eyes, look for the good in others; for beautiful lips, speak only words of kindness; and for poise, walk with the knowledge that you are never alone."</i>
+<i>"Imagination rules the world."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Napoleon</b>
 </blockquote>
 </p>
 
