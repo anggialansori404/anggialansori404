@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no self-discovery without pain and loss."</i>
+<i>"Computers are like bikinis. They save people a lot of guesswork."</i>
 <br>
-<b>- Anita Krizzan</b>
+<b>- Sam Ewing</b>
 </blockquote>
 </p>
 
