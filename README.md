@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination rules the world."</i>
+<i>"Decide what your truth is. Then live it."</i>
 <br>
-<b>- Napoleon</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
