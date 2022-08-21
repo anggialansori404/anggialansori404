@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intuition will tell the thinking mind where to look next."</i>
+<i>"Wrinkles should merely indicate where smiles have been."</i>
 <br>
-<b>- Jonas Salk</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
