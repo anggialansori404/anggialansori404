@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An economist is an expert who will know tomorrow why the things he predicted yesterday didn't happen today."</i>
+<i>"A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Isaac Asimov</b>
 </blockquote>
 </p>
 
