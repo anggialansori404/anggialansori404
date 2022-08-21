@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed. "</i>
+<i>"The personal life deeply lived always expands into truths beyond itself."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Anaïs Nin</b>
 </blockquote>
 </p>
 
