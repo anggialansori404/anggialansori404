@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you seek truth, you will not seek victory by dishonorable means, and if you find truth you will become invincible."</i>
+<i>"There will always be suffering. But we must not suffer over the suffering."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
