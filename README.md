@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Pain and foolishness lead to great bliss and complete knowledge, for Eternal Wisdom created nothing under the sun in vain."</i>
+<i>"If you seek truth, you will not seek victory by dishonorable means, and if you find truth you will become invincible."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
