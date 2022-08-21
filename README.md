@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There will always be suffering. But we must not suffer over the suffering."</i>
+<i>"If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
