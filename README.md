@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Decide what your truth is. Then live it."</i>
+<i>"An economist is an expert who will know tomorrow why the things he predicted yesterday didn't happen today."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
