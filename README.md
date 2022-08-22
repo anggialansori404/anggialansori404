@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The smallest act of kindness is worth more than the greatest intention.  "</i>
+<i>"There are no differences but differences of degree between different degrees of difference and no difference."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
