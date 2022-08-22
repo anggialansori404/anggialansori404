@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I never considered a difference of opinion in politics, in religion, in philosophy, as cause for withdrawing from a friend."</i>
+<i>"If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
