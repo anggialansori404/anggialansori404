@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man."</i>
+<i>"The smallest act of kindness is worth more than the greatest intention.  "</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
