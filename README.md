@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have always found that mercy bears richer fruits than strict justice."</i>
+<i>"The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
