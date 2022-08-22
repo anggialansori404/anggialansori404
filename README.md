@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible."</i>
+<i>"Who looks outside, dreams, who looks inside, awakes."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
