@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Honesty is the best policy."</i>
+<i>"I never considered a difference of opinion in politics, in religion, in philosophy, as cause for withdrawing from a friend."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
