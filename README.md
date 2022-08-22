@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no differences but differences of degree between different degrees of difference and no difference."</i>
+<i>"I have always found that mercy bears richer fruits than strict justice."</i>
 <br>
-<b>- William James</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
