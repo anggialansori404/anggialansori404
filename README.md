@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Who looks outside, dreams, who looks inside, awakes."</i>
+<i>"Once you choose hope, anything's possible."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
