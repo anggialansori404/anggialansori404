@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Once you choose hope, anything's possible."</i>
+<i>"If you want something then you lose everything. If you don't want anything then you already have everything."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Seungsahn</b>
 </blockquote>
 </p>
 
