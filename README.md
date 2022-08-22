@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want something then you lose everything. If you don't want anything then you already have everything."</i>
+<i>"There are two things a person should never be angry at, what they can help, and what they cannot."</i>
 <br>
-<b>- Seungsahn</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
