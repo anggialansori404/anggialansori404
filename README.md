@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If your mind is empty, it is always ready for anything, it is open to everything."</i>
+<i>"He who violates another's honor loses his own."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
