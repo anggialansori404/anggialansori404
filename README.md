@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Honor is the foundation of courage."</i>
+<i>"If your mind is empty, it is always ready for anything, it is open to everything."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
