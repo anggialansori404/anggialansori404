@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Growing up is losing some illusions, in order to acquire others."</i>
+<i>"Wherever you go, go with all your heart."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
