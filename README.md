@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind."</i>
+<i>"You'll see it when you believe it."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
