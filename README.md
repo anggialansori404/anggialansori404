@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To change one's life, start immediately, do it flamboyantly, no exceptions."</i>
+<i>"Quality is never an accident; it is always the result of intelligent effort."</i>
 <br>
-<b>- William James</b>
+<b>- John Ruskin</b>
 </blockquote>
 </p>
 
