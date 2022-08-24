@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intense love does not measure, it just gives."</i>
+<i>"An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
