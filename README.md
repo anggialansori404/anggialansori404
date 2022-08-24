@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wherever you go, go with all your heart."</i>
+<i>"Intense love does not measure, it just gives."</i>
 <br>
-<b>- Confucius</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
