@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be your own hero, it's cheaper than a movie ticket."</i>
+<i>"Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them."</i>
 <br>
-<b>- Doug Horton</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
