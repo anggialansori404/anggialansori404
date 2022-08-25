@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you."</i>
+<i>"Much wisdom often goes with fewest words."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Sophocles</b>
 </blockquote>
 </p>
 
