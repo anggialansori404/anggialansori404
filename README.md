@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom."</i>
+<i>"Spectacular achievement is always preceded by unspectacular preparation."</i>
 <br>
-<b>- Sonia Ricotti</b>
+<b>- Robert Schuller</b>
 </blockquote>
 </p>
 
