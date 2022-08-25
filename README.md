@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean."</i>
+<i>"Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Sonia Ricotti</b>
 </blockquote>
 </p>
 
