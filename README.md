@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If the plan doesn't work, change the plan, but never the goal."</i>
+<i>"We read the world wrong and say that it deceives us."</i>
 <br>
-<b>- Unknown</b>
+<b>- Rabindranath Tagore</b>
 </blockquote>
 </p>
 
