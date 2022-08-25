@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Much wisdom often goes with fewest words."</i>
+<i>"Sometimes the most important thing in a whole day is the rest we take between two deep breaths."</i>
 <br>
-<b>- Sophocles</b>
+<b>- Etty Hillesum</b>
 </blockquote>
 </p>
 
