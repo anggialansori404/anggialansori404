@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Baseball is the only field of endeavor where a man can succeed three times out of ten and be considered a good performer."</i>
+<i>"The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you."</i>
 <br>
-<b>- Ted Williams</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
