@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes the most important thing in a whole day is the rest we take between two deep breaths."</i>
+<i>"Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean."</i>
 <br>
-<b>- Etty Hillesum</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
