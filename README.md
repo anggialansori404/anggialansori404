@@ -28,7 +28,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of getting ahead is getting started."</i>
+<i>"If you tell the truth, you don't have to remember anything."</i>
 <br>
 <b>- Mark Twain</b>
 </blockquote>
