@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Many men go fishing all of their lives without knowing that it is not fish they are after."</i>
+<i>"The wisest men follow their own direction."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
