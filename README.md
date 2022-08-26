@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want peace, accept. If you want suffering, expect."</i>
+<i>"As you think, you travel, and as you love, you attract."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
