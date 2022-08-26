@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you try to micromanage yourself all you're going to do is make yourself miserable."</i>
+<i>"You are the average of the five people you spend the most time with."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
