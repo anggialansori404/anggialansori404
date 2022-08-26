@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not."</i>
+<i>"Sadness flies away on the wings of time."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Jean de La Fontaine</b>
 </blockquote>
 </p>
 
