@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you tell the truth, you don't have to remember anything."</i>
+<i>"If you want peace, accept. If you want suffering, expect."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
