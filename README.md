@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As you think, you travel, and as you love, you attract."</i>
+<i>"We need never be ashamed of our tears."</i>
 <br>
-<b>- James Allen</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
