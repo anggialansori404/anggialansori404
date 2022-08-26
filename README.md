@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sadness flies away on the wings of time."</i>
+<i>"Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant."</i>
 <br>
-<b>- Jean de La Fontaine</b>
+<b>- Horace</b>
 </blockquote>
 </p>
 
