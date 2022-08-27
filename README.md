@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Correction does much, but encouragement does more."</i>
+<i>"The secret of getting ahead is getting started."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
