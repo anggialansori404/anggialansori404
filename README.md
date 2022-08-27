@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Error is discipline through which we advance."</i>
+<i>"Do what you can. Want what you have. Be who you are."</i>
 <br>
-<b>- William Ellery Channing</b>
+<b>- Forrest Church</b>
 </blockquote>
 </p>
 
