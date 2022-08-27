@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more acquaintances you have, the less you know them."</i>
+<i>"Your happiness is what truly matters most. Do what you have to do in order to be happy."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
