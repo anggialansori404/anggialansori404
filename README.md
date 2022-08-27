@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"So then, the relationship of self to other is the complete realization that loving yourself is impossible without loving everything defined as other than yourself."</i>
+<i>"The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
