@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of getting ahead is getting started."</i>
+<i>"Always be a first-rate version of yourself, instead of a second-rate version of somebody else."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
