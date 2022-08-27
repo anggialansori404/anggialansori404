@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My definition of success is control."</i>
+<i>"Error is discipline through which we advance."</i>
 <br>
-<b>- Kenneth Branagh</b>
+<b>- William Ellery Channing</b>
 </blockquote>
 </p>
 
