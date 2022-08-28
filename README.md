@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't shortchange yourself when it comes to investing in your own better future."</i>
+<i>"Happiness is found in doing, not merely possessing."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
