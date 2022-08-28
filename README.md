@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Blessed are the hearts that can bend; they shall never be broken."</i>
+<i>"Don't shortchange yourself when it comes to investing in your own better future."</i>
 <br>
-<b>- Albert Camus</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
