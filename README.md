@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All difficult things have their origin in that which is easy, and great things in that which is small."</i>
+<i>"It is better to fail in originality than to succeed in imitation."</i>
 <br>
-<b>- Laozi</b>
+<b>- Herman Melville</b>
 </blockquote>
 </p>
 
