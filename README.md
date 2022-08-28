@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If a man watches three football games in a row, he should be declared legally dead."</i>
+<i>"All difficult things have their origin in that which is easy, and great things in that which is small."</i>
 <br>
-<b>- Erma Bombeck</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
