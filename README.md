@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you wish to be a writer, write."</i>
+<i>"If a man watches three football games in a row, he should be declared legally dead."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Erma Bombeck</b>
 </blockquote>
 </p>
 
