@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is found in doing, not merely possessing."</i>
+<i>"The important thing is not to stop questioning. Curiosity has its own reason for existing."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
