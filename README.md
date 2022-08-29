@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can, you should, and if you're brave enough to start, you will."</i>
+<i>"In the end we retain from our studies only that which we practically apply."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
