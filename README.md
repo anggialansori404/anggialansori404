@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Yeah, we all shine on, like the moon, and the stars, and the sun."</i>
+<i>"Experience is simply the name we give our mistakes."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
