@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't smother each other. No one can grow in the shade."</i>
+<i>"You don't look out there for God, something in the sky, you look in you."</i>
 <br>
-<b>- Leo Buscaglia</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
