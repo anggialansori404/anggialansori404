@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Conscience is a man's compass. "</i>
+<i>"Don't smother each other. No one can grow in the shade."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Leo Buscaglia</b>
 </blockquote>
 </p>
 
