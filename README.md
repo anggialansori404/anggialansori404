@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary."</i>
+<i>"Technology is the campfire around which we tell our stories."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Laurie Anderson</b>
 </blockquote>
 </p>
 
