@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Technology is the campfire around which we tell our stories."</i>
+<i>"What sweetness is left in life, if you take away friendship? Robbing life of friendship is like robbing the world of the sun. A true friend is more to be esteemed than kinsfolk."</i>
 <br>
-<b>- Laurie Anderson</b>
+<b>- Cicero</b>
 </blockquote>
 </p>
 
