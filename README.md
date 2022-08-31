@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Technology is the campfire around which we tell our stories."</i>
+<i>"No duty is more urgent than that of returning thanks."</i>
 <br>
-<b>- Laurie Anderson</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
