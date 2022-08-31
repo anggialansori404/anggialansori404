@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want your life to be more rewarding, you have to change the way you think."</i>
+<i>"Technology is the campfire around which we tell our stories."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Laurie Anderson</b>
 </blockquote>
 </p>
 
