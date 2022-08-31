@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never allow a person to tell you no who doesn't have the power to say yes."</i>
+<i>"It is fatal to enter any war without the will to win it."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Douglas MacArthur</b>
 </blockquote>
 </p>
 
