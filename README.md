@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To forget the whole world is easy; to make the whole world forget you is hard."</i>
+<i>"The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
