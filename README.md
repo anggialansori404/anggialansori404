@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What sweetness is left in life, if you take away friendship? Robbing life of friendship is like robbing the world of the sun. A true friend is more to be esteemed than kinsfolk."</i>
+<i>"A wise man can learn more from a foolish question than a fool can learn from a wise answer."</i>
 <br>
-<b>- Cicero</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
