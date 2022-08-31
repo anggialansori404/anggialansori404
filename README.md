@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is fatal to enter any war without the will to win it."</i>
+<i>"The greatest miracle is to be alive."</i>
 <br>
-<b>- Douglas MacArthur</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
