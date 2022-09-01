@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never do things others can do and will do, if there are things others cannot do or will not do."</i>
+<i>"An un-examined life is not worth living."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
