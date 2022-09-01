@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rewards and punishment is the lowest form of education."</i>
+<i>"I don't ever give up. I'd have to be dead or completely incapacitated."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
