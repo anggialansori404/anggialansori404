@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can do nothing to change the past, and the future will never come exactly as you plan or hope for."</i>
+<i>"The secret of success lies not in doing your own work, but in recognizing the right man to do it."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
