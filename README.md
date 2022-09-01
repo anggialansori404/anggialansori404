@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of success lies not in doing your own work, but in recognizing the right man to do it."</i>
+<i>"Never apologize for showing feeling. When you do so, you apologize for truth."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Benjamin Disraeli</b>
 </blockquote>
 </p>
 
