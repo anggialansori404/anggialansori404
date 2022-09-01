@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals."</i>
+<i>"Rewards and punishment is the lowest form of education."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
