@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An un-examined life is not worth living."</i>
+<i>"Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you."</i>
 <br>
-<b>- Socrates</b>
+<b>- Julie Morgenstern</b>
 </blockquote>
 </p>
 
