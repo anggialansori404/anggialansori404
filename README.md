@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you."</i>
+<i>"I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals."</i>
 <br>
-<b>- Julie Morgenstern</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
