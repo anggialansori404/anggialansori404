@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Winners don't Quit. That's why they Win."</i>
+<i>"Love is the absence of judgment."</i>
 <br>
-<b>- Unknown</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
