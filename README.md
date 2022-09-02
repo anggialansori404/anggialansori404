@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not fear failure but rather fear not trying."</i>
+<i>"Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
