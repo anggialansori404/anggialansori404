@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship may, and often does, grow into love, but love never subsides into friendship."</i>
+<i>"Your big opportunity may be right where you are now."</i>
 <br>
-<b>- Lord Byron</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
