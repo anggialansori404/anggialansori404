@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Faults are yours to fix, not to curse."</i>
+<i>"Friendship may, and often does, grow into love, but love never subsides into friendship."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Lord Byron</b>
 </blockquote>
 </p>
 
