@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes letting things go is an act of far greater power than defending or hanging on."</i>
+<i>"Eighty percent of success is showing up."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
