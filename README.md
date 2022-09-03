@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is like a dragon where, for every head cut off, two more heads grow back."</i>
+<i>"If I am not for myself, who will be for me? If I am not for others, what am I? And if not now, when?"</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Rabbi Hillel</b>
 </blockquote>
 </p>
 
