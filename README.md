@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your big opportunity may be right where you are now."</i>
+<i>"It is good even for old men to learn wisdom."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Aeschylus</b>
 </blockquote>
 </p>
 
