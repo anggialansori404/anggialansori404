@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is good even for old men to learn wisdom."</i>
+<i>"Confidence is like a dragon where, for every head cut off, two more heads grow back."</i>
 <br>
-<b>- Aeschylus</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
