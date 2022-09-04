@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We suffer more often in imagination than in reality.  "</i>
+<i>"Success is never final, failure is never fatal. It's courage that counts."</i>
 <br>
-<b>- Seneca</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
