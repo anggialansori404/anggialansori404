@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You'll never find rainbows if you're looking down.  "</i>
+<i>"Happiness cannot be traveled to, owned, earned, worn or consumed."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
