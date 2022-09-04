@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom."</i>
+<i>"You'll never find rainbows if you're looking down.  "</i>
 <br>
-<b>- Theodore Isaac Rubin</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
