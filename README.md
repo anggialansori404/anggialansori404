@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about."</i>
+<i>"How many legs does a dog have if you call his tail a leg? Four. Saying that a tail is a leg doesn't make it a leg."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
