@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How many legs does a dog have if you call his tail a leg? Four. Saying that a tail is a leg doesn't make it a leg."</i>
+<i>"Trust in dreams, for in them is the hidden gate to eternity.  "</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
