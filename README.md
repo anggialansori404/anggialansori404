@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I am not for myself, who will be for me? If I am not for others, what am I? And if not now, when?"</i>
+<i>"Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great."</i>
 <br>
-<b>- Rabbi Hillel</b>
+<b>- Billie Jean King</b>
 </blockquote>
 </p>
 
