@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never lose hope. Storms make people stronger and never last forever."</i>
+<i>"If you would take, you must first give, this is the beginning of intelligence."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
