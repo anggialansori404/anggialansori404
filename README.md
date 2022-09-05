@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We respect our elders. There is wisdom that comes from experience, and I am not going to stop learning from wise counsel."</i>
+<i>"For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour."</i>
 <br>
-<b>- Marcia Fudge</b>
+<b>- Mary Kay Ash</b>
 </blockquote>
 </p>
 
