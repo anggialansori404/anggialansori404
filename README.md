@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Paths are made by walking."</i>
+<i>"Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Stewart Brand</b>
 </blockquote>
 </p>
 
