@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road."</i>
+<i>"A person is only by the thoughts that he chooses."</i>
 <br>
-<b>- Stewart Brand</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
