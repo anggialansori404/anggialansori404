@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust in dreams, for in them is the hidden gate to eternity.  "</i>
+<i>"Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
