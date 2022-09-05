@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A person is only by the thoughts that he chooses."</i>
+<i>"We respect our elders. There is wisdom that comes from experience, and I am not going to stop learning from wise counsel."</i>
 <br>
-<b>- James Allen</b>
+<b>- Marcia Fudge</b>
 </blockquote>
 </p>
 
