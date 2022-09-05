@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you would take, you must first give, this is the beginning of intelligence."</i>
+<i>"Paths are made by walking."</i>
 <br>
-<b>- Laozi</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
