@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world makes way for the man who knows where he is going."</i>
+<i>"Every time you are tempted to react in the same old way, ask if you want to be a prisoner of the past or a pioneer of the future."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
