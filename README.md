@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For all evils there are two remedies - time and silence."</i>
+<i>"The world makes way for the man who knows where he is going."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
