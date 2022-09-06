@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear not the path of Truth for the lack of People walking on it."</i>
+<i>"The man who makes everything that leads to happiness depends upon himself, and not upon other men, has adopted the very best plan for living happily. This is the man of moderation, the man of manly character and of wisdom."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
