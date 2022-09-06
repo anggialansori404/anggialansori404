@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The man who makes everything that leads to happiness depends upon himself, and not upon other men, has adopted the very best plan for living happily. This is the man of moderation, the man of manly character and of wisdom."</i>
+<i>"You only live once, but if you do it right, once is enough."</i>
 <br>
-<b>- Plato</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
