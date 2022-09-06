@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You only live once, but if you do it right, once is enough."</i>
+<i>"Habit, if not resisted, soon becomes necessity."</i>
 <br>
-<b>- Mae West</b>
+<b>- Augustine of Hippo</b>
 </blockquote>
 </p>
 
