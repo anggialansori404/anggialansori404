@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thinking will not overcome fear but action will. "</i>
+<i>"If you don't make things happen then things will happen to you."</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
