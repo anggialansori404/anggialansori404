@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not fair to ask of others what you are not willing to do yourself."</i>
+<i>"Joy is what happens to us when we allow ourselves to recognize how good things really are."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Marianne Williamson</b>
 </blockquote>
 </p>
 
