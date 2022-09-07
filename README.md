@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit."</i>
+<i>"When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Audre Lorde</b>
 </blockquote>
 </p>
 
