@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness cannot be traveled to, owned, earned, worn or consumed."</i>
+<i>"If you must tell me your opinions, tell me what you believe in. I have plenty of doubts of my own."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
