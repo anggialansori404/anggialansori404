@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't make things happen then things will happen to you."</i>
+<i>"The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
