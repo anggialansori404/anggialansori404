@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I prefer the folly of enthusiasm to the indifference of wisdom."</i>
+<i>"It is not fair to ask of others what you are not willing to do yourself."</i>
 <br>
-<b>- Anatole France</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
