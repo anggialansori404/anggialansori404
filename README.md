@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work."</i>
+<i>"Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
