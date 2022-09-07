@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid."</i>
+<i>"Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born."</i>
 <br>
-<b>- Audre Lorde</b>
+<b>- Anaïs Nin</b>
 </blockquote>
 </p>
 
