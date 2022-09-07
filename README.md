@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be wronged is nothing unless you continue to remember it."</i>
+<i>"I prefer the folly of enthusiasm to the indifference of wisdom."</i>
 <br>
-<b>- Confucius</b>
+<b>- Anatole France</b>
 </blockquote>
 </p>
 
