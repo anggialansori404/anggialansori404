@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Joy is what happens to us when we allow ourselves to recognize how good things really are."</i>
+<i>"Money poisons you when you've got it, and starves you when you haven't."</i>
 <br>
-<b>- Marianne Williamson</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
