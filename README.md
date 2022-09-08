@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am not what happened to me, I am what I choose to become."</i>
+<i>"A creative man is motivated by the desire to achieve, not by the desire to beat others."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
