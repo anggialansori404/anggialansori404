@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An ant on the move does more than a dozing ox"</i>
+<i>"In skating over thin ice our safety is in our speed."</i>
 <br>
-<b>- Laozi</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
