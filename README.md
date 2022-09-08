@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am of the opinion that my life belongs to the community, and as long as I live it is my privilege to do for it whatever I can."</i>
+<i>"Fool me once, shame on you; fool me twice, shame on me. "</i>
 <br>
-<b>- Bernard Shaw</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
