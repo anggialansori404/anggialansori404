@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fool me once, shame on you; fool me twice, shame on me. "</i>
+<i>"Don't criticize what you can't understand. "</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
