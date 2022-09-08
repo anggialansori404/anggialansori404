@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A creative man is motivated by the desire to achieve, not by the desire to beat others."</i>
+<i>"What other people may find in poetry or art museums, I find in the flight of a good drive."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Arnold Palmer</b>
 </blockquote>
 </p>
 
