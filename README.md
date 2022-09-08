@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What other people may find in poetry or art museums, I find in the flight of a good drive."</i>
+<i>"It is with words as with sunbeams. The more they are condensed, the deeper they burn."</i>
 <br>
-<b>- Arnold Palmer</b>
+<b>- Robert Southey</b>
 </blockquote>
 </p>
 
