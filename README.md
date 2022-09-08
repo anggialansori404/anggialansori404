@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Money poisons you when you've got it, and starves you when you haven't."</i>
+<i>"I am of the opinion that my life belongs to the community, and as long as I live it is my privilege to do for it whatever I can."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Bernard Shaw</b>
 </blockquote>
 </p>
 
