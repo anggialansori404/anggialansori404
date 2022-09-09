@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"But at any rate, the point is that God is what nobody admits to being, and everybody really is."</i>
+<i>"The Superior Man is aware of Righteousness, the inferior man is aware of advantage."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
