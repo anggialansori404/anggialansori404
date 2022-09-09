@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every problem has a gift for you in its hands."</i>
+<i>"To succeed takes more than the desire to win. It also takes the acceptance that we could fail."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
