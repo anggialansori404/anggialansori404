@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge."</i>
+<i>"Coming together is a beginning; keeping together is progress; working together is success."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Edward Everett Hale</b>
 </blockquote>
 </p>
 
