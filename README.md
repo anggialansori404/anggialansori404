@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who wants to achieve a dream must stay strong, focused and steady."</i>
+<i>"But at any rate, the point is that God is what nobody admits to being, and everybody really is."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
