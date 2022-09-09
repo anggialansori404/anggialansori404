@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Coming together is a beginning; keeping together is progress; working together is success."</i>
+<i>"The best cure for the body is a quiet mind."</i>
 <br>
-<b>- Edward Everett Hale</b>
+<b>- Napoleon</b>
 </blockquote>
 </p>
 
