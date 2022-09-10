@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers."</i>
+<i>"The greater danger for most of us lies not in setting our aim too high and falling short; but in setting our aim too low and achieving our mark."</i>
 <br>
-<b>- Thích Nhất Hạnh</b>
+<b>- Michelangelo</b>
 </blockquote>
 </p>
 
