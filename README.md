@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be kind whenever possible. It is always possible."</i>
+<i>"Be the change that you want to see in the world."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
