@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If no one ever broke the rules, then we'd never advance."</i>
+<i>"Good advice is always certain to be ignored, but that's no reason not to give it."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Agatha Christie</b>
 </blockquote>
 </p>
 
