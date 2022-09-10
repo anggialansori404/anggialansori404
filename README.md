@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good advice is always certain to be ignored, but that's no reason not to give it."</i>
+<i>"We are all different. Don't judge, understand instead."</i>
 <br>
-<b>- Agatha Christie</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
