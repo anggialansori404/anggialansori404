@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The Superior Man is aware of Righteousness, the inferior man is aware of advantage."</i>
+<i>"Be kind whenever possible. It is always possible."</i>
 <br>
-<b>- Confucius</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
