@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greater danger for most of us lies not in setting our aim too high and falling short; but in setting our aim too low and achieving our mark."</i>
+<i>"A dream doesn't become reality through magic it takes sweat, determination and hard work."</i>
 <br>
-<b>- Michelangelo</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
