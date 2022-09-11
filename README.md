@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Short words are best and the old words when short are best of all."</i>
+<i>"Only those who will risk going too far can possibly find out how far one can go."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
