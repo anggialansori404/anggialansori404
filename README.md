@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary."</i>
+<i>"There is only one success - to be able to spend your life in your own way."</i>
 <br>
-<b>- Margaret Cousins</b>
+<b>- Christopher Morley</b>
 </blockquote>
 </p>
 
