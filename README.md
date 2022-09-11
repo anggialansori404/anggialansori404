@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is only one success - to be able to spend your life in your own way."</i>
+<i>"It is better to offer no excuse than a bad one. "</i>
 <br>
-<b>- Christopher Morley</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
