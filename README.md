@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wake up and smile! Wake up and be grateful!"</i>
+<i>"I know but one freedom and that is the freedom of the mind."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Antoine de Saint-Exupéry</b>
 </blockquote>
 </p>
 
