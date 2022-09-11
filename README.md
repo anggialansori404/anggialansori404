@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You really can change the world if you care enough."</i>
+<i>"Knowledge has to be improved, challenged, and increased constantly, or it vanishes."</i>
 <br>
-<b>- Marian Wright Edelman</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
