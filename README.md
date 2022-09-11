@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The less you try to impress, the more peaceful you can be."</i>
+<i>"Freedom lies in being bold."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
