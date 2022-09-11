@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Freedom lies in being bold."</i>
+<i>"Short words are best and the old words when short are best of all."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
