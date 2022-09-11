@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to offer no excuse than a bad one. "</i>
+<i>"Wake up and smile! Wake up and be grateful!"</i>
 <br>
-<b>- George Washington</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
