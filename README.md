@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I know but one freedom and that is the freedom of the mind."</i>
+<i>"The less you try to impress, the more peaceful you can be."</i>
 <br>
-<b>- Antoine de Saint-Exupéry</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
