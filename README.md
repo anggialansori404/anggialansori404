@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"His lack of education is more than compensated for by his keenly developed moral bankruptcy."</i>
+<i>"Those who cannot learn from history are doomed to repeat it."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- George Santayana</b>
 </blockquote>
 </p>
 
