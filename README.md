@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you become is far more important than what you get."</i>
+<i>"Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram them down people's throats."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Howard H. Aiken</b>
 </blockquote>
 </p>
 
