@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We don't receive wisdom; we must discover it for ourselves after a journey that no one can take for us or spare us."</i>
+<i>"What you become is far more important than what you get."</i>
 <br>
-<b>- Marcel Proust</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
