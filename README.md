@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram them down people's throats."</i>
+<i>"When you consider things like the stars, our affairs don't seem to matter very much, do they?"</i>
 <br>
-<b>- Howard H. Aiken</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
