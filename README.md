@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too."</i>
+<i>"Who looks outside, dreams, who looks inside, awakes."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
