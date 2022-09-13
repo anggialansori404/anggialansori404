@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anger exceeding limits causes fear and excessive kindness eliminates respect."</i>
+<i>"Never pretend to a love which you do not actually feel, for love is not ours to command."</i>
 <br>
-<b>- Euripides</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
