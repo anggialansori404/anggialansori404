@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A Rolling Stone Gathers No Moss."</i>
+<i>"While some of us act without thinking, too many of us think without acting."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
