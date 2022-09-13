@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Who looks outside, dreams, who looks inside, awakes."</i>
+<i>"A Rolling Stone Gathers No Moss."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
