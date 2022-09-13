@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never pretend to a love which you do not actually feel, for love is not ours to command."</i>
+<i>"I begin with an idea and then it becomes something else."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
