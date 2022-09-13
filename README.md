@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is particularly hard if you divide it into small jobs. "</i>
+<i>"It does not matter how slowly you go so long as you do not stop."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
