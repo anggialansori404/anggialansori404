@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is not having the strength to go on; it is going on when you don't have the strength."</i>
+<i>"We respect our elders. There is wisdom that comes from experience, and I am not going to stop learning from wise counsel."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Marcia Fudge</b>
 </blockquote>
 </p>
 
