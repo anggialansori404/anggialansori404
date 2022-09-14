@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We respect our elders. There is wisdom that comes from experience, and I am not going to stop learning from wise counsel."</i>
+<i>"A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well."</i>
 <br>
-<b>- Marcia Fudge</b>
+<b>- Jeff Bezos</b>
 </blockquote>
 </p>
 
