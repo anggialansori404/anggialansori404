@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Growth comes at the point of resistance."</i>
+<i>"He who angers you conquers you."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Elizabeth Kenny</b>
 </blockquote>
 </p>
 
