@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change yourself - you are in control."</i>
+<i>"The only way to have a friend is to be one."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
