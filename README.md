@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who angers you conquers you."</i>
+<i>"Life has no limitations except the ones you make."</i>
 <br>
-<b>- Elizabeth Kenny</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
