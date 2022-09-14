@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only way to have a friend is to be one."</i>
+<i>"Be slow to fall into friendship; but when thou art in, continue firm and constant."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Isocrates</b>
 </blockquote>
 </p>
 
