@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well."</i>
+<i>"Friendship is one mind in two bodies."</i>
 <br>
-<b>- Jeff Bezos</b>
+<b>- Mencius</b>
 </blockquote>
 </p>
 
