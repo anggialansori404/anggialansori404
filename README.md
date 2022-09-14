@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be slow to fall into friendship; but when thou art in, continue firm and constant."</i>
+<i>"Growth comes at the point of resistance."</i>
 <br>
-<b>- Isocrates</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
