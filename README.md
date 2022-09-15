@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be totally at leisure for one day is to be immortal for one day. "</i>
+<i>"Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
