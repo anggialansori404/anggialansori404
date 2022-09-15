@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you."</i>
+<i>"A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty."</i>
 <br>
-<b>- Julie Morgenstern</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
