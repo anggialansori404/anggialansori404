@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty."</i>
+<i>"Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
