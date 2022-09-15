@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A heart well prepared for adversity in bad times hopes, and in good times fears for a change in fortune."</i>
+<i>"It is better to offer no excuse than a bad one. "</i>
 <br>
-<b>- Horace</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
