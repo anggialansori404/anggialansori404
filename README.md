@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen."</i>
+<i>"Allow the world to live as it chooses, and allow yourself to live as you choose."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
