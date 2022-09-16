@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thoughts become things. If you see it in your mind, you will hold it in your hand."</i>
+<i>"We think too much and feel too little."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
