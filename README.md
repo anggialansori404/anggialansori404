@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Act the way you want to be and soon you'll be the way you act."</i>
+<i>"You can observe a lot just by watching."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Yogi Berra</b>
 </blockquote>
 </p>
 
