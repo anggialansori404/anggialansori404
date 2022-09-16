@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can observe a lot just by watching."</i>
+<i>"Argue for your limitations, and sure enough they're yours."</i>
 <br>
-<b>- Yogi Berra</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
