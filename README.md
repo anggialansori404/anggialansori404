@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wisest men follow their own direction."</i>
+<i>"There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living."</i>
 <br>
-<b>- Euripides</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
