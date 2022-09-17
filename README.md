@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only person you should try to be better than is the person you were yesterday."</i>
+<i>"Life is filled with secrets. You can't learn them all at once."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
