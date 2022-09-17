@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For every effect there is a root cause. Find and address the root cause rather than try to fix the effect, as there is no end to the latter."</i>
+<i>"The only person you should try to be better than is the person you were yesterday."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
