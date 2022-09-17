@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't smother each other. No one can grow in the shade."</i>
+<i>"Whoever is happy will make others happy too."</i>
 <br>
-<b>- Leo Buscaglia</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
