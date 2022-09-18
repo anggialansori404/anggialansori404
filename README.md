@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness does not come from doing easy work but from the afterglow of satisfaction that comes after the achievement of a difficult task that demanded our best."</i>
+<i>"If you correct your mind, the rest of your life will fall into place."</i>
 <br>
-<b>- Theodore Isaac Rubin</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
