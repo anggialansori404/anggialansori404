@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's very strange that the people you love are often the people you're most cruel to."</i>
+<i>"There's more to life than being a passenger."</i>
 <br>
-<b>- Kenneth Branagh</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
