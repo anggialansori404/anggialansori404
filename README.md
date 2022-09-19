@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you stop questioning, you stop learning."</i>
+<i>"Victims recite problems, leaders provide solutions."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
