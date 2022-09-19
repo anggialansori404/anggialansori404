@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We're born alone, we live alone, we die alone. Only through our love and friendship can we create the illusion for the moment that we're not alone."</i>
+<i>"You have the freedom to be yourself, your true self, here and now, and nothing can stand in your way."</i>
 <br>
-<b>- Orson Welles</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
