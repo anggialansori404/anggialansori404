@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end."</i>
+<i>"Many people spend more time looking at their failures than focusing on their successes."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
