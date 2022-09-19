@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be as fluid as water, do not give your enemies anything solid to attack."</i>
+<i>"Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
