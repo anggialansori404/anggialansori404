@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you try to micromanage yourself all you're going to do is make yourself miserable."</i>
+<i>"Love all, trust a few, do wrong to none."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
