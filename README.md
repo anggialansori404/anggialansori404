@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Silence is the great teacher and to learn its lessons you must pay attention to it."</i>
+<i>"If you try to micromanage yourself all you're going to do is make yourself miserable."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
