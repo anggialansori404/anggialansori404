@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no scarcity of opportunity to make a living at what you love; there's only scarcity of resolve to make it happen."</i>
+<i>"Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
