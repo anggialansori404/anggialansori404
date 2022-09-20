@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The one who boasts does so only out of a feeling of inferiority."</i>
+<i>"Misfortune shows those who are not really friends."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
