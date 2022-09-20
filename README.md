@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love all, trust a few, do wrong to none."</i>
+<i>"In the long run, the sharpest weapon of all is a kind and gentle spirit."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
