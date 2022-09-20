@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must welcome change as the rule but not as your ruler."</i>
+<i>"Human beings believe just as they breathe - in order to survive."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
