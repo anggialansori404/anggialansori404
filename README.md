@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Human beings believe just as they breathe - in order to survive."</i>
+<i>"When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
