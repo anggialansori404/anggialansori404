@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Misfortune shows those who are not really friends."</i>
+<i>"Stop wasting time looking at someone else's reality while doing nothing about yours."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
