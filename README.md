@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change will not come if we wait for some other person or some other time. We are the ones we've been waiting for. We are the change that we seek."</i>
+<i>"To improve is to change, so to be perfect is to change often."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
