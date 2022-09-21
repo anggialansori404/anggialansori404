@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no path to Love. Love is the path."</i>
+<i>"The difference between treason and patriotism is only a matter of dates."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
