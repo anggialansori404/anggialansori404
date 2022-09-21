@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Coming together is a beginning, staying together is progress, and working together is success. "</i>
+<i>"The time to repair the roof is when the sun is shining."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- John F. Kennedy</b>
 </blockquote>
 </p>
 
