@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ultimate promise of technology is to make us master of a world that we command by the push of a button."</i>
+<i>"Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine."</i>
 <br>
-<b>- Volker Grassmuck</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
