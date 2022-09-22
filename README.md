@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you try, you might get exactly what you want. If you don't, you don't."</i>
+<i>"The ultimate promise of technology is to make us master of a world that we command by the push of a button."</i>
 <br>
-<b>- Unknown</b>
+<b>- Volker Grassmuck</b>
 </blockquote>
 </p>
 
