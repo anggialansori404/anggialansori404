@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ignorant men don't know what good they hold in their hands until they've flung it away."</i>
+<i>"Yesterday I dared to struggle. Today I dare to win."</i>
 <br>
-<b>- Sophocles</b>
+<b>- Bernadette Devlin</b>
 </blockquote>
 </p>
 
