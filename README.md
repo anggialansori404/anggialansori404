@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine."</i>
+<i>"It's better to dance than to march through life."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
