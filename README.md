@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Yesterday I dared to struggle. Today I dare to win."</i>
+<i>"Go for it now. The future is promised to no one."</i>
 <br>
-<b>- Bernadette Devlin</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
