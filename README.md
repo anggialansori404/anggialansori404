@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One friend in a lifetime is much; two are many; three are hardly possible. Friendship needs a certain parallelism of life, a community of thought, a rivalry of aim."</i>
+<i>"How many cares one loses when one decides not to be something but to be someone."</i>
 <br>
-<b>- Brooks Adams</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
