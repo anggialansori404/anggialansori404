@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Write your plans in pencil and give God the eraser."</i>
+<i>"To command is to serve, nothing more and nothing less."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- André Malraux</b>
 </blockquote>
 </p>
 
