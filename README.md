@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be. "</i>
+<i>"One friend in a lifetime is much; two are many; three are hardly possible. Friendship needs a certain parallelism of life, a community of thought, a rivalry of aim."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Brooks Adams</b>
 </blockquote>
 </p>
 
