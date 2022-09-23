@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit."</i>
+<i>"Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be. "</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
