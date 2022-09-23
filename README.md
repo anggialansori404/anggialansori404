@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom is always an overmatch for strength."</i>
+<i>"Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit."</i>
 <br>
-<b>- Phil Jackson</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
