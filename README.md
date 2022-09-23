@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be your own hero, it's cheaper than a movie ticket."</i>
+<i>"Write your plans in pencil and give God the eraser."</i>
 <br>
-<b>- Doug Horton</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
