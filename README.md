@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Winners never quit and quitters never win."</i>
+<i>"Fashion fades, only style remains the same."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
