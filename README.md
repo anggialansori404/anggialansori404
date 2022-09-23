@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How many cares one loses when one decides not to be something but to be someone."</i>
+<i>"Take interest and even delight in doing the small things well."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
