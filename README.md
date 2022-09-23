@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fashion fades, only style remains the same."</i>
+<i>"If you can't feed a hundred people, then feed just one."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
