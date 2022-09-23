@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't feed a hundred people, then feed just one."</i>
+<i>"Wisdom is always an overmatch for strength."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Phil Jackson</b>
 </blockquote>
 </p>
 
