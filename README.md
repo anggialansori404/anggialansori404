@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wherever you go, go with all your heart."</i>
+<i>"The art of progress is to preserve order amid change, and to preserve change amid order."</i>
 <br>
-<b>- Confucius</b>
+<b>- Alfred North Whitehead</b>
 </blockquote>
 </p>
 
