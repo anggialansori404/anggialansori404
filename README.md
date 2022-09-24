@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just trust yourself, then you will know how to live."</i>
+<i>"Love and compassion open our own inner life, reducing stress, distrust and loneliness."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
