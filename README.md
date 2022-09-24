@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's your outlook on life that counts."</i>
+<i>"Just trust yourself, then you will know how to live."</i>
 <br>
-<b>- Betty White</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
