@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trying to define yourself is like trying to bite your own teeth."</i>
+<i>"It's your outlook on life that counts."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
