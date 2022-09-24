@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love and compassion open our own inner life, reducing stress, distrust and loneliness."</i>
+<i>"The mirror is a worthless invention. The only way to truly see yourself is in the reflection of someone elses. eyes."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
