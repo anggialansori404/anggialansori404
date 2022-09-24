@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To belittle, you have to be little."</i>
+<i>"The guest will judge better of a feast than the cook."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
