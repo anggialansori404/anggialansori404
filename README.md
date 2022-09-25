@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every day passes whether you participate or not."</i>
+<i>"FOCUS - Follow One Course Until Successful"</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
