@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The art of progress is to preserve order amid change, and to preserve change amid order."</i>
+<i>"It is not fair to ask of others what you are not willing to do yourself."</i>
 <br>
-<b>- Alfred North Whitehead</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
