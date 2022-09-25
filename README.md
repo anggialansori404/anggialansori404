@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not fair to ask of others what you are not willing to do yourself."</i>
+<i>"If you're afraid to die, you're afraid to live. You can't have one without the other."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
