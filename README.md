@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you come to the end of your rope, tie a knot and hang on."</i>
+<i>"Don't give up the fight, Stand up for your rights."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
