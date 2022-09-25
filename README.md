@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power."</i>
+<i>"When you come to the end of your rope, tie a knot and hang on."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
