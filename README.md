@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"FOCUS - Follow One Course Until Successful"</i>
+<i>"Give me six hours to chop down a tree and I will spend the first four sharpening the axe."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
