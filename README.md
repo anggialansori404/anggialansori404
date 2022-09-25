@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have no special talent. I am only passionately curious."</i>
+<i>"There is peace even in the storm."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
