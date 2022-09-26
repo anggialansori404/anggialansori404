@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Yeah, we all shine on, like the moon, and the stars, and the sun."</i>
+<i>"Your dream has to be bigger than your fear."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
