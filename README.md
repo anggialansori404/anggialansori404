@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If there is such a thing as a good marriage, it is because it resembles friendship rather than love."</i>
+<i>"The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard."</i>
 <br>
-<b>- Michel de Montaigne</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
