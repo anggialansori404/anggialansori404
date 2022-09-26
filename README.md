@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The question isn't who is going to let me; it's who is going to stop me."</i>
+<i>"Happiness is not a goal...it's a by-product of a life well lived."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
