@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fool me once, shame on you; fool me twice, shame on me. "</i>
+<i>"If there is such a thing as a good marriage, it is because it resembles friendship rather than love."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Michel de Montaigne</b>
 </blockquote>
 </p>
 
