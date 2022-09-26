@@ -28,7 +28,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard."</i>
+<i>"It's not what you look at that matters, it's what you see."</i>
 <br>
 <b>- Henry David Thoreau</b>
 </blockquote>
