@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your dream has to be bigger than your fear."</i>
+<i>"Fool me once, shame on you; fool me twice, shame on me. "</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
