@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Chaos and Order are not enemies, only opposites."</i>
+<i>"Friendship with oneself is all important because without it one cannot be friends with anybody else in the world."</i>
 <br>
-<b>- Richard Garriott</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
