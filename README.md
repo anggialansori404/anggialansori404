@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is not a goal...it's a by-product of a life well lived."</i>
+<i>"Nothing will work unless you do."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
