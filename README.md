@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As you love yourself, life loves you back."</i>
+<i>"The least movement is of importance to all nature. The entire ocean is affected by a pebble."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Blaise Pascal</b>
 </blockquote>
 </p>
 
