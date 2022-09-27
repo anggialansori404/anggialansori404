@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not enough to win a war; it is more important to organize the peace."</i>
+<i>"When you reach the end of your rope, tie a knot in it and hang on."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
