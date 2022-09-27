@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing will work unless you do."</i>
+<i>"Be as fluid as water, do not give your enemies anything solid to attack."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
