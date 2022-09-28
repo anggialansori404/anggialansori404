@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I walk slowly, but I never walk backward."</i>
+<i>"The greatest discovery of our generation is that human beings can alter their lives by altering their attitudes of mind. As you think, so shall you be."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
