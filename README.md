@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Behind every beautiful thing, there's some kind of pain."</i>
+<i>"I think somehow, we learn who we really are and then live with that decision."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
