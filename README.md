@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Discontent is the first necessity of progress."</i>
+<i>"Do the difficult things while they are easy and do the great things while they are small."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
