@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship with oneself is all important because without it one cannot be friends with anybody else in the world."</i>
+<i>"When fate hands us a lemon, let's try to make lemonade."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
