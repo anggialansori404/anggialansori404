@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never spend your money before you have earned it."</i>
+<i>"A little impatience will spoil great plans."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
