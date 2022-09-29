@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful."</i>
+<i>"Find the game where you can win, and then commit your life to playing it; and play to win."</i>
 <br>
-<b>- Albert Schweitzer</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
