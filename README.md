@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Smile, breathe and go slowly."</i>
+<i>"The whole world is a series of miracles, but we're so used to them we call them ordinary things."</i>
 <br>
-<b>- Thích Nhất Hạnh</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
