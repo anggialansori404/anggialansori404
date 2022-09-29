@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Cunning... is but the low mimic of wisdom."</i>
+<i>"Never spend your money before you have earned it."</i>
 <br>
-<b>- Plato</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
