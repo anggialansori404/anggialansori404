@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Insanity: doing the same thing over and over again and expecting different results."</i>
+<i>"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Albert Schweitzer</b>
 </blockquote>
 </p>
 
