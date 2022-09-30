@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I succeeded by saying what everyone else is thinking."</i>
+<i>"People rarely succeed unless they have fun in what they are doing."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
