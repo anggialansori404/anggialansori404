@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must have strong minds, ready to accept facts as they are."</i>
+<i>"To accomplish great things, we must not only act, but also dream; not only plan, but also believe."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Anatole France</b>
 </blockquote>
 </p>
 
