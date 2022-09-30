@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only those who will risk going too far can possibly find out how far one can go."</i>
+<i>"Think like a man of action; act like a man of thought."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Henri Bergson</b>
 </blockquote>
 </p>
 
