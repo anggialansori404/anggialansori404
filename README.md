@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To accomplish great things, we must not only act, but also dream; not only plan, but also believe."</i>
+<i>"Only those who will risk going too far can possibly find out how far one can go."</i>
 <br>
-<b>- Anatole France</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
