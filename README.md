@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The whole world is a series of miracles, but we're so used to them we call them ordinary things."</i>
+<i>"Always seek out the seed of triumph in every adversity."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
