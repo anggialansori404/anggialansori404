@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People rarely succeed unless they have fun in what they are doing."</i>
+<i>"The quality of your life is the quality of your relationships."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
