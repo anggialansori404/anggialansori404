@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is an option, fear is not."</i>
+<i>"No great discovery was ever made without a bold guess. "</i>
 <br>
-<b>- James Cameron</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
