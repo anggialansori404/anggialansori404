@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Think like a man of action; act like a man of thought."</i>
+<i>"Some people are old at 18 and some are young at 90. Time is a concept that humans created."</i>
 <br>
-<b>- Henri Bergson</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
