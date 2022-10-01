@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When I let go of what I am, I become what I might be."</i>
+<i>"Rejoicing in our joy, not suffering over our suffering, makes someone a friend."</i>
 <br>
-<b>- Laozi</b>
+<b>- Friedrich Nietzsche</b>
 </blockquote>
 </p>
 
