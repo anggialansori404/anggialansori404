@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wherever you are is the entry point."</i>
+<i>"There never was a good knife made of bad steel."</i>
 <br>
-<b>- Kabir</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
