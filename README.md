@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No great discovery was ever made without a bold guess. "</i>
+<i>"Wherever you are is the entry point."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
