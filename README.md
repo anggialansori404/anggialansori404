@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart."</i>
+<i>"Well begun is half done."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
