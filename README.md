@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take things as they are. Punch when you have to punch. Kick when you have to kick."</i>
+<i>"I don't walk away from things that I think are unfinished."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
