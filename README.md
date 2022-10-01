@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Well begun is half done."</i>
+<i>"Failure is an option, fear is not."</i>
 <br>
-<b>- Aristotle</b>
+<b>- James Cameron</b>
 </blockquote>
 </p>
 
