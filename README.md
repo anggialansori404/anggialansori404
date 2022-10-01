@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rejoicing in our joy, not suffering over our suffering, makes someone a friend."</i>
+<i>"If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart."</i>
 <br>
-<b>- Friedrich Nietzsche</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
