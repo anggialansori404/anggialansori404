@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's the little details that are vital. Little things make big things happen."</i>
+<i>"I always wanted to be somebody, but I should have been more specific."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
