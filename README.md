@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be not glad at the misfortune of another, though he may be your enemy. "</i>
+<i>"The only person who never makes mistakes is the person who never does anything."</i>
 <br>
-<b>- George Washington</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
