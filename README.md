@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You need to be doing fewer things for more effect instead of doing more things with side effects."</i>
+<i>"Autumn is a second spring when every leaf is a flower."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Albert Camus</b>
 </blockquote>
 </p>
 
