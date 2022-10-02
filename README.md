@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"None but ourselves can free our minds."</i>
+<i>"You need to be doing fewer things for more effect instead of doing more things with side effects."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
