@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you judge others, you do not define them, you define yourself."</i>
+<i>"None but ourselves can free our minds."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
