@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I always wanted to be somebody, but I should have been more specific."</i>
+<i>"Success is about doing the right thing, not about doing everything right."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
