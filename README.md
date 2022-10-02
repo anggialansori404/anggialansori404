@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is about doing the right thing, not about doing everything right."</i>
+<i>"There can be no deep disappointment where there is not deep love."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
