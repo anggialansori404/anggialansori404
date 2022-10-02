@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Autumn is a second spring when every leaf is a flower."</i>
+<i>"It's the little details that are vital. Little things make big things happen."</i>
 <br>
-<b>- Albert Camus</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
