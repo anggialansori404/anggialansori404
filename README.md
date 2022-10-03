@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By accepting yourself and being fully what you are, your presence can make others happy."</i>
+<i>"Learning never exhausts the mind."</i>
 <br>
-<b>- Jane Roberts</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
