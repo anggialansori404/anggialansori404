@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Character develops itself in the stream of life."</i>
+<i>"Wisdom and penetration are the fruit of experience, not the lessons of retirement and leisure. Great necessities call out great virtues."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Abigail Adams</b>
 </blockquote>
 </p>
 
