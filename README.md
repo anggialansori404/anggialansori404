@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness."</i>
+<i>"Courage is rightly esteemed the first of human qualities... because it is the quality which guarantees all others."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
