@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't wait. The time will never be just right."</i>
+<i>"It's not what you look at that matters, it's what you see."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
