@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If one advances confidently in the direction of his dream, and endeavors to live the life which he had imagines, he will meet with a success unexpected in common hours."</i>
+<i>"Quality is not an act; it is a habit."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
