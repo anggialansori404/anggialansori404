@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"See the positive side, the potential, and make an effort."</i>
+<i>"By accepting yourself and being fully what you are, your presence can make others happy."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Jane Roberts</b>
 </blockquote>
 </p>
 
