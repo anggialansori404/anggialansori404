@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is rightly esteemed the first of human qualities... because it is the quality which guarantees all others."</i>
+<i>"We've got to have a dream if we are going to make a dream come true."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
