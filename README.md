@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Arriving at one point is the starting point to another."</i>
+<i>"Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings."</i>
 <br>
-<b>- John Dewey</b>
+<b>- Arthur Rubinstein</b>
 </blockquote>
 </p>
 
