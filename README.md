@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We've got to have a dream if we are going to make a dream come true."</i>
+<i>"If you live to be a hundred, I want to live to be a hundred minus one day, so I never have to live without you."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- A. A. Milne</b>
 </blockquote>
 </p>
 
