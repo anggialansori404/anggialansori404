@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An appeaser is one who feeds a crocodile, hoping it will eat him last."</i>
+<i>"Sadness flies away on the wings of time."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Jean de La Fontaine</b>
 </blockquote>
 </p>
 
