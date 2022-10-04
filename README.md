@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"High thoughts must have high language."</i>
+<i>"Arriving at one point is the starting point to another."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- John Dewey</b>
 </blockquote>
 </p>
 
