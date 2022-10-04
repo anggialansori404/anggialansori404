@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings."</i>
+<i>"A simple rule in dealing with those who are hard to get along with is to remember that this person is striving to assert his superiority; and you must deal with him from that point of view."</i>
 <br>
-<b>- Arthur Rubinstein</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
