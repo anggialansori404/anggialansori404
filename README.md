@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the midst of movement and chaos, keep stillness inside of you."</i>
+<i>"Do the difficult things while they are easy and do the great things while they are small."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
