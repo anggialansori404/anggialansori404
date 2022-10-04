@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do the difficult things while they are easy and do the great things while they are small."</i>
+<i>"High thoughts must have high language."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
