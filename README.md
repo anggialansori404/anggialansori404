@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The art challenges the technology, and the technology inspires the art."</i>
+<i>"One day, in retrospect, the years of struggle will strike you as the most beautiful."</i>
 <br>
-<b>- John Lasseter</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
