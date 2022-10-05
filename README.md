@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is in the darkness that one finds the light."</i>
+<i>"Opportunity often comes disguised in the form of misfortune, or temporary defeat."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
