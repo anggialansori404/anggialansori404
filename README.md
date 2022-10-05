@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There can be no deep disappointment where there is not deep love."</i>
+<i>"Don't hate the player. Change the game."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
