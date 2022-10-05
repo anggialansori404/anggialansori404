@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Empty yourself of everything - let the mind become still."</i>
+<i>"I was thrown out of college for cheating on the metaphysics exam; I looked into the soul of the boy sitting next to me."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
