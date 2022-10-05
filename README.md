@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Can miles truly separate you from friends... If you want to be with someone you love, aren't you already there?"</i>
+<i>"No duty is more urgent than that of returning thanks."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
