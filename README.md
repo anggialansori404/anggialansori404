@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our strength grows out of our weaknesses."</i>
+<i>"Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire?"</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
