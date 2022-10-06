@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stop wasting time looking at someone else's reality while doing nothing about yours."</i>
+<i>"Just be patient. Let the game come to you. Don't rush. Be quick, but don't hurry."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Earl Monroe</b>
 </blockquote>
 </p>
 
