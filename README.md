@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just be patient. Let the game come to you. Don't rush. Be quick, but don't hurry."</i>
+<i>"Integrity is telling myself the truth. And honesty is telling the truth to other people."</i>
 <br>
-<b>- Earl Monroe</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
