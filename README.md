@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The essence of true friendship is to make allowance for another's little lapses."</i>
+<i>"Far more crucial than what we know or do not know is what we do not want to know."</i>
 <br>
-<b>- Ovid</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
