@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Integrity is telling myself the truth. And honesty is telling the truth to other people."</i>
+<i>"The essence of true friendship is to make allowance for another's little lapses."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Ovid</b>
 </blockquote>
 </p>
 
