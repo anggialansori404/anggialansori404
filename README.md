@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Luck is what happens when preparation meets opportunity."</i>
+<i>"Our strength grows out of our weaknesses."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
