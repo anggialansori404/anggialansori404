@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest challenge after success is shutting up about it."</i>
+<i>"Do one thing every day that scares you."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
