@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"At the center of your being, you have the answer; you know who you are, and you know what you want."</i>
+<i>"I gave my life to become the person I am right now. Was it worth it?"</i>
 <br>
-<b>- Laozi</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
