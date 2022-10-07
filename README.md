@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The whole world is a series of miracles, but we're so used to them we call them ordinary things."</i>
+<i>"No one saves us but ourselves. No one can and no one may. We ourselves must walk the path."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
