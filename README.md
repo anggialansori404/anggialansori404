@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I gave my life to become the person I am right now. Was it worth it?"</i>
+<i>"No bird soars too high if he soars with his own wings."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- William Blake</b>
 </blockquote>
 </p>
 
