@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Experience is not what happens to you; it's what you do with what happens to you."</i>
+<i>"In any moment of decision, the best thing you can do is the right thing. The worst thing you can do is nothing."</i>
 <br>
-<b>- Aldous Huxley</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
