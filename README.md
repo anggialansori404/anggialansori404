@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A gentleman is one who puts more into the world than he takes out."</i>
+<i>"In the sky, there is no distinction of east and west; people create distinctions out of their own minds and then believe them to be true."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
