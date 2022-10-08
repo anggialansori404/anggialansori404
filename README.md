@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality."</i>
+<i>"I have always found that mercy bears richer fruits than strict justice."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
