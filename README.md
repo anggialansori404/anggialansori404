@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hold yourself responsible for a higher standard than anybody else expects of you."</i>
+<i>"You cannot have what you do not want."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- John Acosta</b>
 </blockquote>
 </p>
 
