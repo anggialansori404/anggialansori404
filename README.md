@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the sky, there is no distinction of east and west; people create distinctions out of their own minds and then believe them to be true."</i>
+<i>"There are no secrets to success. It is the result of preparation, hard work, and learning from failure."</i>
 <br>
-<b>- Buddha</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
