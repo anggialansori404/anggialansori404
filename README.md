@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have always found that mercy bears richer fruits than strict justice."</i>
+<i>"Fear not for the future, weep not for the past."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Percy Bysshe Shelley</b>
 </blockquote>
 </p>
 
