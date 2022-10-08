@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No bird soars too high if he soars with his own wings."</i>
+<i>"Only those who dare to fail greatly can ever achieve greatly."</i>
 <br>
-<b>- William Blake</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
