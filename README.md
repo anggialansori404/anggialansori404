@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot have what you do not want."</i>
+<i>"A gentleman is one who puts more into the world than he takes out."</i>
 <br>
-<b>- John Acosta</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
