@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're really truthful with yourself, it's a wonderful guidance.  "</i>
+<i>"Trust is built and maintained by many small actions over time."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
