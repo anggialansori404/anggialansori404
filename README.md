@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good."</i>
+<i>"If you're really truthful with yourself, it's a wonderful guidance.  "</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
