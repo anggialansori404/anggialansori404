@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There exists only the present instant; a Now which always and without end is itself new."</i>
+<i>"Quality is not an act, it is a habit."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
