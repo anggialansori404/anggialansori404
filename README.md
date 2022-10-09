@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The sum of wisdom is that time is never lost that is devoted to work."</i>
+<i>"When I let go of what I am, I become what I might be."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
