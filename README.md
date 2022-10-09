@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The successful warrior is the average man, with laser-like focus."</i>
+<i>"Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
