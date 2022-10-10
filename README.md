@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's the little things done consistently over time, straight from your heart, that have the greatest impact."</i>
+<i>"Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you."</i>
 <br>
-<b>- Unknown</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
