@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth."</i>
+<i>"It's the little things done consistently over time, straight from your heart, that have the greatest impact."</i>
 <br>
-<b>- Arthur Conan Doyle</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
