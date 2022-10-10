@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Waste no more time arguing about what a good man should be. Be one."</i>
+<i>"Chaos is inherent in all compounded things. Strive on with diligence."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
