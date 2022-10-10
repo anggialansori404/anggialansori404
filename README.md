@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Chaos is inherent in all compounded things. Strive on with diligence."</i>
+<i>"Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth."</i>
 <br>
-<b>- Buddha</b>
+<b>- Arthur Conan Doyle</b>
 </blockquote>
 </p>
 
