@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you."</i>
+<i>"Men in general judge more from appearances than from reality. All men have eyes, but few have the gift of penetration."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Niccolò Machiavelli</b>
 </blockquote>
 </p>
 
