@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly."</i>
+<i>"Success is never final; failure is never fatal."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Conrad Hilton</b>
 </blockquote>
 </p>
 
