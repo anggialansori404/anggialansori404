@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"And as we let our own light shine, we unconsciously give other people permission to do the same."</i>
+<i>"If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
