@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Lose an hour in the morning, and you will spend all day looking for it."</i>
+<i>"If a thing is worth doing, it is worth doing badly."</i>
 <br>
-<b>- Richard Whately</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
