@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I cannot make my days longer, so I strive to make them better."</i>
+<i>"Distant water does not put out a nearby fire."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
