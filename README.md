@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is only one success - to be able to spend your life in your own way."</i>
+<i>"I cannot make my days longer, so I strive to make them better."</i>
 <br>
-<b>- Christopher Morley</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
