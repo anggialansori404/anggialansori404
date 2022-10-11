@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Distant water does not put out a nearby fire."</i>
+<i>"The purpose of life is to contribute in some way to making things better."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
