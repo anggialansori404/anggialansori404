@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can only be afraid of what you think you know."</i>
+<i>"Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
