@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The purpose of life is to contribute in some way to making things better."</i>
+<i>"Meditation is the dissolution of thoughts in eternal awareness or Pure consciousness without objectification, knowing without thinking, merging finitude in infinity."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
