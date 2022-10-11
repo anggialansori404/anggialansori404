@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Discontent is the first necessity of progress."</i>
+<i>"Lose an hour in the morning, and you will spend all day looking for it."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Richard Whately</b>
 </blockquote>
 </p>
 
