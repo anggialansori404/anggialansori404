@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people never run far enough on their first wind to find out they've got a second."</i>
+<i>"Everything that exists is in a manner the seed of that which will be."</i>
 <br>
-<b>- William James</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
