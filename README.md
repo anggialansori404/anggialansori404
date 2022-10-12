@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Death walks faster than the wind and never returns what he has taken."</i>
+<i>"We should not look back unless it is to derive useful lessons from past errors."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
