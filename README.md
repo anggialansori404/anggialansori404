@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world would go on even without you. Don't take yourself so seriously."</i>
+<i>"We need to find the courage to say NO to the things and people that are not serving us if we want to rediscover ourselves and live our lives with authenticity."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Barbara De Angelis</b>
 </blockquote>
 </p>
 
