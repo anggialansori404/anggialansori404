@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If a thing is worth doing, it is worth doing badly."</i>
+<i>"The world would go on even without you. Don't take yourself so seriously."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
