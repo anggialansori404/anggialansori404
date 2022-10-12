@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything that exists is in a manner the seed of that which will be."</i>
+<i>"The power of man has grown in every sphere, except over himself."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
