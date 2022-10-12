@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All you need is the plan, the road map, and the courage to press on to your destination."</i>
+<i>"If everyone is moving forward together, then success takes care of itself."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
