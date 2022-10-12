@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Beginning today, treat everyone you meet as if they were going to be dead by midnight. Extend to them all the care, kindness and understanding you can muster, and do it with no thought of any reward. Your life will never be the same again."</i>
+<i>"Most people never run far enough on their first wind to find out they've got a second."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
