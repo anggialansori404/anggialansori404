@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The whole world is a series of miracles, but we're so used to them we call them ordinary things."</i>
+<i>"To improve is to change, so to be perfect is to change often."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
