@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Start where you are. Use what you have. Do what you can."</i>
+<i>"To accomplish big things, I am convinced you must first dream big dreams."</i>
 <br>
-<b>- Arthur Ashe</b>
+<b>- Conrad Hilton</b>
 </blockquote>
 </p>
 
