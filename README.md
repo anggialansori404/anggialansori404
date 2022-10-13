@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We will act consistently with our view of who we truly are, whether that view is accurate or not."</i>
+<i>"Quiet people have the loudest minds."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
