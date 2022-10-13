@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Conscience is a dog that does not stop us from passing but that we cannot prevent from barking."</i>
+<i>"God always takes the simplest way."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
