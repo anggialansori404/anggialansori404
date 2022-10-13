@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"God always takes the simplest way."</i>
+<i>"Start where you are. Use what you have. Do what you can."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Arthur Ashe</b>
 </blockquote>
 </p>
 
