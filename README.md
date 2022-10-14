@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quiet people have the loudest minds."</i>
+<i>"Technology made large populations possible; large populations now make technology indispensable."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Joseph Wood Krutch</b>
 </blockquote>
 </p>
 
