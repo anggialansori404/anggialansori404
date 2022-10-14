@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be kind whenever possible. It is always possible."</i>
+<i>"Everything you can imagine is real."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
