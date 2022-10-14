@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Technology made large populations possible; large populations now make technology indispensable."</i>
+<i>"It is the mark of an educated mind to be able to entertain a thought without accepting it."</i>
 <br>
-<b>- Joseph Wood Krutch</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
