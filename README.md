@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have the freedom to be yourself, your true self, here and now, and nothing can stand in your way."</i>
+<i>"Great things are not accomplished by those who yield to trends and fads and popular opinion."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Jack Kerouac</b>
 </blockquote>
 </p>
 
