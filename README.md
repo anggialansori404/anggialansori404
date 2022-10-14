@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truth is rarely pure and never simple. "</i>
+<i>"If it is not right do not do it; if it is not true do not say it."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
