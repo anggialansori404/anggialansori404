@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great things are not accomplished by those who yield to trends and fads and popular opinion."</i>
+<i>"To do all that one is able to do, is to be a man; to do all that one would like to do, is to be a god."</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- Napoleon</b>
 </blockquote>
 </p>
 
