@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Observe things as they are and don't pay attention to other people."</i>
+<i>"Never give up, for that is just the place and time that the tide will turn."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Harriet Beecher Stowe</b>
 </blockquote>
 </p>
 
