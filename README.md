@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you want something in life, you just gotta reach out and grab it."</i>
+<i>"A wise man will make more opportunities than he finds."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Francis Bacon</b>
 </blockquote>
 </p>
 
