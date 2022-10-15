@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A wise man will make more opportunities than he finds."</i>
+<i>"Observe things as they are and don't pay attention to other people."</i>
 <br>
-<b>- Francis Bacon</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
