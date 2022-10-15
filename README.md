@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness comes when your work and words are of benefit to yourself and others."</i>
+<i>"Nothing makes a man broad-minded like adversity."</i>
 <br>
-<b>- Buddha</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
