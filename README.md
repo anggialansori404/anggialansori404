@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To do all that one is able to do, is to be a man; to do all that one would like to do, is to be a god."</i>
+<i>"By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning."</i>
 <br>
-<b>- Napoleon</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
