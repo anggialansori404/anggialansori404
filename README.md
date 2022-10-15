@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never give up, for that is just the place and time that the tide will turn."</i>
+<i>"One of the most difficult things is not to change society - but to change yourself."</i>
 <br>
-<b>- Harriet Beecher Stowe</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
