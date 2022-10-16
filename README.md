@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Creativity comes from trust. Trust your instincts. And never hope more than you work."</i>
+<i>"Love cures people - both the ones who give it and the ones who receive it."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Karl Menninger</b>
 </blockquote>
 </p>
 
