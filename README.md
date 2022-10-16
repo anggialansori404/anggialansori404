@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In order for you to be the BEST you can be for others, first you must be BEST for yourself."</i>
+<i>"Expect the best of yourself, and then do what is necessary to make it a reality."</i>
 <br>
-<b>- Jeffrey Gitomer</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
