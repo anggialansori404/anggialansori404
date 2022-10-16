@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love cures people - both the ones who give it and the ones who receive it."</i>
+<i>"You teach best what you most need to learn."</i>
 <br>
-<b>- Karl Menninger</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
