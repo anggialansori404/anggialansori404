@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our intention creates our reality."</i>
+<i>"Creativity comes from trust. Trust your instincts. And never hope more than you work."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
