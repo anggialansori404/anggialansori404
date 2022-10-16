@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who hath many friends hath none."</i>
+<i>"In order for you to be the BEST you can be for others, first you must be BEST for yourself."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Jeffrey Gitomer</b>
 </blockquote>
 </p>
 
