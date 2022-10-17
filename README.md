@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Music in the soul can be heard by the universe."</i>
+<i>"Whatever your mind can conceive and believe, it can achieve."</i>
 <br>
-<b>- Laozi</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
