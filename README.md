@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward."</i>
+<i>"You are the only person on earth who can use your ability."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
