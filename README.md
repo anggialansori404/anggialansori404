@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot change your destination overnight but you can change your direction overnight."</i>
+<i>"Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
