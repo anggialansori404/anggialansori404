@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we have no peace, it is because we have forgotten that we belong to each other."</i>
+<i>"Prefer to be defeated in the presence of the wise than to excel among fools."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
