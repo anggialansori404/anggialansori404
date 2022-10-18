@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow. "</i>
+<i>"I defeat my enemies when I make them my friends."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
