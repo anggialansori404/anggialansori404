@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I defeat my enemies when I make them my friends."</i>
+<i>"If you love someone, set them free. If they come back, they're yours; if they don't, they never were."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
