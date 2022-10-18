@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is what you have before you understand the problem."</i>
+<i>"You may be disappointed if you fail, but you are doomed if you don't try."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
