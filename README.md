@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is trying things to see if they work."</i>
+<i>"Confidence is what you have before you understand the problem."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
