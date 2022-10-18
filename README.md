@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are the only person on earth who can use your ability."</i>
+<i>"There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow. "</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Orison Swett Marden</b>
 </blockquote>
 </p>
 
