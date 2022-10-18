@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you love someone, set them free. If they come back, they're yours; if they don't, they never were."</i>
+<i>"Progress lies not in enhancing what is, but in advancing toward what will be."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
