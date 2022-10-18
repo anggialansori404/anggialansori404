@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You may be disappointed if you fail, but you are doomed if you don't try."</i>
+<i>"Those who know, do. Those that understand, teach."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
