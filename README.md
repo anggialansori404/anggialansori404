@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Act as if what you do makes a difference. It does."</i>
+<i>"This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it."</i>
 <br>
-<b>- William James</b>
+<b>- Thomas Carlyle</b>
 </blockquote>
 </p>
 
