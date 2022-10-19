@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no failure except in no longer trying."</i>
+<i>"If you owe the bank $100 that's your problem. If you owe the bank $100 million, that's the bank's problem."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- J. Paul Getty</b>
 </blockquote>
 </p>
 
