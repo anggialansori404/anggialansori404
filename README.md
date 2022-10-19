@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Numberless are the worlds wonders, but none more wonderful than man."</i>
+<i>"Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen."</i>
 <br>
-<b>- Sophocles</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
