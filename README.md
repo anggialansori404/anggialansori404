@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Small men think they are small; great men never know they are great. "</i>
+<i>"If everyone is moving forward together, then success takes care of itself."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
