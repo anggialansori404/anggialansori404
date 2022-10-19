@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you owe the bank $100 that's your problem. If you owe the bank $100 million, that's the bank's problem."</i>
+<i>"The wise speak only of what they know."</i>
 <br>
-<b>- J. Paul Getty</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
