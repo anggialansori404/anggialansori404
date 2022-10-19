@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One loyal friend is worth ten thousand relatives."</i>
+<i>"Numberless are the worlds wonders, but none more wonderful than man."</i>
 <br>
-<b>- Euripides</b>
+<b>- Sophocles</b>
 </blockquote>
 </p>
 
