@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Muddy water is best cleared by leaving it alone."</i>
+<i>"There is no failure except in no longer trying."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
