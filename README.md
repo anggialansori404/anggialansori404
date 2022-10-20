@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can do it if you believe you can!"</i>
+<i>"Being in a good frame of mind helps keep one in the picture of health."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
