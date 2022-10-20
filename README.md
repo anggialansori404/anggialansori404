@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Generosity is giving more than you can, and pride is taking less than you need."</i>
+<i>"Your only obligation in any lifetime is to be true to yourself."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
