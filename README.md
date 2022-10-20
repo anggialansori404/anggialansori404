@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Doing what you love is the cornerstone of having abundance in your life. "</i>
+<i>"At first dreams seem impossible, then improbable, then inevitable."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
