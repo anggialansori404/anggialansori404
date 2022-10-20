@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen."</i>
+<i>"All life is a manifestation of the spirit, the manifestation of love."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
