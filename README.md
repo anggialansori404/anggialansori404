@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Technology is nothing. What's important is that you have a faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them."</i>
+<i>"Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Eustace Budgell</b>
 </blockquote>
 </p>
 
