@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He that is giddy thinks the world turns round."</i>
+<i>"He who knows others is wise. He who knows himself is enlightened."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
