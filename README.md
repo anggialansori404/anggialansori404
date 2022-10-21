@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"See what you're doing wrong, laugh at it, change and do better."</i>
+<i>"Life is like underwear, should be changed twice a day.  "</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
