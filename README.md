@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your only obligation in any lifetime is to be true to yourself."</i>
+<i>"The best preparation for tomorrow is doing your best today."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- H. Jackson Brown Jr.</b>
 </blockquote>
 </p>
 
