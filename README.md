@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another."</i>
+<i>"The greatest obstacle to being heroic is the doubt whether one may not be going to prove oneself a fool; the truest heroism is to resist the doubt; and the profoundest wisdom, to know when it ought to be resisted, and when it be obeyed."</i>
 <br>
-<b>- Eustace Budgell</b>
+<b>- Nathaniel Hawthorne</b>
 </blockquote>
 </p>
 
