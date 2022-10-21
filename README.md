@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I endeavor to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress."</i>
+<i>"Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be. "</i>
 <br>
-<b>- Elizabeth Montagu</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
