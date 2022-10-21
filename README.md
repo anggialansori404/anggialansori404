@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Empty yourself of everything - let the mind become still."</i>
+<i>"I endeavor to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Elizabeth Montagu</b>
 </blockquote>
 </p>
 
