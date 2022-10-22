@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a process. We are a process. The universe is a process."</i>
+<i>"Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given."</i>
 <br>
-<b>- Anne Wilson Schaef</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
