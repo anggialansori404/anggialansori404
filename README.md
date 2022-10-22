@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't look back - you're not going that way."</i>
+<i>"You spend a good piece of your life gripping a baseball and in the end it turns out that it was the other way around all the time."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Jim Bouton</b>
 </blockquote>
 </p>
 
