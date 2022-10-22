@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go confidently in the direction of your dreams! Live the life you've imagined."</i>
+<i>"Your mind will make you rich or poor, depending on the use you put to it."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
