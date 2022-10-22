@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot find yourself by going into the past. You can find yourself by coming into the present."</i>
+<i>"Go confidently in the direction of your dreams! Live the life you've imagined."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
