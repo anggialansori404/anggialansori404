@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only way to prove that you're a good sport is to lose."</i>
+<i>"Life is a process. We are a process. The universe is a process."</i>
 <br>
-<b>- Ernie Banks</b>
+<b>- Anne Wilson Schaef</b>
 </blockquote>
 </p>
 
