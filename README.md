@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The single biggest problem in communication is the illusion that it has taken place."</i>
+<i>"Love is the flower you've got to let grow."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
