@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your mind will make you rich or poor, depending on the use you put to it."</i>
+<i>"Knowing your own darkness is the best method for dealing with the darkness of other people."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
