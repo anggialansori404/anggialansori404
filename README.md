@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Progress lies not in enhancing what is, but in advancing toward what will be."</i>
+<i>"To climb steep hills requires a slow pace at first."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
