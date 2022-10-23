@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To climb steep hills requires a slow pace at first."</i>
+<i>"The single biggest problem in communication is the illusion that it has taken place."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
