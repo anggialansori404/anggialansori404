@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All happiness depends on courage and work."</i>
+<i>"All things change; nothing perishes."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Ovid</b>
 </blockquote>
 </p>
 
