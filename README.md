@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the flower you've got to let grow."</i>
+<i>"All happiness depends on courage and work."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
