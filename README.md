@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing your own darkness is the best method for dealing with the darkness of other people."</i>
+<i>"Happiness is not something ready-made. It comes from your own actions."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
