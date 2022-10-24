@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Heart is what separates the good from the great."</i>
+<i>"Until you make peace with who you are, you'll never be content with what you have."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Doris Mortman</b>
 </blockquote>
 </p>
 
