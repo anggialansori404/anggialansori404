@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perfection is not attainable, but if we chase perfection we can catch excellence."</i>
+<i>"Experience is not what happens to you; it's what you do with what happens to you."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Aldous Huxley</b>
 </blockquote>
 </p>
 
