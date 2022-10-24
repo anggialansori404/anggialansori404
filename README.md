@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far."</i>
+<i>"Heart is what separates the good from the great."</i>
 <br>
-<b>- Swami Vivekananda</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
