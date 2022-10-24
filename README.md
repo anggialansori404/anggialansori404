@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Lust, anger and greed are the three gates to self-destructive hell."</i>
+<i>"We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Swami Vivekananda</b>
 </blockquote>
 </p>
 
