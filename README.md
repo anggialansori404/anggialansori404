@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Prefer to be defeated in the presence of the wise than to excel among fools."</i>
+<i>"Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow."</i>
 <br>
-<b>- Dogen</b>
+<b>- Melody Beattie</b>
 </blockquote>
 </p>
 
