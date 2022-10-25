@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow."</i>
+<i>"There is more wisdom in your body than in your deepest philosophy."</i>
 <br>
-<b>- Melody Beattie</b>
+<b>- Friedrich Nietzsche</b>
 </blockquote>
 </p>
 
