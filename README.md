@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is more wisdom in your body than in your deepest philosophy."</i>
+<i>"If you set out to be liked, you would be prepared to compromise on anything at any time, and you would achieve nothing."</i>
 <br>
-<b>- Friedrich Nietzsche</b>
+<b>- Margaret Thatcher</b>
 </blockquote>
 </p>
 
