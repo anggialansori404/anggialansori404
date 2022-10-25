@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you set out to be liked, you would be prepared to compromise on anything at any time, and you would achieve nothing."</i>
+<i>"If you don't make things happen then things will happen to you."</i>
 <br>
-<b>- Margaret Thatcher</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
