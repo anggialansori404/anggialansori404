@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our kindness may be the most persuasive argument for that which we believe."</i>
+<i>"To see things in the seed, that is genius."</i>
 <br>
-<b>- Gordon Hinckley</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
