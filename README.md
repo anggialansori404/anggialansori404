@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't make things happen then things will happen to you."</i>
+<i>"Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
