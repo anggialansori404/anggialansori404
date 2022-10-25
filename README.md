@@ -28,7 +28,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To see things in the seed, that is genius."</i>
+<i>"He who talks more is sooner exhausted."</i>
 <br>
 <b>- Laozi</b>
 </blockquote>
