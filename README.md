@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't like something, change it. If you can't change it, change your attitude."</i>
+<i>"Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
