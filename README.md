@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you spend your whole life waiting for the storm, you'll never enjoy the sunshine."</i>
+<i>"You can fool all the people some of the time, and some of the people all the time, but you cannot fool all the people all the time."</i>
 <br>
-<b>- Morris West</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
