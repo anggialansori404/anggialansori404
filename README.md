@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't look back - you're not going that way."</i>
+<i>"Problems are only opportunities with thorns on them."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Hugh Miller</b>
 </blockquote>
 </p>
 
