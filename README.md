@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Problems are only opportunities with thorns on them."</i>
+<i>"Question everything. Learn something. Answer nothing."</i>
 <br>
-<b>- Hugh Miller</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
