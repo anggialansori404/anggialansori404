@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can fool all the people some of the time, and some of the people all the time, but you cannot fool all the people all the time."</i>
+<i>"People do not decide their futures, they decide their habits and their habits decide their futures."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
