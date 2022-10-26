@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Question everything. Learn something. Answer nothing."</i>
+<i>"Patience is bitter, but its fruit is sweet."</i>
 <br>
-<b>- Euripides</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
