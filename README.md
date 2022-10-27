@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is one mind in two bodies."</i>
+<i>"The best thing about the future is that it only comes one day at a time."</i>
 <br>
-<b>- Mencius</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
