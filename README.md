@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not turn back when you are just at the goal."</i>
+<i>"All things come into being by conflict of opposites."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
