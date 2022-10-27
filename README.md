@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who are easily shocked should be shocked more often."</i>
+<i>"The quality of your commitments will determine the course of your life."</i>
 <br>
-<b>- Mae West</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
