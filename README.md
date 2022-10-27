@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A change is brought about because ordinary people do extraordinary things."</i>
+<i>"Those who are easily shocked should be shocked more often."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
