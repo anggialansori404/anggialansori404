@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best thing about the future is that it only comes one day at a time."</i>
+<i>"A change is brought about because ordinary people do extraordinary things."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
