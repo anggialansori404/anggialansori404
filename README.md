@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Watch what you say, and whatever you say, practice it."</i>
+<i>"If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor."</i>
 <br>
-<b>- Soyen Shaku</b>
+<b>- Daisaku Ikeda</b>
 </blockquote>
 </p>
 
