@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor."</i>
+<i>"Fear grows in darkness; if you think there's a bogeyman around, turn on the light."</i>
 <br>
-<b>- Daisaku Ikeda</b>
+<b>- Dorothy Thompson</b>
 </blockquote>
 </p>
 
