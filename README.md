@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot be lonely if you like the person you're alone with."</i>
+<i>"To change one's life, start immediately, do it flamboyantly, no exceptions."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
