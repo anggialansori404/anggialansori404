@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are most nearly ourselves when we achieve the seriousness of the child at play."</i>
+<i>"There is no such thing as a great talent without great willpower."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
