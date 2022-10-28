@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich."</i>
+<i>"We are most nearly ourselves when we achieve the seriousness of the child at play."</i>
 <br>
-<b>- Muhammad Ali</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
