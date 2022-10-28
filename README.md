@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre."</i>
+<i>"But I'll tell you what hermits realize. If you go off into a far, far forest and get very quiet, you'll come to understand that you're connected with everything."</i>
 <br>
-<b>- Uta Hagen</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
