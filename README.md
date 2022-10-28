@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We could never learn to be brave and patient if there were only joy in the world."</i>
+<i>"You cannot be lonely if you like the person you're alone with."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
