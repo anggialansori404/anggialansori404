@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your setback is just a setup for a comeback."</i>
+<i>"We could never learn to be brave and patient if there were only joy in the world."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
