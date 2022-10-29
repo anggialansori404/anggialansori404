@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Self-trust is the first secret of success."</i>
+<i>"In the middle of every difficulty lies opportunity."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
