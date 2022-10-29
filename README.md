@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the middle of every difficulty lies opportunity."</i>
+<i>"Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
