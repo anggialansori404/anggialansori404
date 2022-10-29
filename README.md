@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quality means doing it right when no one is looking."</i>
+<i>"Try to be a rainbow in someone's cloud."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
