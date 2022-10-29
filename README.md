@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The friend who can be silent with us in a moment of despair or confusion, who can stay with us in an hour of grief and bereavement, who can tolerate not knowing... not healing, not curing... that is a friend who cares."</i>
+<i>"All human wisdom is contained in these two words - Wait and Hope"</i>
 <br>
-<b>- Henri Nouwen</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
