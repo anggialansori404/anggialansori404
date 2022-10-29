@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The one thing that you have that nobody else has is you. Your voice, your mind, your story, your vision. So write and draw and build and play and dance and live as only you can."</i>
+<i>"Love is the only force capable of transforming an enemy into a friend."</i>
 <br>
-<b>- Neil Gaiman</b>
+<b>- Martin Luther King Jr.</b>
 </blockquote>
 </p>
 
