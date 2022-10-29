@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become."</i>
+<i>"The art of being happy lies in the power of extracting happiness from common things."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
