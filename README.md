@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean."</i>
+<i>"The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
