@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings."</i>
+<i>"If one way be better than another, that you may be sure is nature's way."</i>
 <br>
-<b>- Arthur Rubinstein</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
