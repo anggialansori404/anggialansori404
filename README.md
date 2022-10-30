@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never deny a diagnosis but do deny the negative verdict that may go with it."</i>
+<i>"Friendship increases in visiting friends, but in visiting them seldom."</i>
 <br>
-<b>- Norman Cousins</b>
+<b>- Francis Bacon</b>
 </blockquote>
 </p>
 
