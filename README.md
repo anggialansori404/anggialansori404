@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love doesn't make the world go round; love is what makes the ride worthwhile."</i>
+<i>"The power of man has grown in every sphere, except over himself."</i>
 <br>
-<b>- Elizabeth Browning</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
