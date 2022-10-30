@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship increases in visiting friends, but in visiting them seldom."</i>
+<i>"The wise accomplish all that they want without arousing the envy or scorn of others."</i>
 <br>
-<b>- Francis Bacon</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
