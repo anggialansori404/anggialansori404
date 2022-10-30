@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Try to be a rainbow in someone's cloud."</i>
+<i>"Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Arthur Rubinstein</b>
 </blockquote>
 </p>
 
