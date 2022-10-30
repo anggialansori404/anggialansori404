@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship, like the immortality of the soul, is too good to be believed."</i>
+<i>"Habit, if not resisted, soon becomes necessity."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Augustine of Hippo</b>
 </blockquote>
 </p>
 
