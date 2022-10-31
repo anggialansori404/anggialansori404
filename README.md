@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Once you learn to quit, it becomes a habit."</i>
+<i>"The salvation of the world lies in the human heart."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
