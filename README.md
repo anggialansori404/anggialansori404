@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The salvation of the world lies in the human heart."</i>
+<i>"Go for it now. The future is promised to no one."</i>
 <br>
-<b>- Vaclav Havel</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
