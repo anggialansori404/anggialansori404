@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!"</i>
+<i>"Once you learn to quit, it becomes a habit."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
