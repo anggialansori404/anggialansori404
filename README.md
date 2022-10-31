@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life does not get better by chance, it gets better by change."</i>
+<i>"The man who trusts men will make fewer mistakes than he who distrusts them."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Camillo Benso, Count of Cavour</b>
 </blockquote>
 </p>
 
