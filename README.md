@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Argue for your limitations, and sure enough they're yours."</i>
+<i>"God gave us the gift of life; it is up to us to give ourselves the gift of living well."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
