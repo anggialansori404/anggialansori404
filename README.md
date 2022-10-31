@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go for it now. The future is promised to no one."</i>
+<i>"The only true wisdom is in knowing you know nothing."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Isocrates</b>
 </blockquote>
 </p>
 
