@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing your own darkness is the best method for dealing with the darkness of other people."</i>
+<i>"Life does not get better by chance, it gets better by change."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
