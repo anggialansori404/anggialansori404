@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The primary point of this existence is to live, and all living things move and grow."</i>
+<i>"Argue for your limitations, and sure enough they're yours."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
