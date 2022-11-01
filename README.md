@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are that vast thing that you see far, far off with great telescopes."</i>
+<i>"If I know what love is, it is because of you."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Hermann Hesse</b>
 </blockquote>
 </p>
 
