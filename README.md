@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By living deeply in the present moment we can understand the past better and we can prepare for a better future."</i>
+<i>"Only when one allows themself the right to die, do they then give yourself the permission to live."</i>
 <br>
-<b>- Thích Nhất Hạnh</b>
+<b>- C. Sean McGee</b>
 </blockquote>
 </p>
 
