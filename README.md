@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I know what love is, it is because of you."</i>
+<i>"Go for it now. The future is promised to no one. "</i>
 <br>
-<b>- Hermann Hesse</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
