@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the wisdom of the fool and the folly of the wise."</i>
+<i>"You are that vast thing that you see far, far off with great telescopes."</i>
 <br>
-<b>- Samuel Johnson</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
