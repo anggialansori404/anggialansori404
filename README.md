@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The man who trusts men will make fewer mistakes than he who distrusts them."</i>
+<i>"Over time, loneliness gets inside you and doesn't go away."</i>
 <br>
-<b>- Camillo Benso, Count of Cavour</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
