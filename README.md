@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're never a loser until you quit trying."</i>
+<i>"Love is the wisdom of the fool and the folly of the wise."</i>
 <br>
-<b>- Mike Ditka</b>
+<b>- Samuel Johnson</b>
 </blockquote>
 </p>
 
