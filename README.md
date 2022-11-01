@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take no thought of who is right or wrong or who is better than. Be not for or against."</i>
+<i>"Be approximately right rather than exactly wrong."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- John Tukey</b>
 </blockquote>
 </p>
 
