@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go for it now. The future is promised to no one. "</i>
+<i>"No one can confidently say that he will still be living tomorrow."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
