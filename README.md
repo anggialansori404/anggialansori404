@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Over time, loneliness gets inside you and doesn't go away."</i>
+<i>"You're never a loser until you quit trying."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Mike Ditka</b>
 </blockquote>
 </p>
 
