@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As soon as you trust yourself, you will know how to live."</i>
+<i>"He who is fixed to a star does not change his mind."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
