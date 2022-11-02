@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. "</i>
+<i>"Nature and books belong to the eyes that see them."</i>
 <br>
-<b>- Charles Swindoll</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
