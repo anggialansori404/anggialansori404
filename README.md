@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In wisdom gathered over time I have found that every experience is a form of exploration."</i>
+<i>"He who laughs at himself never runs out of things to laugh at."</i>
 <br>
-<b>- Ansel Adams</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
