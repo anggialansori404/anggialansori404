@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to understand a little than to misunderstand a lot."</i>
+<i>"Joy is the best makeup."</i>
 <br>
-<b>- Anatole France</b>
+<b>- Anne Lamott</b>
 </blockquote>
 </p>
 
