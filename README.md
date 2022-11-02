@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wisest men follow their own direction."</i>
+<i>"It is better to understand a little than to misunderstand a lot."</i>
 <br>
-<b>- Euripides</b>
+<b>- Anatole France</b>
 </blockquote>
 </p>
 
