@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a gift. Never forget to enjoy and bask in every moment you are in."</i>
+<i>"What lies behind us and what lies before us are small matters compared to what lies within us."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Oliver Wendell Holmes Jr.</b>
 </blockquote>
 </p>
 
