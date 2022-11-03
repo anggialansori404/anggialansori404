@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nature and books belong to the eyes that see them."</i>
+<i>"Attitude, not aptitude, determines altitude.  "</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
