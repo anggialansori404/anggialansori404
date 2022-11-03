@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People tend to complicate their own lives, as if living weren't already complicated enough."</i>
+<i>"Life is a gift. Never forget to enjoy and bask in every moment you are in."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
