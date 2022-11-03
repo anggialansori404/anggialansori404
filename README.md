@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make failure your teacher, not your undertaker.  "</i>
+<i>"It is more shameful to distrust our friends than to be deceived by them."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
