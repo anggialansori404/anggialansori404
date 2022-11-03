@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What lies behind us and what lies before us are small matters compared to what lies within us."</i>
+<i>"The beginning of wisdom is found in doubting; by doubting we come to the question, and by seeking we may come upon the truth."</i>
 <br>
-<b>- Oliver Wendell Holmes Jr.</b>
+<b>- Peter Abelard</b>
 </blockquote>
 </p>
 
