@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The poor man is not he who is without a cent, but he who is without a dream."</i>
+<i>"Make failure your teacher, not your undertaker.  "</i>
 <br>
-<b>- Harry Kemp</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
