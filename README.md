@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is more shameful to distrust our friends than to be deceived by them."</i>
+<i>"People tend to complicate their own lives, as if living weren't already complicated enough."</i>
 <br>
-<b>- Confucius</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
