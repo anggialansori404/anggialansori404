@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Attitude, not aptitude, determines altitude.  "</i>
+<i>"It is only the great hearted who can be true friends. The mean and cowardly, can never know what true friendship means."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Charles Kingsley</b>
 </blockquote>
 </p>
 
