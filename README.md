@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In seed time learn, in harvest teach, in winter enjoy."</i>
+<i>"I would rather be hated for who I am than loved for who I'm not.  "</i>
 <br>
-<b>- William Blake</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
