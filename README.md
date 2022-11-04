@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be."</i>
+<i>"In seed time learn, in harvest teach, in winter enjoy."</i>
 <br>
-<b>- Yanni</b>
+<b>- William Blake</b>
 </blockquote>
 </p>
 
