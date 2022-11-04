@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All you need is the plan, the road map, and the courage to press on to your destination."</i>
+<i>"The price of inaction is far greater than the cost of making a mistake."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
