@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's better to be a lion for a day than a sheep all your life."</i>
+<i>"The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be."</i>
 <br>
-<b>- Elizabeth Kenny</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
