@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be the change that you want to see in the world."</i>
+<i>"It's better to be a lion for a day than a sheep all your life."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Elizabeth Kenny</b>
 </blockquote>
 </p>
 
