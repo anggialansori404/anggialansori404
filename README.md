@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Faithless is he that says farewell when the road darkens."</i>
+<i>"If you can't feed a hundred people, then feed just one."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
