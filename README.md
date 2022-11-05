@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We forge the chains we wear in life."</i>
+<i>"Love is the master key that opens the gates of happiness."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Oliver Wendell Holmes Jr.</b>
 </blockquote>
 </p>
 
