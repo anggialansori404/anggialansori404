@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed."</i>
+<i>"The teacher who is indeed wise does not bid you to enter the house of his wisdom but rather leads you to the threshold of your mind."</i>
 <br>
-<b>- Blaise Pascal</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
