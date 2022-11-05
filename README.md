@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever."</i>
+<i>"I will not be concerned at other men's not knowing me; I will be concerned at my own want of ability."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
