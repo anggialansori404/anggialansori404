@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character."</i>
+<i>"If there's a definition of freedom, I think it's this: living life on your terms."</i>
 <br>
-<b>- Margaret Chase Smith</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
