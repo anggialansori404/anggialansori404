@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life without love is like a tree without blossoms or fruit."</i>
+<i>"Our greatness lies not so much in being able to remake the world as being able to remake ourselves."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
