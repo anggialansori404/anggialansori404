@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest discovery of our generation is that human beings can alter their lives by altering their attitudes of mind. As you think, so shall you be."</i>
+<i>"To free us from the expectations of others, to give us back to ourselves... there lies the great, singular power of self-respect."</i>
 <br>
-<b>- William James</b>
+<b>- Joan Didion</b>
 </blockquote>
 </p>
 
