@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fears are nothing more than a state of mind."</i>
+<i>"The greatest discovery of our generation is that human beings can alter their lives by altering their attitudes of mind. As you think, so shall you be."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
