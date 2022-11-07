@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our greatness lies not so much in being able to remake the world as being able to remake ourselves."</i>
+<i>"The most successful people are those who are good at plan B."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- James A. Yorke</b>
 </blockquote>
 </p>
 
