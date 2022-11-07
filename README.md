@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The road to success and the road to failure are almost exactly the same."</i>
+<i>"Success is built sequentially. It's one thing at a time."</i>
 <br>
-<b>- Colin R. Davis</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
