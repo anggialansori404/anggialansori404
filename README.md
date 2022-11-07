@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't stop when you're tired. Stop when you're done."</i>
+<i>"I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex."</i>
 <br>
-<b>- Marilyn Monroe</b>
+<b>- Kurt Vonnegut</b>
 </blockquote>
 </p>
 
