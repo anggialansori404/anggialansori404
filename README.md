@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind."</i>
+<i>"Investing in yourself is the best investment you will ever make."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
