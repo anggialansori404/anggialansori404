@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I will not be concerned at other men's not knowing me; I will be concerned at my own want of ability."</i>
+<i>"The road to success and the road to failure are almost exactly the same."</i>
 <br>
-<b>- Confucius</b>
+<b>- Colin R. Davis</b>
 </blockquote>
 </p>
 
