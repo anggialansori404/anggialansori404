@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex."</i>
+<i>"My motto was always to keep swinging. Whether I was in a slump or feeling badly or having trouble off the field, the only thing to do was keep swinging."</i>
 <br>
-<b>- Kurt Vonnegut</b>
+<b>- Hank Aaron</b>
 </blockquote>
 </p>
 
