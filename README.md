@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To effectively communicate, we must realize that we are all different in the way we perceive the world and use this understanding as a guide to our communication with others."</i>
+<i>"I will not be concerned at other men's not knowing me; I will be concerned at my own want of ability."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
