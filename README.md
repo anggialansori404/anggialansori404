@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The doors of wisdom are never shut."</i>
+<i>"You win the victory when you yield to friends."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Sophocles</b>
 </blockquote>
 </p>
 
