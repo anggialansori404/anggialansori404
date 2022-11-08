@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness can exist only in acceptance."</i>
+<i>"The friendship that can cease has never been real."</i>
 <br>
-<b>- George Orwell</b>
+<b>- Jerome</b>
 </blockquote>
 </p>
 
