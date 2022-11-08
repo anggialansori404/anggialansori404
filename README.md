@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. "</i>
+<i>"The doors of wisdom are never shut."</i>
 <br>
-<b>- Charles Swindoll</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
