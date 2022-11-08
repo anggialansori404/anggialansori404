@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Baseball is the only field of endeavor where a man can succeed three times out of ten and be considered a good performer."</i>
+<i>"Happiness can exist only in acceptance."</i>
 <br>
-<b>- Ted Williams</b>
+<b>- George Orwell</b>
 </blockquote>
 </p>
 
