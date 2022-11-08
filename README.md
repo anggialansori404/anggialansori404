@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I think and that is all that I am."</i>
+<i>"You can have it all. You just can't have it all at once. "</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
