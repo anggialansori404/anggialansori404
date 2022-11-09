@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A long habit of not thinking a thing wrong gives it a superficial appearance of being right."</i>
+<i>"Do you have the patience to wait until your mud settles and the water is clear?"</i>
 <br>
-<b>- Thomas Paine</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
