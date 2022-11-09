@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You win the victory when you yield to friends."</i>
+<i>"Successful people are not without problems. They're simply people who've learned to solve their problems."</i>
 <br>
-<b>- Sophocles</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
