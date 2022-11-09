@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless."</i>
+<i>"Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
