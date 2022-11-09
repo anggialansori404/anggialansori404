@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people are not without problems. They're simply people who've learned to solve their problems."</i>
+<i>"The future will be shaped by those willing to commit their minds and their bodies to the task."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
