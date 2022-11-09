@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A tiny change today brings a dramatically different tomorrow."</i>
+<i>"A long habit of not thinking a thing wrong gives it a superficial appearance of being right."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Thomas Paine</b>
 </blockquote>
 </p>
 
