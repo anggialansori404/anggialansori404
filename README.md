@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Waste not fresh tears over old griefs."</i>
+<i>"What do we live for, if it is not to make life less difficult for each other?"</i>
 <br>
-<b>- Euripides</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
