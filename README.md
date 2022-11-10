@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot teach a crab to walk straight."</i>
+<i>"Your time is limited, so don't waste it living someone elses. life."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
