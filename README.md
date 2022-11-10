@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always keep an open mind and a compassionate heart."</i>
+<i>"Love and compassion are necessities, not luxuries. Without them, humanity cannot survive."</i>
 <br>
-<b>- Phil Jackson</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
