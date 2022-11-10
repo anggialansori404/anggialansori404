@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you begin to touch your heart or let your heart be touched, you begin to discover that it's bottomless."</i>
+<i>"Character is the result of two things: mental attitude and the way we spend our time."</i>
 <br>
-<b>- Pema Chödrön</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
