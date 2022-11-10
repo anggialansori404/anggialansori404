@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing on this earth more to be prized than true friendship."</i>
+<i>"When something comes from within, when it is a part of you, you have no choice but to live it, to express it."</i>
 <br>
-<b>- Thomas Aquinas</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
