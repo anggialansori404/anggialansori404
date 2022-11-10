@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When something comes from within, when it is a part of you, you have no choice but to live it, to express it."</i>
+<i>"Trouble is only opportunity in work clothes."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Henry J. Kaiser</b>
 </blockquote>
 </p>
 
