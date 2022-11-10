@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Liberty, taking the word in its concrete sense, consists in the ability to choose."</i>
+<i>"You cannot teach a crab to walk straight."</i>
 <br>
-<b>- Simone Weil</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
