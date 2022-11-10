@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Character is the result of two things: mental attitude and the way we spend our time."</i>
+<i>"Always keep an open mind and a compassionate heart."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Phil Jackson</b>
 </blockquote>
 </p>
 
