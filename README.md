@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People don't notice whether it's winter or summer when they're happy."</i>
+<i>"If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were."</i>
 <br>
-<b>- Anton Chekhov</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
