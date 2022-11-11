@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A true friend is the most precious of all possessions and the one we take the least thought about acquiring."</i>
+<i>"Mistakes are always forgivable, if one has the courage to admit them."</i>
 <br>
-<b>- François de La Rochefoucauld</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
