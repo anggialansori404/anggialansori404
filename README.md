@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is generally the best vindication against slander."</i>
+<i>"A true friend is the most precious of all possessions and the one we take the least thought about acquiring."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- François de La Rochefoucauld</b>
 </blockquote>
 </p>
 
