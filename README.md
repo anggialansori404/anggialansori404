@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board."</i>
+<i>"The first rule of handling conflict is don't hang around people who are constantly engaging in conflict."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
