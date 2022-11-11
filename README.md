@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What do we live for, if it is not to make life less difficult for each other?"</i>
+<i>"People don't notice whether it's winter or summer when they're happy."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Anton Chekhov</b>
 </blockquote>
 </p>
 
