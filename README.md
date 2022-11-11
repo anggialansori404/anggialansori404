@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything has beauty, but not everyone sees it."</i>
+<i>"He who conquers others is strong; He who conquers himself is mighty."</i>
 <br>
-<b>- Confucius</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
