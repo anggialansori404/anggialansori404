@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever is begun in anger, ends in shame."</i>
+<i>"The more you know yourself, the more you forgive yourself."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
