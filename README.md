@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your mind will make you rich or poor, depending on the use you put to it."</i>
+<i>"Let your hook always be cast; in the pool where you least expect it, there will be a fish."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Ovid</b>
 </blockquote>
 </p>
 
