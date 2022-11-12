@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man should look for what is, and not for what he thinks should be."</i>
+<i>"Real learning comes about when the competitive spirit has ceased."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
