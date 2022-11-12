@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Real learning comes about when the competitive spirit has ceased."</i>
+<i>"He who talks more is sooner exhausted."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
