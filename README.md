@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The man who trusts men will make fewer mistakes than he who distrusts them."</i>
+<i>"Everyone must choose one of two pains: The pain of discipline or the pain of regret."</i>
 <br>
-<b>- Camillo Benso, Count of Cavour</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
