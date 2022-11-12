@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you know yourself, the more you forgive yourself."</i>
+<i>"Love is like a friendship caught on fire. In the beginning a flame, very pretty, often hot and fierce, but still only light and flickering. As love grows older, our hearts mature and our love becomes as coals, deep-burning and unquenchable."</i>
 <br>
-<b>- Confucius</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
