@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let your hook always be cast; in the pool where you least expect it, there will be a fish."</i>
+<i>"Only put off until tomorrow what you are willing to die having left undone."</i>
 <br>
-<b>- Ovid</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
