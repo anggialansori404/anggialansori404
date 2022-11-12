@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is like a friendship caught on fire. In the beginning a flame, very pretty, often hot and fierce, but still only light and flickering. As love grows older, our hearts mature and our love becomes as coals, deep-burning and unquenchable."</i>
+<i>"Take away love and our earth is a tomb."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Robert Browning</b>
 </blockquote>
 </p>
 
