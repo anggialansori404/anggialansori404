@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who talks more is sooner exhausted."</i>
+<i>"Whatever is begun in anger, ends in shame."</i>
 <br>
-<b>- Laozi</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
