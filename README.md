@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never close your lips to those whom you have already opened your heart."</i>
+<i>"Opportunity is missed by most because it is dressed in overalls and looks like work."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
