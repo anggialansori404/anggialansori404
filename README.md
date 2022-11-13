@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No snowflake in an avalanche ever feels responsible."</i>
+<i>"In the middle of every difficulty lies opportunity."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
