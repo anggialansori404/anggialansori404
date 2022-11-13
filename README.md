@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't feed a hundred people, then feed just one."</i>
+<i>"Instead of thinking outside the box, get rid of the box."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
