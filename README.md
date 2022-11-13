@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures."</i>
+<i>"Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water."</i>
 <br>
-<b>- Laozi</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
