@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the middle of every difficulty lies opportunity."</i>
+<i>"When one tugs at a single thing in nature, he finds it attached to the rest of the world."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- John Muir</b>
 </blockquote>
 </p>
 
