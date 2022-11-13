@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take away love and our earth is a tomb."</i>
+<i>"Everything you are against weakens you. Everything you are for empowers you."</i>
 <br>
-<b>- Robert Browning</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
