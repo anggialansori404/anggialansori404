@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When one tugs at a single thing in nature, he finds it attached to the rest of the world."</i>
+<i>"Never close your lips to those whom you have already opened your heart."</i>
 <br>
-<b>- John Muir</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
