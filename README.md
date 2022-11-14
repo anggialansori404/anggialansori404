@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man is a volume if you know how to read him."</i>
+<i>"Confuse them with your silence and amaze them with your actions."</i>
 <br>
-<b>- William Ellery Channing</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
