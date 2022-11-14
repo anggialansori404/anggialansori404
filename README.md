@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The essence of the Way is detachment."</i>
+<i>"You might well remember that nothing can bring you success but yourself."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
