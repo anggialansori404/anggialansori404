@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confuse them with your silence and amaze them with your actions."</i>
+<i>"The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own."</i>
 <br>
-<b>- Unknown</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
