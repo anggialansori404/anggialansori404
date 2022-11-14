@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own."</i>
+<i>"You may forget with whom you laughed, but you will never forget with whom you wept.  "</i>
 <br>
-<b>- Laozi</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
