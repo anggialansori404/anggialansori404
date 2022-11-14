@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination means nothing without doing.  "</i>
+<i>"Every man is a volume if you know how to read him."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- William Ellery Channing</b>
 </blockquote>
 </p>
 
