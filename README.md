@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success."</i>
+<i>"Surround yourself only with people who are going to take you higher."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
