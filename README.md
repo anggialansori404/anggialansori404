@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the only force capable of transforming an enemy into a friend."</i>
+<i>"Courage is the price that life exacts for granting peace."</i>
 <br>
-<b>- Martin Luther King Jr.</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
