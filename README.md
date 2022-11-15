@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If anything is worth doing, do it with all your heart."</i>
+<i>"America's freedom of religion, and freedom from religion, offers every wisdom tradition an opportunity to address our soul-deep needs: Christianity, Judaism, Islam, Buddhism, Hinduism, secular humanism, agnosticism and atheism among others."</i>
 <br>
-<b>- Buddha</b>
+<b>- Parker Palmer</b>
 </blockquote>
 </p>
 
