@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Surround yourself only with people who are going to take you higher."</i>
+<i>"Concentrated power has always been the enemy of liberty."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
