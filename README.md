@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own."</i>
+<i>"A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success."</i>
 <br>
-<b>- Laozi</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
