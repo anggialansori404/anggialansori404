@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Adversity causes some men to break, others to break records."</i>
+<i>"The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own."</i>
 <br>
-<b>- William Arthur Ward</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
