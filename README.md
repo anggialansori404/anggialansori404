@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The time to repair the roof is when the sun is shining."</i>
+<i>"You'll see it when you believe it."</i>
 <br>
-<b>- John F. Kennedy</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
