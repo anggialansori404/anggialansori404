@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Decision is a risk rooted in the courage of being free."</i>
+<i>"The time to repair the roof is when the sun is shining."</i>
 <br>
-<b>- Paul Tillich</b>
+<b>- John F. Kennedy</b>
 </blockquote>
 </p>
 
