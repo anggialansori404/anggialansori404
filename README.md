@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you."</i>
+<i>"Decision is a risk rooted in the courage of being free."</i>
 <br>
-<b>- Julie Morgenstern</b>
+<b>- Paul Tillich</b>
 </blockquote>
 </p>
 
