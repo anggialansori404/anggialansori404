@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out."</i>
+<i>"Russia is a riddle wrapped in a mystery inside an enigma."</i>
 <br>
-<b>- Walter Benjamin</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
