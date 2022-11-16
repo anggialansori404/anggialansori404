@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Russia is a riddle wrapped in a mystery inside an enigma."</i>
+<i>"I hope our wisdom will grow with our power, and teach us, that the less we use our power the greater it will be."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
