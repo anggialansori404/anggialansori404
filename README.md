@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."</i>
+<i>"Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Julie Morgenstern</b>
 </blockquote>
 </p>
 
