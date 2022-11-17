@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By seeking and blundering we learn."</i>
+<i>"Live simply, expect little, give much."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
