@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Science gives us knowledge, but only philosophy can give us wisdom."</i>
+<i>"The final wisdom of life requires not the annulment of incongruity but the achievement of serenity within and above it."</i>
 <br>
-<b>- Will Durant</b>
+<b>- Reinhold Niebuhr</b>
 </blockquote>
 </p>
 
