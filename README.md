@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One must be poor to know the luxury of giving."</i>
+<i>"You really can change the world if you care enough."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Marian Wright Edelman</b>
 </blockquote>
 </p>
 
