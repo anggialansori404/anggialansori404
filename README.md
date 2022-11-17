@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live simply, expect little, give much."</i>
+<i>"One must be poor to know the luxury of giving."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
