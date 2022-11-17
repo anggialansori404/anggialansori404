@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We do not quit playing because we grow old, we grow old because we quit playing."</i>
+<i>"You cannot step twice into the same river, for other waters are continually flowing in."</i>
 <br>
-<b>- Oliver Wendell Holmes Jr.</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
