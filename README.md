@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take care of your cents: dollars will take care of themselves."</i>
+<i>"The price of inaction is far greater than the cost of making a mistake."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
