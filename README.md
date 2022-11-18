@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you realize you've made a mistake, take immediate steps to correct it."</i>
+<i>"What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
