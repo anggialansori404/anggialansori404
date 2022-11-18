@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never interrupt someone doing what you said couldn't be done."</i>
+<i>"Victory is always possible for the person who refuses to stop fighting."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
