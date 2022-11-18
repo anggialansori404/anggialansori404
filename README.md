@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The soul is neither born, and nor does it die."</i>
+<i>"Your vision will become clear only when you can look into your own heart. Who looks outside, dreams, who looks inside, awakes."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
