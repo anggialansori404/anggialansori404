@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your vision will become clear only when you can look into your own heart. Who looks outside, dreams, who looks inside, awakes."</i>
+<i>"Never interrupt someone doing what you said couldn't be done."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
