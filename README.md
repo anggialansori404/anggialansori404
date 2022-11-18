@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give so much away people insist on paying you."</i>
+<i>"If a thing is worth doing, it is worth doing badly."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
