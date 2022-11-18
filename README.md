@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing so useless as doing efficiently that which should not be done at all."</i>
+<i>"You can't stop the waves, but you can learn to surf."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
