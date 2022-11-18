@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't stop the waves, but you can learn to surf."</i>
+<i>"The soul is neither born, and nor does it die."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
