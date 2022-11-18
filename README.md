@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If a thing is worth doing, it is worth doing badly."</i>
+<i>"Take care of your cents: dollars will take care of themselves."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
