@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wise man reads both books and life itself."</i>
+<i>"If one is lucky, a solitary fantasy can totally transform one million realities."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
