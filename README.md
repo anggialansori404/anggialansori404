@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is merely the name for the desire and pursuit of the whole."</i>
+<i>"Discipline yourself, and others won't need to."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
