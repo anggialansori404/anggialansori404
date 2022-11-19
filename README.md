@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes our fate resembles a fruit tree in winter. Who would think that those branches would turn green again and blossom, but we hope it, we know it."</i>
+<i>"Men are disturbed not by things, but by the view which they take of them."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
