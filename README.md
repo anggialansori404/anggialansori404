@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If one is lucky, a solitary fantasy can totally transform one million realities."</i>
+<i>"Sometimes our fate resembles a fruit tree in winter. Who would think that those branches would turn green again and blossom, but we hope it, we know it."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
