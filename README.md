@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True friendship can afford true knowledge. It does not depend on darkness and ignorance."</i>
+<i>"Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
