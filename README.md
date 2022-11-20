@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man should look for what is, and not for what he thinks should be."</i>
+<i>"To lead an orchestra, you must turn your back on the crowd."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
