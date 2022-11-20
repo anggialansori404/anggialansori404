@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him."</i>
+<i>"Curiosity is the most powerful thing you own."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- James Cameron</b>
 </blockquote>
 </p>
 
