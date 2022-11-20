@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday."</i>
+<i>"The more you give, the more comes back to you."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
