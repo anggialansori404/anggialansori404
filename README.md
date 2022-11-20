@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not be embarrassed by your mistakes. Nothing can teach us better than our understanding of them. This is one of the best ways of self-education."</i>
+<i>"Our greatest fears lie in anticipation."</i>
 <br>
-<b>- Thomas Carlyle</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
