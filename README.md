@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Curiosity is the most powerful thing you own."</i>
+<i>"The difference between winning and losing is most often not quitting."</i>
 <br>
-<b>- James Cameron</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
