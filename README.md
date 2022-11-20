@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you give, the more comes back to you."</i>
+<i>"Do not be embarrassed by your mistakes. Nothing can teach us better than our understanding of them. This is one of the best ways of self-education."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Thomas Carlyle</b>
 </blockquote>
 </p>
 
