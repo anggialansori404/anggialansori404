@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our greatest fears lie in anticipation."</i>
+<i>"A man should look for what is, and not for what he thinks should be."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
