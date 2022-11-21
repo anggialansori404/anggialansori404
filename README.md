@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every problem has a gift for you in its hands."</i>
+<i>"Nothing but heaven itself is better than a friend who is really a friend."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Plautus</b>
 </blockquote>
 </p>
 
