@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Getting lost along your path is a part of finding the path you are meant to be on."</i>
+<i>"You can't put a limit on anything. The more you dream, the farther you get."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Michael Phelps</b>
 </blockquote>
 </p>
 
