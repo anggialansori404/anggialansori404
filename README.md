@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Talent is God-given; be humble. Fame is man-given; be thankful. Conceit is self-given; be careful."</i>
+<i>"If you're walking down the right path and you're willing to keep walking, eventually you'll make progress."</i>
 <br>
-<b>- Harvey Mackay</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
