@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're walking down the right path and you're willing to keep walking, eventually you'll make progress."</i>
+<i>"Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Sri Chinmoy</b>
 </blockquote>
 </p>
 
