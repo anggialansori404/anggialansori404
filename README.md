@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing but heaven itself is better than a friend who is really a friend."</i>
+<i>"The biggest adventure you can ever take is to live the life of your dreams. "</i>
 <br>
-<b>- Plautus</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
