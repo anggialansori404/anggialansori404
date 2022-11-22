@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not ignore the passion that burns in you. Spend time to discover your gift."</i>
+<i>"Light a candle instead of cursing the darkness."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
