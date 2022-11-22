@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are the only person on earth who can use your ability."</i>
+<i>"You spend a good piece of your life gripping a baseball and in the end it turns out that it was the other way around all the time."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Jim Bouton</b>
 </blockquote>
 </p>
 
