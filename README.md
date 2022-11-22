@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The happiest people in the world are those who feel absolutely terrific about themselves."</i>
+<i>"You are the only person on earth who can use your ability."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
