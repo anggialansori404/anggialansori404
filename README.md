@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Light a candle instead of cursing the darkness."</i>
+<i>"Eternal nothingness is fine if you happen to be dressed for it."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
