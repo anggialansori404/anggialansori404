@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace comes from within. Do not seek it without."</i>
+<i>"Constantly seek criticism. A well thought out critique of whatever you're doing is as valuable as gold."</i>
 <br>
-<b>- Buddha</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
