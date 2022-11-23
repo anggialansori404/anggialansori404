@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are a product of your environment. So choose the environment that will best develop you toward your objective. Analyze your life in terms of its environment. Are the things around you helping you toward success - or are they holding you back?"</i>
+<i>"Knowledge is proud that it knows so much; wisdom is humble that it knows no more."</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- William Cowper</b>
 </blockquote>
 </p>
 
