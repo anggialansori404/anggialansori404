@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge has three degrees: opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition."</i>
+<i>"To follow, without halt, one aim: There is the secret of success."</i>
 <br>
-<b>- Plotinus</b>
+<b>- Anna Pavlova</b>
 </blockquote>
 </p>
 
