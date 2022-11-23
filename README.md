@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge is proud that it knows so much; wisdom is humble that it knows no more."</i>
+<i>"Peace comes from within. Do not seek it without."</i>
 <br>
-<b>- William Cowper</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
