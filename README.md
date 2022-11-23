@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is during our darkest moments that we must focus to see the light."</i>
+<i>"Go for it now. The future is promised to no one. "</i>
 <br>
-<b>- Aristotle</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
