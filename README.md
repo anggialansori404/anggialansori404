@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The essence of the Way is detachment."</i>
+<i>"You are a product of your environment. So choose the environment that will best develop you toward your objective. Analyze your life in terms of its environment. Are the things around you helping you toward success - or are they holding you back?"</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- W. Clement Stone</b>
 </blockquote>
 </p>
 
