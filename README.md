@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Laziness may appear attractive, but work gives satisfaction."</i>
+<i>"In the end we retain from our studies only that which we practically apply."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
