@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts."</i>
+<i>"Trust is the foundation of great leadership."</i>
 <br>
-<b>- Booker T. Washington</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
