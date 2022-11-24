@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Constantly seek criticism. A well thought out critique of whatever you're doing is as valuable as gold."</i>
+<i>"All problems are interpersonal relationship problems."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
