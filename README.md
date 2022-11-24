@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust is the foundation of great leadership."</i>
+<i>"The way is not in the sky. The way is in the heart."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
