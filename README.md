@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be angry is to revenge the faults of others on ourselves."</i>
+<i>"Do not overrate what you have received, nor envy others. He who envies others does not obtain peace of mind."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
