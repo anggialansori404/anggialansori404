@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dream big. Start small. But most of all, start."</i>
+<i>"Anything worth doing is worth doing slowly."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
