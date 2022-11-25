@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do more than dream: work."</i>
+<i>"The greatest mistake you can make in life is to be continually fearing you will make one."</i>
 <br>
-<b>- William Arthur Ward</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
