@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your mind will answer most questions if you learn to relax and wait for the answer."</i>
+<i>"No grand idea was ever born in a conference, but a lot of foolish ideas have died there."</i>
 <br>
-<b>- William Burroughs</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
