@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No great mind has ever existed without a touch of madness."</i>
+<i>"The power of intuitive understanding will protect you from harm until the end of your days."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
