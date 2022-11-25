@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most successful people are those who are good at plan B."</i>
+<i>"No great mind has ever existed without a touch of madness."</i>
 <br>
-<b>- James A. Yorke</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
