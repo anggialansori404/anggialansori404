@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest mistake you can make in life is to be continually fearing you will make one."</i>
+<i>"Your mind will answer most questions if you learn to relax and wait for the answer."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- William Burroughs</b>
 </blockquote>
 </p>
 
