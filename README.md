@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No grand idea was ever born in a conference, but a lot of foolish ideas have died there."</i>
+<i>"Dream big. Start small. But most of all, start."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
