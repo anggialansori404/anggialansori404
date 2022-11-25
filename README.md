@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being wrong brings the opportunity for growth."</i>
+<i>"The most successful people are those who are good at plan B."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- James A. Yorke</b>
 </blockquote>
 </p>
 
