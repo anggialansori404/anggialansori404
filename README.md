@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Conscience is a dog that does not stop us from passing but that we cannot prevent from barking."</i>
+<i>"Everything in the universe goes by indirection. There are no straight lines."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
