@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest treasures are those invisible to the eye but found by the heart."</i>
+<i>"Conscience is a dog that does not stop us from passing but that we cannot prevent from barking."</i>
 <br>
-<b>- Judy Garland</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
