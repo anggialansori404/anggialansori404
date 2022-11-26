@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Music is a higher revelation than all wisdom and philosophy."</i>
+<i>"Where does a thought go when it's forgotten?"</i>
 <br>
-<b>- Ludwig van Beethoven</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
