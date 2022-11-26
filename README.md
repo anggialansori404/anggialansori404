@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the nature of the wise to resist pleasures, but the foolish to be a slave to them."</i>
+<i>"We take care of the future best by taking care of the present now."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
