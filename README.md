@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The beginning of knowledge is the discovery of something we do not understand."</i>
+<i>"The ego wants comfort and certainty. The soul wants to live fully."</i>
 <br>
-<b>- Frank Herbert</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
