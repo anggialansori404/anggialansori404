@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For fast-acting relief try slowing down."</i>
+<i>"Change is not a four letter word...but often your reaction to it is!"</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Jeffrey Gitomer</b>
 </blockquote>
 </p>
 
