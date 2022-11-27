@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one has ever become poor by giving."</i>
+<i>"For fast-acting relief try slowing down."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
