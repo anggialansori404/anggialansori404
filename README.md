@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We all live with the objective of being happy; our lives are all different and yet the same."</i>
+<i>"Sometimes it is harder to deprive oneself of a pain than of a pleasure."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
