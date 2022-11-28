@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ego wants comfort and certainty. The soul wants to live fully."</i>
+<i>"Don't let them drag you down by rumors. Just go with what you believe in."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
