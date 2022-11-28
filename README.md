@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let them drag you down by rumors. Just go with what you believe in."</i>
+<i>"Grudges are for those who insist that they are owed something; forgiveness, however, is for those who are substantial enough to move on."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
