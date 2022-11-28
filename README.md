@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is only one success: to be able to spend your life in your own way."</i>
+<i>"Each day your life grows a day shorter. Make every move count."</i>
 <br>
-<b>- Christopher Morley</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
