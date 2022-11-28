@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Guilt is perhaps the most painful companion of death."</i>
+<i>"The ego wants comfort and certainty. The soul wants to live fully."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
