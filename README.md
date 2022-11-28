@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Grudges are for those who insist that they are owed something; forgiveness, however, is for those who are substantial enough to move on."</i>
+<i>"There is only one success: to be able to spend your life in your own way."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Christopher Morley</b>
 </blockquote>
 </p>
 
