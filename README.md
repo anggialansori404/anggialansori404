@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars."</i>
+<i>"Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
