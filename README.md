@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To bring anything into your life, imagine that it's already there."</i>
+<i>"Accept challenges, so that you may feel the exhilaration of victory."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- George S. Patton</b>
 </blockquote>
 </p>
 
