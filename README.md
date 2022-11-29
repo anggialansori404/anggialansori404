@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest remedy for anger is delay."</i>
+<i>"Life can be the scariest and most beautiful thing simultaneously."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
