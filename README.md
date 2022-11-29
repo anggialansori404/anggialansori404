@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have the potential for greatness."</i>
+<i>"The older you get, the more you understand how your conscience works."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
