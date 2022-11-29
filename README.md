@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose."</i>
+<i>"The best way out is always through."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
