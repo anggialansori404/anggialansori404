@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way out is always through."</i>
+<i>"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. "</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Nikola Tesla</b>
 </blockquote>
 </p>
 
