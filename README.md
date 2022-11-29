@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A true friend is someone who is there for you when he'd rather be anywhere else."</i>
+<i>"A successful person is one who can lay a firm foundation with the bricks that others throw at him or her."</i>
 <br>
-<b>- Len Wein</b>
+<b>- David Brinkley</b>
 </blockquote>
 </p>
 
