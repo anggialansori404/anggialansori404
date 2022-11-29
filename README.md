@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life can be the scariest and most beautiful thing simultaneously."</i>
+<i>"If you can't explain it simply, you don't understand it well enough."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
