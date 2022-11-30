@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I will give you a definition of a proud man: he is a man who has neither vanity nor wisdom one filled with hatreds cannot be vain, neither can he be wise."</i>
+<i>"The place to improve the world is first in one's own heart and head and hands."</i>
 <br>
-<b>- John Keats</b>
+<b>- Robert M. Pirsig</b>
 </blockquote>
 </p>
 
