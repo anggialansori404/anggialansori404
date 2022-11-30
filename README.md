@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you believe with feeling becomes your reality. "</i>
+<i>"Wisdom has its root in goodness, not goodness its root in wisdom."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
