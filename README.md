@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are stuck with technology when what we really want is just stuff that works."</i>
+<i>"Whatever you believe with feeling becomes your reality. "</i>
 <br>
-<b>- Douglas Adams</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
