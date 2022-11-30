@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Accept challenges, so that you may feel the exhilaration of victory."</i>
+<i>"We cannot expect to be happy always... by experiencing evil as well as good we become wise."</i>
 <br>
-<b>- George S. Patton</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
