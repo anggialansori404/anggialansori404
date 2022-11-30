@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A failure is a man who has blundered but is not capable of cashing in on the experience."</i>
+<i>"A man who cannot tolerate small misfortunes can never accomplish great things."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
