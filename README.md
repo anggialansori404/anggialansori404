@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The place to improve the world is first in one's own heart and head and hands."</i>
+<i>"A failure is a man who has blundered but is not capable of cashing in on the experience."</i>
 <br>
-<b>- Robert M. Pirsig</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
