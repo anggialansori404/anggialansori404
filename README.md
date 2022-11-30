@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of perfect health lies in keeping the mind always cheerful - never worried, never hurried, never borne down by any fear, thought or anxiety."</i>
+<i>"Our greatest glory is not in never falling, but in rising every time we fall."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
