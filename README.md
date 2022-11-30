@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is but another name for an alliance with the follies and the misfortunes of others. Our own share of miseries is sufficient: why enter then as volunteers into those of another?"</i>
+<i>"We are stuck with technology when what we really want is just stuff that works."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Douglas Adams</b>
 </blockquote>
 </p>
 
