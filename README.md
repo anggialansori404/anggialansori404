@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe."</i>
+<i>"The best thing in every noble dream is the dreamer..."</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- Moncure D. Conway</b>
 </blockquote>
 </p>
 
