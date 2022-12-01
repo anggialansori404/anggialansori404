@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best thing in every noble dream is the dreamer..."</i>
+<i>"No one saves us but ourselves. No one can and no one may. We ourselves must walk the path."</i>
 <br>
-<b>- Moncure D. Conway</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
