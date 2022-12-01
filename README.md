@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My friends are my estate."</i>
+<i>"Respect was invented to cover the empty place where love should be."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
