@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Respect was invented to cover the empty place where love should be."</i>
+<i>"The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Honoré de Balzac</b>
 </blockquote>
 </p>
 
