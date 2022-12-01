@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one saves us but ourselves. No one can and no one may. We ourselves must walk the path."</i>
+<i>"Quiet people have the loudest minds."</i>
 <br>
-<b>- Buddha</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
