@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned."</i>
+<i>"One must be deeply aware of the impermanence of the world."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
