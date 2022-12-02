@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It all depends on how we look at things, and not how they are in themselves."</i>
+<i>"A lot of times people look at the negative side of what they feel they can't do. I always look on the positive side of what I can do."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Chuck Norris</b>
 </blockquote>
 </p>
 
