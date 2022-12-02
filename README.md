@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is never lost. If not reciprocated, it will flow back and soften and purify the heart."</i>
+<i>"Friendship needs no words - it is solitude delivered from the anguish of loneliness."</i>
 <br>
-<b>- Washington Irving</b>
+<b>- Dag Hammarskjöld</b>
 </blockquote>
 </p>
 
