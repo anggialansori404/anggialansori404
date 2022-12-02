@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is filled with secrets. You can't learn them all at once."</i>
+<i>"It is ignorance that causes most mistakes."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
