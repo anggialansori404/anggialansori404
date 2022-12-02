@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Through perseverance many people win success out of what seemed destined to be certain failure."</i>
+<i>"Trying to sneak a fastball past Hank Aaron is like trying to sneak the sunrise past a rooster."</i>
 <br>
-<b>- Benjamin Disraeli</b>
+<b>- Joe Adcock</b>
 </blockquote>
 </p>
 
