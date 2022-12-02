@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good system shortens the road to the goal. "</i>
+<i>"It all depends on how we look at things, and not how they are in themselves."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
