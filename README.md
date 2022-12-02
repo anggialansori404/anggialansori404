@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Care about what other people think and you will always be their prisoner."</i>
+<i>"Love is never lost. If not reciprocated, it will flow back and soften and purify the heart."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Washington Irving</b>
 </blockquote>
 </p>
 
