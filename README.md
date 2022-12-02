@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A lot of times people look at the negative side of what they feel they can't do. I always look on the positive side of what I can do."</i>
+<i>"Grief can be the garden of compassion. If you keep your heart open through everything, your pain can become your greatest ally in your life's search for love and wisdom."</i>
 <br>
-<b>- Chuck Norris</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
