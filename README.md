@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"From error to error one discovers the entire truth."</i>
+<i>"The most I can do for my friend is simply be his friend."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
