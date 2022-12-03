@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't settle, and don't struggle."</i>
+<i>"Never confuse a single defeat with a final defeat."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
