@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fortune favors the brave."</i>
+<i>"Life would be tragic if it weren't funny."</i>
 <br>
-<b>- Virgil</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
