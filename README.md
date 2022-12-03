@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To accomplish great things, we must not only act, but also dream; not only plan, but also believe."</i>
+<i>"Don't settle, and don't struggle."</i>
 <br>
-<b>- Anatole France</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
