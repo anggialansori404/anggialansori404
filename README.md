@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Waste no more time arguing about what a good man should be. Be one."</i>
+<i>"The human spirit must prevail over technology."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
