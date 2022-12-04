@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep me away from the wisdom which does not cry, the philosophy which does not laugh and the greatness which does not bow before children."</i>
+<i>"If you set out to be liked, you would be prepared to compromise on anything at any time, and you would achieve nothing."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Margaret Thatcher</b>
 </blockquote>
 </p>
 
