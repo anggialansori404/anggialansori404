@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hope and fear come from feeling that we lack something; they come from a sense of poverty."</i>
+<i>"Never deny a diagnosis but do deny the negative verdict that may go with it."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Norman Cousins</b>
 </blockquote>
 </p>
 
