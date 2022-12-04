@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is never enough time to do everything, but there is always enough time to do the most important thing."</i>
+<i>"Hope and fear come from feeling that we lack something; they come from a sense of poverty."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
