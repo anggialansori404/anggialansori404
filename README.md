@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose."</i>
+<i>"Learn to use your emotions to think, not think with your emotions."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
