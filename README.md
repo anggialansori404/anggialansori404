@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not uncommon for people to spend their whole life waiting to start living."</i>
+<i>"Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
