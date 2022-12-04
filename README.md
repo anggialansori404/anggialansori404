@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In spite of everything, I shall rise again."</i>
+<i>"Keep me away from the wisdom which does not cry, the philosophy which does not laugh and the greatness which does not bow before children."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
