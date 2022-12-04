@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never deny a diagnosis but do deny the negative verdict that may go with it."</i>
+<i>"Wise men speak because they have something to say; Fools because they have to say something."</i>
 <br>
-<b>- Norman Cousins</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
