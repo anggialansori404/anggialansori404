@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you try to micromanage yourself all you're going to do is make yourself miserable."</i>
+<i>"In spite of everything, I shall rise again."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
