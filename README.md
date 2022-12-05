@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How you think when you lose determines how long it will be until you win."</i>
+<i>"If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
