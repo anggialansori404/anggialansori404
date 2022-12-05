@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have to live life with a sense of urgency so not a minute is wasted."</i>
+<i>"Great loves too must be endured."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
