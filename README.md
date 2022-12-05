@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The smallest deed is better than the greatest intention."</i>
+<i>"Our greatness lies not so much in being able to remake the world as being able to remake ourselves."</i>
 <br>
-<b>- John Burroughs</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
