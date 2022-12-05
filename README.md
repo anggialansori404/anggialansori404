@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great loves too must be endured."</i>
+<i>"The smallest deed is better than the greatest intention."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- John Burroughs</b>
 </blockquote>
 </p>
 
