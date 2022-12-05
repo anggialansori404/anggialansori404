@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"TV and the Internet are good because they keep stupid people from spending too much time out in public."</i>
+<i>"Love and friendship exclude each other."</i>
 <br>
-<b>- Douglas Coupland</b>
+<b>- Jean de La Bruyère</b>
 </blockquote>
 </p>
 
