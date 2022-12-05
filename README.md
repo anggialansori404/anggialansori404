@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our greatness lies not so much in being able to remake the world as being able to remake ourselves."</i>
+<i>"Success is getting what you want... Happiness is wanting what you get."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
