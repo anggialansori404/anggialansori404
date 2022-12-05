@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is getting what you want... Happiness is wanting what you get."</i>
+<i>"Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Sydney Smith</b>
 </blockquote>
 </p>
 
