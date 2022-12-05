@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love and friendship exclude each other."</i>
+<i>"Always seek out the seed of triumph in every adversity."</i>
 <br>
-<b>- Jean de La Bruyère</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
