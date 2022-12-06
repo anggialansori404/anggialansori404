@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where there is charity and wisdom, there is neither fear nor ignorance."</i>
+<i>"Imagination is the living power and prime agent of all human perception."</i>
 <br>
-<b>- Francis of Assisi</b>
+<b>- Samuel Taylor Coleridge</b>
 </blockquote>
 </p>
 
