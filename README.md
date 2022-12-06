@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is the living power and prime agent of all human perception."</i>
+<i>"The foot feels the foot when it feels the ground."</i>
 <br>
-<b>- Samuel Taylor Coleridge</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
