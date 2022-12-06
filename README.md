@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The day of fortune is like a harvest day, we must be busy when the corn is ripe."</i>
+<i>"Don't ever save anything for a special occasion. Being alive is the special occasion."</i>
 <br>
-<b>- Torquato Tasso</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
