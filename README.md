@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't ever save anything for a special occasion. Being alive is the special occasion."</i>
+<i>"The fastest way to change is to laugh at your own folly."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
