@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Faith in oneself is the best and safest course."</i>
+<i>"Wisdom is the power to put our time and our knowledge to the proper use."</i>
 <br>
-<b>- Michelangelo</b>
+<b>- Thomas J. Watson</b>
 </blockquote>
 </p>
 
