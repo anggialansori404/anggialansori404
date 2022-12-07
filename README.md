@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One must be poor to know the luxury of giving."</i>
+<i>"Change your life today. Don't gamble on the future, act now, without delay."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Simone de Beauvoir</b>
 </blockquote>
 </p>
 
