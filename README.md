@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love all, trust a few, do wrong to none."</i>
+<i>"If you want peace, accept. If you want suffering, expect."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
