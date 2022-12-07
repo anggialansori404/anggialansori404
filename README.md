@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher."</i>
+<i>"Gratitude is not only the greatest of virtues, but the parent of all the others."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Cicero</b>
 </blockquote>
 </p>
 
