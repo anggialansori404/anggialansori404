@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Gratitude is not only the greatest of virtues, but the parent of all the others."</i>
+<i>"Love all, trust a few, do wrong to none."</i>
 <br>
-<b>- Cicero</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
