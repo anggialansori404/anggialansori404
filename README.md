@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first step toward getting somewhere is to decide that you are not going to stay where you are."</i>
+<i>"The time to repair the roof is when the sun is shining."</i>
 <br>
-<b>- Unknown</b>
+<b>- John F. Kennedy</b>
 </blockquote>
 </p>
 
