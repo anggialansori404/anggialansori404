@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change your life today. Don't gamble on the future, act now, without delay."</i>
+<i>"Life belongs to the living, and he who lives must be prepared for changes."</i>
 <br>
-<b>- Simone de Beauvoir</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
