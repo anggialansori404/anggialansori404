@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is what happens while you are making other plans."</i>
+<i>"What lies behind us and what lies before us are tiny matters compared to what lies within us."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
