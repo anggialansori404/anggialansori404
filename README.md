@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are tempted to give up, your breakthrough is probably just around the corner."</i>
+<i>"There is more wisdom in your body than in your deepest philosophy."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Friedrich Nietzsche</b>
 </blockquote>
 </p>
 
