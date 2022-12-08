@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness mainly comes from our own attitude, rather than from external factors."</i>
+<i>"Never settle for the crumbs of life."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
