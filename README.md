@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not wisdom but Authority that makes a law."</i>
+<i>"Sincerity is the way of Heaven. The attainment of sincerity is the way of men."</i>
 <br>
-<b>- Thomas Hobbes</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
