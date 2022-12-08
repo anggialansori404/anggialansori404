@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An ounce of performance is worth pounds of promises."</i>
+<i>"It is not wisdom but Authority that makes a law."</i>
 <br>
-<b>- Mae West</b>
+<b>- Thomas Hobbes</b>
 </blockquote>
 </p>
 
