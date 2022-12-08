@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never settle for the crumbs of life."</i>
+<i>"I will not walk backward in life."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
