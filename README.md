@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is more wisdom in your body than in your deepest philosophy."</i>
+<i>"Happiness mainly comes from our own attitude, rather than from external factors."</i>
 <br>
-<b>- Friedrich Nietzsche</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
