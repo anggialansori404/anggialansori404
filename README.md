@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never mistake motion for action."</i>
+<i>"Truth, and goodness, and beauty are but different faces of the same all."</i>
 <br>
-<b>- Ernest Hemingway</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
