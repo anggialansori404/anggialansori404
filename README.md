@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"So long as we are being remembered, we remain alive."</i>
+<i>"Every saint has a past, and every sinner has a future."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
