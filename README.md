@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every saint has a past, and every sinner has a future."</i>
+<i>"A friend to all is a friend to none."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
