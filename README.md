@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am always ready to learn although I do not always like being taught."</i>
+<i>"I love wisdom. And you can never be great at anything unless you love it. Not be in love with it, but love the thing, admire the thing. And it seems that if you love the thing, and you don't just want to possess it, it will find you."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
