@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friends are the siblings God never gave us."</i>
+<i>"So long as we are being remembered, we remain alive."</i>
 <br>
-<b>- Mencius</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
