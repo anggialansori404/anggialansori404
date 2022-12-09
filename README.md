@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A friend to all is a friend to none."</i>
+<i>"Life isn't about finding yourself. Life is about creating yourself."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Bernard Shaw</b>
 </blockquote>
 </p>
 
