@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth, and goodness, and beauty are but different faces of the same all."</i>
+<i>"I am always ready to learn although I do not always like being taught."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
