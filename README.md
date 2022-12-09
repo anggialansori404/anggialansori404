@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The measure of wisdom is how calm you are when facing any given situation."</i>
+<i>"Friends are the siblings God never gave us."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Mencius</b>
 </blockquote>
 </p>
 
