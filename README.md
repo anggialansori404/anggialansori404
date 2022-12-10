@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sunshine is delicious, rain is refreshing, wind braces us up, snow is exhilarating; there is really no such thing as bad weather, only different kinds of good weather."</i>
+<i>"A man is great not because he hasn't failed; a man is great because failure hasn't stopped him."</i>
 <br>
-<b>- John Ruskin</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
