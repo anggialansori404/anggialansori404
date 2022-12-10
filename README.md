@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's your outlook on life that counts."</i>
+<i>"Charms strike the sight, but merit wins the soul."</i>
 <br>
-<b>- Betty White</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
