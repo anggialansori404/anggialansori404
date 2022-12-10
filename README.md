@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My motto was always to keep swinging. Whether I was in a slump or feeling badly or having trouble off the field, the only thing to do was keep swinging."</i>
+<i>"The happiness of a man in this life does not consist in the absence but in the mastery of his passions."</i>
 <br>
-<b>- Hank Aaron</b>
+<b>- Alfred Tennyson</b>
 </blockquote>
 </p>
 
