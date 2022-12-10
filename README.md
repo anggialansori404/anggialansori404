@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The happiness of a man in this life does not consist in the absence but in the mastery of his passions."</i>
+<i>"Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work."</i>
 <br>
-<b>- Alfred Tennyson</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
