@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work."</i>
+<i>"Some people feel the rain. Others just get wet. "</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
