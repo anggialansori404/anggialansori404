@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For the things we have to learn before we can do them, we learn by doing them."</i>
+<i>"Your talent is God's gift to you. What you do with it is your gift back to God."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Leo Buscaglia</b>
 </blockquote>
 </p>
 
