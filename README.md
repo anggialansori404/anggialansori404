@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ability will never catch up with the demand for it."</i>
+<i>"You cannot have what you do not want."</i>
 <br>
-<b>- Confucius</b>
+<b>- John Acosta</b>
 </blockquote>
 </p>
 
