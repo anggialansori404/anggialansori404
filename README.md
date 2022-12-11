@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot have what you do not want."</i>
+<i>"A man should do his job so well that the living, the dead, and the unborn could do it no better."</i>
 <br>
-<b>- John Acosta</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
