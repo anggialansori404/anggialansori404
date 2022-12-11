@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Science can flourish only in an atmosphere of free speech. "</i>
+<i>"The very essence of instinct is that it's followed independently of reason."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
