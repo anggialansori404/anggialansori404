@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The very essence of instinct is that it's followed independently of reason."</i>
+<i>"There are only two mistakes one can make along the road to truth; not going all the way, and not starting."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
