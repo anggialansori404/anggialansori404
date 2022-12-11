@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is not about possession. Love is about appreciation."</i>
+<i>"Ability will never catch up with the demand for it."</i>
 <br>
-<b>- Osho</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
