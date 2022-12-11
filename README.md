@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust yourself. You know more than you think you do."</i>
+<i>"Love is not about possession. Love is about appreciation."</i>
 <br>
-<b>- Benjamin Spock</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
