@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are only two mistakes one can make along the road to truth; not going all the way, and not starting."</i>
+<i>"To avoid criticism, do nothing, say nothing, be nothing."</i>
 <br>
-<b>- Buddha</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
