@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man should do his job so well that the living, the dead, and the unborn could do it no better."</i>
+<i>"Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
