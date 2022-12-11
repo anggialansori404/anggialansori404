@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even when a friend does something you do not like, he continues to be your friend. "</i>
+<i>"Science can flourish only in an atmosphere of free speech. "</i>
 <br>
-<b>- Genghis Khan</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
