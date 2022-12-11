@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it."</i>
+<i>"Many of life's failures are people who did not realize how close they were to success when they gave up."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
