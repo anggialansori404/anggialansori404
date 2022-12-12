@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To dare is to lose ones footing momentarily. To not dare is to lose oneself."</i>
+<i>"Success is where preparation and opportunity meet."</i>
 <br>
-<b>- Søren Kierkegaard</b>
+<b>- Bobby Unser</b>
 </blockquote>
 </p>
 
