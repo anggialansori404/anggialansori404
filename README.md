@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless."</i>
+<i>"A house divided against itself cannot stand."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
