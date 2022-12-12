@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is where preparation and opportunity meet."</i>
+<i>"If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart."</i>
 <br>
-<b>- Bobby Unser</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
