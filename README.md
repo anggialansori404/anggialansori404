@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must live in the present, launch yourself on every wave, find your eternity in each moment. Fools stand on their island of opportunities and look toward another land. There is no other land; there is no other life but this."</i>
+<i>"To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
