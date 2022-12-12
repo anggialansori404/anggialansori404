@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just trust that everything is unfolding the way it is supposed to. Don't resist... Great things are waiting for you around the corner."</i>
+<i>"Love at first sight is easy to understand; it's when two people have been looking at each other for a lifetime that it becomes a miracle."</i>
 <br>
-<b>- Sonia Ricotti</b>
+<b>- Amy Bloom</b>
 </blockquote>
 </p>
 
