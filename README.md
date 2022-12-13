@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way."</i>
+<i>"If you change the way you look at things, the things you look at change. "</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
