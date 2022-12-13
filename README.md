@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most formidable weapon against errors of every kind is reason."</i>
+<i>"Peace is not the absence of conflict, but the ability to cope with it."</i>
 <br>
-<b>- Thomas Paine</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
