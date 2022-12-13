@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're really truthful with yourself, it's a wonderful guidance.  "</i>
+<i>"The secret of success is constancy to purpose."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Benjamin Disraeli</b>
 </blockquote>
 </p>
 
