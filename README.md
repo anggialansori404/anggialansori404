@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truth is simple. If it was complicated, everyone would understand it."</i>
+<i>"The most formidable weapon against errors of every kind is reason."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Thomas Paine</b>
 </blockquote>
 </p>
 
