@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is acceptable. Not trying is a whole different ball park."</i>
+<i>"Of all possessions a friend is the most precious."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
