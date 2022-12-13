@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace is not the absence of conflict, but the ability to cope with it."</i>
+<i>"There is only one happiness in life, to love and be loved."</i>
 <br>
-<b>- Unknown</b>
+<b>- George Sand</b>
 </blockquote>
 </p>
 
