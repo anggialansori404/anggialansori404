@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you know yourself, the more you forgive yourself."</i>
+<i>"Science is organized knowledge. Wisdom is organized life."</i>
 <br>
-<b>- Confucius</b>
+<b>- Immanuel Kant</b>
 </blockquote>
 </p>
 
