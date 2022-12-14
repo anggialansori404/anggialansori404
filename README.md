@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All our knowledge has its origins in our perceptions."</i>
+<i>"Start with what is right rather than what is acceptable."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
