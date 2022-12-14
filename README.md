@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make improvements, not excuses. Seek respect, not attention."</i>
+<i>"Take up one idea. Make that one idea your life - think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Swami Vivekananda</b>
 </blockquote>
 </p>
 
