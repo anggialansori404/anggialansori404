@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The World is my country, all mankind are my brethren, and to do good is my religion."</i>
+<i>"Make improvements, not excuses. Seek respect, not attention."</i>
 <br>
-<b>- Thomas Paine</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
