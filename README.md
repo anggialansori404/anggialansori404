@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wrong turns are as important as right turns. More important, sometimes."</i>
+<i>"Science investigates; religion interprets. Science gives man knowledge which is power; religion gives man wisdom which is control."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Martin Luther King Jr.</b>
 </blockquote>
 </p>
 
