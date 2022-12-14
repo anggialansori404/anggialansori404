@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is only one happiness in life, to love and be loved."</i>
+<i>"The more you know yourself, the more you forgive yourself."</i>
 <br>
-<b>- George Sand</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
