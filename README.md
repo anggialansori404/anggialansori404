@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Winners don't Quit. That's why they Win."</i>
+<i>"The World is my country, all mankind are my brethren, and to do good is my religion."</i>
 <br>
-<b>- Unknown</b>
+<b>- Thomas Paine</b>
 </blockquote>
 </p>
 
