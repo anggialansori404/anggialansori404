@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Science investigates; religion interprets. Science gives man knowledge which is power; religion gives man wisdom which is control."</i>
+<i>"Those who look for the bad in people will surely find it."</i>
 <br>
-<b>- Martin Luther King Jr.</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
