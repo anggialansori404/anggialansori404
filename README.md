@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself."</i>
+<i>"Love your enemies, for they tell you your faults."</i>
 <br>
-<b>- Confucius</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
