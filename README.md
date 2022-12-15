@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love your enemies, for they tell you your faults."</i>
+<i>"Technology is a word that describes something that doesn't work yet."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Douglas Adams</b>
 </blockquote>
 </p>
 
