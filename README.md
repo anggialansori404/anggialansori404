@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Well begun is half done."</i>
+<i>"It is not so important to know everything as to appreciate what we learn."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Hannah More</b>
 </blockquote>
 </p>
 
