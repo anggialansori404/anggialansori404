@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on."</i>
+<i>"There is only the one reality, neither to be realized nor attained."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
