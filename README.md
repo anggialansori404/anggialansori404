@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Beginning today, treat everyone you meet as if they were going to be dead by midnight. Extend to them all the care, kindness and understanding you can muster, and do it with no thought of any reward. Your life will never be the same again."</i>
+<i>"Your talent is God's gift to you. What you do with it is your gift back to God."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Leo Buscaglia</b>
 </blockquote>
 </p>
 
