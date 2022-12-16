@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is only the one reality, neither to be realized nor attained."</i>
+<i>"Fiction is the truth inside the lie."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
