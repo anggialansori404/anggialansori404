@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I had three chairs in my house; one for solitude, two for friendship, three for society."</i>
+<i>"Allow the world to live as it chooses, and allow yourself to live as you choose."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
