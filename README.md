@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid to see what you see."</i>
+<i>"Always turn a negative situation into a positive situation."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
