@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must embrace pain and burn it as fuel for our journey."</i>
+<i>"Creativity is intelligence having fun."</i>
 <br>
-<b>- Kenji Miyazawa</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
