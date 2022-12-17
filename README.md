@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Technology presumes there's just one right way to do things and there never is."</i>
+<i>"The best mind-altering drug is the truth."</i>
 <br>
-<b>- Robert M. Pirsig</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
