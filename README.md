@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We all grow up. Hopefully, we get wiser. Age brings wisdom, and fatherhood changes one's life completely."</i>
+<i>"I am always ready to learn although I do not always like being taught."</i>
 <br>
-<b>- Frank Abagnale</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
