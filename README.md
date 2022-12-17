@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To hell with circumstances, I create opportunities."</i>
+<i>"If one does not know to which port one is sailing, no wind is favorable."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
