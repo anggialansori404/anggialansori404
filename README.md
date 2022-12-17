@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am always ready to learn although I do not always like being taught."</i>
+<i>"A creative man is motivated by the desire to achieve, not by the desire to beat others."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
