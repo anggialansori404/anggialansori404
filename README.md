@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If one does not know to which port one is sailing, no wind is favorable."</i>
+<i>"You have a brain and mind of your own. Use it, and reach your own decisions."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
