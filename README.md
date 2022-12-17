@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have a brain and mind of your own. Use it, and reach your own decisions."</i>
+<i>"The greatest minds are capable of the greatest vices as well as of the greatest virtues."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- René Descartes</b>
 </blockquote>
 </p>
 
