@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Decide upon your major definite purpose in life and then organize all your activities around it."</i>
+<i>"We all grow up. Hopefully, we get wiser. Age brings wisdom, and fatherhood changes one's life completely."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Frank Abagnale</b>
 </blockquote>
 </p>
 
