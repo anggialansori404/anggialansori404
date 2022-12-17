@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best mind-altering drug is the truth."</i>
+<i>"One is never afraid of the unknown; one is afraid of the known coming to an end."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
