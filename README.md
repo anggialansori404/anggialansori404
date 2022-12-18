@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone has an invisible sign hanging from their neck saying, 'Make me feel important.' Never forget this message when working with people."</i>
+<i>"To wear your heart on your sleeve isn't a very good plan; you should wear it inside, where it functions best."</i>
 <br>
-<b>- Mary Kay Ash</b>
+<b>- Margaret Thatcher</b>
 </blockquote>
 </p>
 
