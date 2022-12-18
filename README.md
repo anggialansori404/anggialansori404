@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To wear your heart on your sleeve isn't a very good plan; you should wear it inside, where it functions best."</i>
+<i>"Embody what you teach, and teach only what you have embodied."</i>
 <br>
-<b>- Margaret Thatcher</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
