@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you get by achieving your goals is not as important as what you become by achieving your goals."</i>
+<i>"Discipline yourself, and others won't need to."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
