@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A creative man is motivated by the desire to achieve, not by the desire to beat others."</i>
+<i>"What you get by achieving your goals is not as important as what you become by achieving your goals."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
