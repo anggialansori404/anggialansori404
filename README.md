@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Setting goals is the first step in turning the invisible into the visible."</i>
+<i>"If you don't find the time, if you don't do the work, you don't get the results."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
