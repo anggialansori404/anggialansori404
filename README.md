@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A person who does not read is no better than one cannot read."</i>
+<i>"Humanity is acquiring all the right technology for all the wrong reasons."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Buckminster Fuller</b>
 </blockquote>
 </p>
 
