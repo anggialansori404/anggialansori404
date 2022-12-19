@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wise men talk because they have something to say; fools, because they have to say something."</i>
+<i>"Muddy water is best cleared by leaving it alone."</i>
 <br>
-<b>- Plato</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
