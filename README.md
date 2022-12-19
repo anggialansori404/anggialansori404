@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do."</i>
+<i>"If you're not failing every now and again, it's a sign you're not doing anything very innovative."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
