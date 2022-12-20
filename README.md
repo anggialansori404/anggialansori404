@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work as though you would live forever, and live as though you would die today. Go another mile."</i>
+<i>"The thing always happens that you really believe in; and the belief in a thing makes it happen."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Frank Lloyd Wright</b>
 </blockquote>
 </p>
 
