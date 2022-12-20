@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good, better, best. Never let it rest. ‘Til your good is better and your better is best."</i>
+<i>"Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't."</i>
 <br>
-<b>- Jerome</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
