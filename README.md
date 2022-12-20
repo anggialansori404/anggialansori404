@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do you want to know who you are? Don't ask. Act! Action will delineate and define you."</i>
+<i>"The more you are grateful for what you have the more you will have to be grateful for.  "</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
