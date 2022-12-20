@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The thing always happens that you really believe in; and the belief in a thing makes it happen."</i>
+<i>"Be like a postage stamp. Stick to it until you get there."</i>
 <br>
-<b>- Frank Lloyd Wright</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
