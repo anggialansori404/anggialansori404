@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be like a postage stamp. Stick to it until you get there."</i>
+<i>"A ruffled mind makes a restless pillow."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Charlotte Brontë</b>
 </blockquote>
 </p>
 
