@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now!"</i>
+<i>"Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Whoopi Goldberg</b>
 </blockquote>
 </p>
 
