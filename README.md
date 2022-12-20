@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark."</i>
+<i>"Being wrong brings the opportunity for growth."</i>
 <br>
-<b>- Whoopi Goldberg</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
