@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is only one happiness in life, to love and be loved."</i>
+<i>"We have a choice everyday regarding the attitude we will embrace for that day."</i>
 <br>
-<b>- George Sand</b>
+<b>- Charles Swindoll</b>
 </blockquote>
 </p>
 
