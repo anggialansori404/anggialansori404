@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is Love without his wings!"</i>
+<i>"Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored."</i>
 <br>
-<b>- Lord Byron</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
