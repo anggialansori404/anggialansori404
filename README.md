@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have a choice everyday regarding the attitude we will embrace for that day."</i>
+<i>"Everyone has an invisible sign hanging from their neck saying, 'Make me feel important.' Never forget this message when working with people."</i>
 <br>
-<b>- Charles Swindoll</b>
+<b>- Mary Kay Ash</b>
 </blockquote>
 </p>
 
