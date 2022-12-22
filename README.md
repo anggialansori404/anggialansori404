@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only journey is the one within."</i>
+<i>"Quality is never an accident; it is always the result of intelligent effort."</i>
 <br>
-<b>- Rainer Maria Rilke</b>
+<b>- John Ruskin</b>
 </blockquote>
 </p>
 
