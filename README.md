@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quality is never an accident; it is always the result of intelligent effort."</i>
+<i>"The Only Thing That Is Constant Is Change"</i>
 <br>
-<b>- John Ruskin</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
