@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The Only Thing That Is Constant Is Change"</i>
+<i>"Do every act of your life as if it were your last."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
