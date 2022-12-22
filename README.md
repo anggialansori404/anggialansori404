@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great leaders are almost always great simplifiers, who can cut through argument, debate and doubt, to offer a solution everybody can understand."</i>
+<i>"Keep away from people who try to belittle your ambitions."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
