@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone has an invisible sign hanging from their neck saying, 'Make me feel important.' Never forget this message when working with people."</i>
+<i>"Because of your smile, you make life more beautiful."</i>
 <br>
-<b>- Mary Kay Ash</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
