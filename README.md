@@ -28,7 +28,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I cannot always control what goes on outside. But I can always control what goes on inside."</i>
+<i>"Everything you are against weakens you. Everything you are for empowers you."</i>
 <br>
 <b>- Wayne Dyer</b>
 </blockquote>
