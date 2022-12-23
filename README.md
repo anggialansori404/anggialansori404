@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How much pain they have cost us, the evils which have never happened."</i>
+<i>"When you reach the end of your rope, tie a knot in it and hang on."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
