@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest step towards a life of simplicity is to learn to let go."</i>
+<i>"I will prepare and someday my chance will come."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
