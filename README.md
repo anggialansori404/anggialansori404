@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep others in suspense, cultivate an air of unpredictability."</i>
+<i>"The best way out is always through."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
