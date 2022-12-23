@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you reach the end of your rope, tie a knot in it and hang on."</i>
+<i>"There is no greater harm than that of time wasted."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Michelangelo</b>
 </blockquote>
 </p>
 
