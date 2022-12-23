@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is through science that we prove, but through intuition that we discover."</i>
+<i>"Be slow to fall into friendship; but when thou art in, continue firm and constant."</i>
 <br>
-<b>- Henri Poincaré</b>
+<b>- Isocrates</b>
 </blockquote>
 </p>
 
