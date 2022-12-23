@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no greater harm than that of time wasted."</i>
+<i>"Keep others in suspense, cultivate an air of unpredictability."</i>
 <br>
-<b>- Michelangelo</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
