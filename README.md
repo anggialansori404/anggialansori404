@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I will prepare and someday my chance will come."</i>
+<i>"It is through science that we prove, but through intuition that we discover."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Henri Poincaré</b>
 </blockquote>
 </p>
 
