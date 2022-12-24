@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A failure is a man who has blundered but is not capable of cashing in on the experience."</i>
+<i>"Children are our greatest natural resource."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
