@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't tell big dreams to small minded people."</i>
+<i>"Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Marcel Proust</b>
 </blockquote>
 </p>
 
