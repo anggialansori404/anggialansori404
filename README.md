@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is safer to search in the maze than to remain in a cheeseless situation."</i>
+<i>"Smile, breathe and go slowly."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Thích Nhất Hạnh</b>
 </blockquote>
 </p>
 
