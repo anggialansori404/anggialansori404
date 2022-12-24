@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Children are our greatest natural resource."</i>
+<i>"You can't tell big dreams to small minded people."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
