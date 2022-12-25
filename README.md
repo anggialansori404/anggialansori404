@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success comes from knowing that you did your best to become the best that you are capable of becoming."</i>
+<i>"It's not what you look at that matters, it's what you see."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
