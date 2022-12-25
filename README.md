@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most formidable weapon against errors of every kind is reason."</i>
+<i>"We are what we think. All that we are arises with our thoughts. With our thoughts, we make the world."</i>
 <br>
-<b>- Thomas Paine</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
