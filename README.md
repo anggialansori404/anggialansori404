@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wherever you go, go with all your heart."</i>
+<i>"Find the game where you can win, and then commit your life to playing it; and play to win."</i>
 <br>
-<b>- Confucius</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
