@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One who gains strength by overcoming obstacles possesses the only strength which can overcome adversity."</i>
+<i>"There is only one happiness in life, to love and be loved."</i>
 <br>
-<b>- Albert Schweitzer</b>
+<b>- George Sand</b>
 </blockquote>
 </p>
 
