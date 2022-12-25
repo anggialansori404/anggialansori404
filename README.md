@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are what we think. All that we are arises with our thoughts. With our thoughts, we make the world."</i>
+<i>"One who gains strength by overcoming obstacles possesses the only strength which can overcome adversity."</i>
 <br>
-<b>- Buddha</b>
+<b>- Albert Schweitzer</b>
 </blockquote>
 </p>
 
