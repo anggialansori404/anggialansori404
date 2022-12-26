@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never spend your money before you have earned it."</i>
+<i>"The function of wisdom is to discriminate between good and evil."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Cicero</b>
 </blockquote>
 </p>
 
