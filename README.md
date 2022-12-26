@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is one of our most treasured relationships, but it isn't codified and celebrated; it's never going to give you a party."</i>
+<i>"The best thing about the future is that it only comes one day at a time."</i>
 <br>
-<b>- Hanya Yanagihara</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
