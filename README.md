@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Greatest success comes just one step beyond the point at which defeat overtakes you."</i>
+<i>"More often than not, anger is actually an indication of weakness rather than of strength."</i>
 <br>
-<b>- Unknown</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
