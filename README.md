@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Listen to what you know instead of what you fear."</i>
+<i>"Until you change how you get things done, you'll never know what works best."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
