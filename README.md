@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Until you change how you get things done, you'll never know what works best."</i>
+<i>"Never spend your money before you have earned it."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
