@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not engaging in ignorance is wisdom."</i>
+<i>"I have realized that the past and future are real illusions, that they exist in the present, which is what there is and all there is."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
