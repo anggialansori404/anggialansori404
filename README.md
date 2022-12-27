@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Preoccupied with a single leaf you won't see the tree."</i>
+<i>"All men are equal before fish."</i>
 <br>
-<b>- Unknown</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
