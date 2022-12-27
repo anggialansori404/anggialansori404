@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Care about what other people think and you will always be their prisoner."</i>
+<i>"Open your eyes and look within. Are you satisfied with the life you're living?"</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
