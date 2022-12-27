@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I know but one freedom and that is the freedom of the mind."</i>
+<i>"Rest and be kind, you don't have to prove anything."</i>
 <br>
-<b>- Antoine de Saint-Exupéry</b>
+<b>- Jack Kerouac</b>
 </blockquote>
 </p>
 
