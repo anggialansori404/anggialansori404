@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a gift and the trick is not to expect it, but to delight in it when it comes."</i>
+<i>"Most of us will do anything to avoid facing ourselves."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
