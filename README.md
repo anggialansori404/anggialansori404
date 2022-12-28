@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom is doing now what you are going to be happy with later on."</i>
+<i>"Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Thomas Carlyle</b>
 </blockquote>
 </p>
 
