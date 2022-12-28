@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We never understand how little we need in this world until we know the loss of it."</i>
+<i>"Be kind whenever possible. It is always possible."</i>
 <br>
-<b>- J. M. Barrie</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
