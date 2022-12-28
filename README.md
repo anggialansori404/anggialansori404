@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have realized that the past and future are real illusions, that they exist in the present, which is what there is and all there is."</i>
+<i>"We never understand how little we need in this world until we know the loss of it."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- J. M. Barrie</b>
 </blockquote>
 </p>
 
