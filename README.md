@@ -28,7 +28,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"So is cheerfulness, or a good temper, the more it is spent, the more remains."</i>
+<i>"Imagination is not a talent of some men but is the health of every man."</i>
 <br>
 <b>- Ralph Waldo Emerson</b>
 </blockquote>
