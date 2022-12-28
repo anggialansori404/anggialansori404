@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Accept the challenges so that you can feel the exhilaration of victory."</i>
+<i>"A successful person is one who can lay a firm foundation with the bricks that others throw at him or her."</i>
 <br>
-<b>- George S. Patton</b>
+<b>- David Brinkley</b>
 </blockquote>
 </p>
 
