@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The health of nations is more important than the wealth of nations."</i>
+<i>"You give but little when you give of your possessions. It is when you give of yourself that you truly give."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
