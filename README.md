@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to pay for a lovely moment is to enjoy it."</i>
+<i>"Nothing is at last sacred but the integrity of your own mind."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
