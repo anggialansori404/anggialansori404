@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work out your own salvation. Do not depend on others."</i>
+<i>"The health of nations is more important than the wealth of nations."</i>
 <br>
-<b>- Buddha</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
