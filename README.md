@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am not bothered by the fact that I am unknown. I am bothered when I do not know others."</i>
+<i>"To himself everyone is immortal; he may know that he is going to die, but he can never know he is dead."</i>
 <br>
-<b>- Confucius</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
