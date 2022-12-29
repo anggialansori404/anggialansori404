@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man suffers only because he takes seriously what the gods made for fun."</i>
+<i>"Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
