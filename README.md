@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All that we are is the result of what we have thought. The mind is everything. What we think we become."</i>
+<i>"Identification with our mind causes thought to become compulsive."</i>
 <br>
-<b>- Buddha</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
