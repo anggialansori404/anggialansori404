@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nature gave us one tongue and two ears so we could hear twice as much as we speak."</i>
+<i>"The first man gets the oyster, the second man gets the shell."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
