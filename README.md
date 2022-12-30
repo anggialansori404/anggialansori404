@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you care, the stronger you can be."</i>
+<i>"Love is the master key that opens the gates of happiness."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Oliver Wendell Holmes Jr.</b>
 </blockquote>
 </p>
 
