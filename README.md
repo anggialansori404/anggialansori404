@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We suffer more often in imagination than in reality."</i>
+<i>"Nature gave us one tongue and two ears so we could hear twice as much as we speak."</i>
 <br>
-<b>- Seneca</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
