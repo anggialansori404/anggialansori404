@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live your life as an exclamation rather than an explanation."</i>
+<i>"There is only one corner of the universe you can be certain of improving, and that's your own self."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Aldous Huxley</b>
 </blockquote>
 </p>
 
