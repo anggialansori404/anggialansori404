@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Until you make peace with who you are, you will never be content with what you have."</i>
+<i>"Live your life as an exclamation rather than an explanation."</i>
 <br>
-<b>- Doris Mortman</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
