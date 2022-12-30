@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the master key that opens the gates of happiness."</i>
+<i>"We suffer more often in imagination than in reality."</i>
 <br>
-<b>- Oliver Wendell Holmes Jr.</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
