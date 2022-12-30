@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is only one corner of the universe you can be certain of improving, and that's your own self."</i>
+<i>"Everything great that has ever happened to humanity has begun as a single thought in someone's mind."</i>
 <br>
-<b>- Aldous Huxley</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
