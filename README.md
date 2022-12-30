@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything great that has ever happened to humanity has begun as a single thought in someone's mind."</i>
+<i>"Who sows virtue reaps honor."</i>
 <br>
-<b>- Yanni</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
