@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not bite at the bait of pleasure, till you know there is no hook beneath it."</i>
+<i>"When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
