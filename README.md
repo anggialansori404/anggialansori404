@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always keep your eyes open. Keep watching. Because whatever you see can inspire you."</i>
+<i>"Setting an example is not the main means of influencing another, it is the only means."</i>
 <br>
-<b>- Grace Coddington</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
