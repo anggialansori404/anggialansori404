@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Beauty is not in the face; beauty is a light in the heart."</i>
+<i>"Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Bernice Reagon</b>
 </blockquote>
 </p>
 
