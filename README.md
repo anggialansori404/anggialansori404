@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The art of being happy lies in the power of extracting happiness from common things."</i>
+<i>"Beauty is not in the face; beauty is a light in the heart."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
