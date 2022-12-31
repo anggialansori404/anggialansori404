@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To live outside the law, you must be honest. "</i>
+<i>"Discontent is the first necessity of progress."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
