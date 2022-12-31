@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot have what you do not want."</i>
+<i>"To live outside the law, you must be honest. "</i>
 <br>
-<b>- John Acosta</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
