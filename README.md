@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are."</i>
+<i>"To every action there is always opposed an equal reaction."</i>
 <br>
-<b>- Bernice Reagon</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
