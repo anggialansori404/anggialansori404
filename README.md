@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If one does not know to which port one is sailing, no wind is favorable."</i>
+<i>"There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
