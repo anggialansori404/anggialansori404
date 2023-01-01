@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The spirit, the will to win, and the will to excel, are the things that endure. These qualities are so much more important than the events that occur."</i>
+<i>"You are not only responsible for what you say, but also for what you do not say. "</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
