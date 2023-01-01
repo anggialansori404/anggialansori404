@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The inherent vice of capitalism is the unequal sharing of blessings; the inherent virtue of socialism is the equal sharing of miseries."</i>
+<i>"If one does not know to which port one is sailing, no wind is favorable."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
