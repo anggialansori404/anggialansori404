@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be yourself; everyone else is already taken."</i>
+<i>"The inherent vice of capitalism is the unequal sharing of blessings; the inherent virtue of socialism is the equal sharing of miseries."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
