@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To every action there is always opposed an equal reaction."</i>
+<i>"Wisdom consists of the anticipation of consequences."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Norman Cousins</b>
 </blockquote>
 </p>
 
