@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is far better to be alone, than to be in bad company."</i>
+<i>"Being entirely honest with oneself is a good exercise."</i>
 <br>
-<b>- George Washington</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
