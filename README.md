@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your very silence shows you agree."</i>
+<i>"Nature is a mutable cloud which is always and never the same."</i>
 <br>
-<b>- Euripides</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
