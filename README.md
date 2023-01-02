@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There's more to life than being a passenger."</i>
+<i>"Your very silence shows you agree."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
