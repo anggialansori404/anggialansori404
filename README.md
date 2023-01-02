@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change in all things is sweet."</i>
+<i>"To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
