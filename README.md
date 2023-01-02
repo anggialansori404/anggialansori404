@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom, compassion, and courage are the three universally recognized moral qualities of men."</i>
+<i>"Change in all things is sweet."</i>
 <br>
-<b>- Confucius</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
