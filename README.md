@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Treat people as if they were what they ought to be, and you help them to become what they are capable of being."</i>
+<i>"Wisdom, compassion, and courage are the three universally recognized moral qualities of men."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
