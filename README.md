@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no path to Peace. Peace is the path."</i>
+<i>"If we are not able to smile, then the world will not have peace."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
