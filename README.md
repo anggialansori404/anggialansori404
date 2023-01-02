@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear."</i>
+<i>"There is no path to Peace. Peace is the path."</i>
 <br>
-<b>- Buddha</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
