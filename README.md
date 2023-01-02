@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will."</i>
+<i>"There's more to life than being a passenger."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
