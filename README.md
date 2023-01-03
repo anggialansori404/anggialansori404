@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As you walk in God's divine wisdom, you will surely begin to see a greater measure of victory and good success in your life."</i>
+<i>"All wealth is the product of labor."</i>
 <br>
-<b>- Joseph Prince</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
