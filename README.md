@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is found in unlikely places."</i>
+<i>"Fear makes strangers of people who would be friends."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Shirley MacLaine</b>
 </blockquote>
 </p>
 
