@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A house divided against itself cannot stand."</i>
+<i>"Failure will never overtake me if my determination to succeed is strong enough."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
