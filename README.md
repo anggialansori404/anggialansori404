@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Become the kind of leader that people would follow voluntarily, even if you had no title or position."</i>
+<i>"A house divided against itself cannot stand."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
