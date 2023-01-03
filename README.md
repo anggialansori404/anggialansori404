@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear makes strangers of people who would be friends."</i>
+<i>"Once we accept our limits, we go beyond them."</i>
 <br>
-<b>- Shirley MacLaine</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
