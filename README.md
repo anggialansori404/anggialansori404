@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is essentially a partnership."</i>
+<i>"Talk to someone about themselves and they'll listen for hours."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
