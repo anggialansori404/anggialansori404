@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?"</i>
+<i>"Yeah, we all shine on, like the moon, and the stars, and the sun."</i>
 <br>
-<b>- Confucius</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
