@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ballot is stronger than the bullet."</i>
+<i>"The eye sees only what the mind is prepared to comprehend."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Henri Bergson</b>
 </blockquote>
 </p>
 
