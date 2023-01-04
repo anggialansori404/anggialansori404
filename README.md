@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live life as though nobody is watching, and express yourself as though everyone is listening."</i>
+<i>"Skill to do comes of doing."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
