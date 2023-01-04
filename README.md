@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Once we accept our limits, we go beyond them."</i>
+<i>"One of the most beautiful qualities of true friendship is to understand and to be understood."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
