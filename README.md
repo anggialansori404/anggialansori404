@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always keep your eyes open. Keep watching. Because whatever you see can inspire you."</i>
+<i>"The truth is not for all men, but only for those who seek it."</i>
 <br>
-<b>- Grace Coddington</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
