@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship, like love, is destroyed by long absence, though it may be increased by short intermissions."</i>
+<i>"Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity."</i>
 <br>
-<b>- Samuel Johnson</b>
+<b>- Louis Pasteur</b>
 </blockquote>
 </p>
 
