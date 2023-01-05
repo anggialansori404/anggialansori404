@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the tests of leadership is the ability to recognize a problem before it becomes an emergency."</i>
+<i>"Life belongs to the living, and he who lives must be prepared for changes."</i>
 <br>
-<b>- Olivier Messiaen</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
