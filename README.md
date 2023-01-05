@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must welcome change as the rule but not as your ruler. "</i>
+<i>"Friendship, like love, is destroyed by long absence, though it may be increased by short intermissions."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Samuel Johnson</b>
 </blockquote>
 </p>
 
