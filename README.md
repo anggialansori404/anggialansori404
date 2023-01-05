@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have two ears and one mouth so that we can listen twice as much as we speak."</i>
+<i>"Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them."</i>
 <br>
-<b>- Epictetus</b>
+<b>- W. Clement Stone</b>
 </blockquote>
 </p>
 
