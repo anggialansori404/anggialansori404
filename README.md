@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To forget the whole world is easy; to make the whole world forget you is hard."</i>
+<i>"Be brave enough to suck at something new."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
