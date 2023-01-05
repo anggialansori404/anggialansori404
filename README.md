@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Yeah, we all shine on, like the moon, and the stars, and the sun."</i>
+<i>"If you find yourself in a hole, the first thing to do is stop digging."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
