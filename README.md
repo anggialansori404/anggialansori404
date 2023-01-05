@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you find yourself in a hole, the first thing to do is stop digging."</i>
+<i>"A fall into a ditch makes you wiser."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
