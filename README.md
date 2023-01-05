@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity."</i>
+<i>"We have two ears and one mouth so that we can listen twice as much as we speak."</i>
 <br>
-<b>- Louis Pasteur</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
