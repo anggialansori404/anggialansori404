@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Giving is living. If you stop wanting to give, there's nothing more to live for."</i>
+<i>"You must welcome change as the rule but not as your ruler. "</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
