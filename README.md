@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too."</i>
+<i>"The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- William Arthur Ward</b>
 </blockquote>
 </p>
 
