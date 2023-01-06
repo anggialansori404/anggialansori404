@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails."</i>
+<i>"Just as much as we see in others, we have in ourselves."</i>
 <br>
-<b>- William Arthur Ward</b>
+<b>- William Hazlitt</b>
 </blockquote>
 </p>
 
