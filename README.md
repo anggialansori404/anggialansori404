@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life belongs to the living, and he who lives must be prepared for changes."</i>
+<i>"I am always ready to learn although I do not always like being taught."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
