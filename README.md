@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must learn to let go. Release the stress. You were never in control anyway."</i>
+<i>"All men who have achieved great things have been great dreamers. "</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Orison Swett Marden</b>
 </blockquote>
 </p>
 
