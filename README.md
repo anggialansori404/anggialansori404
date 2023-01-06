@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great ideas often receive violent opposition from mediocre minds."</i>
+<i>"Friendship may, and often does, grow into love, but love never subsides into friendship."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Lord Byron</b>
 </blockquote>
 </p>
 
