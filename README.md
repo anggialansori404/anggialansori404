@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am always ready to learn although I do not always like being taught."</i>
+<i>"Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
