@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I hear and I forget. I see and I remember. I do and I understand."</i>
+<i>"Life's most persistent and urgent question is, 'What are you doing for others?'"</i>
 <br>
-<b>- Confucius</b>
+<b>- Martin Luther King Jr.</b>
 </blockquote>
 </p>
 
