@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No party has a monopoly on wisdom. No democracy works without compromise."</i>
+<i>"One may say the eternal mystery of the world is its comprehensibility."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
