@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best fighter is never angry."</i>
+<i>"No party has a monopoly on wisdom. No democracy works without compromise."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
