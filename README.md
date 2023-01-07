@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ignorant men don't know what good they hold in their hands until they've flung it away."</i>
+<i>"Thought is so cunning, so clever, that it distorts everything for its own convenience."</i>
 <br>
-<b>- Sophocles</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
