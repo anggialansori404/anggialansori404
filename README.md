@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want something you've never had you must be willing to do something you've never done."</i>
+<i>"The world has the habit of making room for the man whose actions show that he knows where he is going."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
