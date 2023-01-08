@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear can hold you prisoner. Hope can set you free."</i>
+<i>"To avoid criticism, do nothing, say nothing, be nothing."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
