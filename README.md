@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To avoid criticism, do nothing, say nothing, be nothing."</i>
+<i>"Successful people ask better questions, and as a result, they get better answers."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
