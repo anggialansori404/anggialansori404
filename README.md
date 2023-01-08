@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is found in unlikely places."</i>
+<i>"He who is taught to live upon little owes more to his father's wisdom than he who has a great deal left him does to his father's care."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- William C. Menninger</b>
 </blockquote>
 </p>
 
