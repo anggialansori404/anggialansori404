@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Blessed is he who expects nothing, for he shall never be disappointed."</i>
+<i>"Friendship is Love without his wings!"</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Lord Byron</b>
 </blockquote>
 </p>
 
