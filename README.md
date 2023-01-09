@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something."</i>
+<i>"A good stance and posture reflect a proper state of mind."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
