@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is Love without his wings!"</i>
+<i>"Everything you've ever wanted is on the other side of fear."</i>
 <br>
-<b>- Lord Byron</b>
+<b>- George Addair</b>
 </blockquote>
 </p>
 
