@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is blind; friendship closes its eyes."</i>
+<i>"Knowledge rests not upon truth alone, but upon error also."</i>
 <br>
-<b>- Friedrich Nietzsche</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
