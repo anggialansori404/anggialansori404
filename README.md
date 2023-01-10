@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything that irritates us about others can lead us to an understanding of ourselves."</i>
+<i>"Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
