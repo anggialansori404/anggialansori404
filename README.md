@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Instead of worrying about what you cannot control, shift your energy to what you can create."</i>
+<i>"At the center of your being, you have the answer; you know who you are, and you know what you want."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
