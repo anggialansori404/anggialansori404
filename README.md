@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Things that were hard to bear are sweet to remember."</i>
+<i>"Technology is nothing. What's important is that you have a faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
