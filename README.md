@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do something to move yourself toward your major goal every day."</i>
+<i>"We can only learn to love by loving."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Iris Murdoch</b>
 </blockquote>
 </p>
 
