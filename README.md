@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throw your heart over the fence and the rest will follow"</i>
+<i>"You can't tell big dreams to small minded people."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
