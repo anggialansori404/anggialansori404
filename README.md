@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One needs something to believe in, something for which one can have whole-hearted enthusiasm. One needs to feel that one's life has meaning, that one is needed in this world."</i>
+<i>"Life is what happens to you while you're busy making other plans."</i>
 <br>
-<b>- Hannah Szenes</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
