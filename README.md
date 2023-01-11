@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is what happens to you while you're busy making other plans."</i>
+<i>"If a man does not make new acquaintances as he advances through life, he will soon find himself left alone. A man, sir, should keep his friendship in a constant repair."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Samuel Johnson</b>
 </blockquote>
 </p>
 
