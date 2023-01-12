@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't play against opponents, you play against the game of basketball."</i>
+<i>"Only in the agony of parting do we look into the depths of love."</i>
 <br>
-<b>- Bob Knight</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
