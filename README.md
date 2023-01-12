@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who is taught to live upon little owes more to his father's wisdom than he who has a great deal left him does to his father's care."</i>
+<i>"You don't play against opponents, you play against the game of basketball."</i>
 <br>
-<b>- William C. Menninger</b>
+<b>- Bob Knight</b>
 </blockquote>
 </p>
 
