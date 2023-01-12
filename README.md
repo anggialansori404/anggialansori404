@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not only for what we do that we are held responsible, but also for what we do not do."</i>
+<i>"I know not all that may be coming, but be it what it will, I'll go to it laughing."</i>
 <br>
-<b>- Molière</b>
+<b>- Herman Melville</b>
 </blockquote>
 </p>
 
