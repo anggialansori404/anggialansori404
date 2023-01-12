@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The true soldier fights not because he hates what is in front of him, but because he loves what is behind him."</i>
+<i>"Friendship is but another name for an alliance with the follies and the misfortunes of others. Our own share of miseries is sufficient: why enter then as volunteers into those of another?"</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
