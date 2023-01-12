@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control."</i>
+<i>"If you owe the bank $100 that's your problem. If you owe the bank $100 million, that's the bank's problem."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- J. Paul Getty</b>
 </blockquote>
 </p>
 
