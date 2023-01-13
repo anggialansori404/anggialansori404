@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sincerity is the way of Heaven. The attainment of sincerity is the way of men."</i>
+<i>"A tiny change today brings a dramatically different tomorrow."</i>
 <br>
-<b>- Confucius</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
