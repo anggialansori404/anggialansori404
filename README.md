@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The heart wants what it wants - or else it does not care."</i>
+<i>"Sincerity is the way of Heaven. The attainment of sincerity is the way of men."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
