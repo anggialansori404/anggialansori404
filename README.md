@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I want my friend to miss me as long as I miss him."</i>
+<i>"Never interrupt your enemy when he is making a mistake."</i>
 <br>
-<b>- Augustine of Hippo</b>
+<b>- Napoleon</b>
 </blockquote>
 </p>
 
