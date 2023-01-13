@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is like most opinions - best unexpressed."</i>
+<i>"Ethics change with technology."</i>
 <br>
-<b>- Kenneth Branagh</b>
+<b>- Larry Niven</b>
 </blockquote>
 </p>
 
