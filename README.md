@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest of empires, is the empire over one's self."</i>
+<i>"A goal is a dream with a deadline."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
