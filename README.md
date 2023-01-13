@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A tiny change today brings a dramatically different tomorrow."</i>
+<i>"The greatest of empires, is the empire over one's self."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
