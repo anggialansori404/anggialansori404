@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The person who never made a mistake never tried anything new."</i>
+<i>"I want my friend to miss me as long as I miss him."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Augustine of Hippo</b>
 </blockquote>
 </p>
 
