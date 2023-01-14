@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. "</i>
+<i>"Every man is a volume if you know how to read him."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- William Ellery Channing</b>
 </blockquote>
 </p>
 
