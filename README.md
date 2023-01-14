@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let us always meet each other with smile, for the smile is the beginning of love."</i>
+<i>"Better to live until you die."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
