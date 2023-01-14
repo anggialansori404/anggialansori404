@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little."</i>
+<i>"When you know what you want, and want it bad enough, you will find a way to get it."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
