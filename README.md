@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man is a volume if you know how to read him."</i>
+<i>"Friendship is the marriage of the soul, and this marriage is liable to divorce."</i>
 <br>
-<b>- William Ellery Channing</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
