@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes out of your biggest misery, comes your greatest gain."</i>
+<i>"We think too much and feel too little."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
