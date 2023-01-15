@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In complete darkness we are all the same, it is only our knowledge and wisdom that separates us, don't let your eyes deceive you."</i>
+<i>"Serious sport has nothing to do with fair play. It is bound up with hatred, jealousy, boastfulness, disregard of all rules and sadistic pleasure in witnessing violence. In other words, it is war minus the shooting."</i>
 <br>
-<b>- Janet Jackson</b>
+<b>- George Orwell</b>
 </blockquote>
 </p>
 
