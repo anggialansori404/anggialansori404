@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better to live until you die."</i>
+<i>"Aim for the moon. If you miss, you may hit a star."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- W. Clement Stone</b>
 </blockquote>
 </p>
 
