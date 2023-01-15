@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ignorant men raise questions that wise men answered a thousand years ago."</i>
+<i>"In complete darkness we are all the same, it is only our knowledge and wisdom that separates us, don't let your eyes deceive you."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Janet Jackson</b>
 </blockquote>
 </p>
 
