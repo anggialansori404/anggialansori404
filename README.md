@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Formal education will make you a living, self-education will make you a fortune."</i>
+<i>"Never put off till tomorrow what you can do today."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
