@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A friend in power is a friend lost."</i>
+<i>"Formal education will make you a living, self-education will make you a fortune."</i>
 <br>
-<b>- Henry Adams</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
