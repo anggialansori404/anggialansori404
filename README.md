@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Serious sport has nothing to do with fair play. It is bound up with hatred, jealousy, boastfulness, disregard of all rules and sadistic pleasure in witnessing violence. In other words, it is war minus the shooting."</i>
+<i>"The world is a puzzle; no need to make sense out of it."</i>
 <br>
-<b>- George Orwell</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
