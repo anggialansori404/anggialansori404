@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world is a puzzle; no need to make sense out of it."</i>
+<i>"I'd rather attempt to do something great and fail than to attempt to do nothing and succeed."</i>
 <br>
-<b>- Socrates</b>
+<b>- Robert Schuller</b>
 </blockquote>
 </p>
 
