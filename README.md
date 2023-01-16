@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'd rather attempt to do something great and fail than to attempt to do nothing and succeed."</i>
+<i>"In wisdom gathered over time I have found that every experience is a form of exploration."</i>
 <br>
-<b>- Robert Schuller</b>
+<b>- Ansel Adams</b>
 </blockquote>
 </p>
 
