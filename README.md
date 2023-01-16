@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Is it really possible to tell someone else what one feels?"</i>
+<i>"Never find fault with the absent."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
