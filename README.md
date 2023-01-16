@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Technology made large populations possible; large populations now make technology indispensable."</i>
+<i>"I am always doing what I cannot do yet, in order to learn how to do it."</i>
 <br>
-<b>- Joseph Wood Krutch</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
