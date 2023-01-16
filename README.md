@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The educated differ from the uneducated as much as the living differ from the dead."</i>
+<i>"Your big opportunity may be right where you are now."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
