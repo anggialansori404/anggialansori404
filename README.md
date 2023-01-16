@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not be embarrassed by your mistakes. Nothing can teach us better than our understanding of them. This is one of the best ways of self-education."</i>
+<i>"Everything that is done in the world is done by hope."</i>
 <br>
-<b>- Thomas Carlyle</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
