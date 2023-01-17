@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All serious daring starts from within."</i>
+<i>"Optimism is the one quality more associated with success and happiness than any other."</i>
 <br>
-<b>- Harriet Beecher Stowe</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
