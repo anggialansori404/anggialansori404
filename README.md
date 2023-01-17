@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Optimism is the one quality more associated with success and happiness than any other."</i>
+<i>"The most wasted day of all is that on which we have not laughed."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
