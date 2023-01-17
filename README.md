@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It isn't where you come from, it's where you're going that counts."</i>
+<i>"Kindness is the golden chain by which society is bound together."</i>
 <br>
-<b>- Ella Fitzgerald</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
