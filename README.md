@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.  "</i>
+<i>"These days people seek knowledge, not wisdom. Knowledge is of the past; wisdom is of the future."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Vernon Cooper</b>
 </blockquote>
 </p>
 
