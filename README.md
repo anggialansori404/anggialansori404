@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Kindness is the golden chain by which society is bound together."</i>
+<i>"The measure of who we are is what we do with what we have."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
