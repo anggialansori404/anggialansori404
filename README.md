@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want something you've never had you must be willing to do something you've never done."</i>
+<i>"Thinking is difficult, that's why most people judge."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
