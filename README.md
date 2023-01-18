@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only when you can be extremely pliable and soft can you be extremely hard and strong."</i>
+<i>"Quality is not an act, it is a habit."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
