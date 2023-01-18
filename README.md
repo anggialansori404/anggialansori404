@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The temptation to give up is strongest just before victory."</i>
+<i>"We are all faced with a series of great opportunities brilliantly disguised as impossible situations. "</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Charles Swindoll</b>
 </blockquote>
 </p>
 
