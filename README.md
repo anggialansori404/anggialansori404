@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thinking is difficult, that's why most people judge."</i>
+<i>"When we are no longer able to change a situation - we are challenged to change ourselves."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Viktor Frankl</b>
 </blockquote>
 </p>
 
