@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is not just the passing of time. Life is the collection of experiences and their intensity."</i>
+<i>"The temptation to give up is strongest just before victory."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
