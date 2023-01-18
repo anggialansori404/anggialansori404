@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No party has a monopoly on wisdom. No democracy works without compromise."</i>
+<i>"Life is not just the passing of time. Life is the collection of experiences and their intensity."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
