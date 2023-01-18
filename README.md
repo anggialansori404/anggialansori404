@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friends are the siblings God never gave us."</i>
+<i>"Only when you can be extremely pliable and soft can you be extremely hard and strong."</i>
 <br>
-<b>- Mencius</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
