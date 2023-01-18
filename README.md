@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all faced with a series of great opportunities brilliantly disguised as impossible situations. "</i>
+<i>"You may delay, but time will not."</i>
 <br>
-<b>- Charles Swindoll</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
