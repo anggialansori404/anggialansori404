@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for."</i>
+<i>"You can discover what your enemy fears most by observing the means he uses to frighten you."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
