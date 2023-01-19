@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nine-tenths of wisdom is being wise in time."</i>
+<i>"I'm not afraid of death, but I'm in no hurry to die."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
