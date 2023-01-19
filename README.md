@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never deny a diagnosis but do deny the negative verdict that may go with it."</i>
+<i>"It has long been an axiom of mine that the little things are infinitely the most important."</i>
 <br>
-<b>- Norman Cousins</b>
+<b>- Arthur Conan Doyle</b>
 </blockquote>
 </p>
 
