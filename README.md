@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes good things fall apart so better things can fall together."</i>
+<i>"His lack of education is more than compensated for by his keenly developed moral bankruptcy."</i>
 <br>
-<b>- Marilyn Monroe</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
