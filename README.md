@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge speaks, but wisdom listens."</i>
+<i>"Live and act within the limit of your knowledge and keep expanding it to the limit of your life."</i>
 <br>
-<b>- Jimi Hendrix</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
