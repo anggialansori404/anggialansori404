@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"His lack of education is more than compensated for by his keenly developed moral bankruptcy."</i>
+<i>"My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
