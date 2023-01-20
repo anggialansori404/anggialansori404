@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For it was not into my ear you whispered, but into my heart. It was not my lips you kissed, but my soul."</i>
+<i>"The most important thing in life is to stop saying 'I wish' and start saying 'I will'. Consider nothing impossible, then treat possibilities as probabilities."</i>
 <br>
-<b>- Judy Garland</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
