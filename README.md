@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's your life-but only if you make it so."</i>
+<i>"Start each day with a positive thought and a grateful heart."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
