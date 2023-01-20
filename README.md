@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live and act within the limit of your knowledge and keep expanding it to the limit of your life."</i>
+<i>"Mistake is a mistake only if you make it twice."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
