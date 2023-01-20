@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Patience expands your options. If you insist on immediate gratification, your choices are severely limited."</i>
+<i>"It's your life-but only if you make it so."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
