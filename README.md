@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Attitude, not aptitude, determines altitude.  "</i>
+<i>"Don't blame others. it won't make you a better person."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
