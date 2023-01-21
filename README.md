@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A passion for politics stems usually from an insatiable need, either for power, or for friendship and adulation, or a combination of both."</i>
+<i>"There are no shortcuts to any place worth going. "</i>
 <br>
-<b>- Fawn M. Brodie</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
