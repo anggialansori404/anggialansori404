@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't blame others. it won't make you a better person."</i>
+<i>"Learn only how to avoid seeking for and attaching yourselves to anything."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
