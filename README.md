@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truest wisdom is a resolute determination."</i>
+<i>"The only real valuable thing is intuition."</i>
 <br>
-<b>- Napoleon</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
