@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only real valuable thing is intuition."</i>
+<i>"A passion for politics stems usually from an insatiable need, either for power, or for friendship and adulation, or a combination of both."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Fawn M. Brodie</b>
 </blockquote>
 </p>
 
