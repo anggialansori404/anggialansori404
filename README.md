@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Belief consists in accepting the affirmations of the soul; Unbelief, in denying them."</i>
+<i>"Wise men talk because they have something to say; fools, because they have to say something."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
