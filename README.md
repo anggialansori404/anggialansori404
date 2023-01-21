@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wise men talk because they have something to say; fools, because they have to say something."</i>
+<i>"Men go to far greater lengths to avoid what they fear than to obtain what they desire."</i>
 <br>
-<b>- Plato</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
