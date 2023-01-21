@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn only how to avoid seeking for and attaching yourselves to anything."</i>
+<i>"I think and that is all that I am."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
