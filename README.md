@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is a wisdom of the head, and a wisdom of the heart."</i>
+<i>"Love isn't something you find. Love is something that finds you."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Loretta Young</b>
 </blockquote>
 </p>
 
