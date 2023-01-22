@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"God always takes the simplest way."</i>
+<i>"Nothing is hopeless; we must hope for everything."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
