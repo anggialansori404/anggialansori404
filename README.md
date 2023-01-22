@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love isn't something you find. Love is something that finds you."</i>
+<i>"Investing in yourself is the best investment you will ever make."</i>
 <br>
-<b>- Loretta Young</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
