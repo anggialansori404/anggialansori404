@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't get to a place that you don't believe exists."</i>
+<i>"Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth."</i>
 <br>
-<b>- Unknown</b>
+<b>- Arthur Conan Doyle</b>
 </blockquote>
 </p>
 
