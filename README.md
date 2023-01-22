@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men go to far greater lengths to avoid what they fear than to obtain what they desire."</i>
+<i>"A poem begins in delight and ends in wisdom."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
