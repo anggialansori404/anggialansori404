@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Investing in yourself is the best investment you will ever make."</i>
+<i>"You can't get to a place that you don't believe exists."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
