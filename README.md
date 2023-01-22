@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is hopeless; we must hope for everything."</i>
+<i>"There is a wisdom of the head, and a wisdom of the heart."</i>
 <br>
-<b>- Euripides</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
