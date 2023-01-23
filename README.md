@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time."</i>
+<i>"Everything you've ever wanted is on the other side of fear."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- George Addair</b>
 </blockquote>
 </p>
 
