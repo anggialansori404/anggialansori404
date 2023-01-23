@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn to use your emotions to think, not think with your emotions."</i>
+<i>"It is easier to live through someone else than to become complete yourself."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Betty Friedan</b>
 </blockquote>
 </p>
 
