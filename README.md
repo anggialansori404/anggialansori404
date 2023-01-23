@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your success and happiness lie in you."</i>
+<i>"The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
