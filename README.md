@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is easier to live through someone else than to become complete yourself."</i>
+<i>"What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be."</i>
 <br>
-<b>- Betty Friedan</b>
+<b>- Sai Baba</b>
 </blockquote>
 </p>
 
