@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting."</i>
+<i>"Our most intimate friend is not he to whom we show the worst, but the best of our nature."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Nathaniel Hawthorne</b>
 </blockquote>
 </p>
 
