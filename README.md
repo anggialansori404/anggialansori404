@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Teachers open the door. You enter by yourself. "</i>
+<i>"Progress is limited by your ability to change your mind."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
