@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In dwelling, live close to the ground. In thinking, keep to the simple. In conflict, be fair and generous. In governing, don't try to control. In work, do what you enjoy. In family life, be completely present."</i>
+<i>"Learn to use your emotions to think, not think with your emotions."</i>
 <br>
-<b>- Laozi</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
