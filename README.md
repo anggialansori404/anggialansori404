@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Progress is limited by your ability to change your mind."</i>
+<i>"We take care of the future best by taking care of the present now."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
