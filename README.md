@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No tree, it is said, can grow to heaven unless its roots reach down to hell."</i>
+<i>"Keep your face always toward the sunshine - and shadows will fall behind you."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
