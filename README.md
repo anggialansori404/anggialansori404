@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All things change; nothing perishes."</i>
+<i>"We are all something, but none of us are everything."</i>
 <br>
-<b>- Ovid</b>
+<b>- Blaise Pascal</b>
 </blockquote>
 </p>
 
