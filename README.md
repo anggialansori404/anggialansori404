@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all something, but none of us are everything."</i>
+<i>"We must never forget that it is through our actions, words, and thoughts that we have a choice."</i>
 <br>
-<b>- Blaise Pascal</b>
+<b>- Sogyal Rinpoche</b>
 </blockquote>
 </p>
 
