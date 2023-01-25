@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the flower you've got to let grow."</i>
+<i>"The best way to predict your future is to create it."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
