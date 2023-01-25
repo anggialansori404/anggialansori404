@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Still your waters."</i>
+<i>"Friendship is but another name for an alliance with the follies and the misfortunes of others. Our own share of miseries is sufficient: why enter then as volunteers into those of another?"</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
