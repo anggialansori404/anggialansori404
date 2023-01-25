@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return."</i>
+<i>"Every failure brings with it the seed of an equivalent success."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
