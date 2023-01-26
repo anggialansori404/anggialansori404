@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If no one ever broke the rules, then we'd never advance."</i>
+<i>"Fallacies do not cease to be fallacies because they become fashions."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
