@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust only movement. Life happens at the level of events, not of words. Trust movement."</i>
+<i>"People take different roads seeking fulfilment and happiness. Just because they're not on your road doesn't mean they've gotten lost."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
