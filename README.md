@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Charms strike the sight, but merit wins the soul."</i>
+<i>"If we did all the things we are capable of, we would literally astound ourselves."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
