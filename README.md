@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is an option here. If things are not failing, you are not innovating enough."</i>
+<i>"Stay away from what might have been and look at what will be."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Marsha Petrie Sue</b>
 </blockquote>
 </p>
 
