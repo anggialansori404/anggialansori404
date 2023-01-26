@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People take different roads seeking fulfilment and happiness. Just because they're not on your road doesn't mean they've gotten lost."</i>
+<i>"Charms strike the sight, but merit wins the soul."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
