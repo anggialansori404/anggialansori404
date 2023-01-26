@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stay away from what might have been and look at what will be."</i>
+<i>"You cannot escape the responsibility of tomorrow by evading it today."</i>
 <br>
-<b>- Marsha Petrie Sue</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
