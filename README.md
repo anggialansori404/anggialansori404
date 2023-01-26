@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot escape the responsibility of tomorrow by evading it today."</i>
+<i>"Those who know, do. Those that understand, teach."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
