@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must never forget that it is through our actions, words, and thoughts that we have a choice."</i>
+<i>"Failure is an option here. If things are not failing, you are not innovating enough."</i>
 <br>
-<b>- Sogyal Rinpoche</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
