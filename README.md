@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus."</i>
+<i>"The art of progress is to preserve order amid change, and to preserve change amid order."</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Alfred North Whitehead</b>
 </blockquote>
 </p>
 
