@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The art of progress is to preserve order amid change, and to preserve change amid order."</i>
+<i>"There is not one big cosmic meaning for all, there is only the meaning we each give to our life."</i>
 <br>
-<b>- Alfred North Whitehead</b>
+<b>- Anaïs Nin</b>
 </blockquote>
 </p>
 
