@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not the possession of truth, but the success which attends the seeking after it, that enriches the seeker and brings happiness to him."</i>
+<i>"Everyone thinks of changing the world, but no one thinks of changing himself."</i>
 <br>
-<b>- Max Planck</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
