@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"So is cheerfulness, or a good temper, the more it is spent, the more remains."</i>
+<i>"You are never given a wish without also being given the power to make it come true. You may have to work for it, however."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
