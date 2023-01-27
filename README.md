@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear makes strangers of people who would be friends."</i>
+<i>"Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus."</i>
 <br>
-<b>- Shirley MacLaine</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
