@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is not one big cosmic meaning for all, there is only the meaning we each give to our life."</i>
+<i>"Life may be full of pain but that's not an excuse to give up."</i>
 <br>
-<b>- Anaïs Nin</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
