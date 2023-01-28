@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no excuse for not trying."</i>
+<i>"Preoccupied with a single leaf you won't see the tree."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
