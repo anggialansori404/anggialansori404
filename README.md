@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your work is to discover your work and then with all your heart to give yourself to it."</i>
+<i>"There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living."</i>
 <br>
-<b>- Buddha</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
