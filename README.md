@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing can bring you peace but yourself."</i>
+<i>"When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
