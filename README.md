@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not tell the truth about yourself you cannot tell it about other people."</i>
+<i>"There is no excuse for not trying."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
