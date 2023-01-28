@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living."</i>
+<i>"Life without love is like a tree without blossoms or fruit."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
