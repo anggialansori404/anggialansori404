@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man is a volume if you know how to read him."</i>
+<i>"Your work is to discover your work and then with all your heart to give yourself to it."</i>
 <br>
-<b>- William Ellery Channing</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
