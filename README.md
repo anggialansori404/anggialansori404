@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He that respects himself is safe from others; he wears a coat of mail that none can pierce."</i>
+<i>"We must not say every mistake is a foolish one."</i>
 <br>
-<b>- Henry Wadsworth Longfellow</b>
+<b>- Cicero</b>
 </blockquote>
 </p>
 
