@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience."</i>
+<i>"Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!"</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
