@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work while you have the light. You are responsible for the talent that has been entrusted to you."</i>
+<i>"If no one ever broke the rules, then we'd never advance."</i>
 <br>
-<b>- Henri-Frédéric Amiel</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
