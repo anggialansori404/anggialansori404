@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If no one ever broke the rules, then we'd never advance."</i>
+<i>"He that respects himself is safe from others; he wears a coat of mail that none can pierce."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Henry Wadsworth Longfellow</b>
 </blockquote>
 </p>
 
