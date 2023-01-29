@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A failure is a man who has blundered but is not capable of cashing in on the experience."</i>
+<i>"The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
