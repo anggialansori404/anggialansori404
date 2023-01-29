@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you."</i>
+<i>"Work while you have the light. You are responsible for the talent that has been entrusted to you."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Henri-Frédéric Amiel</b>
 </blockquote>
 </p>
 
