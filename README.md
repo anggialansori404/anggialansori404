@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life without love is like a tree without blossoms or fruit."</i>
+<i>"You came empty handed, and you will leave empty handed."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
