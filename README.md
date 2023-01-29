@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You came empty handed, and you will leave empty handed."</i>
+<i>"Everything that irritates us about others can lead us to an understanding of ourselves."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
