@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment."</i>
+<i>"I took a speed-reading course and read 'War and Peace' in twenty minutes. It involves Russia."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
