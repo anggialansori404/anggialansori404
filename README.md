@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you spend your whole life waiting for the storm, you'll never enjoy the sunshine."</i>
+<i>"Never allow someone to be your priority while allowing yourself to be their option."</i>
 <br>
-<b>- Morris West</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
