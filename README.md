@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time you enjoy wasting, was not wasted."</i>
+<i>"Do something worth remembering."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
