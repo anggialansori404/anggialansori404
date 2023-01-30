@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I took a speed-reading course and read 'War and Peace' in twenty minutes. It involves Russia."</i>
+<i>"Time you enjoy wasting, was not wasted."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
