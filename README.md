@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Study logic and math, because once you've mastered them, you won't fear any book."</i>
+<i>"Amateurs sit and wait for inspiration, the rest of us just get up and got to work."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
