@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do something worth remembering."</i>
+<i>"The key to wisdom is this - constant and frequent questioning, for by doubting we are led to question and by questioning we arrive at the truth."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Peter Abelard</b>
 </blockquote>
 </p>
 
