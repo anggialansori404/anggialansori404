@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let the noise of others opinions drown out your inner voice."</i>
+<i>"If you spend your whole life waiting for the storm, you'll never enjoy the sunshine."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Morris West</b>
 </blockquote>
 </p>
 
