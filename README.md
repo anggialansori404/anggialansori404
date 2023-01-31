@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nature gave us one tongue and two ears so we could hear twice as much as we speak."</i>
+<i>"The positive thinker sees the invisible, feels the intangible, and achieves the impossible."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
