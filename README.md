@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Loss is nothing else but change, and change is Nature's delight."</i>
+<i>"I would rather be a little nobody, then to be an evil somebody."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
