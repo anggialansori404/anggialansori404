@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not what we get. But who we become, what we contribute... that gives meaning to our lives."</i>
+<i>"Loss is nothing else but change, and change is Nature's delight."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
