@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I would rather be a little nobody, then to be an evil somebody."</i>
+<i>"Being ignorant is not so much a shame, as being unwilling to learn."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
