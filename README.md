@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being ignorant is not so much a shame, as being unwilling to learn."</i>
+<i>"What loneliness is more lonely than distrust?"</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
