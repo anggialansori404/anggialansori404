@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People who belittle people, will be LITTLE people, and will accomplish very Little"</i>
+<i>"If facts are the seeds that later produce knowledge and wisdom, then the emotions and the impressions of the senses are the fertile soil in which the seeds must grow."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Rachel Carson</b>
 </blockquote>
 </p>
 
