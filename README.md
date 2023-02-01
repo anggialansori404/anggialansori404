@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The least of things with a meaning is worth more in life than the greatest of things without it."</i>
+<i>"People who belittle people, will be LITTLE people, and will accomplish very Little"</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
