@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Heal the past, live the present, dream the future."</i>
+<i>"Things may come to those who wait, but only the things left by those who hustle."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
