@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To live is to be willing to die over and over again."</i>
+<i>"The only way to 'find out if it will work out' is to do it."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
