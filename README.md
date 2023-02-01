@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever your mind can conceive and believe, it can achieve."</i>
+<i>"To live is to be willing to die over and over again."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
