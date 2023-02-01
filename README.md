@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are."</i>
+<i>"The least of things with a meaning is worth more in life than the greatest of things without it."</i>
 <br>
-<b>- Bernice Reagon</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
