@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nature is a mutable cloud which is always and never the same."</i>
+<i>"To accomplish great things, we must not only act, but also dream; not only plan, but also believe."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Anatole France</b>
 </blockquote>
 </p>
 
