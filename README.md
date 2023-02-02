@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Things that were hard to bear are sweet to remember."</i>
+<i>"Lost Time is never found again."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
