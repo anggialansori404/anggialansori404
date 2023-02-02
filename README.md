@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing so useless as doing efficiently that which should not be done at all."</i>
+<i>"While some of us act without thinking, too many of us think without acting."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
