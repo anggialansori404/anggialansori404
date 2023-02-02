@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"While some of us act without thinking, too many of us think without acting."</i>
+<i>"Not how long, but how well you have lived is the main thing."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
