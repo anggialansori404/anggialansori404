@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love doesn't make the world go round; love is what makes the ride worthwhile."</i>
+<i>"Things that were hard to bear are sweet to remember."</i>
 <br>
-<b>- Elizabeth Browning</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
