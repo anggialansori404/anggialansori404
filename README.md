@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'm tired of hearing about money, money, money, money, money. I just want to play the game, drink Pepsi, and wear Reebok."</i>
+<i>"All love that has not friendship for its base, is like a mansion built upon the sand."</i>
 <br>
-<b>- Shaquille O'Neal</b>
+<b>- Ella Wheeler Wilcox</b>
 </blockquote>
 </p>
 
