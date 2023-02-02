@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is always a sweet responsibility, never an opportunity."</i>
+<i>"Truth is exact correspondence with reality. "</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
