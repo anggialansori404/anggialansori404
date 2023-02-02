@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To accomplish great things, we must not only act, but also dream; not only plan, but also believe."</i>
+<i>"Love doesn't make the world go round; love is what makes the ride worthwhile."</i>
 <br>
-<b>- Anatole France</b>
+<b>- Elizabeth Browning</b>
 </blockquote>
 </p>
 
