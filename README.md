@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your attitude, not your aptitude, will determine your altitude."</i>
+<i>"What would life be if we had no courage to attempt anything? "</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
