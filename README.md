@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every failure brings with it the seed of an equivalent success."</i>
+<i>"Before you put on a frown, make absolutely sure there are no smiles available."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- James M. Beggs</b>
 </blockquote>
 </p>
 
