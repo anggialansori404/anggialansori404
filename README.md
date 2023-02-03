@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success in any endeavor depends on the degree to which it is an expression of your true self. "</i>
+<i>"Trying to define yourself is like trying to bite your own teeth."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
