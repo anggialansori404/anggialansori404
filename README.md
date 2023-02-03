@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship without self-interest is one of the rare and beautiful things of life."</i>
+<i>"Your attitude, not your aptitude, will determine your altitude."</i>
 <br>
-<b>- James F. Byrnes</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
