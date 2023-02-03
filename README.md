@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Decision is a risk rooted in the courage of being free."</i>
+<i>"Every failure brings with it the seed of an equivalent success."</i>
 <br>
-<b>- Paul Tillich</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
