@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The least movement is of importance to all nature. The entire ocean is affected by a pebble."</i>
+<i>"Friendship without self-interest is one of the rare and beautiful things of life."</i>
 <br>
-<b>- Blaise Pascal</b>
+<b>- James F. Byrnes</b>
 </blockquote>
 </p>
 
