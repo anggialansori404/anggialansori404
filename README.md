@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If one is lucky, a solitary fantasy can totally transform one million realities."</i>
+<i>"Time goes from present to past."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
