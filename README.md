@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are more people who wish to be loved than there are who are willing to love. "</i>
+<i>"In order to control myself I must first accept myself by going with and not against my nature."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
