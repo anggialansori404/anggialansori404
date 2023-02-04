@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle."</i>
+<i>"Each day provides its own gifts."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
