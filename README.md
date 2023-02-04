@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In order to control myself I must first accept myself by going with and not against my nature."</i>
+<i>"Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
