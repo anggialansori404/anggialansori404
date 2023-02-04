@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you know yourself, the more you forgive yourself."</i>
+<i>"If one is lucky, a solitary fantasy can totally transform one million realities."</i>
 <br>
-<b>- Confucius</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
