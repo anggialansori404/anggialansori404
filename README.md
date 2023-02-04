@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every day do something that will inch you closer to a better tomorrow."</i>
+<i>"There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle."</i>
 <br>
-<b>- Unknown</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
