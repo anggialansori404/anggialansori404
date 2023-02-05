@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are content to be simply yourself and don't compare or compete, everybody will respect you."</i>
+<i>"They must often change, who would be constant in happiness or wisdom."</i>
 <br>
-<b>- Laozi</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
