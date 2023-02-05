@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing has more strength than dire necessity."</i>
+<i>"I know not age, nor weariness nor defeat."</i>
 <br>
-<b>- Euripides</b>
+<b>- Rose Kennedy</b>
 </blockquote>
 </p>
 
