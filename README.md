@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out."</i>
+<i>"To have faith is to trust yourself to the water. When you swim you don't grab hold of the water, because if you do you will sink and drown. Instead you relax, and float."</i>
 <br>
-<b>- Walter Benjamin</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
