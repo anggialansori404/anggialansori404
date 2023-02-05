@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nourish the mind like you would your body. The mind cannot survive on junk food."</i>
+<i>"Success comes to those who become success conscious."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
