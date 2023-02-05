@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The chief danger in life is that you may take too many precautions."</i>
+<i>"Be the silent watcher of your thoughts and behavior. You are beneath the thinker."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
