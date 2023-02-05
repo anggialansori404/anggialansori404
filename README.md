@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I know not age, nor weariness nor defeat."</i>
+<i>"The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out."</i>
 <br>
-<b>- Rose Kennedy</b>
+<b>- Walter Benjamin</b>
 </blockquote>
 </p>
 
