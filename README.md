@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All our dreams can come true, if we have the courage to pursue them."</i>
+<i>"The meaning of life is that it stops."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
