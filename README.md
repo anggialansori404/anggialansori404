@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives."</i>
+<i>"In the sweetness of friendship let there be laughter and sharing of pleasures. For in the dew of little things the heart finds its morning and is refreshed."</i>
 <br>
-<b>- Betty White</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
