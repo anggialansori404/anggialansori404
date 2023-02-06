@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you cannot do great things, do small things in a great way."</i>
+<i>"A Rolling Stone Gathers No Moss."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
