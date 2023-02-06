@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the sweetness of friendship let there be laughter and sharing of pleasures. For in the dew of little things the heart finds its morning and is refreshed."</i>
+<i>"If you cannot do great things, do small things in a great way."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
