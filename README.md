@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Either get busy living or get busy dying."</i>
+<i>"Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigor of the mind."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
