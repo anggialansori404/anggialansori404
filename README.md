@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be slow in choosing a friend, slower in changing."</i>
+<i>"Either get busy living or get busy dying."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
