@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigor of the mind."</i>
+<i>"In the sky, there is no distinction of east and west; people create distinctions out of their own minds and then believe them to be true."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
