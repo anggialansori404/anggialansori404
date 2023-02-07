@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You teach best what you most need to learn."</i>
+<i>"Not how long, but how well you have lived is the main thing."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
