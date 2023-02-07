@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not conquer self, you will be conquered by self."</i>
+<i>"The greatest of all mistakes is to do nothing because you think you can only do a little.  "</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
