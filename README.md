@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friends show their love in times of trouble, not in happiness."</i>
+<i>"If you do not conquer self, you will be conquered by self."</i>
 <br>
-<b>- Euripides</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
