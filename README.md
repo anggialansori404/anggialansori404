@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The meaning of life is that it stops."</i>
+<i>"Be slow in choosing a friend, slower in changing."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
