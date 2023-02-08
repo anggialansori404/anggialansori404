@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who has imagination without learning has wings but no feet."</i>
+<i>"Happiness is only real, when shared."</i>
 <br>
-<b>- Joseph Joubert</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
