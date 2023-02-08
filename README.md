@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want things to be different, perhaps the answer is to become different yourself."</i>
+<i>"The degree of responsibility you take for your life determines how much change you can create in it."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
