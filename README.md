@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest treasures are those invisible to the eye but found by the heart."</i>
+<i>"He who has imagination without learning has wings but no feet."</i>
 <br>
-<b>- Judy Garland</b>
+<b>- Joseph Joubert</b>
 </blockquote>
 </p>
 
