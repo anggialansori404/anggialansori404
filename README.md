@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness."</i>
+<i>"One's friends are that part of the human race with which one can be human."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- George Santayana</b>
 </blockquote>
 </p>
 
