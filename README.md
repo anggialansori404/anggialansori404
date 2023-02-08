@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What lies behind us and what lies before us are small matters compared to what lies within us."</i>
+<i>"Experience keeps a dear school, but fools will learn in no other."</i>
 <br>
-<b>- Oliver Wendell Holmes Jr.</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
