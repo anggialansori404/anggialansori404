@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only way to 'find out if it will work out' is to do it."</i>
+<i>"The greatest treasures are those invisible to the eye but found by the heart."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
