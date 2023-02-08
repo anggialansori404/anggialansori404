@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're not making mistakes, then you're not doing anything."</i>
+<i>"If you want things to be different, perhaps the answer is to become different yourself."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
