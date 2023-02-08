@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life a culmination of the past, an awareness of the present, an indication of the future beyond knowledge, the quality that gives a touch of divinity to matter."</i>
+<i>"What lies behind us and what lies before us are small matters compared to what lies within us."</i>
 <br>
-<b>- Charles Lindbergh</b>
+<b>- Oliver Wendell Holmes Jr.</b>
 </blockquote>
 </p>
 
