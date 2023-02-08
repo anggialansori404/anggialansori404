@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One's friends are that part of the human race with which one can be human."</i>
+<i>"Pleasure can be supported by an illusion; but happiness rests upon truth. "</i>
 <br>
-<b>- George Santayana</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
