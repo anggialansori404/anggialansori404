@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you have one true friend, you have more than your share."</i>
+<i>"Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better."</i>
 <br>
-<b>- Thomas Fuller</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
