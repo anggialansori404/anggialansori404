@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Permanence, perseverance and persistence in spite of all obstacles, discouragements, and impossibilities: It is this, that in all things distinguishes the strong soul from the weak."</i>
+<i>"Do all things with love."</i>
 <br>
-<b>- Thomas Carlyle</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
