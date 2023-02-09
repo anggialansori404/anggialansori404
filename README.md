@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who is fixed to a star does not change his mind."</i>
+<i>"Your work is to discover your work and then with all your heart to give yourself to it."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
