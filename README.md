@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I care not so much what I am to others as what I am to myself. I will be rich by myself, and not by borrowing."</i>
+<i>"My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand."</i>
 <br>
-<b>- Michel de Montaigne</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
