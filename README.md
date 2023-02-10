@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you think adventure is dangerous, try routine; it is lethal."</i>
+<i>"Great minds discuss ideas. Average minds discuss events. Small minds discuss people."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
