@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't know who is important to you until you actually lose them."</i>
+<i>"In order to attain the impossible, one must attempt the absurd."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
