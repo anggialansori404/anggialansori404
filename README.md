@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In order to attain the impossible, one must attempt the absurd."</i>
+<i>"An ounce of emotion is equal to a ton of facts."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- John Junor</b>
 </blockquote>
 </p>
 
