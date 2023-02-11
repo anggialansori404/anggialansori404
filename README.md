@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stay away from what might have been and look at what will be."</i>
+<i>"I took a speed-reading course and read 'War and Peace' in twenty minutes. It involves Russia."</i>
 <br>
-<b>- Marsha Petrie Sue</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
