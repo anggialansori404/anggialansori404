@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ability to observe without evaluating is the highest form of intelligence."</i>
+<i>"Anyone who has ever made anything of importance was disciplined."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Andrew Hendrixson</b>
 </blockquote>
 </p>
 
