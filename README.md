@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I took a speed-reading course and read 'War and Peace' in twenty minutes. It involves Russia."</i>
+<i>"The only way to make sense out of change is to plunge into it, move with it, and join the dance."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
