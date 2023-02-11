@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes a change of perspective is all it takes to see the light."</i>
+<i>"In three words I can sum up everything I've learned about life: it goes on."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
