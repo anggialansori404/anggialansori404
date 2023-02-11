@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who has ever made anything of importance was disciplined."</i>
+<i>"The secret of life is to fall seven times and to get up eight times."</i>
 <br>
-<b>- Andrew Hendrixson</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
