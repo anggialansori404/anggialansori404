@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great minds discuss ideas. Average minds discuss events. Small minds discuss people."</i>
+<i>"Never allow someone to be your priority while allowing yourself to be their option."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
