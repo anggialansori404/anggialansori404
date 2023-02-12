@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is startling to realize how much unbelief is necessary to make belief possible."</i>
+<i>"Your best life will not be found in comfort. It will be found in fighting for what you believe in."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
