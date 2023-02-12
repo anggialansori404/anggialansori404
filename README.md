@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything that happens as it should, and if you observe carefully, you will find this to be so."</i>
+<i>"It is startling to realize how much unbelief is necessary to make belief possible."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
