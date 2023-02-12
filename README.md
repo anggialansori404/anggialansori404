@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too."</i>
+<i>"Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Melody Beattie</b>
 </blockquote>
 </p>
 
