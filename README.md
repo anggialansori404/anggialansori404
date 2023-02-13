@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A hut full of laughter is richer than a palace full of sadness."</i>
+<i>"Love is the wisdom of the fool and the folly of the wise."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Samuel Johnson</b>
 </blockquote>
 </p>
 
