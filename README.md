@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is the price that life exacts for granting peace."</i>
+<i>"The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
