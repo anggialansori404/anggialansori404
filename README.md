@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"On the other side of the clouds is a bright blue sky."</i>
+<i>"Never allow a person to tell you no who doesn't have the power to say yes."</i>
 <br>
-<b>- Unknown</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
