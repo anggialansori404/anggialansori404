@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Gratitude is the fairest blossom which springs from the soul."</i>
+<i>"Every human being is the author of his own health or disease."</i>
 <br>
-<b>- Henry K. Beecher</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
