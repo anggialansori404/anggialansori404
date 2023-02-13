@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every human being is the author of his own health or disease."</i>
+<i>"The best revenge is to be unlike him who performed the injury."</i>
 <br>
-<b>- Buddha</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
