@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Showing off is the fool's idea of glory. "</i>
+<i>"On the other side of the clouds is a bright blue sky."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
