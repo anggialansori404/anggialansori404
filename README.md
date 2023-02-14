@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart."</i>
+<i>"He that respects himself is safe from others; he wears a coat of mail that none can pierce."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Henry Wadsworth Longfellow</b>
 </blockquote>
 </p>
 
