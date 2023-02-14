@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be in harmony with the wholeness of things is not to have anxiety over imperfections."</i>
+<i>"Knowledge without justice ought to be called cunning rather than wisdom."</i>
 <br>
-<b>- Dogen</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
