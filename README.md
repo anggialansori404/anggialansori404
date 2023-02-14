@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Shoot for the moon, because even if you miss, you'll land among the stars."</i>
+<i>"Success is stumbling from failure to failure with no loss of enthusiasm."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
