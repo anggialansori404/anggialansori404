@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Outstanding people have one thing in common: an absolute sense of mission.  "</i>
+<i>"Change in all things is sweet."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
