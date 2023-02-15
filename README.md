@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do."</i>
+<i>"Nothing great was ever achieved without enthusiasm."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
