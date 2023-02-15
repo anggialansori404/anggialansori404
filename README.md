@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never close your lips to those whom you have already opened your heart."</i>
+<i>"Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
