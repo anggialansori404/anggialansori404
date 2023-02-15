@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Champions keep playing until they get it right."</i>
+<i>"Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us."</i>
 <br>
-<b>- Billie Jean King</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
