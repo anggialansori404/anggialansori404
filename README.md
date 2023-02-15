@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful."</i>
+<i>"Remembering a wrong is like carrying a burden on the mind."</i>
 <br>
-<b>- Albert Schweitzer</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
