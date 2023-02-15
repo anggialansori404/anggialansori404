@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge without justice ought to be called cunning rather than wisdom."</i>
+<i>"Never close your lips to those whom you have already opened your heart."</i>
 <br>
-<b>- Plato</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
