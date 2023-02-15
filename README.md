@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must learn to live together as brothers or perish together as fools."</i>
+<i>"What wisdom can you find that is greater than kindness?"</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Jean-Jacques Rousseau</b>
 </blockquote>
 </p>
 
