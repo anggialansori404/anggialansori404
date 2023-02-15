@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The longer we dwell on our misfortunes, the greater is their power to harm us."</i>
+<i>"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Albert Schweitzer</b>
 </blockquote>
 </p>
 
