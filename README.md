@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What wisdom can you find that is greater than kindness?"</i>
+<i>"Champions keep playing until they get it right."</i>
 <br>
-<b>- Jean-Jacques Rousseau</b>
+<b>- Billie Jean King</b>
 </blockquote>
 </p>
 
