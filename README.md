@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The doors of wisdom are never shut."</i>
+<i>"As you walk down the fairway of life you must smell the roses, for you only get to play one round."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Ben Hogan</b>
 </blockquote>
 </p>
 
