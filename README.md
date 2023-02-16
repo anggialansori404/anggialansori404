@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way you see people is the way you treat them, and the way you treat them is what they become."</i>
+<i>"There are many ways of going forward, but only one way of standing still."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
