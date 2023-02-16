@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you spend too much time thinking about a thing, you'll never get it done."</i>
+<i>"When you lose your desire for things that do not matter, you will be free."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
