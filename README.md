@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All things change; nothing perishes."</i>
+<i>"The way you see people is the way you treat them, and the way you treat them is what they become."</i>
 <br>
-<b>- Ovid</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
