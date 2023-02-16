@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you aren't sure which way to do something, do it both ways and see which works better."</i>
+<i>"You may think I'm small, but I have a universe inside my mind."</i>
 <br>
-<b>- John Carmack</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
