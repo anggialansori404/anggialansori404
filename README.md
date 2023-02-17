@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour."</i>
+<i>"A friendship founded on business is better than a business founded on friendship."</i>
 <br>
-<b>- Mary Kay Ash</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
