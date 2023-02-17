@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your purpose will be clear only when you listen to your heart."</i>
+<i>"For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Mary Kay Ash</b>
 </blockquote>
 </p>
 
