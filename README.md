@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Constantly think about how you could be doing things better."</i>
+<i>"Your purpose will be clear only when you listen to your heart."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
