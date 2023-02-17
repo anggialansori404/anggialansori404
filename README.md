@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a series of choices and all we can do is make them."</i>
+<i>"Constantly think about how you could be doing things better."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
