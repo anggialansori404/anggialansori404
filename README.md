@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't just sit there. Do something. The answers will follow."</i>
+<i>"Embody what you teach, and teach only what you have embodied."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
