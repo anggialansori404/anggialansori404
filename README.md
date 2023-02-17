@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A friendship founded on business is better than a business founded on friendship."</i>
+<i>"He who is not contented with what he has, would not be contented with what he would like to have."</i>
 <br>
-<b>- John Locke</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
