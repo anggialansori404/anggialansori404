@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Embody what you teach, and teach only what you have embodied."</i>
+<i>"Life is a series of choices and all we can do is make them."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
