@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you rise in the morning, form a resolution to make the day a happy one for a fellow creature."</i>
+<i>"Myths which are believed in tend to become true."</i>
 <br>
-<b>- Sydney Smith</b>
+<b>- George Orwell</b>
 </blockquote>
 </p>
 
