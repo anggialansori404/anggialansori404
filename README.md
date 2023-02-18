@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is only when the mind and character slumber that the dress can be seen."</i>
+<i>"Only I can change my life. No one can do it for me."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
