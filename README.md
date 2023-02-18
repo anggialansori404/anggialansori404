@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your talent is God's gift to you. What you do with it is your gift back to God."</i>
+<i>"It is only when the mind and character slumber that the dress can be seen."</i>
 <br>
-<b>- Leo Buscaglia</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
