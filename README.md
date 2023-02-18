@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people don't like change, but you need to embrace change if the alternative is disaster."</i>
+<i>"Your talent is God's gift to you. What you do with it is your gift back to God."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Leo Buscaglia</b>
 </blockquote>
 </p>
 
