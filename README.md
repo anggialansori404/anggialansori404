@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Loyalty and friendship are the most precious possessions a man can have."</i>
+<i>"Everyone has been made for some particular work, and the desire for that work has been put in every heart."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
