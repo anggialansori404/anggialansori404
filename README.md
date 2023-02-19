@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We think too much and feel too little."</i>
+<i>"In the middle of every difficulty lies opportunity."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
