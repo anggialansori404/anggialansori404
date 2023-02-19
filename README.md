@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quality, not the longevity, of one's life is what is important."</i>
+<i>"Our work is the presentation of our capabilities."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Edward Gibbon</b>
 </blockquote>
 </p>
 
