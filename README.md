@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be great in act, as you have been in thought."</i>
+<i>"Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
