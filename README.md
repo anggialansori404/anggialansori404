@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Two persons cannot long be friends if they cannot forgive each other's little failings."</i>
+<i>"Yesterday is history. Tomorrow is a mystery. And today? Today is a gift. That is why we call it the present."</i>
 <br>
-<b>- Jean de La Bruyère</b>
+<b>- Babatunde Olatunji</b>
 </blockquote>
 </p>
 
