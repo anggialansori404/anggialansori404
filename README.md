@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must become the change we want to see."</i>
+<i>"So then, the relationship of self to other is the complete realization that loving yourself is impossible without loving everything defined as other than yourself."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
