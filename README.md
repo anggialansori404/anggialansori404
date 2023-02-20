@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"So then, the relationship of self to other is the complete realization that loving yourself is impossible without loving everything defined as other than yourself."</i>
+<i>"All I required to be happy was friendship and people I could admire."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Christian Dior</b>
 </blockquote>
 </p>
 
