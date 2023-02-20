@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All I required to be happy was friendship and people I could admire."</i>
+<i>"If we open a quarrel between past and present, we shall find that we have lost the future."</i>
 <br>
-<b>- Christian Dior</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
