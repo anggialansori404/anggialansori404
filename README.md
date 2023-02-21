@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ladder of success is best climbed by stepping on the rungs of opportunity."</i>
+<i>"Love cures people - both the ones who give it and the ones who receive it."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Karl Menninger</b>
 </blockquote>
 </p>
 
