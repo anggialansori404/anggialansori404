@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution."</i>
+<i>"The ladder of success is best climbed by stepping on the rungs of opportunity."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
