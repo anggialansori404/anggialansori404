@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"However difficult life may seem, there is always something you can do and succeed at."</i>
+<i>"All wisdom does not reside in Delhi."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- P. Chidambaram</b>
 </blockquote>
 </p>
 
