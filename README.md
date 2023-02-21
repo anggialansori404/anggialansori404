@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot control the behavior of others, but you can always choose how you respond to it."</i>
+<i>"All that we see or seem is but a dream within a dream."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
