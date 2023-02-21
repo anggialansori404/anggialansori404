@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learning is a gift, even when pain is your teacher."</i>
+<i>"The key is to keep company only with people who uplift you, whose presence calls forth your best."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
