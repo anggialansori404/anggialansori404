@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You know the more one does the more one can do."</i>
+<i>"Great minds discuss ideas; average minds discuss events; small minds discuss people."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
