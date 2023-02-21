@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be beautiful means to be yourself. You don't need to be accepted by others. You need to accept yourself."</i>
+<i>"You cannot control the behavior of others, but you can always choose how you respond to it."</i>
 <br>
-<b>- Thích Nhất Hạnh</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
