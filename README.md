@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quality is never an accident; it is always the result of intelligent effort."</i>
+<i>"Not doing it is certainly the best way to not getting it.  "</i>
 <br>
-<b>- John Ruskin</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
