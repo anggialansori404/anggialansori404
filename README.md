@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Longevity is a fleeting moment that lasts forever."</i>
+<i>"The sum of wisdom is that time is never lost that is devoted to work."</i>
 <br>
-<b>- Vidal Sassoon</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
