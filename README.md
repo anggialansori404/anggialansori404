@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We gain the strength of the temptation we resist."</i>
+<i>"People who say it cannot be done should not interrupt those who are doing it."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
