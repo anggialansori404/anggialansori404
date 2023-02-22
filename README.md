@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The sum of wisdom is that time is never lost that is devoted to work."</i>
+<i>"To accomplish big things, I am convinced you must first dream big dreams."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Conrad Hilton</b>
 </blockquote>
 </p>
 
