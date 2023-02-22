@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We never understand how little we need in this world until we know the loss of it."</i>
+<i>"Attitude drives actions. Actions drive results. Results drive lifestyles."</i>
 <br>
-<b>- J. M. Barrie</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
