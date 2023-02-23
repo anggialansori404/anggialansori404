@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never argue with stupid people, they will drag you down to their level and then beat you with experience."</i>
+<i>"True friendship multiplies the good in life and divides its evils. Strive to have friends, for life without friends is like life on a desert island... to find one real friend in a lifetime is good fortune; to keep him is a blessing."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Baltasar Gracián</b>
 </blockquote>
 </p>
 
