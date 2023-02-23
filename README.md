@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Things do not happen. Things are made to happen."</i>
+<i>"He that is giddy thinks the world turns round."</i>
 <br>
-<b>- John F. Kennedy</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
