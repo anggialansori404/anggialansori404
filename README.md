@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Singleness of purpose is one of the chief essentials for success in life, no matter what may be one's aim."</i>
+<i>"You cannot change anything in your life with intention alone, which can become a watered-down, occasional hope that you'll get to tomorrow. Intention without action is useless."</i>
 <br>
-<b>- John D. Rockefeller</b>
+<b>- Caroline Myss</b>
 </blockquote>
 </p>
 
