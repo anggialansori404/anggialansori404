@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He that is giddy thinks the world turns round."</i>
+<i>"Don't allow your mind to tell your heart what to do. The mind gives up easily."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
