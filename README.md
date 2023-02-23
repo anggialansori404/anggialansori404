@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are offended at any man's fault, turn to yourself and study your own failings. Then you will forget your anger."</i>
+<i>"Never argue with stupid people, they will drag you down to their level and then beat you with experience."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
