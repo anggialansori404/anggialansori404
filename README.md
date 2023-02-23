@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The goal is not to be perfect by the end, the goal is to be better today."</i>
+<i>"A Quitter never wins - and - a Winner never quits."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
