@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't allow your mind to tell your heart what to do. The mind gives up easily."</i>
+<i>"The goal is not to be perfect by the end, the goal is to be better today."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
