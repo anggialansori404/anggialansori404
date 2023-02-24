@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your next step is simple. You are the first domino."</i>
+<i>"Adventure is not outside man; it is within."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
