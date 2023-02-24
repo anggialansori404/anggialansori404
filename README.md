@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Adventure is not outside man; it is within."</i>
+<i>"Eternal nothingness is fine if you happen to be dressed for it."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
