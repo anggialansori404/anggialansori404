@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man is a volume if you know how to read him."</i>
+<i>"Do you know what my favorite part of the game is? The opportunity to play."</i>
 <br>
-<b>- William Ellery Channing</b>
+<b>- Mike Singletary (basketball)</b>
 </blockquote>
 </p>
 
