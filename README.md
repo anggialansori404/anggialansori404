@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never buy a thing you do not want, because it is cheap, it will be dear to you."</i>
+<i>"Every man is a volume if you know how to read him."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- William Ellery Channing</b>
 </blockquote>
 </p>
 
