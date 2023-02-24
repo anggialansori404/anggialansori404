@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Eternal nothingness is fine if you happen to be dressed for it."</i>
+<i>"If you want things to be different, perhaps the answer is to become different yourself."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
