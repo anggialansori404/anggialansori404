@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To plant a garden is to believe in tomorrow.  "</i>
+<i>"A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
