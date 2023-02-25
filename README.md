@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing."</i>
+<i>"Words, once they are printed, have a life of their own."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
