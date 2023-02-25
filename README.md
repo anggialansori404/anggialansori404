@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The doorstep to the temple of wisdom is a knowledge of our own ignorance."</i>
+<i>"You are the only person on earth who can use your ability."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
