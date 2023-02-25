@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning."</i>
+<i>"When people are like each other they tend to like each other."</i>
 <br>
-<b>- Laozi</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
