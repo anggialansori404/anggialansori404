@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words, once they are printed, have a life of their own."</i>
+<i>"A long habit of not thinking a thing wrong gives it a superficial appearance of being right."</i>
 <br>
-<b>- Carol Burnett</b>
+<b>- Thomas Paine</b>
 </blockquote>
 </p>
 
