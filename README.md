@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are dark shadows on the earth, but its lights are stronger in the contrast."</i>
+<i>"Health is the greatest of all possessions."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
