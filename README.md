@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life happens in the river, not the shore."</i>
+<i>"You must be willing to do what others won't do, to have what others won't have."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
