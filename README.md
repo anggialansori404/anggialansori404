@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is a magnet in your heart that will attract true friends. That magnet is unselfishness, thinking of others first; when you learn to live for others, they will live for you."</i>
+<i>"He that respects himself is safe from others; he wears a coat of mail that none can pierce."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Henry Wadsworth Longfellow</b>
 </blockquote>
 </p>
 
