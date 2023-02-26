@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest part of our happiness depends on our dispositions, not our circumstances."</i>
+<i>"When a thing is done, it's done. Don't look back. Look forward to your next objective."</i>
 <br>
-<b>- Martha Washington</b>
+<b>- George Marshall</b>
 </blockquote>
 </p>
 
