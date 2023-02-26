@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must be willing to do what others won't do, to have what others won't have."</i>
+<i>"It is during our darkest moments that we must focus to see the light."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
