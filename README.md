@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You and I are all as much continuous with the physical universe as a wave is continuous with the ocean."</i>
+<i>"Finding good players is easy. Getting them to play as a team is another story."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Casey Stengel</b>
 </blockquote>
 </p>
 
