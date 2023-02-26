@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The past has no power to stop you from being present now. Only your grievance about the past can do that."</i>
+<i>"You and I are all as much continuous with the physical universe as a wave is continuous with the ocean."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
