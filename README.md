@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success consists of going from failure to failure without loss of enthusiasm."</i>
+<i>"This is the whole point of technology. It creates an appetite for immortality on the one hand. It threatens universal extinction on the other. Technology is lust removed from nature."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Don DeLillo</b>
 </blockquote>
 </p>
 
