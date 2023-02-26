@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you accept the expectations of others, especially negative ones, then you never will change the outcome."</i>
+<i>"The greatest part of our happiness depends on our dispositions, not our circumstances."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Martha Washington</b>
 </blockquote>
 </p>
 
