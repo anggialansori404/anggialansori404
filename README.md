@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Pure, holy simplicity confounds all the wisdom of this world and the wisdom of the flesh."</i>
+<i>"The universe doesn't allow perfection."</i>
 <br>
-<b>- Francis of Assisi</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
