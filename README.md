@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the depth of winter, I finally learned that there was within me an invincible summer."</i>
+<i>"Don't look back. Something might be gaining on you."</i>
 <br>
-<b>- Albert Camus</b>
+<b>- Satchel Paige</b>
 </blockquote>
 </p>
 
