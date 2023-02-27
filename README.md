@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The weak can never forgive. Forgiveness is the attribute of the strong."</i>
+<i>"It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
