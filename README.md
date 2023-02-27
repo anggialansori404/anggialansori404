@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not the knowing that is difficult, but the doing. "</i>
+<i>"Pure, holy simplicity confounds all the wisdom of this world and the wisdom of the flesh."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Francis of Assisi</b>
 </blockquote>
 </p>
 
