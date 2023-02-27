@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"This is the whole point of technology. It creates an appetite for immortality on the one hand. It threatens universal extinction on the other. Technology is lust removed from nature."</i>
+<i>"The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers."</i>
 <br>
-<b>- Don DeLillo</b>
+<b>- Thích Nhất Hạnh</b>
 </blockquote>
 </p>
 
