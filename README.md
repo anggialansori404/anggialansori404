@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only put off until tomorrow what you are willing to die having left undone."</i>
+<i>"Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
