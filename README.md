@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't blame others. it won't make you a better person."</i>
+<i>"It seemed the world was divided into good and bad people. The good ones slept better... while the bad ones seemed to enjoy the waking hours much more."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
