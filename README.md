@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever your heart clings to and confides in, that is really your God."</i>
+<i>"Memory is the mother of all wisdom."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Samuel Johnson</b>
 </blockquote>
 </p>
 
