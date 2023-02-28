@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sustaining true friendship is a lot more challenging than we give it credit for."</i>
+<i>"If one is lucky, a solitary fantasy can totally transform one million realities."</i>
 <br>
-<b>- Mariella Frostrup</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
