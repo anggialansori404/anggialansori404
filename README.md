@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Memory is the mother of all wisdom."</i>
+<i>"If you chase two rabbits, you catch none."</i>
 <br>
-<b>- Samuel Johnson</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
