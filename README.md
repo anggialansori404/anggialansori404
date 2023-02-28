@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you chase two rabbits, you catch none."</i>
+<i>"Knowing yourself is the beginning of all wisdom."</i>
 <br>
-<b>- Confucius</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
