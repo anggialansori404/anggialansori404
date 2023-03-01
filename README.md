@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Compassion and happiness are not a sign of weakness but a sign of strength."</i>
+<i>"High thoughts must have high language."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
