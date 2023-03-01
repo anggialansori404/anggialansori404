@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man must be big enough to admit his mistakes, smart enough to profit from them, and strong enough to correct them."</i>
+<i>"Begin at once to live, and count each separate day as a separate life.  "</i>
 <br>
-<b>- John C. Maxwell</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
