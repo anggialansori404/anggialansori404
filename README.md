@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"High thoughts must have high language."</i>
+<i>"Reality does not conform to the ideal but confirms it."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Gustave Flaubert</b>
 </blockquote>
 </p>
 
