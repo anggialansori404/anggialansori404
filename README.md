@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A business that makes nothing but money is a poor business."</i>
+<i>"Attitude, not aptitude, determines altitude.  "</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
