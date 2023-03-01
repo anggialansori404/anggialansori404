@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Attitude, not aptitude, determines altitude.  "</i>
+<i>"Do something wonderful, people may imitate it."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Albert Schweitzer</b>
 </blockquote>
 </p>
 
