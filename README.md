@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do something wonderful, people may imitate it."</i>
+<i>"It's better to dance than to march through life."</i>
 <br>
-<b>- Albert Schweitzer</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
