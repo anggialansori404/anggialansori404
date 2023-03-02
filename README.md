@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you have made mistakes, there is always another chance for you. You may have a fresh start any moment you choose."</i>
+<i>"If you're not making mistakes, then you're not doing anything."</i>
 <br>
-<b>- Mary Pickford</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
