@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reality does not conform to the ideal but confirms it."</i>
+<i>"Science and technology revolutionize our lives, but memory, tradition and myth frame our response."</i>
 <br>
-<b>- Gustave Flaubert</b>
+<b>- Arthur M. Schlesinger Jr.</b>
 </blockquote>
 </p>
 
