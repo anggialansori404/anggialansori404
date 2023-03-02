@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You play the hand you're dealt. I think the game's worthwhile.  "</i>
+<i>"If you have made mistakes, there is always another chance for you. You may have a fresh start any moment you choose."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Mary Pickford</b>
 </blockquote>
 </p>
 
