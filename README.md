@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Science and technology revolutionize our lives, but memory, tradition and myth frame our response."</i>
+<i>"Human behavior flows from three main sources: desire, emotion, and knowledge."</i>
 <br>
-<b>- Arthur M. Schlesinger Jr.</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
