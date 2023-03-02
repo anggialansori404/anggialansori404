@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fine words and an insinuating appearance are seldom associated with true virtue"</i>
+<i>"All men have a sweetness in their life. That is what helps them go on. It is towards that they turn when they feel too worn out."</i>
 <br>
-<b>- Confucius</b>
+<b>- Albert Camus</b>
 </blockquote>
 </p>
 
