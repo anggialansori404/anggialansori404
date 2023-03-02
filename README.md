@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Human behavior flows from three main sources: desire, emotion, and knowledge."</i>
+<i>"Fine words and an insinuating appearance are seldom associated with true virtue"</i>
 <br>
-<b>- Plato</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
