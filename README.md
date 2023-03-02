@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like a wheel. Sooner or later, it always comes around to where you started again."</i>
+<i>"Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
