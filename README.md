@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our doubts are traitors and make us lose the good we often might win, by fearing to attempt."</i>
+<i>"By failing to prepare, you are preparing to fail."</i>
 <br>
-<b>- Jane Addams</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
