@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I cannot make my days longer, so I strive to make them better."</i>
+<i>"Technology presumes there's just one right way to do things and there never is."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Robert M. Pirsig</b>
 </blockquote>
 </p>
 
