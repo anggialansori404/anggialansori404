@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is not the absence of fear, but simply moving on with dignity despite that fear."</i>
+<i>"Set your goals high, and don't stop till you get there."</i>
 <br>
-<b>- Pat Riley</b>
+<b>- Bo Jackson</b>
 </blockquote>
 </p>
 
