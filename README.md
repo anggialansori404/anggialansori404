@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're not making mistakes, then you're not doing anything."</i>
+<i>"Don't give up the fight, Stand up for your rights."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
