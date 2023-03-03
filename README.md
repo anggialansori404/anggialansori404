@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only way it gets better for you is when you get better. Better is not something you wish, it's something you become."</i>
+<i>"Do not wait; the time will never be 'just right.' Start where you stand, and work with whatever tools you may have at your command, and better tools will be found as you go along."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- George Herbert</b>
 </blockquote>
 </p>
 
