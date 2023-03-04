@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your neighbor is the man who needs you."</i>
+<i>"Peace begins with a smile."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
