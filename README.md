@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no charm equal to tenderness of heart."</i>
+<i>"So long as a person is capable of self-renewal they are a living being."</i>
 <br>
-<b>- Jane Austen</b>
+<b>- Henri-Frédéric Amiel</b>
 </blockquote>
 </p>
 
