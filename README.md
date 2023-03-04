@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"So long as a person is capable of self-renewal they are a living being."</i>
+<i>"Opportunity comes when you continually push forward."</i>
 <br>
-<b>- Henri-Frédéric Amiel</b>
+<b>- Sonia Ricotti</b>
 </blockquote>
 </p>
 
