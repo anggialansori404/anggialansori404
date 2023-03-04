@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"See the positive side, the potential, and make an effort."</i>
+<i>"Follow your instincts. That is where true wisdom manifests itself."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
