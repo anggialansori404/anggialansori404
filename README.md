@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Attitude is a little thing that makes a big difference."</i>
+<i>"See the positive side, the potential, and make an effort."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
