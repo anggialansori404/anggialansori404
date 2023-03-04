@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Follow your instincts. That is where true wisdom manifests itself."</i>
+<i>"You do not read a book for the book's sake, but for your own."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
