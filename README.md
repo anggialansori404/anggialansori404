@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not all readers are leaders, but all leaders are readers."</i>
+<i>"Start where you are. Use what you have. Do what you can."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Arthur Ashe</b>
 </blockquote>
 </p>
 
