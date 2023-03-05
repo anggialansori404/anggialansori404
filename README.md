@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Public opinion is the worst of all opinions."</i>
+<i>"Life may be full of pain but that's not an excuse to give up."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
