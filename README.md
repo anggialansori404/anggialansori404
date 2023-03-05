@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter how carefully you plan your goals they will never be more that pipe dreams unless you pursue them with gusto."</i>
+<i>"Public opinion is the worst of all opinions."</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
