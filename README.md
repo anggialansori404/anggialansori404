@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned."</i>
+<i>"Singleness of purpose is one of the chief essentials for success in life, no matter what may be one's aim."</i>
 <br>
-<b>- Buddha</b>
+<b>- John D. Rockefeller</b>
 </blockquote>
 </p>
 
