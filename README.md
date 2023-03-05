@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness depends upon ourselves."</i>
+<i>"Your very silence shows you agree."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
