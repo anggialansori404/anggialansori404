@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace begins with a smile."</i>
+<i>"Attitude drives actions. Actions drive results. Results drive lifestyles."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
