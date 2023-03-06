@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.  "</i>
+<i>"The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Anaïs Nin</b>
 </blockquote>
 </p>
 
