@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When in doubt, tell the truth."</i>
+<i>"Love your enemies, for they tell you your faults."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
