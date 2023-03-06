@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Singleness of purpose is one of the chief essentials for success in life, no matter what may be one's aim."</i>
+<i>"Think like a man of action; act like a man of thought."</i>
 <br>
-<b>- John D. Rockefeller</b>
+<b>- Henri Bergson</b>
 </blockquote>
 </p>
 
