@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A single act of kindness throws out roots in all directions, and the roots spring up and make new trees."</i>
+<i>"Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
