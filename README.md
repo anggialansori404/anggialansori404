@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Think like a man of action; act like a man of thought."</i>
+<i>"When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.  "</i>
 <br>
-<b>- Henri Bergson</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
