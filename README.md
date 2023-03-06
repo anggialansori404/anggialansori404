@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight."</i>
+<i>"First learn the meaning of what you say, and then speak."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
