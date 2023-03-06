@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery."</i>
+<i>"Find the game where you can win, and then commit your life to playing it; and play to win."</i>
 <br>
-<b>- Anaïs Nin</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
