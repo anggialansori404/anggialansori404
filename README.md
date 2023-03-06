@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything that irritates us about others can lead us to an understanding of ourselves."</i>
+<i>"The key is to keep company only with people who uplift you, whose presence calls forth your best."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
