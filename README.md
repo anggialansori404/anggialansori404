@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When a thing is done, it's done. Don't look back. Look forward to your next objective."</i>
+<i>"Everything that irritates us about others can lead us to an understanding of ourselves."</i>
 <br>
-<b>- George Marshall</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
