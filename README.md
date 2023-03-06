@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Find the game where you can win, and then commit your life to playing it; and play to win."</i>
+<i>"When a thing is done, it's done. Don't look back. Look forward to your next objective."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- George Marshall</b>
 </blockquote>
 </p>
 
