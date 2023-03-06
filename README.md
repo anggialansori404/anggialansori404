@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The key is to keep company only with people who uplift you, whose presence calls forth your best."</i>
+<i>"A single act of kindness throws out roots in all directions, and the roots spring up and make new trees."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
