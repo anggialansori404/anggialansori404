@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To the world you may be one person; but to one person you may be the world."</i>
+<i>"Friendship without self-interest is one of the rare and beautiful things of life."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- James F. Byrnes</b>
 </blockquote>
 </p>
 
