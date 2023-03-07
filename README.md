@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom."</i>
+<i>"You're never a loser until you quit trying."</i>
 <br>
-<b>- Marcel Proust</b>
+<b>- Mike Ditka</b>
 </blockquote>
 </p>
 
