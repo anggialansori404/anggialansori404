@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid to go slowly. Be afraid of stopping."</i>
+<i>"Reviewing what you have learned and learning anew, you are fit to be a teacher."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
