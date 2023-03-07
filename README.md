@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By the practice of meditation, you will find that you are carrying within your heart a portable paradise."</i>
+<i>"Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Marcel Proust</b>
 </blockquote>
 </p>
 
