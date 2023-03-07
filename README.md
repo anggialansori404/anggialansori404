@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're never a loser until you quit trying."</i>
+<i>"Cleverness is not wisdom."</i>
 <br>
-<b>- Mike Ditka</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
