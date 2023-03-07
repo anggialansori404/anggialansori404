@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reviewing what you have learned and learning anew, you are fit to be a teacher."</i>
+<i>"It is fatal to enter any war without the will to win it."</i>
 <br>
-<b>- Confucius</b>
+<b>- Douglas MacArthur</b>
 </blockquote>
 </p>
 
