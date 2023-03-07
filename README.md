@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throughout this life, you can never be certain of living long enough to take another breath."</i>
+<i>"One of the oldest human needs is having someone to wonder where you are when you don't come home at night. "</i>
 <br>
-<b>- Huang Po</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
