@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is an essence of when you are fearless, you become more creative."</i>
+<i>"You can't blame gravity for falling in love."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
