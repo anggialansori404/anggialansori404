@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There surely is in human nature an inherent propensity to extract all the good out of all the evil."</i>
+<i>"Without education, we are in a horrible and deadly danger of taking educated people seriously."</i>
 <br>
-<b>- Benjamin Haydon</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
