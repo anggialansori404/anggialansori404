@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is fatal to enter any war without the will to win it."</i>
+<i>"In action a great heart is the chief qualification. In work, a great head."</i>
 <br>
-<b>- Douglas MacArthur</b>
+<b>- Arthur Schopenhauer</b>
 </blockquote>
 </p>
 
