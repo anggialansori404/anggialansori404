@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't blame gravity for falling in love."</i>
+<i>"He that is giddy thinks the world turns round."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
