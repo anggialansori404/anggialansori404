@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is feedback. Learn from it and move on."</i>
+<i>"Go for it now. The future is promised to no one."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
