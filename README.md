@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In action a great heart is the chief qualification. In work, a great head."</i>
+<i>"Begin, be bold, and venture to be wise."</i>
 <br>
-<b>- Arthur Schopenhauer</b>
+<b>- Horace</b>
 </blockquote>
 </p>
 
