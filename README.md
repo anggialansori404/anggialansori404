@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The single most powerful asset we all have is our mind."</i>
+<i>"Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
