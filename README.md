@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex."</i>
+<i>"Wise men talk because they have something to say; fools, because they have to say something."</i>
 <br>
-<b>- Kurt Vonnegut</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
