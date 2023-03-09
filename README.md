@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The winds and waves are always on the side of the ablest navigators."</i>
+<i>"The man who makes everything that leads to happiness depends upon himself, and not upon other men, has adopted the very best plan for living happily. This is the man of moderation, the man of manly character and of wisdom."</i>
 <br>
-<b>- Edward Gibbon</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
