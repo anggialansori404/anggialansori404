@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I like the dreams of the future better than the history of the past."</i>
+<i>"Life is a succession of moments. To live each one is to succeed."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Corita Kent</b>
 </blockquote>
 </p>
 
