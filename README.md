@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Listen to what you know instead of what you fear."</i>
+<i>"The winds and waves are always on the side of the ablest navigators."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Edward Gibbon</b>
 </blockquote>
 </p>
 
