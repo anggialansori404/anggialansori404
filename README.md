@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take no thought of who is right or wrong or who is better than. Be not for or against."</i>
+<i>"Most people fail in life because they major in minor things."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
