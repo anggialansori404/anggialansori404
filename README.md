@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People don't care how much you know until they know how much you care."</i>
+<i>"Take no thought of who is right or wrong or who is better than. Be not for or against."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
