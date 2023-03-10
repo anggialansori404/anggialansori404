@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time goes from present to past."</i>
+<i>"The wise learn many things from their enemies."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
