@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I know what love is, it is because of you."</i>
+<i>"If you propose to speak, always ask yourself, is it true, is it necessary, is it kind."</i>
 <br>
-<b>- Hermann Hesse</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
