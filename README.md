@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you propose to speak, always ask yourself, is it true, is it necessary, is it kind."</i>
+<i>"A single dream is more powerful than a thousand realities."</i>
 <br>
-<b>- Buddha</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
