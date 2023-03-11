@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't settle, and don't struggle."</i>
+<i>"We never know the love of a parent till we become parents ourselves."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
