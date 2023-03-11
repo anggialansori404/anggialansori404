@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do good by stealth, and blush to find it fame."</i>
+<i>"Start with what is right rather than what is acceptable."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
