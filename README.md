@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your spirit is the true shield."</i>
+<i>"Success is never final; failure is never fatal."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Conrad Hilton</b>
 </blockquote>
 </p>
 
