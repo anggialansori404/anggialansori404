@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is what you make it. Always has been, always will be."</i>
+<i>"A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Joseph Roux</b>
 </blockquote>
 </p>
 
