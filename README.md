@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Start with what is right rather than what is acceptable."</i>
+<i>"If I know what love is, it is because of you."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Hermann Hesse</b>
 </blockquote>
 </p>
 
