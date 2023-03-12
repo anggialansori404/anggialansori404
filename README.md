@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Loyalty and friendship are the most precious possessions a man can have."</i>
+<i>"Go as far as you can see and you will see further.  "</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
