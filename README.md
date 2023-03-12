@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whoever is happy will make others happy, too."</i>
+<i>"The person born with a talent they are meant to use will find their greatest happiness in using it."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
