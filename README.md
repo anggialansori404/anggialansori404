@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Leaders think and talk about solutions. Followers think and talk about the problems."</i>
+<i>"Human beings, who are almost unique in having the ability to learn from the experience of others, are also remarkable for their apparent disinclination to do so."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Douglas Adams</b>
 </blockquote>
 </p>
 
