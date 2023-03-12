@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who dare to fail miserably can achieve greatly."</i>
+<i>"Inner peace is when you realize that, in the end, nothing matters."</i>
 <br>
-<b>- John F. Kennedy</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
