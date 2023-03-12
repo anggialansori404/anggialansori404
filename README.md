@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is never final; failure is never fatal."</i>
+<i>"Loyalty and friendship are the most precious possessions a man can have."</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
