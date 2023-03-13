@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship at first sight, like love at first sight, is said to be the only truth."</i>
+<i>"Attitude is a little thing that makes a big difference."</i>
 <br>
-<b>- Herman Melville</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
