@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life has no blessing like a prudent friend."</i>
+<i>"Time changes everything except something within us which is always surprised by change."</i>
 <br>
-<b>- Euripides</b>
+<b>- Thomas Hardy</b>
 </blockquote>
 </p>
 
