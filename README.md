@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is only one thing in the world worse than being talked about, and that is not being talked about. "</i>
+<i>"I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
