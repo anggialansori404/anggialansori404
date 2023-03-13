@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All perceiving is also thinking, all reasoning is also intuition, all observation is also invention."</i>
+<i>"Life has no blessing like a prudent friend."</i>
 <br>
-<b>- Rudolf Arnheim</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
