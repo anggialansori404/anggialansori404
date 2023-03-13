@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time changes everything except something within us which is always surprised by change."</i>
+<i>"There is only one thing in the world worse than being talked about, and that is not being talked about. "</i>
 <br>
-<b>- Thomas Hardy</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
