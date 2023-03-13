@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you think you can do a thing or think you can't do a thing, you're right."</i>
+<i>"Happiness can exist only in acceptance."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- George Orwell</b>
 </blockquote>
 </p>
 
