@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Without hard work, nothing grows but weeds."</i>
+<i>"Friendship at first sight, like love at first sight, is said to be the only truth."</i>
 <br>
-<b>- Gordon Hinckley</b>
+<b>- Herman Melville</b>
 </blockquote>
 </p>
 
