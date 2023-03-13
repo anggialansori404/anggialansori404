@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be yourself; everyone else is already taken "</i>
+<i>"All perceiving is also thinking, all reasoning is also intuition, all observation is also invention."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Rudolf Arnheim</b>
 </blockquote>
 </p>
 
