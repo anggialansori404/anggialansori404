@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever."</i>
+<i>"Wherever a man turns he can find someone who needs him."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Albert Schweitzer</b>
 </blockquote>
 </p>
 
