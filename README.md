@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness can exist only in acceptance."</i>
+<i>"It is not enough to have a good mind; the main thing is to use it well."</i>
 <br>
-<b>- George Orwell</b>
+<b>- René Descartes</b>
 </blockquote>
 </p>
 
