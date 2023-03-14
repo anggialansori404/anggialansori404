@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Write to help yourself, publish to help others."</i>
+<i>"All this worldly wisdom was once the unamiable heresy of some wise man."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
