@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The sculptor produces the beautiful statue by chipping away such parts of the marble block as are not needed - it is a process of elimination."</i>
+<i>"Write to help yourself, publish to help others."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
