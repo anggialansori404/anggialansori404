@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't set your own goals by what other people make important."</i>
+<i>"The number one cause of failure is the fear of failure."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
