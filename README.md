@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not enough to have a good mind; the main thing is to use it well."</i>
+<i>"The man who does not value himself, cannot value anything or anyone."</i>
 <br>
-<b>- René Descartes</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
