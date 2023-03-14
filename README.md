@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wherever a man turns he can find someone who needs him."</i>
+<i>"Don't set your own goals by what other people make important."</i>
 <br>
-<b>- Albert Schweitzer</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
