@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man with outward courage dares to die: a man with inner courage dares to live."</i>
+<i>"Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
