@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is stumbling from failure to failure with no loss of enthusiasm."</i>
+<i>"The sculptor produces the beautiful statue by chipping away such parts of the marble block as are not needed - it is a process of elimination."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
