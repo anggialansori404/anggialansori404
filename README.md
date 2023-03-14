@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All this worldly wisdom was once the unamiable heresy of some wise man."</i>
+<i>"You are important enough to ask and you are blessed enough to receive back."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
