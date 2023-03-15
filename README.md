@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No amount of regretting can change the past, and no amount of worrying can change the future."</i>
+<i>"It has been my experience that folks who have no vices have very few virtues."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
