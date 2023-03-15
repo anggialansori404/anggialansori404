@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It has been my experience that folks who have no vices have very few virtues."</i>
+<i>"When you realize how perfect everything is you will tilt your head back and laugh at the sky."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
