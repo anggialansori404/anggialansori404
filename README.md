@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't stop the waves, but you can learn to surf."</i>
+<i>"In life you need either inspiration or desperation."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
