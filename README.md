@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I never said it would be easy, I only said it would be worth it."</i>
+<i>"Read as you taste fruit or savor wine, or enjoy friendship, love or life."</i>
 <br>
-<b>- Mae West</b>
+<b>- George Herbert</b>
 </blockquote>
 </p>
 
