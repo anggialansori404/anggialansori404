@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you realize how perfect everything is you will tilt your head back and laugh at the sky."</i>
+<i>"What have you done today to make someone else happy?"</i>
 <br>
-<b>- Buddha</b>
+<b>- Deepam Chaterjee</b>
 </blockquote>
 </p>
 
