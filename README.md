@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The number one cause of failure is the fear of failure."</i>
+<i>"You can't stop the waves, but you can learn to surf."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
