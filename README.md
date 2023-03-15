@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your only limitations are those you set up in your mind or permit others to set up for you."</i>
+<i>"Success is nothing more than a few simple disciplines practiced every day."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
