@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not take life too seriously. You will never get out of it alive."</i>
+<i>"Silence is a source of great strength."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
