@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Read as you taste fruit or savor wine, or enjoy friendship, love or life."</i>
+<i>"You do not become good by trying to be good, but by finding the goodness that is already within you."</i>
 <br>
-<b>- George Herbert</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
