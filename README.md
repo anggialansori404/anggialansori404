@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You do not become good by trying to be good, but by finding the goodness that is already within you."</i>
+<i>"If you don't know where you are going, any road will get you there."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Lewis Carroll</b>
 </blockquote>
 </p>
 
