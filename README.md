@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't know where you are going, any road will get you there."</i>
+<i>"Look to the beauty of this day, miracles are all around you."</i>
 <br>
-<b>- Lewis Carroll</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
