@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thinking is the hardest work there is, which is probably the reason why so few engage in it."</i>
+<i>"In peace, sons bury their fathers. In war, fathers bury their sons. "</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
