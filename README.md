@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'"</i>
+<i>"Thinking is the hardest work there is, which is probably the reason why so few engage in it."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
