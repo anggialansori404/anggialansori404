@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Look to the beauty of this day, miracles are all around you."</i>
+<i>"Mistakes are the usual bridge between inexperience and wisdom."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Phyllis Grissim-Theroux</b>
 </blockquote>
 </p>
 
