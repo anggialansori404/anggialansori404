@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness depends on your mindset and attitude."</i>
+<i>"A needle is not sharp at both ends. "</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
