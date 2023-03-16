@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never allow a person to tell you no who doesn't have the power to say yes."</i>
+<i>"Do not take life too seriously. You will never get out of it alive."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
