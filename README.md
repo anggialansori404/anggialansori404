@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I can't believe that God put us on this earth to be ordinary."</i>
+<i>"He who wishes to secure the good of others, has already secured his own."</i>
 <br>
-<b>- Lou Holtz</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
