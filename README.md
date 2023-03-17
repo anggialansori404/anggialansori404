@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is too high for a man to reach, but he must climb with care and confidence"</i>
+<i>"The single most powerful asset we all have is our mind."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
