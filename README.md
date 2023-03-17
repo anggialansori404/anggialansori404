@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One friend in a lifetime is much; two are many; three are hardly possible. Friendship needs a certain parallelism of life, a community of thought, a rivalry of aim."</i>
+<i>"For it was not into my ear you whispered, but into my heart. It was not my lips you kissed, but my soul."</i>
 <br>
-<b>- Brooks Adams</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
