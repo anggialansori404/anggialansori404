@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Greatness lies not in being strong, but in the right use of strength."</i>
+<i>"All great men are gifted with intuition. They know without reasoning or analysis, what they need to know."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Alexis Carrel</b>
 </blockquote>
 </p>
 
