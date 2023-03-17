@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All great men are gifted with intuition. They know without reasoning or analysis, what they need to know."</i>
+<i>"There is no self-discovery without pain and loss."</i>
 <br>
-<b>- Alexis Carrel</b>
+<b>- Anita Krizzan</b>
 </blockquote>
 </p>
 
