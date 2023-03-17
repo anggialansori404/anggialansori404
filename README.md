@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are like islands in the sea, separate on the surface but connected in the deep."</i>
+<i>"Better to have loved and lost, than to have never loved at all."</i>
 <br>
-<b>- William James</b>
+<b>- Augustine of Hippo</b>
 </blockquote>
 </p>
 
