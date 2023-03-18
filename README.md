@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is never enough time to do everything, but there is always enough time to do the most important thing."</i>
+<i>"Fear not for the future, weep not for the past."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Percy Bysshe Shelley</b>
 </blockquote>
 </p>
 
