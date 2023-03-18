@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A wise man will be master of his mind, a fool will be its slave."</i>
+<i>"Very little is needed to make a happy life; it is all within yourself, in your way of thinking."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
