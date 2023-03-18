@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throw your heart over the bar and your body will follow."</i>
+<i>"Everything that irritates us about others can lead us to a better understanding of ourselves."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
