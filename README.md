@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Turn off your mind, relax, and float downstream."</i>
+<i>"A wise man will be master of his mind, a fool will be its slave."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
