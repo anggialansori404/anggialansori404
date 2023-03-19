@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man is made by his belief. As he believes, so he is."</i>
+<i>"Remember always that you not only have the right to be an individual, you have an obligation to be one."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
