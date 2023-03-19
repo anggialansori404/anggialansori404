@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge without justice ought to be called cunning rather than wisdom."</i>
+<i>"What loneliness is more lonely than distrust?"</i>
 <br>
-<b>- Plato</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
