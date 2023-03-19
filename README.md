@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can always count on Americans to do the right thing - after they've tried everything else."</i>
+<i>"There is some self-interest behind every friendship. There is no friendship without self-interests. This is a bitter truth."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Chanakya</b>
 </blockquote>
 </p>
 
