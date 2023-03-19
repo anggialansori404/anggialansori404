@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is some self-interest behind every friendship. There is no friendship without self-interests. This is a bitter truth."</i>
+<i>"Love is the flower you've got to let grow."</i>
 <br>
-<b>- Chanakya</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
