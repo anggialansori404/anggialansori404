@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember always that you not only have the right to be an individual, you have an obligation to be one."</i>
+<i>"Life is what you make of it. Always has been, always will be."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Grandma Moses</b>
 </blockquote>
 </p>
 
