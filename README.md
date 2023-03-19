@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is what you make of it. Always has been, always will be."</i>
+<i>"You can always count on Americans to do the right thing - after they've tried everything else."</i>
 <br>
-<b>- Grandma Moses</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
