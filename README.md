@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your talent is God's gift to you. What you do with it is your gift back to God."</i>
+<i>"You are important enough to ask and you are blessed enough to receive back."</i>
 <br>
-<b>- Leo Buscaglia</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
