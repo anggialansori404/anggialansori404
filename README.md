@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What loneliness is more lonely than distrust?"</i>
+<i>"Man is made by his belief. As he believes, so he is."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
