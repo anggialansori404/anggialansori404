@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are important enough to ask and you are blessed enough to receive back."</i>
+<i>"There is no limit to the amount of good you can do if you don't care who gets the credit."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
