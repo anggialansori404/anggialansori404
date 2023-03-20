@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Arise, slay thy enemies, enjoy a prosperous kingdom."</i>
+<i>"No one is useless in this world who lightens the burdens of another."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
