@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one is useless in this world who lightens the burdens of another."</i>
+<i>"All things must come to the soul from its roots, from where it is planted."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Teresa of Ávila</b>
 </blockquote>
 </p>
 
