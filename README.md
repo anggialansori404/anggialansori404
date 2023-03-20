@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the flower you've got to let grow."</i>
+<i>"If we open a quarrel between past and present, we shall find that we have lost the future."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
