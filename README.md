@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Longevity is a fleeting moment that lasts forever."</i>
+<i>"If you do not change direction, you may end up where you are heading."</i>
 <br>
-<b>- Vidal Sassoon</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
