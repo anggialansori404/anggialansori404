@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All things must come to the soul from its roots, from where it is planted."</i>
+<i>"A failure is a man who has blundered but is not capable of cashing in on the experience."</i>
 <br>
-<b>- Teresa of Ávila</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
