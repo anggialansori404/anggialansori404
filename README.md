@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Study the past, if you would divine the future."</i>
+<i>"Don't worry about being successful, but work toward being significant and the success will naturally follow."</i>
 <br>
-<b>- Confucius</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
