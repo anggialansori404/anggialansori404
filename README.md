@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ideals are an imaginative understanding of that which is desirable in that which is possible."</i>
+<i>"Real magic in relationships means an absence of judgement of others."</i>
 <br>
-<b>- Walter Lippmann</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
