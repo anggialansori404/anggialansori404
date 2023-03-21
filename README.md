@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't let your failures define you. You have to let your failures teach you."</i>
+<i>"When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Joseph Campbell</b>
 </blockquote>
 </p>
 
