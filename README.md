@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are far from the enemy, make him believe you are near."</i>
+<i>"Admire as much as you can. Most people do not admire enough."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
