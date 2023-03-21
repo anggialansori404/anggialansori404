@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Real magic in relationships means an absence of judgement of others."</i>
+<i>"It is impossible to experience one's death objectively and still carry a tune."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
