@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is impossible to experience one's death objectively and still carry a tune."</i>
+<i>"If you are far from the enemy, make him believe you are near."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
