@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Admire as much as you can. Most people do not admire enough."</i>
+<i>"A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
