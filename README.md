@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let the future tell the truth and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine."</i>
+<i>"Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth."</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
