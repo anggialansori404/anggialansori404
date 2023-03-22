@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All truths are easy to understand once they are discovered; the point is to discover them."</i>
+<i>"Technology is anything that wasn't around when you were born."</i>
 <br>
-<b>- Galileo Galilei</b>
+<b>- Man Ray</b>
 </blockquote>
 </p>
 
