@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love does not consist of gazing at each other, but in looking together in the same direction."</i>
+<i>"Forgive those who have hurt you."</i>
 <br>
-<b>- Antoine de Saint-Exupéry</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
