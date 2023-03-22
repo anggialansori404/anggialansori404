@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great indeed is the sublimity of the Creative, to which all beings owe their beginning, and which permeates all heaven."</i>
+<i>"All truths are easy to understand once they are discovered; the point is to discover them."</i>
 <br>
-<b>- Laozi</b>
+<b>- Galileo Galilei</b>
 </blockquote>
 </p>
 
