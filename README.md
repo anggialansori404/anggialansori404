@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep your dreams, you never know when you might need them."</i>
+<i>"Don't stumble over something that's behind you."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
