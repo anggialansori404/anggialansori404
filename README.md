@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make improvements, not excuses. Seek respect, not attention."</i>
+<i>"Human beings believe just as they breathe - in order to survive."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
