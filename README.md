@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways."</i>
+<i>"I'm not interested in age. People who tell me their age are silly. You're as old as you feel."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Elizabeth Arden</b>
 </blockquote>
 </p>
 
