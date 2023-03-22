@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Science can flourish only in an atmosphere of free speech. "</i>
+<i>"Love does not consist of gazing at each other, but in looking together in the same direction."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Antoine de Saint-Exupéry</b>
 </blockquote>
 </p>
 
