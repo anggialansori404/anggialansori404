@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't stumble over something that's behind you."</i>
+<i>"Science can flourish only in an atmosphere of free speech. "</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
