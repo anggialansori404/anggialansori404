@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'm not interested in age. People who tell me their age are silly. You're as old as you feel."</i>
+<i>"Keep your dreams, you never know when you might need them."</i>
 <br>
-<b>- Elizabeth Arden</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
