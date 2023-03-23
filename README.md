@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The person who cannot control his words shows that he cannot control himself."</i>
+<i>"To lead people walk behind them."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
