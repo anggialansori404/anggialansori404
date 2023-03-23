@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I begin with an idea and then it becomes something else."</i>
+<i>"Fortune befriends the bold."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- John Dryden</b>
 </blockquote>
 </p>
 
