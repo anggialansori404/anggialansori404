@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fortune befriends the bold."</i>
+<i>"The person who cannot control his words shows that he cannot control himself."</i>
 <br>
-<b>- John Dryden</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
