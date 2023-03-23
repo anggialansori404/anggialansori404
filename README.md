@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Technology is anything that wasn't around when you were born."</i>
+<i>"I have never in my life learned anything from any man who agreed with me."</i>
 <br>
-<b>- Man Ray</b>
+<b>- Dudley Field Malone</b>
 </blockquote>
 </p>
 
