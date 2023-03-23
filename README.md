@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A really great talent finds its happiness in execution."</i>
+<i>"The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Thích Nhất Hạnh</b>
 </blockquote>
 </p>
 
