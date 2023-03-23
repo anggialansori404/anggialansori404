@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Simplicity is the glory of expression."</i>
+<i>"It is ignorance that causes most mistakes."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
