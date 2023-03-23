@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To lead people walk behind them."</i>
+<i>"A fear of weakness only strengthens weakness."</i>
 <br>
-<b>- Laozi</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
