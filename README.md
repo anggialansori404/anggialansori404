@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't change your mind just because people are offended; change your mind if you're wrong."</i>
+<i>"Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
