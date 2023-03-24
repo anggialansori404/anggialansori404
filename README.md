@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You do not become good by trying to be good, but by finding the goodness that is already within you."</i>
+<i>"There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Alfred Korzybski</b>
 </blockquote>
 </p>
 
