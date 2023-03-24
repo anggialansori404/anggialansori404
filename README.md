@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be as you wish to seem."</i>
+<i>"When you are offended at any man's fault, turn to yourself and study your own failings. Then you will forget your anger."</i>
 <br>
-<b>- Socrates</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
