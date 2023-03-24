@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life a culmination of the past, an awareness of the present, an indication of the future beyond knowledge, the quality that gives a touch of divinity to matter."</i>
+<i>"Be as you wish to seem."</i>
 <br>
-<b>- Charles Lindbergh</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
