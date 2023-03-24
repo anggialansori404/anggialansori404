@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People should pursue what they're passionate about. That will make them happier than pretty much anything else."</i>
+<i>"Blessed is he who expects nothing, for he shall be disappointed."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
