@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes success isn't about making the right decision, it's more about making some decision."</i>
+<i>"You do not become good by trying to be good, but by finding the goodness that is already within you."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
