@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference."</i>
+<i>"At the center of your being, you have the answer; you know who you are, and you know what you want."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
