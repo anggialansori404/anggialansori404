@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are offended at any man's fault, turn to yourself and study your own failings. Then you will forget your anger."</i>
+<i>"Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
