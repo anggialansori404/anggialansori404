@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Start with what is right rather than what is acceptable."</i>
+<i>"Happiness does not come from doing easy work but from the afterglow of satisfaction that comes after the achievement of a difficult task that demanded our best."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Theodore Isaac Rubin</b>
 </blockquote>
 </p>
 
