@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you realize you've made a mistake, take immediate steps to correct it."</i>
+<i>"Hope and fear come from feeling that we lack something; they come from a sense of poverty."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
