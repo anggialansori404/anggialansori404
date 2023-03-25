@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One's best success comes after their greatest disappointments."</i>
+<i>"The less people know, the more stubbornly they know it."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
