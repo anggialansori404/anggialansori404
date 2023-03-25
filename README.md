@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We meet ourselves time and again in a thousand disguises on the path of life."</i>
+<i>"One's best success comes after their greatest disappointments."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
