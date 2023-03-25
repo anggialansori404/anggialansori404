@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the power of thought that gives man power over nature."</i>
+<i>"I am of the opinion that my life belongs to the community, and as long as I live it is my privilege to do for it whatever I can."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Bernard Shaw</b>
 </blockquote>
 </p>
 
