@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like a sewer. What you get out of it depends on what you put into it."</i>
+<i>"Awaken. Take heed, do not squander your life."</i>
 <br>
-<b>- Tom Lehrer</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
