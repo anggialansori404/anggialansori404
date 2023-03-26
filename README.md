@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always do your best. What you plant now, you will harvest later."</i>
+<i>"Luck is what happens when preparation meets opportunity."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
