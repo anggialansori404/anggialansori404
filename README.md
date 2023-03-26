@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Luck is what happens when preparation meets opportunity."</i>
+<i>"Freedom is not worth having if it does not connote freedom to err."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
