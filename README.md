@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An ounce of emotion is equal to a ton of facts."</i>
+<i>"We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light."</i>
 <br>
-<b>- John Junor</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
