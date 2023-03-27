@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you see a good person, think of becoming like him. When you see someone not so good, reflect on your own weak points."</i>
+<i>"An ounce of emotion is equal to a ton of facts."</i>
 <br>
-<b>- Confucius</b>
+<b>- John Junor</b>
 </blockquote>
 </p>
 
