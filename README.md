@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts."</i>
+<i>"To live is to be willing to die over and over again."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
