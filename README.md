@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is Love without his wings!"</i>
+<i>"Sad thing is, you can still love someone and be wrong for them."</i>
 <br>
-<b>- Lord Byron</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
