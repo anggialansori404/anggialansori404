@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am a man of fixed and unbending principles, the first of which is to be flexible at all times."</i>
+<i>"We must be free not because we claim freedom, but because we practice it."</i>
 <br>
-<b>- Everett Dirksen</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
