@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each day your life grows a day shorter. Make every move count."</i>
+<i>"The important thing is not to stop questioning. Curiosity has its own reason for existing."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
