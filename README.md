@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The important thing is not to stop questioning. Curiosity has its own reason for existing."</i>
+<i>"Whenever something negative happens to you, there is a deep lesson concealed within it."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
