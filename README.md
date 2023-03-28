@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The smallest act of kindness is worth more than the grandest intention."</i>
+<i>"Each day your life grows a day shorter. Make every move count."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
