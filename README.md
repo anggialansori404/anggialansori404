@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is contagious. So is lack of confidence."</i>
+<i>"He who is untrue to his own cause cannot command the respect of others."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
