@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand."</i>
+<i>"You do not become good by trying to be good, but by finding the goodness that is already within you."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
