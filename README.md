@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I love my past. I love my present. I'm not ashamed of what I've had, and I'm not sad because I have it no longer."</i>
+<i>"Most powerful is he who has himself in his own power."</i>
 <br>
-<b>- Colette</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
