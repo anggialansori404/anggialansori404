@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who is untrue to his own cause cannot command the respect of others."</i>
+<i>"I love my past. I love my present. I'm not ashamed of what I've had, and I'm not sad because I have it no longer."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Colette</b>
 </blockquote>
 </p>
 
