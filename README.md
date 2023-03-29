@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Age is a very high price to pay for maturity."</i>
+<i>"An intelligence test sometimes shows a man how smart he would have been not to have taken it."</i>
 <br>
-<b>- William James</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
