@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is a serious mental disease."</i>
+<i>"People don't notice whether it's winter or summer when they're happy."</i>
 <br>
-<b>- Plato</b>
+<b>- Anton Chekhov</b>
 </blockquote>
 </p>
 
