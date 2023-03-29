@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People don't notice whether it's winter or summer when they're happy."</i>
+<i>"Confidence is contagious. So is lack of confidence."</i>
 <br>
-<b>- Anton Chekhov</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
