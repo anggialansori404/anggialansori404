@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most powerful is he who has himself in his own power."</i>
+<i>"Create with the heart; build with the mind."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
