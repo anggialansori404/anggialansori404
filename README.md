@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Create with the heart; build with the mind."</i>
+<i>"Don't be afraid to stand for what you believe in, even if that means standing alone."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
