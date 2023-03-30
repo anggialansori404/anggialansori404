@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest challenge after success is shutting up about it."</i>
+<i>"Be not angry that you cannot make others as you wish them to be, since you cannot make yourself as you wish to be."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Thomas à Kempis</b>
 </blockquote>
 </p>
 
