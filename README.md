@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be not angry that you cannot make others as you wish them to be, since you cannot make yourself as you wish to be."</i>
+<i>"New beginnings are disguised as painful endings."</i>
 <br>
-<b>- Thomas à Kempis</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
