@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"New beginnings are disguised as painful endings."</i>
+<i>"Make your mind your own business."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
