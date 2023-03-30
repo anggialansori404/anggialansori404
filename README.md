@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't shake hands with a clenched fist."</i>
+<i>"Character develops itself in the stream of life."</i>
 <br>
-<b>- Indira Gandhi</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
