@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends."</i>
+<i>"You can't shake hands with a clenched fist."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Indira Gandhi</b>
 </blockquote>
 </p>
 
