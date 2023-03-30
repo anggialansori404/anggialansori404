@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe you can and you're halfway there."</i>
+<i>"I never think of the future. It comes soon enough."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
