@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I never think of the future. It comes soon enough."</i>
+<i>"In all things of nature there is something of the marvelous."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
