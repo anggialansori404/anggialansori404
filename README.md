@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man can get rich himself unless he enriches others."</i>
+<i>"When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
