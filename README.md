@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't waste your energy on being angry at something that somebody did six months ago or a year ago. It's over."</i>
+<i>"Be slow to fall into friendship; but when thou art in, continue firm and constant."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Isocrates</b>
 </blockquote>
 </p>
 
