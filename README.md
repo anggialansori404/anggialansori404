@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most important thing in communication is to hear what isn't being said."</i>
+<i>"Respect should be earned by actions, and not acquired by years."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Frank Lloyd Wright</b>
 </blockquote>
 </p>
 
