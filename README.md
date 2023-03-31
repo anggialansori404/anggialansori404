@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be slow to fall into friendship; but when thou art in, continue firm and constant."</i>
+<i>"Don't look back - you're not going that way."</i>
 <br>
-<b>- Isocrates</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
