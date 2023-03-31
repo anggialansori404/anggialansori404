@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your happiness is what truly matters most. Do what you have to do in order to be happy."</i>
+<i>"The farther backward you can look, the farther forward you are likely to see."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
