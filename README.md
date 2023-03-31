@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"FOCUS - Follow One Course Until Successful"</i>
+<i>"Self-trust is the first secret of success."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
