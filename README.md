@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you know what you want, and you want it bad enough, you will find a way to get it."</i>
+<i>"You must be willing to do what others won't do, to have what others won't have."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
