@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a progress, and not a station."</i>
+<i>"Baseball is the only field of endeavor where a man can succeed three times out of ten and be considered a good performer."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Ted Williams</b>
 </blockquote>
 </p>
 
