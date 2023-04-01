@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I live by letting things happen."</i>
+<i>"Everything has beauty but not everyone sees it."</i>
 <br>
-<b>- Dogen</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
