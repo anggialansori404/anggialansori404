@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Respect should be earned by actions, and not acquired by years."</i>
+<i>"Doing nothing is better than being busy doing nothing."</i>
 <br>
-<b>- Frank Lloyd Wright</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
