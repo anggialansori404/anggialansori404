@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything has beauty but not everyone sees it."</i>
+<i>"I think somehow, we learn who we really are and then live with that decision."</i>
 <br>
-<b>- Confucius</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
