@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you need inspiration, don't do it."</i>
+<i>"When you know what you want, and you want it bad enough, you will find a way to get it."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
