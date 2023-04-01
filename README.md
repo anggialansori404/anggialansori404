@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I think somehow, we learn who we really are and then live with that decision."</i>
+<i>"If you need inspiration, don't do it."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
