@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all here for some special reason."</i>
+<i>"I live by letting things happen."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
