@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A single dream is more powerful than a thousand realities."</i>
+<i>"There are only encounters in history. There are no accidents."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
