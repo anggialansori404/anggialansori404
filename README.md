@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Baseball is the only field of endeavor where a man can succeed three times out of ten and be considered a good performer."</i>
+<i>"I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain."</i>
 <br>
-<b>- Ted Williams</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
