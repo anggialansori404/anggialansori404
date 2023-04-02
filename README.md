@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Beware of false knowledge; it is more dangerous than ignorance."</i>
+<i>"All that we see or seem is but a dream within a dream."</i>
 <br>
-<b>- Bernard Shaw</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
