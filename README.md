@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All our knowledge has its origins in our perceptions."</i>
+<i>"Important principles may, and must, be inflexible."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
