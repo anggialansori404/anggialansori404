@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Important principles may, and must, be inflexible."</i>
+<i>"A single dream is more powerful than a thousand realities."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
