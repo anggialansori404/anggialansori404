@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The higher we are placed, the more humbly we should walk."</i>
+<i>"Every gift from a friend is a wish for your happiness."</i>
 <br>
-<b>- Cicero</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
