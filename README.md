@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less."</i>
+<i>"Hardly anybody recognizes the most significant moments of their life at the time they happen."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- W.P. Kinsella</b>
 </blockquote>
 </p>
 
