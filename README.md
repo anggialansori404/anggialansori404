@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I cannot make my days longer, so I strive to make them better."</i>
+<i>"Pure, holy simplicity confounds all the wisdom of this world and the wisdom of the flesh."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Francis of Assisi</b>
 </blockquote>
 </p>
 
