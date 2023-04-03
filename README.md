@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Pure, holy simplicity confounds all the wisdom of this world and the wisdom of the flesh."</i>
+<i>"Success is about doing the right thing, not about doing everything right."</i>
 <br>
-<b>- Francis of Assisi</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
