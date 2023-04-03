@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every gift from a friend is a wish for your happiness."</i>
+<i>"The one who praises you is a thief. The one who criticizes you is your true friend."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Seungsahn</b>
 </blockquote>
 </p>
 
