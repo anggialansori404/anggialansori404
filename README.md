@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do every act of your life as if it were your last."</i>
+<i>"Take things as they are. Punch when you have to punch. Kick when you have to kick."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
