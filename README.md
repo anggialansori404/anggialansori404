@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I dream my painting and I paint my dream."</i>
+<i>"The greater our knowledge increases the more our ignorance unfolds."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- John F. Kennedy</b>
 </blockquote>
 </p>
 
