@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be curious, not judgmental."</i>
+<i>"I dream my painting and I paint my dream."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
