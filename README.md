@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not so much our friends' help that helps us, as the confidence of their help."</i>
+<i>"Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed."</i>
 <br>
-<b>- Epicurus</b>
+<b>- Blaise Pascal</b>
 </blockquote>
 </p>
 
