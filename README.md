@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution."</i>
+<i>"Everything that exists is in a manner the seed of that which will be."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
