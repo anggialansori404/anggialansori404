@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything that exists is in a manner the seed of that which will be."</i>
+<i>"The eye with which I see God is the same eye with which God sees me."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
