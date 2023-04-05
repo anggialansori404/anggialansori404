@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Write to help yourself, publish to help others."</i>
+<i>"Once we accept our limits, we go beyond them."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
