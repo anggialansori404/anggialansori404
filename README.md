@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder."</i>
+<i>"Relax. Nothing is under control."</i>
 <br>
-<b>- G. K. Chesterton</b>
+<b>- Adi Da Samraj</b>
 </blockquote>
 </p>
 
