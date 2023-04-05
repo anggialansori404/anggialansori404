@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Relax. Nothing is under control."</i>
+<i>"Many men go fishing all of their lives without knowing that it is not fish they are after."</i>
 <br>
-<b>- Adi Da Samraj</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
