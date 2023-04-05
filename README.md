@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless."</i>
+<i>"I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- G. K. Chesterton</b>
 </blockquote>
 </p>
 
