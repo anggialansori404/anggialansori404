@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The finish line is just the beginning of a whole new race."</i>
+<i>"The beginning of knowledge is the discovery of something we do not understand."</i>
 <br>
-<b>- Unknown</b>
+<b>- Frank Herbert</b>
 </blockquote>
 </p>
 
