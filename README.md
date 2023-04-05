@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never be bored, and you will never be boring."</i>
+<i>"We must become the change we want to see."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
