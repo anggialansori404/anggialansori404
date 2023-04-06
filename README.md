@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month."</i>
+<i>"When I do good I feel good, when I do bad I feel bad, and that's my religion."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
