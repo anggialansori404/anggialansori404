@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must become the change we want to see."</i>
+<i>"Each problem has a positive side."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
