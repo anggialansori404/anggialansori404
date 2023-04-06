@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first step to getting the things you want out of life is this: decide what you want."</i>
+<i>"The greatest obstacle to connecting with our joy is resentment."</i>
 <br>
-<b>- Ben Stein</b>
+<b>- Pema Chödrön</b>
 </blockquote>
 </p>
 
