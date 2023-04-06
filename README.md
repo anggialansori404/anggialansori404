@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One must be fond of people and trust them if one is not to make a mess of life."</i>
+<i>"The first step to getting the things you want out of life is this: decide what you want."</i>
 <br>
-<b>- E. M. Forster</b>
+<b>- Ben Stein</b>
 </blockquote>
 </p>
 
