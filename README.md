@@ -28,7 +28,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When I do good I feel good, when I do bad I feel bad, and that's my religion."</i>
+<i>"Truth is generally the best vindication against slander."</i>
 <br>
 <b>- Abraham Lincoln</b>
 </blockquote>
