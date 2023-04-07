@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you care about someone enough, you'll always be there for them no matter what."</i>
+<i>"As you think, you travel, and as you love, you attract."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
