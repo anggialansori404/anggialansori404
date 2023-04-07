@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest obstacle to connecting with our joy is resentment."</i>
+<i>"You can do two things at once, but you can't focus effectively on two things at once."</i>
 <br>
-<b>- Pema Chödrön</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
