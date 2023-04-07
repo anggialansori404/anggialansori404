@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As you think, you travel, and as you love, you attract."</i>
+<i>"He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today."</i>
 <br>
-<b>- James Allen</b>
+<b>- Tryon Edwards</b>
 </blockquote>
 </p>
 
