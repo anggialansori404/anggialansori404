@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today."</i>
+<i>"As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them."</i>
 <br>
-<b>- Tryon Edwards</b>
+<b>- John F. Kennedy</b>
 </blockquote>
 </p>
 
