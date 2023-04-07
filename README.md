@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can do two things at once, but you can't focus effectively on two things at once."</i>
+<i>"An organization, no matter how well designed, is only as good as the people who live and work in it."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Dee Hock</b>
 </blockquote>
 </p>
 
