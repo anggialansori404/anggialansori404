@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no great genius without some touch of madness."</i>
+<i>"Maxim for life: You get treated in life the way you teach people to treat you."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
