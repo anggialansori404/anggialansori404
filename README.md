@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take rest; a field that has rested gives a bountiful crop."</i>
+<i>"Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy."</i>
 <br>
-<b>- Ovid</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
