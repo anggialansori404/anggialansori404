@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone thinks of changing the world, but no one thinks of changing himself."</i>
+<i>"Success is good at any age, but the sooner you find it, the longer you will enjoy it."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
