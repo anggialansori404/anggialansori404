@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Beware of false knowledge, it is more dangerous than ignorance."</i>
+<i>"Your worst enemy cannot harm you as much as your own unguarded thoughts."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
