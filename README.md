@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your worst enemy cannot harm you as much as your own unguarded thoughts."</i>
+<i>"Success is liking yourself, liking what you do, and liking how you do it."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
