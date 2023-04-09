@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The journey of a thousand miles begins with one step."</i>
+<i>"Nothing is at last sacred but the integrity of your own mind."</i>
 <br>
-<b>- Laozi</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
