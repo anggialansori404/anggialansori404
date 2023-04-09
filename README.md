@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even youngish men can acquire wisdom as time goes by."</i>
+<i>"Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff."</i>
 <br>
-<b>- John Bercow</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
