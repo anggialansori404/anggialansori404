@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Avoid having your ego so close to your position that when your position falls, your ego goes with it."</i>
+<i>"Fear does not have any special power unless you empower it by submitting to it."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
