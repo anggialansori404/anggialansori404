@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is at last sacred but the integrity of your own mind."</i>
+<i>"We are not animals. We are not a product of what has happened to us in our past. We have the power of choice."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Stephen Covey</b>
 </blockquote>
 </p>
 
