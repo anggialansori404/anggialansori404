@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff."</i>
+<i>"Avoid having your ego so close to your position that when your position falls, your ego goes with it."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
