@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When in doubt, tell the truth."</i>
+<i>"Even youngish men can acquire wisdom as time goes by."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- John Bercow</b>
 </blockquote>
 </p>
 
