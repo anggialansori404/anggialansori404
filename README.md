@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be not glad at the misfortune of another, though he may be your enemy. "</i>
+<i>"The journey of a thousand miles begins with one step."</i>
 <br>
-<b>- George Washington</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
