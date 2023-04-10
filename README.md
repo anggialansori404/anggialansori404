@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better the cottage where one is merry than the palace where one weeps."</i>
+<i>"Most great people have attained their greatest success just one step beyond their greatest failure."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
