@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It matters not what someone is born, but what they grow to be."</i>
+<i>"Better the cottage where one is merry than the palace where one weeps."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
