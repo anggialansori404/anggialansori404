@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it."</i>
+<i>"None but ourselves can free our minds."</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
