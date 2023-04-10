@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"None but ourselves can free our minds."</i>
+<i>"The most virtuous are those who content themselves with being virtuous without seeking to appear so."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
