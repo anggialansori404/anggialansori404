@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wherever there is danger, there lurks opportunity; wherever there is opportunity, there lurks danger. The two are inseparable."</i>
+<i>"It matters not what someone is born, but what they grow to be."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
