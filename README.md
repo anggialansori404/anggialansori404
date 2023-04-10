@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most great people have attained their greatest success just one step beyond their greatest failure."</i>
+<i>"Do the hard jobs first. The easy jobs will take care of themselves."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
