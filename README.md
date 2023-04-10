@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Realize deeply that the present moment is all you ever have. "</i>
+<i>"Wherever there is danger, there lurks opportunity; wherever there is opportunity, there lurks danger. The two are inseparable."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
