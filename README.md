@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most virtuous are those who content themselves with being virtuous without seeking to appear so."</i>
+<i>"You are now, and you do become, what you think about."</i>
 <br>
-<b>- Plato</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
