@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What makes Superman a hero is not that he has power, but that he has the wisdom and the maturity to use the power wisely. From an acting point of view, that's how I approached the part."</i>
+<i>"Humanity is acquiring all the right technology for all the wrong reasons."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Buckminster Fuller</b>
 </blockquote>
 </p>
 
