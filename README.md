@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In matters of style, swim with the current; in matters of principle, stand like a rock."</i>
+<i>"Science investigates; religion interprets. Science gives man knowledge which is power; religion gives man wisdom which is control."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Martin Luther King Jr.</b>
 </blockquote>
 </p>
 
