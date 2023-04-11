@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never find fault with the absent."</i>
+<i>"Think how hard physics would be if particles could think."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Murray Gell-Mann</b>
 </blockquote>
 </p>
 
