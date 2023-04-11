@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Science investigates; religion interprets. Science gives man knowledge which is power; religion gives man wisdom which is control."</i>
+<i>"We have to walk in a way that we only print peace and serenity on the Earth. Walk as if you are kissing the Earth with your feet."</i>
 <br>
-<b>- Martin Luther King Jr.</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
