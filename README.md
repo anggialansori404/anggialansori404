@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Genius unrefined resembles a flash of lightning, but wisdom is like the sun."</i>
+<i>"It's supposed to be automatic, but actually you have to push this button."</i>
 <br>
-<b>- Franz Grillparzer</b>
+<b>- John Brunner</b>
 </blockquote>
 </p>
 
