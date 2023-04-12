@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's supposed to be automatic, but actually you have to push this button."</i>
+<i>"No one can confidently say that he will still be living tomorrow."</i>
 <br>
-<b>- John Brunner</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
