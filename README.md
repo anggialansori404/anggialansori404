@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your mind will answer most questions if you learn to relax and wait for the answer."</i>
+<i>"He who fails to plan, plans to fail."</i>
 <br>
-<b>- William Burroughs</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
