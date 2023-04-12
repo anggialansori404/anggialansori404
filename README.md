@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is not something ready-made. It comes from your own actions."</i>
+<i>"The teacher who is indeed wise does not bid you to enter the house of his wisdom but rather leads you to the threshold of your mind."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
