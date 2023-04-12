@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Surround yourself only with people who are going to take you higher."</i>
+<i>"Your mind will answer most questions if you learn to relax and wait for the answer."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- William Burroughs</b>
 </blockquote>
 </p>
 
