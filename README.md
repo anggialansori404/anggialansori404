@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can easily judge the character of a man by how he treats those who can do nothing for him."</i>
+<i>"It doesn't matter where you are, you are nowhere compared to where you can go."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
