@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Begin at once to live and count each separate day as a separate life."</i>
+<i>"To earn more you must learn more."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
