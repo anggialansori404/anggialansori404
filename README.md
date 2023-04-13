@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest part of our happiness depends on our dispositions, not our circumstances."</i>
+<i>"Begin at once to live and count each separate day as a separate life."</i>
 <br>
-<b>- Martha Washington</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
