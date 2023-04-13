@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even if you're on the right track, you'll get run over if you just sit there."</i>
+<i>"There is some self-interest behind every friendship. There is no friendship without self-interests. This is a bitter truth."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Chanakya</b>
 </blockquote>
 </p>
 
