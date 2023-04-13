@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To earn more you must learn more."</i>
+<i>"The heart that gives, gathers."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
