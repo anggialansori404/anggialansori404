@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you take responsibility for your past and present, the more you are able to create the future you seek."</i>
+<i>"The greatest part of our happiness depends on our dispositions, not our circumstances."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Martha Washington</b>
 </blockquote>
 </p>
 
