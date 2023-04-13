@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Singleness of purpose is one of the chief essentials for success in life, no matter what may be one's aim."</i>
+<i>"When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run."</i>
 <br>
-<b>- John D. Rockefeller</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
