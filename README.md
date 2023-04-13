@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is some self-interest behind every friendship. There is no friendship without self-interests. This is a bitter truth."</i>
+<i>"Singleness of purpose is one of the chief essentials for success in life, no matter what may be one's aim."</i>
 <br>
-<b>- Chanakya</b>
+<b>- John D. Rockefeller</b>
 </blockquote>
 </p>
 
