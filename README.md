@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Avoid having your ego so close to your position that when your position falls, your ego goes with it."</i>
+<i>"Even if you're on the right track, you'll get run over if you just sit there."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
