@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who fails to plan, plans to fail."</i>
+<i>"Let yourself be silently drawn by the stronger pull of what you really love."</i>
 <br>
-<b>- Unknown</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
