@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A creative man is motivated by the desire to achieve, not by the desire to beat others."</i>
+<i>"We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
