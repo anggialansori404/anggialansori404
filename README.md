@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing yourself is the beginning of all wisdom."</i>
+<i>"Successful people ask better questions, and as a result, they get better answers."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
