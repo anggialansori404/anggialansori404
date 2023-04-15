@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not all those who wander are lost."</i>
+<i>"We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Swami Vivekananda</b>
 </blockquote>
 </p>
 
