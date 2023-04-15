@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results."</i>
+<i>"Never whine, never complain, never try to justify yourself."</i>
 <br>
-<b>- James Allen</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
