@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Darkness is the absence of light."</i>
+<i>"The superior man understands what is right; the inferior man understands what will sell."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
