@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is hopeless; we must hope for everything."</i>
+<i>"A little progress each day adds up to big results."</i>
 <br>
-<b>- Euripides</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
