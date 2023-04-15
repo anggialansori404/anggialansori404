@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The superior man understands what is right; the inferior man understands what will sell."</i>
+<i>"The score never interested me, only the game."</i>
 <br>
-<b>- Confucius</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
