@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A little progress each day adds up to big results."</i>
+<i>"The wisest men follow their own direction."</i>
 <br>
-<b>- Unknown</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
