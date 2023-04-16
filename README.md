@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be true to yourself, help others, make each day your masterpiece"</i>
+<i>"The most certain sign of wisdom is cheerfulness."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Michel de Montaigne</b>
 </blockquote>
 </p>
 
