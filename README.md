@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Golf is a game in which one endeavors to control a ball with implements ill adapted for the purpose."</i>
+<i>"Be true to yourself, help others, make each day your masterpiece"</i>
 <br>
-<b>- Woodrow Wilson</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
