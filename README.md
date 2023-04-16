@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The foolish reject what they see, not what they think; the wise reject what they think, not what they see."</i>
+<i>"Only do what your heart tells you."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Princess Diana</b>
 </blockquote>
 </p>
 
