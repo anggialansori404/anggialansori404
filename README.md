@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light."</i>
+<i>"I decided that it was not wisdom that enabled poets to write their poetry, but a kind of instinct or inspiration, such as you find in seers and prophets who deliver all their sublime messages without knowing in the least what they mean."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Isocrates</b>
 </blockquote>
 </p>
 
