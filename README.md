@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not."</i>
+<i>"Golf is a game in which one endeavors to control a ball with implements ill adapted for the purpose."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Woodrow Wilson</b>
 </blockquote>
 </p>
 
