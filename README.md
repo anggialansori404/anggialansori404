@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most certain sign of wisdom is cheerfulness."</i>
+<i>"The foolish reject what they see, not what they think; the wise reject what they think, not what they see."</i>
 <br>
-<b>- Michel de Montaigne</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
