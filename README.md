@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Small opportunities are often the beginning of great enterprises."</i>
+<i>"Take into account that great love and great achievements involve great risk."</i>
 <br>
-<b>- Demosthenes</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
