@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!"</i>
+<i>"Everyone has been made for some particular work, and the desire for that work has been put in every heart."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
