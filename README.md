@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As a cure for worrying, work is better than whisky."</i>
+<i>"The higher we are placed, the more humbly we should walk."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Cicero</b>
 </blockquote>
 </p>
 
