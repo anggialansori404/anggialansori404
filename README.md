@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone has been made for some particular work, and the desire for that work has been put in every heart."</i>
+<i>"Your heart is full of fertile seeds, waiting to sprout."</i>
 <br>
-<b>- Rumi</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
