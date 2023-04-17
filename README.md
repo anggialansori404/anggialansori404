@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take into account that great love and great achievements involve great risk."</i>
+<i>"Life is a series of choices and all we can do is make them."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
