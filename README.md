@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is trying things to see if they work."</i>
+<i>"Small opportunities are often the beginning of great enterprises."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Demosthenes</b>
 </blockquote>
 </p>
 
