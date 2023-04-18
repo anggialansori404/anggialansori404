@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Small opportunities are often the beginning of great enterprises."</i>
+<i>"Your only obligation in any lifetime is to be true to yourself."</i>
 <br>
-<b>- Demosthenes</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
