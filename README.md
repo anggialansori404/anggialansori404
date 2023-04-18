@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can only grow if you're willing to feel awkward and uncomfortable when you try something new."</i>
+<i>"The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Honoré de Balzac</b>
 </blockquote>
 </p>
 
