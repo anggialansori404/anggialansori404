@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"On every thorn, delightful wisdom grows, in every rill a sweet instruction flows."</i>
+<i>"The Truth is realized in an instant; the Act is practiced step by step."</i>
 <br>
-<b>- Edward Young</b>
+<b>- Seungsahn</b>
 </blockquote>
 </p>
 
