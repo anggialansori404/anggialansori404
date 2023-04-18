@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never was anything great achieved without danger."</i>
+<i>"Weeds are flowers too, once you get to know them."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- A.A. Milne</b>
 </blockquote>
 </p>
 
