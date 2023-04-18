@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who has imagination without learning has wings but no feet."</i>
+<i>"Change in all things is sweet."</i>
 <br>
-<b>- Joseph Joubert</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
