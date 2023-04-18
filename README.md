@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition."</i>
+<i>"The word philosophy sounds high-minded, but it simply means the love of wisdom. If you love something, you don't just read about it; you hug it, you mess with it, you play with it, you argue with it."</i>
 <br>
-<b>- Honoré de Balzac</b>
+<b>- Hugh Jackman</b>
 </blockquote>
 </p>
 
