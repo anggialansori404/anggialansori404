@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Weeds are flowers too, once you get to know them."</i>
+<i>"You can only grow if you're willing to feel awkward and uncomfortable when you try something new."</i>
 <br>
-<b>- A.A. Milne</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
