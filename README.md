@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The Truth is realized in an instant; the Act is practiced step by step."</i>
+<i>"He who has imagination without learning has wings but no feet."</i>
 <br>
-<b>- Seungsahn</b>
+<b>- Joseph Joubert</b>
 </blockquote>
 </p>
 
