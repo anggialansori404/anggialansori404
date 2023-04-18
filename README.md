@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change in all things is sweet."</i>
+<i>"Small opportunities are often the beginning of great enterprises."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Demosthenes</b>
 </blockquote>
 </p>
 
