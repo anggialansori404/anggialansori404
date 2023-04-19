@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In skating over thin ice our safety is in our speed."</i>
+<i>"Identify your problems, but give your power and energy to solutions."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
