@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Start each day with a positive thought and a grateful heart."</i>
+<i>"To forget the whole world is easy; to make the whole world forget you is hard."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
