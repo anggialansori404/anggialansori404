@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future is no more uncertain than the present."</i>
+<i>"Start each day with a positive thought and a grateful heart."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
