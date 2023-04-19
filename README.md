@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I allow my intuition to lead my path."</i>
+<i>"Work as though you would live forever, and live as though you would die today. Go another mile."</i>
 <br>
-<b>- Manuel Puig</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
