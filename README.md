@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only defense against the world is a thorough knowledge of it."</i>
+<i>"Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine."</i>
 <br>
-<b>- John Locke</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
