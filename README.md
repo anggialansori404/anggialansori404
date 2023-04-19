@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your only obligation in any lifetime is to be true to yourself."</i>
+<i>"The only defense against the world is a thorough knowledge of it."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
