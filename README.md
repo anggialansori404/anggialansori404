@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truth is incontrovertible. Malice may attack it, ignorance may deride it, but in the end, there it is."</i>
+<i>"Success is built sequentially. It's one thing at a time."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
