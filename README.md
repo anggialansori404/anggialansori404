@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is only real when shared."</i>
+<i>"The truth is incontrovertible. Malice may attack it, ignorance may deride it, but in the end, there it is."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
