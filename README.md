@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're afraid to die, you're afraid to live. You can't have one without the other."</i>
+<i>"Happiness is only real when shared."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
