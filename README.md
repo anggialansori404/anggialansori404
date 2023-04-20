@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friends are those rare people who ask how we are and then wait to hear the answer."</i>
+<i>"There is nothing quite so tragic as a young cynic."</i>
 <br>
-<b>- Ed Cunningham</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
