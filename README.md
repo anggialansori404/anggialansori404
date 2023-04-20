@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is built sequentially. It's one thing at a time."</i>
+<i>"Guilt is perhaps the most painful companion of death."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
