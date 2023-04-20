@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great minds discuss ideas; average minds discuss events; small minds discuss people."</i>
+<i>"If you don't go after what you want, you'll never have it. If you don't ask, the answer is always no. If you don't step forward, you're always in the same place."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Nora Roberts</b>
 </blockquote>
 </p>
 
