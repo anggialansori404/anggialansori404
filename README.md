@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"So long as a person is capable of self-renewal they are a living being."</i>
+<i>"Friends are those rare people who ask how we are and then wait to hear the answer."</i>
 <br>
-<b>- Henri-Frédéric Amiel</b>
+<b>- Ed Cunningham</b>
 </blockquote>
 </p>
 
