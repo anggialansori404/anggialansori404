@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where words fail, music speaks."</i>
+<i>"So long as a person is capable of self-renewal they are a living being."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Henri-Frédéric Amiel</b>
 </blockquote>
 </p>
 
