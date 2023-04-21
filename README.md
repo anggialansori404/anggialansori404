@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing quite so tragic as a young cynic."</i>
+<i>"Sorrow is knowledge, those that know the most must mourn the deepest, the tree of knowledge is not the tree of life."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Lord Byron</b>
 </blockquote>
 </p>
 
