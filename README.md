@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let each man exercise the art he knows."</i>
+<i>"Winners don't Quit. That's why they Win."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
