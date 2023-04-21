@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Over time, loneliness gets inside you and doesn't go away."</i>
+<i>"The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Will Durant</b>
 </blockquote>
 </p>
 
