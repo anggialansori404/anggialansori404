@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only way to make sense out of change is to plunge into it, move with it, and join the dance."</i>
+<i>"Freedom from desire leads to inner peace."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
