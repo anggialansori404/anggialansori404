@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Blessed is the man who expects nothing, for he shall never be disappointed."</i>
+<i>"True it is, we only hate those whom we do not know."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
