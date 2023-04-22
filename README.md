@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is movement-we breathe, we eat, we walk, we move!"</i>
+<i>"Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good."</i>
 <br>
-<b>- John Pierrakos</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
