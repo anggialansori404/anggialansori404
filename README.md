@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing permanent except change."</i>
+<i>"Do all things with love."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
