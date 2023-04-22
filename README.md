@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great minds are always feared by lesser minds."</i>
+<i>"To conquer fear is the beginning of wisdom."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Bertrand Russell</b>
 </blockquote>
 </p>
 
