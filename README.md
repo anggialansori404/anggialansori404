@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We read the world wrong and say that it deceives us."</i>
+<i>"The biggest adventure you can ever take is to live the life of your dreams. "</i>
 <br>
-<b>- Rabindranath Tagore</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
