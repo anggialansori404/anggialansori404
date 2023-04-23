@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The past has no power to stop you from being present now. Only your grievance about the past can do that."</i>
+<i>"We read the world wrong and say that it deceives us."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Rabindranath Tagore</b>
 </blockquote>
 </p>
 
