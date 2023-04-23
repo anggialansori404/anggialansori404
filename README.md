@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust in dreams, for in them is the hidden gate to eternity.  "</i>
+<i>"Imagination rules the world."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Napoleon</b>
 </blockquote>
 </p>
 
