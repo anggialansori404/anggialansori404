@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest adventure you can ever take is to live the life of your dreams. "</i>
+<i>"Love isn't something you find. Love is something that finds you."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Loretta Young</b>
 </blockquote>
 </p>
 
