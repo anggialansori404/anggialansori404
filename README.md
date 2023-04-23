@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I find hope in the darkest of days, and focus in the brightest. I do not judge the universe."</i>
+<i>"Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
