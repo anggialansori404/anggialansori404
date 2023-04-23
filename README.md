@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination rules the world."</i>
+<i>"We are all something, but none of us are everything."</i>
 <br>
-<b>- Napoleon</b>
+<b>- Blaise Pascal</b>
 </blockquote>
 </p>
 
