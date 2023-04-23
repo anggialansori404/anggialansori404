@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love isn't something you find. Love is something that finds you."</i>
+<i>"There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose."</i>
 <br>
-<b>- Loretta Young</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
