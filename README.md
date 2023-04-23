@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all something, but none of us are everything."</i>
+<i>"Your purpose will be clear only when you listen to your heart."</i>
 <br>
-<b>- Blaise Pascal</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
