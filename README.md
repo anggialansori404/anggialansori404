@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's the little details that are vital. Little things make big things happen."</i>
+<i>"Our greatest glory is not in never falling, but in rising every time we fall. "</i>
 <br>
-<b>- John Wooden</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
