@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our greatest glory is not in never falling, but in rising every time we fall. "</i>
+<i>"Showing off is the fool's idea of glory. "</i>
 <br>
-<b>- Confucius</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
