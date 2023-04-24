@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away."</i>
+<i>"The few who do are the envy of the many who only watch."</i>
 <br>
-<b>- John Steinbeck</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
