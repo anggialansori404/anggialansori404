@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In order to be walked over, you have to be lying down."</i>
+<i>"If you want your life to be more rewarding, you have to change the way you think."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
