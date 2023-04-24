@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The few who do are the envy of the many who only watch."</i>
+<i>"What people need and what they want may be very different."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
