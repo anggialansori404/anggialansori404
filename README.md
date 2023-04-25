@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life's most persistent and urgent question is, 'What are you doing for others?'"</i>
+<i>"If a man does his best, what else is there?"</i>
 <br>
-<b>- Martin Luther King Jr.</b>
+<b>- George S. Patton</b>
 </blockquote>
 </p>
 
