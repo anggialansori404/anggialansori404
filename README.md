@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's just a job. Grass grows, birds fly, waves pound the sand. I beat people up."</i>
+<i>"A single act of kindness throws out roots in all directions, and the roots spring up and make new trees."</i>
 <br>
-<b>- Muhammad Ali</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
