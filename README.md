@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is about timing."</i>
+<i>"Do good by stealth, and blush to find it fame."</i>
 <br>
-<b>- Carl Lewis</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
