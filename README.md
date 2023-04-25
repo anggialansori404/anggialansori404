@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Showing off is the fool's idea of glory. "</i>
+<i>"It's just a job. Grass grows, birds fly, waves pound the sand. I beat people up."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Muhammad Ali</b>
 </blockquote>
 </p>
 
