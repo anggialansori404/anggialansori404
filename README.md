@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A little knowledge that acts is worth infinitely more than much knowledge that is idle."</i>
+<i>"You live by what you thrill to, and there's the end of it."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
