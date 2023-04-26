@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are what we repeatedly do. Excellence, then, is not an act, but a habit."</i>
+<i>"It's your outlook on life that counts."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
