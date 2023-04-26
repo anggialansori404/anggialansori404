@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do all things with love."</i>
+<i>"Russia is a riddle wrapped in a mystery inside an enigma."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
