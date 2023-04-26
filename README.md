@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's your outlook on life that counts."</i>
+<i>"If your actions inspire others to dream more, learn more, do more and become more, you are a leader."</i>
 <br>
-<b>- Betty White</b>
+<b>- John Quincy Adams</b>
 </blockquote>
 </p>
 
