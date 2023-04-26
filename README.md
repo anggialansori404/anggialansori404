@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All of our technology is completely unnecessary to a happy life."</i>
+<i>"Half the lies they tell about me aren't true."</i>
 <br>
-<b>- Tom Hodgkinson</b>
+<b>- Yogi Berra</b>
 </blockquote>
 </p>
 
