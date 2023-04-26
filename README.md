@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who wishes to secure the good of others, has already secured his own."</i>
+<i>"Truth is exact correspondence with reality. "</i>
 <br>
-<b>- Confucius</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
