@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is exact correspondence with reality. "</i>
+<i>"Do all things with love."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
