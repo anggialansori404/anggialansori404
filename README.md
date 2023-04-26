@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Russia is a riddle wrapped in a mystery inside an enigma."</i>
+<i>"All of our technology is completely unnecessary to a happy life."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Tom Hodgkinson</b>
 </blockquote>
 </p>
 
