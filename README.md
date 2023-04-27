@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else."</i>
+<i>"Good actions give strength to ourselves and inspire good actions in others."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
