@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Memory is the scribe of the soul."</i>
+<i>"To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
