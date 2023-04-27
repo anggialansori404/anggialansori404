@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truest greatness lies in being kind, the truest wisdom in a happy mind."</i>
+<i>"Wisdom has never made a bigot, but learning has."</i>
 <br>
-<b>- Ella Wheeler Wilcox</b>
+<b>- Josh Billings</b>
 </blockquote>
 </p>
 
