@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more one judges, the less one loves."</i>
+<i>"Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
