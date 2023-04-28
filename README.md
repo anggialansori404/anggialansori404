@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life shrinks or expands in proportion to one's courage."</i>
+<i>"The four P's to success are pressure, persistence, perseverance, and prayer."</i>
 <br>
-<b>- Anaïs Nin</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
