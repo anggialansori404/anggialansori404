@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The heart has its reasons which reason knows not of."</i>
+<i>"You are not here merely to make a living. You are here in order to enable the world to live more amply, with greater vision, with a finer spirit of hope and achievement. You are here to enrich the world, and you impoverish yourself if you forget the errand."</i>
 <br>
-<b>- Blaise Pascal</b>
+<b>- Woodrow Wilson</b>
 </blockquote>
 </p>
 
