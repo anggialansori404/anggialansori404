@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Progress is limited by your ability to change your mind."</i>
+<i>"There is no path to Love. Love is the path."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
