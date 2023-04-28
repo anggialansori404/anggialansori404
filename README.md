@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Correction does much, but encouragement does more."</i>
+<i>"Gratitude is riches. Complaint is poverty."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Doris Day</b>
 </blockquote>
 </p>
 
