@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals."</i>
+<i>"One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
