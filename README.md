@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do all things with love."</i>
+<i>"Quality means doing it right when no one is looking."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
