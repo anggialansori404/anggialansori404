@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quality means doing it right when no one is looking."</i>
+<i>"Today you are you! That is truer than true! There is no one alive who is you-er than you!"</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
