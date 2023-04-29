@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Today you are you! That is truer than true! There is no one alive who is you-er than you!"</i>
+<i>"I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
