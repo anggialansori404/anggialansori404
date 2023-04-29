@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ideals are an imaginative understanding of that which is desirable in that which is possible."</i>
+<i>"Heaven is right where you are standing."</i>
 <br>
-<b>- Walter Lippmann</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
