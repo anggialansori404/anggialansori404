@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Having an open mind is one of the most important qualities we can possess. Once our minds close, we stop evolving."</i>
+<i>"Ideals are an imaginative understanding of that which is desirable in that which is possible."</i>
 <br>
-<b>- Yanni</b>
+<b>- Walter Lippmann</b>
 </blockquote>
 </p>
 
