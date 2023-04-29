@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even youngish men can acquire wisdom as time goes by."</i>
+<i>"Life is divided into the horrible and the miserable."</i>
 <br>
-<b>- John Bercow</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
