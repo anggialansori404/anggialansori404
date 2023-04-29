@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man."</i>
+<i>"Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Henry Reed</b>
 </blockquote>
 </p>
 
