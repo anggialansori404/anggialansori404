@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is divided into the horrible and the miserable."</i>
+<i>"Time is the wisest counsellor of all."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Pericles</b>
 </blockquote>
 </p>
 
