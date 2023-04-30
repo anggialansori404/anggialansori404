@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the first signs of the beginning of understanding is the wish to die. "</i>
+<i>"If a thing is worth doing, it is worth doing badly."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
