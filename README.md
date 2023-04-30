@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself."</i>
+<i>"We will develop and cultivate the liberation of mind by lovingkindness, make it our vehicle, make it our basis, stabilize it, exercise ourselves in it, and fully perfect it."</i>
 <br>
-<b>- Henry Reed</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
