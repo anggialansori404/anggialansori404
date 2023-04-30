@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge is proud that it knows so much; wisdom is humble that it knows no more."</i>
+<i>"What the caterpillar calls the end of the world, the master calls a butterfly."</i>
 <br>
-<b>- William Cowper</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
