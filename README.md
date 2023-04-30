@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are always your own best guru, your own best teacher, the answers are always inside you."</i>
+<i>"There is nothing quite so tragic as a young cynic."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
