@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What the caterpillar calls the end of the world, the master calls a butterfly."</i>
+<i>"One of the first signs of the beginning of understanding is the wish to die. "</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
