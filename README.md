@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The mind unlearns with difficulty what it has long learned."</i>
+<i>"Wisdom begins in wonder."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
