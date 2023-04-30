@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We will develop and cultivate the liberation of mind by lovingkindness, make it our vehicle, make it our basis, stabilize it, exercise ourselves in it, and fully perfect it."</i>
+<i>"Love is a friendship set to music."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Joseph Campbell</b>
 </blockquote>
 </p>
 
