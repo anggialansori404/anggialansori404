@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is found in doing, not merely possessing."</i>
+<i>"The mind unlearns with difficulty what it has long learned."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
