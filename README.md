@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do what you've always done, you'll get what you've always gotten."</i>
+<i>"I know of only one duty, and that is to love."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
