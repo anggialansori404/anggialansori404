@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I know of only one duty, and that is to love."</i>
+<i>"All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Kathleen Norris</b>
 </blockquote>
 </p>
 
