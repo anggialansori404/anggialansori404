@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams come true. Without that possibility, nature would not incite us to have them."</i>
+<i>"If you do what you've always done, you'll get what you've always gotten."</i>
 <br>
-<b>- John Updike</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
