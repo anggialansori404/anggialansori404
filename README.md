@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If one is lucky, a solitary fantasy can totally transform one million realities."</i>
+<i>"A good plan violently executed now is better than a perfect plan executed next week."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- George S. Patton</b>
 </blockquote>
 </p>
 
