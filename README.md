@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable."</i>
+<i>"Human happiness and moral duty are inseparably connected. "</i>
 <br>
-<b>- Kathleen Norris</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
