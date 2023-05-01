@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good plan violently executed now is better than a perfect plan executed next week."</i>
+<i>"Everything you can imagine is real."</i>
 <br>
-<b>- George S. Patton</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
