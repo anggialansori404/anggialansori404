@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything you can imagine is real."</i>
+<i>"Wheels of justice grind slow but grind fine."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
