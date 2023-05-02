@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you focus on results and finding shortcuts, you'll get impatient. If you focus on the process and doing the right thing, you'll be unstoppable."</i>
+<i>"To be in harmony with the wholeness of things is not to have anxiety over imperfections."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
