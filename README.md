@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found."</i>
+<i>"The differences between friends cannot but reinforce their friendship."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Mao Zedong</b>
 </blockquote>
 </p>
 
