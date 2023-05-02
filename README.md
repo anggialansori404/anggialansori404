@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The longer we dwell on our misfortunes, the greater is their power to harm us."</i>
+<i>"He who has imagination without learning has wings but no feet."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Joseph Joubert</b>
 </blockquote>
 </p>
 
