@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world is changed by your example, not by your opinion."</i>
+<i>"Friendships are the family we make - not the one we inherit. I've always been someone to whom friendship, elective affinities, is as important as family."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Salman Rushdie</b>
 </blockquote>
 </p>
 
