@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How people treat you is their karma; how you react is yours. "</i>
+<i>"You can't blame gravity for falling in love."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
