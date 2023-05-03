@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind."</i>
+<i>"How people treat you is their karma; how you react is yours. "</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
