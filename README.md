@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves."</i>
+<i>"Just do what must be done. This may not be happiness but it is greatness."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
