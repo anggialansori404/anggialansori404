@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Divide each difficulty into as many parts as is feasible and necessary to resolve it."</i>
+<i>"Imagination is not a talent of some men but is the health of every man."</i>
 <br>
-<b>- René Descartes</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
