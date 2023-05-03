@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mistakes are the usual bridge between inexperience and wisdom."</i>
+<i>"He who hesitates is a damned fool."</i>
 <br>
-<b>- Phyllis Grissim-Theroux</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
