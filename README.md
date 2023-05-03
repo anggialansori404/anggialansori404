@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I violated the Noah rule: Predicting rain doesn't count; building arks does."</i>
+<i>"It is a common experience that a problem difficult at night is resolved in the morning after the committee of sleep has worked on it."</i>
 <br>
-<b>- Warren Buffett</b>
+<b>- John Steinbeck</b>
 </blockquote>
 </p>
 
