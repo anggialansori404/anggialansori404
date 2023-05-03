@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who hesitates is a damned fool."</i>
+<i>"Divide each difficulty into as many parts as is feasible and necessary to resolve it."</i>
 <br>
-<b>- Mae West</b>
+<b>- René Descartes</b>
 </blockquote>
 </p>
 
