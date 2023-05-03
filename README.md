@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is not a talent of some men but is the health of every man."</i>
+<i>"I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
