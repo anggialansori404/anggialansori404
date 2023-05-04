@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't tell big dreams to small minded people."</i>
+<i>"Imagination is the highest kite one can fly."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Lauren Bacall</b>
 </blockquote>
 </p>
 
