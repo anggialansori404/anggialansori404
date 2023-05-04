@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A true friend freely, advises justly, assists readily, adventures boldly, takes all patiently, defends courageously, and continues a friend unchangeably."</i>
+<i>"You can't tell big dreams to small minded people."</i>
 <br>
-<b>- William C. Menninger</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
