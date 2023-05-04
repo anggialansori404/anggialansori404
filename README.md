@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is the highest kite one can fly."</i>
+<i>"The most certain sign of wisdom is cheerfulness."</i>
 <br>
-<b>- Lauren Bacall</b>
+<b>- Michel de Montaigne</b>
 </blockquote>
 </p>
 
