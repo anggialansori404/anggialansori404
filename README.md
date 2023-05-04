@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is powerful and it prevails."</i>
+<i>"Be not glad at the misfortune of another, though he may be your enemy. "</i>
 <br>
-<b>- Sojourner Truth</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
