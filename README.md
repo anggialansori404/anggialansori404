@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't blame gravity for falling in love."</i>
+<i>"Either I will find a way, or I will make one."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Philip Sidney</b>
 </blockquote>
 </p>
 
