@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never explain - your friends do not need it and your enemies will not believe you anyway."</i>
+<i>"We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Swami Vivekananda</b>
 </blockquote>
 </p>
 
