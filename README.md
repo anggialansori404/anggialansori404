@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far."</i>
+<i>"A true friend freely, advises justly, assists readily, adventures boldly, takes all patiently, defends courageously, and continues a friend unchangeably."</i>
 <br>
-<b>- Swami Vivekananda</b>
+<b>- William C. Menninger</b>
 </blockquote>
 </p>
 
