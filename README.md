@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Cunning... is but the low mimic of wisdom."</i>
+<i>"How you think is as important as as what you think."</i>
 <br>
-<b>- Plato</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
