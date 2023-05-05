@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Would you rather learn to deal with the truth now than be forced to do so later on?"</i>
+<i>"If you get up one more time than you fall, you will make it through."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
