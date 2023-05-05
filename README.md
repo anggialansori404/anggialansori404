@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything in the universe goes by indirection. There are no straight lines."</i>
+<i>"You and I are all as much continuous with the physical universe as a wave is continuous with the ocean."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
