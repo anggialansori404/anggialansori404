@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The source of a true smile is an awakened mind."</i>
+<i>"When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. "</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Charles Swindoll</b>
 </blockquote>
 </p>
 
