@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. "</i>
+<i>"For it was not into my ear you whispered, but into my heart. It was not my lips you kissed, but my soul."</i>
 <br>
-<b>- Charles Swindoll</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
