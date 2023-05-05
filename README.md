@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The mind that turns ever outward Will have no end to craving. Only the mind turned inward Will find a still-point of peace."</i>
+<i>"Would you rather learn to deal with the truth now than be forced to do so later on?"</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
