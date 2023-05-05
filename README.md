@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level."</i>
+<i>"Only I can change my life. No one can do it for me."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
