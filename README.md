@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In wartime, truth is so precious that she should always be attended by a bodyguard of lies."</i>
+<i>"Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Horace</b>
 </blockquote>
 </p>
 
