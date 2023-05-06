@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't climb the ladder of success with your hands in your pockets."</i>
+<i>"Freedom lies in being bold."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
