@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe you can and you're halfway there."</i>
+<i>"Aerodynamically the bumblebee shouldn't be able to fly, but the bumblebee doesn't know that, so it goes on flying anyway."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Mary Kay Ash</b>
 </blockquote>
 </p>
 
