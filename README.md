@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't allow your mind to tell your heart what to do. The mind gives up easily."</i>
+<i>"Believe you can and you're halfway there."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
