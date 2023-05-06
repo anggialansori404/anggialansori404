@@ -28,7 +28,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How you think is as important as as what you think."</i>
+<i>"Fear is what stops you. Courage is what keeps you going."</i>
 <br>
 <b>- Unknown</b>
 </blockquote>
