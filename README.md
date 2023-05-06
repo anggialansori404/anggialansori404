@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Aerodynamically the bumblebee shouldn't be able to fly, but the bumblebee doesn't know that, so it goes on flying anyway."</i>
+<i>"Knowledge is of no value unless you put it into practice."</i>
 <br>
-<b>- Mary Kay Ash</b>
+<b>- Anton Chekhov</b>
 </blockquote>
 </p>
 
