@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear is what stops you. Courage is what keeps you going."</i>
+<i>"When it hurts - observe. Life is trying to teach you something."</i>
 <br>
-<b>- Unknown</b>
+<b>- Anita Krizzan</b>
 </blockquote>
 </p>
 
