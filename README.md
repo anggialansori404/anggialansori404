@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No snowflake ever falls in the wrong place."</i>
+<i>"Most of the shadows of life are caused by standing in our own sunshine."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
