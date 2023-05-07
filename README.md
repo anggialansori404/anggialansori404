@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Today you are you! That is truer than true! There is no one alive who is you-er than you!"</i>
+<i>"Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
