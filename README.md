@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every traveler has a home of his own, and he learns to appreciate it the more from his wandering."</i>
+<i>"Today you are you! That is truer than true! There is no one alive who is you-er than you!"</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
