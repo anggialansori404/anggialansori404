@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship, like the immortality of the soul, is too good to be believed."</i>
+<i>"The bird of paradise alights only upon the hand that does not grasp."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- John Berry</b>
 </blockquote>
 </p>
 
