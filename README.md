@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant."</i>
+<i>"No snowflake ever falls in the wrong place."</i>
 <br>
-<b>- Horace</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
