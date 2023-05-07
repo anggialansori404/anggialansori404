@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Any sufficiently advanced technology is equivalent to magic."</i>
+<i>"Friendship, like the immortality of the soul, is too good to be believed."</i>
 <br>
-<b>- Arthur C. Clarke</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
