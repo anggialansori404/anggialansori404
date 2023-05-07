@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most of the shadows of life are caused by standing in our own sunshine."</i>
+<i>"Any sufficiently advanced technology is equivalent to magic."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Arthur C. Clarke</b>
 </blockquote>
 </p>
 
