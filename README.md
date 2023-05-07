@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary."</i>
+<i>"Every traveler has a home of his own, and he learns to appreciate it the more from his wandering."</i>
 <br>
-<b>- Margaret Cousins</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
