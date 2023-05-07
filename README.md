@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Winners never quit and quitters never win."</i>
+<i>"In order to win, you must expect to win."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
