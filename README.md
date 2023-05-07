@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The bird of paradise alights only upon the hand that does not grasp."</i>
+<i>"No one returns from a long journey the same person they were before."</i>
 <br>
-<b>- John Berry</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
