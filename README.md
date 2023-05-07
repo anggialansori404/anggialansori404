@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In order to win, you must expect to win."</i>
+<i>"Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Margaret Cousins</b>
 </blockquote>
 </p>
 
