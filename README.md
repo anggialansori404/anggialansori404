@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is love and love is life."</i>
+<i>"To choose what is difficult all one's days, as if it were easy, that is faith."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- W. H. Auden</b>
 </blockquote>
 </p>
 
