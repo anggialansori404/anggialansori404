@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the root is strong, the fruit is sweet."</i>
+<i>"You can't shake hands with a clenched fist."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Indira Gandhi</b>
 </blockquote>
 </p>
 
