@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't shake hands with a clenched fist."</i>
+<i>"Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives."</i>
 <br>
-<b>- Indira Gandhi</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
