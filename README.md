@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never to suffer would never to have been blessed."</i>
+<i>"Life is really simple, but we insist on making it complicated."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
