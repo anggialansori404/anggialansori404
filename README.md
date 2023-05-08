@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"None of us can change our yesterdays but all of us can change our tomorrows."</i>
+<i>"Your purpose will be clear only when you listen to your heart."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
