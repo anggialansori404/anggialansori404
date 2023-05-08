@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All that I am, or hope to be, I owe to my angel mother."</i>
+<i>"None of us can change our yesterdays but all of us can change our tomorrows."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
