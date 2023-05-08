@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not follow where the path may lead. Go, instead, where there is no path and leave a trail."</i>
+<i>"When the root is strong, the fruit is sweet."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
