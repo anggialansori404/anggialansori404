@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your purpose will be clear only when you listen to your heart."</i>
+<i>"Life is love and love is life."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
