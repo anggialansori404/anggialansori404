@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives."</i>
+<i>"All that I am, or hope to be, I owe to my angel mother."</i>
 <br>
-<b>- Betty White</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
