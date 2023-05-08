@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To choose what is difficult all one's days, as if it were easy, that is faith."</i>
+<i>"Never to suffer would never to have been blessed."</i>
 <br>
-<b>- W. H. Auden</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
