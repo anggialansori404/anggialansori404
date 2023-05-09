@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Patience is the companion of wisdom."</i>
+<i>"See what you're doing wrong, laugh at it, change and do better."</i>
 <br>
-<b>- Augustine of Hippo</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
