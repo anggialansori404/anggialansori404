@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Leadership is solving problems"</i>
+<i>"Create with the heart; build with the mind."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
