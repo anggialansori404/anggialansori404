@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigor of the mind."</i>
+<i>"I can't listen to that much Wagner. I start getting the urge to conquer Poland."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
