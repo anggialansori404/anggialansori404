@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"See what you're doing wrong, laugh at it, change and do better."</i>
+<i>"If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Anne Bradstreet</b>
 </blockquote>
 </p>
 
