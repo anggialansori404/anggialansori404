@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I can't listen to that much Wagner. I start getting the urge to conquer Poland."</i>
+<i>"Leadership is solving problems"</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
