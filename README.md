@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even youngish men can acquire wisdom as time goes by."</i>
+<i>"It is fatal to enter any war without the will to win it."</i>
 <br>
-<b>- John Bercow</b>
+<b>- Douglas MacArthur</b>
 </blockquote>
 </p>
 
