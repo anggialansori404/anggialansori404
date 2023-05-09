@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those that know, do. Those that understand, teach."</i>
+<i>"Patience is the companion of wisdom."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Augustine of Hippo</b>
 </blockquote>
 </p>
 
