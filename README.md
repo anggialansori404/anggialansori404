@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome."</i>
+<i>"We must not say every mistake is a foolish one."</i>
 <br>
-<b>- Anne Bradstreet</b>
+<b>- Cicero</b>
 </blockquote>
 </p>
 
