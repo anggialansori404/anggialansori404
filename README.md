@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even in the grave, all is not lost."</i>
+<i>"The greatest way to live with honor in this world is to be what we pretend to be."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
