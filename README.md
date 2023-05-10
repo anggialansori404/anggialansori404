@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin."</i>
+<i>"Value your friendship. Value your relationships."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Barbara Bush</b>
 </blockquote>
 </p>
 
