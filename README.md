@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Value your friendship. Value your relationships."</i>
+<i>"I never see what has been done; I only see what remains to be done."</i>
 <br>
-<b>- Barbara Bush</b>
+<b>- Marie Curie</b>
 </blockquote>
 </p>
 
