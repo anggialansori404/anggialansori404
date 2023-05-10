@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"With age comes wisdom and a high sex drive. And the wisdom to enjoy it."</i>
+<i>"True love stories never have endings."</i>
 <br>
-<b>- Amber Valletta</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
