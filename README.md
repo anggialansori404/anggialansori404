@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hardly anybody recognizes the most significant moments of their life at the time they happen."</i>
+<i>"With age comes wisdom and a high sex drive. And the wisdom to enjoy it."</i>
 <br>
-<b>- W.P. Kinsella</b>
+<b>- Amber Valletta</b>
 </blockquote>
 </p>
 
