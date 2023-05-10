@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True knowledge exists in knowing that you know nothing."</i>
+<i>"We run to win, not just to be in the race.  "</i>
 <br>
-<b>- Isocrates</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
