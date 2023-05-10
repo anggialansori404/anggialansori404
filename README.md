@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men in general judge more from appearances than from reality. All men have eyes, but few have the gift of penetration."</i>
+<i>"A dead thing can go with the stream, but only a living thing can go against it."</i>
 <br>
-<b>- Niccolò Machiavelli</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
