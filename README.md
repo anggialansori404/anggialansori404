@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I never see what has been done; I only see what remains to be done."</i>
+<i>"Even in the grave, all is not lost."</i>
 <br>
-<b>- Marie Curie</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
