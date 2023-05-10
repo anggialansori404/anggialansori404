@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A dead thing can go with the stream, but only a living thing can go against it."</i>
+<i>"True knowledge exists in knowing that you know nothing."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Isocrates</b>
 </blockquote>
 </p>
 
