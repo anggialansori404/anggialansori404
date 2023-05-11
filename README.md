@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing on this earth more to be prized than true friendship."</i>
+<i>"Fine words and an insinuating appearance are seldom associated with true virtue"</i>
 <br>
-<b>- Thomas Aquinas</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
