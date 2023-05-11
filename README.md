@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never argue with ignorance. It only leads to frustration."</i>
+<i>"If opportunity doesn't knock, build a door."</i>
 <br>
-<b>- Unknown</b>
+<b>- Milton Berle</b>
 </blockquote>
 </p>
 
