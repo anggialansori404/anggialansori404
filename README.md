@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who is contented is rich."</i>
+<i>"Never argue with ignorance. It only leads to frustration."</i>
 <br>
-<b>- Laozi</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
