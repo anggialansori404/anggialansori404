@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fine words and an insinuating appearance are seldom associated with true virtue"</i>
+<i>"If I know what love is, it is because of you."</i>
 <br>
-<b>- Confucius</b>
+<b>- Hermann Hesse</b>
 </blockquote>
 </p>
 
