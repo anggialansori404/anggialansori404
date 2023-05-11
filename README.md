@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If opportunity doesn't knock, build a door."</i>
+<i>"Loss is nothing else but change and change is nature's delight."</i>
 <br>
-<b>- Milton Berle</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
