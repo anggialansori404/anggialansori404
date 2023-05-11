@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be like a postage stamp. Stick to it until you get there."</i>
+<i>"There is nothing on this earth more to be prized than true friendship."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Thomas Aquinas</b>
 </blockquote>
 </p>
 
