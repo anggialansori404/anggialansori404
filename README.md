@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I know what love is, it is because of you."</i>
+<i>"The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting."</i>
 <br>
-<b>- Hermann Hesse</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
