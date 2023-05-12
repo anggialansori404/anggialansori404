@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most certain sign of wisdom is cheerfulness."</i>
+<i>"There is nothing quite so tragic as a young cynic."</i>
 <br>
-<b>- Michel de Montaigne</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
