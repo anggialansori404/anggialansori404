@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness."</i>
+<i>"If you're walking down the right path and you're willing to keep walking, eventually you'll make progress."</i>
 <br>
-<b>- Unknown</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
