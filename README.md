@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?"</i>
+<i>"Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living."</i>
 <br>
-<b>- Confucius</b>
+<b>- Anaïs Nin</b>
 </blockquote>
 </p>
 
