@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them."</i>
+<i>"The man who moved the mountain was the one who began carrying away the smallest stones."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
