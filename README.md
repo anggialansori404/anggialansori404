@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing has more strength than dire necessity."</i>
+<i>"The most certain sign of wisdom is cheerfulness."</i>
 <br>
-<b>- Euripides</b>
+<b>- Michel de Montaigne</b>
 </blockquote>
 </p>
 
