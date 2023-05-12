@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict."</i>
+<i>"Nothing has more strength than dire necessity."</i>
 <br>
-<b>- William Ellery Channing</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
