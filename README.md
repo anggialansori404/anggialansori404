@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living."</i>
+<i>"We are Divine enough to ask and we are important enough to receive."</i>
 <br>
-<b>- Anaïs Nin</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
