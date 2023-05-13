@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing so useless as doing efficiently that which should not be done at all."</i>
+<i>"The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Anaïs Nin</b>
 </blockquote>
 </p>
 
