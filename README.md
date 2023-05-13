@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When your desires are strong enough you will appear to possess superhuman powers to achieve."</i>
+<i>"To make no mistakes is not in the power of man; but from their errors and mistakes the wise and good learn wisdom for the future."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Plutarch</b>
 </blockquote>
 </p>
 
