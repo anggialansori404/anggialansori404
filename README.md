@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery."</i>
+<i>"Friendship is one of our most treasured relationships, but it isn't codified and celebrated; it's never going to give you a party."</i>
 <br>
-<b>- Anaïs Nin</b>
+<b>- Hanya Yanagihara</b>
 </blockquote>
 </p>
 
