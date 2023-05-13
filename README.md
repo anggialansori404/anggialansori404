@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing quite so tragic as a young cynic."</i>
+<i>"When your desires are strong enough you will appear to possess superhuman powers to achieve."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
