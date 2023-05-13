@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be truly ignorant, be content with your own knowledge."</i>
+<i>"There is nothing so useless as doing efficiently that which should not be done at all."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
