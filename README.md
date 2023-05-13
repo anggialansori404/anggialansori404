@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Pleasure is always derived from something outside you, whereas joy arises from within. "</i>
+<i>"Flow with whatever is happening and let your mind be free. Stay centered by accepting whatever you are doing. This is the ultimate."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Zhuang Zhou</b>
 </blockquote>
 </p>
 
