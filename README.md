@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Flow with whatever is happening and let your mind be free. Stay centered by accepting whatever you are doing. This is the ultimate."</i>
+<i>"To seek greatness is the only righteous vengeance."</i>
 <br>
-<b>- Zhuang Zhou</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
