@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you resist, persists."</i>
+<i>"Anybody can make history. Only a great man can write it."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
