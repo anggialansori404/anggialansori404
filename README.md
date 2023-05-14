@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself."</i>
+<i>"Friendship with oneself is all important, because without it one cannot be friends with anyone else in the world."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
