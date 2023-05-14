@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who lives in harmony with himself lives in harmony with the world."</i>
+<i>"If you don't find the time, if you don't do the work, you don't get the results."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
