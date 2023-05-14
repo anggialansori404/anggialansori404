@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy."</i>
+<i>"Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Stewart Brand</b>
 </blockquote>
 </p>
 
