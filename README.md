@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I believe that potential is unlimited - success depends on daring to act on dreams.   "</i>
+<i>"What you resist, persists."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
