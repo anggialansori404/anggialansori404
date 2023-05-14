@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship with oneself is all important, because without it one cannot be friends with anyone else in the world."</i>
+<i>"People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
