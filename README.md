@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is almost always the union of a part of one mind with the part of another; people are friends in spots."</i>
+<i>"To effectively communicate, we must realize that we are all different in the way we perceive the world and use this understanding as a guide to our communication with others."</i>
 <br>
-<b>- George Santayana</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
