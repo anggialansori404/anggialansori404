@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Genuine sincerity opens people's hearts, while manipulation causes them to close."</i>
+<i>"Better late than never."</i>
 <br>
-<b>- Daisaku Ikeda</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
