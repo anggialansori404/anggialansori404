@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never apologize for showing feelings. When you do so, you apologize for the truth."</i>
+<i>"Genuine sincerity opens people's hearts, while manipulation causes them to close."</i>
 <br>
-<b>- Benjamin Disraeli</b>
+<b>- Daisaku Ikeda</b>
 </blockquote>
 </p>
 
