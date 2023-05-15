@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You will succeed because most people are lazy."</i>
+<i>"Never apologize for showing feelings. When you do so, you apologize for the truth."</i>
 <br>
-<b>- Shahir Zag</b>
+<b>- Benjamin Disraeli</b>
 </blockquote>
 </p>
 
