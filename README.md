@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To effectively communicate, we must realize that we are all different in the way we perceive the world and use this understanding as a guide to our communication with others."</i>
+<i>"One that desires to excel should endeavor in those things that are in themselves most excellent."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
