@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can choose to look at whatever we want.  We can look at what's wrong in our life or we can look at what's right."</i>
+<i>"How far that little candle throws its beams! So shines a good deed in a naughty world."</i>
 <br>
-<b>- Sonia Ricotti</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
