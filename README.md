@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am not absentminded. It is the presence of mind that makes me unaware of everything else."</i>
+<i>"We can choose to look at whatever we want.  We can look at what's wrong in our life or we can look at what's right."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Sonia Ricotti</b>
 </blockquote>
 </p>
 
