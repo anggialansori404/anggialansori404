@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How far that little candle throws its beams! So shines a good deed in a naughty world."</i>
+<i>"Friendship is almost always the union of a part of one mind with the part of another; people are friends in spots."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- George Santayana</b>
 </blockquote>
 </p>
 
