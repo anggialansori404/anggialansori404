@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The moment one gives close attention to anything, it becomes a mysterious, awesome, indescribably magnificent world in itself."</i>
+<i>"Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored."</i>
 <br>
-<b>- Henry Miller</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
