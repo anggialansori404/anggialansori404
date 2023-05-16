@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored."</i>
+<i>"Technology presumes there's just one right way to do things and there never is."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Robert M. Pirsig</b>
 </blockquote>
 </p>
 
