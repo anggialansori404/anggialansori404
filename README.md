@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better late than never."</i>
+<i>"A single lamp may light hundreds of thousands of lamps without itself being diminished."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
