@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who learns must suffer. And even in our sleep pain that cannot forget falls drop by drop upon the heart, and in our own despair, against our will, comes wisdom to us by the awful grace of God."</i>
+<i>"You can't put a limit on anything. The more you dream, the farther you get."</i>
 <br>
-<b>- Aeschylus</b>
+<b>- Michael Phelps</b>
 </blockquote>
 </p>
 
