@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In complete darkness we are all the same, it is only our knowledge and wisdom that separates us, don't let your eyes deceive you."</i>
+<i>"He who learns must suffer. And even in our sleep pain that cannot forget falls drop by drop upon the heart, and in our own despair, against our will, comes wisdom to us by the awful grace of God."</i>
 <br>
-<b>- Janet Jackson</b>
+<b>- Aeschylus</b>
 </blockquote>
 </p>
 
