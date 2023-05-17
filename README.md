@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The man who removes a mountain begins by carrying away small stones."</i>
+<i>"Our doubts are traitors and make us lose the good we often might win, by fearing to attempt."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Jane Addams</b>
 </blockquote>
 </p>
 
