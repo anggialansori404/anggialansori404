@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is only depth of character that determines the profundity with which we face life."</i>
+<i>"If you seek truth, you will not seek victory by dishonorable means, and if you find truth you will become invincible."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
