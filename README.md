@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you seek truth, you will not seek victory by dishonorable means, and if you find truth you will become invincible."</i>
+<i>"Maxim for life: You get treated in life the way you teach people to treat you."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
