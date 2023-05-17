@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted."</i>
+<i>"In complete darkness we are all the same, it is only our knowledge and wisdom that separates us, don't let your eyes deceive you."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- Janet Jackson</b>
 </blockquote>
 </p>
 
