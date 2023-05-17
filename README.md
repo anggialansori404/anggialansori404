@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't put a limit on anything. The more you dream, the farther you get."</i>
+<i>"The only thing new in the world is the history you do not know."</i>
 <br>
-<b>- Michael Phelps</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
