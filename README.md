@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't program yourself, life will program you."</i>
+<i>"Good actions give strength to ourselves and inspire good actions in others."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
