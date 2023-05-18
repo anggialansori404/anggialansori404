@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A hut full of laughter is richer than a palace full of sadness."</i>
+<i>"The important thing is not what one is born with but what use one makes of that equipment."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
