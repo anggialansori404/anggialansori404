@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is from the inside out. When you shift on the inside, life shifts on the outside."</i>
+<i>"Ethical axioms are found and tested not very differently from the axioms of science. Truth is what stands the test of experience."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
