@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ethical axioms are found and tested not very differently from the axioms of science. Truth is what stands the test of experience."</i>
+<i>"You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Albert Camus</b>
 </blockquote>
 </p>
 
