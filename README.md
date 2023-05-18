@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I succeeded by saying what everyone else is thinking."</i>
+<i>"Man is affected not by events but by the view he takes of them.  "</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
