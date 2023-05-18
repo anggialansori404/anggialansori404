@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't let praise or criticism get to you. It's a weakness to get caught up in either one."</i>
+<i>"Life is from the inside out. When you shift on the inside, life shifts on the outside."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
