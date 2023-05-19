@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A thing long expected takes the form of the unexpected when at last it comes."</i>
+<i>"Go for it now. The future is promised to no one. "</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
