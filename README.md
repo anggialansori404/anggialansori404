@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go for it now. The future is promised to no one. "</i>
+<i>"Time is the wisest counsellor of all."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Pericles</b>
 </blockquote>
 </p>
 
