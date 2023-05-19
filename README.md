@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some."</i>
+<i>"Silence is the great teacher and to learn its lessons you must pay attention to it."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
