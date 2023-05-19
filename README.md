@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be kind whenever possible. It is always possible."</i>
+<i>"The man who trusts men will make fewer mistakes than he who distrusts them."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Camillo Benso, Count of Cavour</b>
 </blockquote>
 </p>
 
