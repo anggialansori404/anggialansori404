@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enjoy life. There's plenty of time to be dead."</i>
+<i>"A thing long expected takes the form of the unexpected when at last it comes."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
