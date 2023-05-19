@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Silence is the great teacher and to learn its lessons you must pay attention to it."</i>
+<i>"Enjoy life. There's plenty of time to be dead."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
