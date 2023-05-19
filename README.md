@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time is the wisest counsellor of all."</i>
+<i>"Be kind whenever possible. It is always possible."</i>
 <br>
-<b>- Pericles</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
