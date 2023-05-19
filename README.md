@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Technology presumes there's just one right way to do things and there never is."</i>
+<i>"The scariest monsters are the ones that lurk within our souls."</i>
 <br>
-<b>- Robert M. Pirsig</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
