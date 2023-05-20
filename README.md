@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Turn your face to the sun, as flowers know how to do."</i>
+<i>"All things change; nothing perishes."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Ovid</b>
 </blockquote>
 </p>
 
