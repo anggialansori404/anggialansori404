@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The man who trusts men will make fewer mistakes than he who distrusts them."</i>
+<i>"Loyalty and devotion lead to bravery. Bravery leads to the spirit of self-sacrifice. The spirit of self-sacrifice creates trust in the power of love."</i>
 <br>
-<b>- Camillo Benso, Count of Cavour</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
