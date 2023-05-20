@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only person you should try to be better than is the person you were yesterday."</i>
+<i>"Friendship is essentially a partnership."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
