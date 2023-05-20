@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can only learn to love by loving."</i>
+<i>"Investing in yourself is the best investment you will ever make."</i>
 <br>
-<b>- Iris Murdoch</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
