@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To belittle, you have to be little."</i>
+<i>"I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
