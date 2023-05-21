@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fortune favors the brave."</i>
+<i>"Discovery consists of seeing what everybody has seen and thinking what nobody else has thought."</i>
 <br>
-<b>- Virgil</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
