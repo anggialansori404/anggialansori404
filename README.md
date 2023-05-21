@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is getting what you want. Happiness is wanting what you get."</i>
+<i>"Genuine sincerity opens people's hearts, while manipulation causes them to close."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Daisaku Ikeda</b>
 </blockquote>
 </p>
 
