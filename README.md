@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All things change; nothing perishes."</i>
+<i>"I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear."</i>
 <br>
-<b>- Ovid</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
