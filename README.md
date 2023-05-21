@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Many sophisticated, intelligent people lack wisdom and common sense."</i>
+<i>"Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
