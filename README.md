@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Humans and prosperity never endure side by side for long."</i>
+<i>"There is more wisdom in your body than in your deepest philosophy."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Friedrich Nietzsche</b>
 </blockquote>
 </p>
 
