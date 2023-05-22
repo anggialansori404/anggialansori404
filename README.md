@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more something scares you, the more you should do it."</i>
+<i>"One of the most beautiful qualities of true friendship is to understand and to be understood."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
