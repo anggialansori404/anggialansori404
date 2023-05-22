@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace."</i>
+<i>"Being entirely honest with oneself is a good exercise."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
