@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Today is the oldest you've ever been, and the youngest you'll ever be again."</i>
+<i>"A little progress each day adds up to big results."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
