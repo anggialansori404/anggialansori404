@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the most beautiful qualities of true friendship is to understand and to be understood."</i>
+<i>"The two most powerful warriors are patience and time."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
