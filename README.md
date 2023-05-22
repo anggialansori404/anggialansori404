@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is more wisdom in your body than in your deepest philosophy."</i>
+<i>"Debt is the slavery of the free."</i>
 <br>
-<b>- Friedrich Nietzsche</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
