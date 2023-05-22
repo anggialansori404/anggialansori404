@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Debt is the slavery of the free."</i>
+<i>"There is no path to Love. Love is the path."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
