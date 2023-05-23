@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What kills the creative force is not age or lack of talent, but our own spirit, our own attitude."</i>
+<i>"We are Divine enough to ask and we are important enough to receive."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
