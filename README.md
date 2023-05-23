@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"And the attitude of faith is the very opposite of clinging to belief, of holding on."</i>
+<i>"To profit from good advice requires more wisdom than to give it."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Wilson Mizner</b>
 </blockquote>
 </p>
 
