@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is often safer to be in chains than to be free. "</i>
+<i>"Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
