@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others."</i>
+<i>"The more tranquil a man becomes, the greater is his success, his influence, his power for good. Calmness of mind is one of the beautiful jewels of wisdom."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
