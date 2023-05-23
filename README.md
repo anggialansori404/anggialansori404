@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To profit from good advice requires more wisdom than to give it."</i>
+<i>"When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness."</i>
 <br>
-<b>- Wilson Mizner</b>
+<b>- Joseph Campbell</b>
 </blockquote>
 </p>
 
