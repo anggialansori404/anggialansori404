@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nourish the mind like you would your body. The mind cannot survive on junk food."</i>
+<i>"And the attitude of faith is the very opposite of clinging to belief, of holding on."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
