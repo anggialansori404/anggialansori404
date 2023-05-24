@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You make your own luck if you stay at it long enough."</i>
+<i>"It is easier to live through someone else than to become complete yourself."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Betty Friedan</b>
 </blockquote>
 </p>
 
