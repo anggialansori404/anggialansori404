@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness."</i>
+<i>"He who hath many friends hath none."</i>
 <br>
-<b>- Joseph Campbell</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
