@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Drop by drop is the water pot filled. Likewise, the wise man, gathering it little by little, fills himself with good."</i>
+<i>"Money poisons you when you've got it, and starves you when you haven't."</i>
 <br>
-<b>- The Buddha</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
