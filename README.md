@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who hath many friends hath none."</i>
+<i>"Just trust that everything is unfolding the way it is supposed to. Don't resist... Great things are waiting for you around the corner."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Sonia Ricotti</b>
 </blockquote>
 </p>
 
