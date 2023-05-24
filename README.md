@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just trust that everything is unfolding the way it is supposed to. Don't resist... Great things are waiting for you around the corner."</i>
+<i>"Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance."</i>
 <br>
-<b>- Sonia Ricotti</b>
+<b>- Thomas Carlyle</b>
 </blockquote>
 </p>
 
