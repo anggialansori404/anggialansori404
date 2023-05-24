@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are always free to change your mind and choose a different future, or a different past."</i>
+<i>"We may not be able to stop evil in the world, but how we treat one another is entirely up to us."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
