@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"None but ourselves can free our minds."</i>
+<i>"Drop by drop is the water pot filled. Likewise, the wise man, gathering it little by little, fills himself with good."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
