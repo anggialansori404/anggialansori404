@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Acquaintances we meet, enjoy, and can easily leave behind; but friendship grows deep roots."</i>
+<i>"The best way to not feel hopeless is to get up and do something."</i>
 <br>
-<b>- H. Jackson Brown Jr.</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
