@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All that I am, or hope to be, I owe to my angel mother."</i>
+<i>"Life a culmination of the past, an awareness of the present, an indication of the future beyond knowledge, the quality that gives a touch of divinity to matter."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Charles Lindbergh</b>
 </blockquote>
 </p>
 
