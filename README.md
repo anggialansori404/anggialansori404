@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What keeps life fascinating is the constant creativity of the soul."</i>
+<i>"Acquaintances we meet, enjoy, and can easily leave behind; but friendship grows deep roots."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- H. Jackson Brown Jr.</b>
 </blockquote>
 </p>
 
