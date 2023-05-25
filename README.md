@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We may not be able to stop evil in the world, but how we treat one another is entirely up to us."</i>
+<i>"All that I am, or hope to be, I owe to my angel mother."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
