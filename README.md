@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness."</i>
+<i>"What keeps life fascinating is the constant creativity of the soul."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
