@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man is a volume if you know how to read him."</i>
+<i>"Being wrong opens us up to the possibility of change."</i>
 <br>
-<b>- William Ellery Channing</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
