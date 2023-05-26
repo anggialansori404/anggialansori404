@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Think like a man of action; act like a man of thought."</i>
+<i>"Turn your face to the sun, as flowers know how to do."</i>
 <br>
-<b>- Henri Bergson</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
