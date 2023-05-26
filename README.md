@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go put your creed into the deed. Nor speak with double tongue."</i>
+<i>"Think like a man of action; act like a man of thought."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Henri Bergson</b>
 </blockquote>
 </p>
 
