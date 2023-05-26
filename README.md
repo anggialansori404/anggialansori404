@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let each man exercise the art he knows."</i>
+<i>"Every man is a volume if you know how to read him."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- William Ellery Channing</b>
 </blockquote>
 </p>
 
