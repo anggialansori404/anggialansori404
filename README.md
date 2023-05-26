@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Relax. Nothing is under control."</i>
+<i>"Time doesn't heal emotional pain, you need to learn how to let go."</i>
 <br>
-<b>- Adi Da Samraj</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
