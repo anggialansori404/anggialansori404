@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You win more from losing than winning."</i>
+<i>"Go put your creed into the deed. Nor speak with double tongue."</i>
 <br>
-<b>- Morgan Wootten</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
