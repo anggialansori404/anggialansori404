@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing great was ever achieved without enthusiasm."</i>
+<i>"Success is where preparation and opportunity meet."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Bobby Unser</b>
 </blockquote>
 </p>
 
