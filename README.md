@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is where preparation and opportunity meet."</i>
+<i>"You win more from losing than winning."</i>
 <br>
-<b>- Bobby Unser</b>
+<b>- Morgan Wootten</b>
 </blockquote>
 </p>
 
