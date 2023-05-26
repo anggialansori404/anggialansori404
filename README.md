@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't try to steer the river."</i>
+<i>"Let each man exercise the art he knows."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
