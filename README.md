@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Turn your face to the sun, as flowers know how to do."</i>
+<i>"The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
