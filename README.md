@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary."</i>
+<i>"Don't try to steer the river."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
