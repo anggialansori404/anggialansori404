@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"None knows the weight of another's burden."</i>
+<i>"How many cares one loses when one decides not to be something but to be someone."</i>
 <br>
-<b>- George Herbert</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
