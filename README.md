@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you get by achieving your goals is not as important as what you become by achieving your goals."</i>
+<i>"Efficiency is doing things right; effectiveness is doing the right things."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
