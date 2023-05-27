@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Cleverness is not wisdom."</i>
+<i>"Much wisdom often goes with fewer words."</i>
 <br>
-<b>- Euripides</b>
+<b>- Sophocles</b>
 </blockquote>
 </p>
 
