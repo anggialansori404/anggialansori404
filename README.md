@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you extend kindness to yourself, the more it will become your automatic response to others."</i>
+<i>"Knowledge is a treasure, but practice is the key to it."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
