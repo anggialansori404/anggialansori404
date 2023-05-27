@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I can laugh, I can live."</i>
+<i>"Cleverness is not wisdom."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
