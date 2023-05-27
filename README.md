@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Efficiency is doing things right; effectiveness is doing the right things."</i>
+<i>"What do we live for, if it is not to make life less difficult for each other?"</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
