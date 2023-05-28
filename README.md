@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not turn back when you are just at the goal."</i>
+<i>"It isn't where you come from, it's where you're going that counts."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Ella Fitzgerald</b>
 </blockquote>
 </p>
 
