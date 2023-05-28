@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all here for some special reason."</i>
+<i>"The prettiest eyes have cried the most."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
