@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It isn't where you come from, it's where you're going that counts."</i>
+<i>"We are all here for some special reason."</i>
 <br>
-<b>- Ella Fitzgerald</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
