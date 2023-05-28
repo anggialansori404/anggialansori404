@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All know that the drop merges into the ocean, but few know that the ocean merges into the drop."</i>
+<i>"He who conquers others is strong; He who conquers himself is mighty."</i>
 <br>
-<b>- Kabir</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
