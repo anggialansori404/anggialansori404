@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not only for what we do that we are held responsible, but also for what we do not do."</i>
+<i>"Life is a journey, not a destination."</i>
 <br>
-<b>- Molière</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
