@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In peace, sons bury their fathers. In war, fathers bury their sons. "</i>
+<i>"Friendship is like money, easier made than kept."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
