@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is like money, easier made than kept."</i>
+<i>"Do not follow where the path may lead. Go, instead, where there is no path and leave a trail."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
