@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not follow where the path may lead. Go, instead, where there is no path and leave a trail."</i>
+<i>"Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
