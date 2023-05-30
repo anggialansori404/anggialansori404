@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You will have bad times, but they will always wake you up to the stuff you weren't paying attention to."</i>
+<i>"Begin at once to live and count each separate day as a separate life."</i>
 <br>
-<b>- Robin Williams</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
