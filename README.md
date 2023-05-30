@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You learn to speak by speaking, to study by studying, to run by running, to work by working; in just the same way, you learn to love by loving."</i>
+<i>"Be where your enemy is not."</i>
 <br>
-<b>- Anatole France</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
