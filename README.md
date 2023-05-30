@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyday you can take a tiny step in the right direction."</i>
+<i>"Some people are born on third base and go through life thinking they hit a triple."</i>
 <br>
-<b>- Unknown</b>
+<b>- Barry Switzer</b>
 </blockquote>
 </p>
 
