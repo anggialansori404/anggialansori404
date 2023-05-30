@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If the plan doesn't work, change the plan, but never the goal."</i>
+<i>"Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. "</i>
 <br>
-<b>- Unknown</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
