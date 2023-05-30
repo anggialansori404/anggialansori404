@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of success is constancy to purpose."</i>
+<i>"Your very silence shows you agree."</i>
 <br>
-<b>- Benjamin Disraeli</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
