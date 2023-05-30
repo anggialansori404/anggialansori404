@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be where your enemy is not."</i>
+<i>"Everyday you can take a tiny step in the right direction."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
