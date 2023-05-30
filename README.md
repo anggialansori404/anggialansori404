@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Talk to someone about themselves and they'll listen for hours."</i>
+<i>"If the plan doesn't work, change the plan, but never the goal."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
