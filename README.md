@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If opportunity doesn't knock, build a door."</i>
+<i>"You will have bad times, but they will always wake you up to the stuff you weren't paying attention to."</i>
 <br>
-<b>- Milton Berle</b>
+<b>- Robin Williams</b>
 </blockquote>
 </p>
 
