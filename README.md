@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all like the bright moon, we still have our darker side.  "</i>
+<i>"The fall of dropping water wears away the Stone."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Lucretius</b>
 </blockquote>
 </p>
 
