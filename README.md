@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friends are the siblings God never gave us."</i>
+<i>"Your past does not equal your future."</i>
 <br>
-<b>- Mencius</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
