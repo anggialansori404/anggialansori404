@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Short words are best and the old words when short are best of all."</i>
+<i>"Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
