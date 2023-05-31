@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible."</i>
+<i>"The heart has eyes which the brain knows nothing of."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Charles Henry Parkhurst</b>
 </blockquote>
 </p>
 
