@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The heart has eyes which the brain knows nothing of."</i>
+<i>"Friends are the siblings God never gave us."</i>
 <br>
-<b>- Charles Henry Parkhurst</b>
+<b>- Mencius</b>
 </blockquote>
 </p>
 
