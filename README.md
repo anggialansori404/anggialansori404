@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Begin at once to live and count each separate day as a separate life."</i>
+<i>"It is not how much we have, but how much we enjoy, that makes happiness."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Charles Spurgeon</b>
 </blockquote>
 </p>
 
