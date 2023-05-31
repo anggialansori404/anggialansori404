@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your past does not equal your future."</i>
+<i>"You can have results or excuses, but not both."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
