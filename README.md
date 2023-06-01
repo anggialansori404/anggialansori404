@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you correct your mind, the rest of your life will fall into place."</i>
+<i>"If you are patient in one moment of anger, you will escape a hundred days of sorrow. "</i>
 <br>
-<b>- Laozi</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
