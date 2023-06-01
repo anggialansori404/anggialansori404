@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Greatness comes from living with purpose and passion."</i>
+<i>"If you correct your mind, the rest of your life will fall into place."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
