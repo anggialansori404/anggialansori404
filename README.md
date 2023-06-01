@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most formidable weapon against errors of every kind is reason."</i>
+<i>"Greatness comes from living with purpose and passion."</i>
 <br>
-<b>- Thomas Paine</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
