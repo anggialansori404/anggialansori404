@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want work well done, select a busy man; the other kind has no time."</i>
+<i>"Never put off to tomorrow what you can do to-day."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
