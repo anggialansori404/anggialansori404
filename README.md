@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It requires wisdom to understand wisdom: the music is nothing if the audience is deaf."</i>
+<i>"Reality does not conform to the ideal but confirms it."</i>
 <br>
-<b>- Walter Lippmann</b>
+<b>- Gustave Flaubert</b>
 </blockquote>
 </p>
 
