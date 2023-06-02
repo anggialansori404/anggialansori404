@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Gratitude is the fairest blossom which springs from the soul."</i>
+<i>"He who cheats the earth will be cheated by the earth."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
