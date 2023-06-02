@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is a prerequisite for great success. If you want success faster, double your rate of failure."</i>
+<i>"Dreams come true. Without that possibility, nature would not incite us to have them."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- John Updike</b>
 </blockquote>
 </p>
 
