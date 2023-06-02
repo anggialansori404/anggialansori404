@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live life as though nobody is watching, and express yourself as though everyone is listening."</i>
+<i>"It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
