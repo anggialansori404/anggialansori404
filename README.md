@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a gift. Never forget to enjoy and bask in every moment you are in."</i>
+<i>"Permanence, perseverance and persistence in spite of all obstacles, discouragements, and impossibilities: It is this, that in all things distinguishes the strong soul from the weak."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Thomas Carlyle</b>
 </blockquote>
 </p>
 
