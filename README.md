@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who knows that enough is enough will always have enough."</i>
+<i>"Know how to listen, and you will profit even from those who talk badly."</i>
 <br>
-<b>- Laozi</b>
+<b>- Plutarch</b>
 </blockquote>
 </p>
 
