@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid to see what you see."</i>
+<i>"We all grow up. Hopefully, we get wiser. Age brings wisdom, and fatherhood changes one's life completely."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Frank Abagnale</b>
 </blockquote>
 </p>
 
