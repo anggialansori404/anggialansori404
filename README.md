@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your sacred space is where you can find yourself again and again."</i>
+<i>"He who knows that enough is enough will always have enough."</i>
 <br>
-<b>- Joseph Campbell</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
