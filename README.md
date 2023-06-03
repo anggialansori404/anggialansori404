@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to."</i>
+<i>"When reading, only read. When eating, only eat. When thinking, only think."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Seungsahn</b>
 </blockquote>
 </p>
 
