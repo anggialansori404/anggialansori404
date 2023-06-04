@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great minds discuss ideas. Average minds discuss events. Small minds discuss people."</i>
+<i>"If you don't like something change it; if you can't change it, change the way you think about it."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
