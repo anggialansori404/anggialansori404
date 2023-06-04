@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you love someone, set them free. If they come back, they're yours; if they don't, they never were."</i>
+<i>"If with a pure mind a person speaks or acts, happiness follows them like a never-departing shadow."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
