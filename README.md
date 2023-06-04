@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have never been hurt by anything I didn't say."</i>
+<i>"Never pretend to a love which you do not actually feel, for love is not ours to command."</i>
 <br>
-<b>- Calvin Coolidge</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
