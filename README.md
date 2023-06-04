@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't like something change it; if you can't change it, change the way you think about it."</i>
+<i>"Allow the world to live as it chooses, and allow yourself to live as you choose."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
