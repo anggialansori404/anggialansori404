@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean."</i>
+<i>"If we look at the world with a love of life, the world will reveal its beauty to us."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Daisaku Ikeda</b>
 </blockquote>
 </p>
 
