@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Allow the world to live as it chooses, and allow yourself to live as you choose."</i>
+<i>"I have never been hurt by anything I didn't say."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Calvin Coolidge</b>
 </blockquote>
 </p>
 
