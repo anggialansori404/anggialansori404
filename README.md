@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we look at the world with a love of life, the world will reveal its beauty to us."</i>
+<i>"Things turn out best for those who make the best of the way things turn out."</i>
 <br>
-<b>- Daisaku Ikeda</b>
+<b>- Jack Buck</b>
 </blockquote>
 </p>
 
