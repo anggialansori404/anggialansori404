@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Things turn out best for those who make the best of the way things turn out."</i>
+<i>"Don't just sit there. Do something. The answers will follow."</i>
 <br>
-<b>- Jack Buck</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
