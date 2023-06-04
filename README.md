@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good character is the best tombstone. Carve your name on hearts, not on marble."</i>
+<i>"Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean."</i>
 <br>
-<b>- Charles Spurgeon</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
