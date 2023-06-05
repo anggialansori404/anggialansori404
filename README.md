@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is what happens while you are making other plans."</i>
+<i>"You're never given a dream without also being given the power to make it true."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
