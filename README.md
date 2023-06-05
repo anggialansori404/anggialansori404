@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain."</i>
+<i>"If you see yourself as prosperous, you will be."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
