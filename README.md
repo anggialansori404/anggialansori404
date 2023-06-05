@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Irony is the gaiety of reflection and the joy of wisdom."</i>
+<i>"There is nothing in a caterpillar that tells you it's going to be a butterfly."</i>
 <br>
-<b>- Anatole France</b>
+<b>- Buckminster Fuller</b>
 </blockquote>
 </p>
 
