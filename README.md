@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do I speak at the right time, or not? Do I speak of facts, or not? Do I speak gently or harshly? Do I speak profitable words or not? Do I speak with a kindly heart, or inwardly malicious?"</i>
+<i>"Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict."</i>
 <br>
-<b>- The Buddha</b>
+<b>- William Ellery Channing</b>
 </blockquote>
 </p>
 
