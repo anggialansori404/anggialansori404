@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time changes everything except something within us which is always surprised by change."</i>
+<i>"Never spend your money before you have earned it."</i>
 <br>
-<b>- Thomas Hardy</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
