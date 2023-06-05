@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He has no enemies, but is intensely disliked by his friends."</i>
+<i>"Time changes everything except something within us which is always surprised by change."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Thomas Hardy</b>
 </blockquote>
 </p>
 
