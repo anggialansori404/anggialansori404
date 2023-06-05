@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never pretend to a love which you do not actually feel, for love is not ours to command."</i>
+<i>"Irony is the gaiety of reflection and the joy of wisdom."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Anatole France</b>
 </blockquote>
 </p>
 
