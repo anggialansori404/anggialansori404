@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict."</i>
+<i>"No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain."</i>
 <br>
-<b>- William Ellery Channing</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
