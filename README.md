@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reading, after a certain age, diverts the mind too much from its creative pursuits. Any man who reads too much and uses his own brain too little falls into lazy habits of thinking."</i>
+<i>"Words can only have a positive effect on others if and when they are ready to listen."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
