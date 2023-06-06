@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We gain the strength of the temptation we resist."</i>
+<i>"A tiny change today brings a dramatically different tomorrow."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
