@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The farther backward you can look, the farther forward you can see."</i>
+<i>"Be like a postage stamp. Stick to it until you get there."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
