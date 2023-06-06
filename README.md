@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words can only have a positive effect on others if and when they are ready to listen."</i>
+<i>"The farther backward you can look, the farther forward you can see."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
