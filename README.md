@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you see yourself as prosperous, you will be."</i>
+<i>"The problem with Google is you have 360 degrees of omnidirectional information on a linear basis, but the algorithms for irony and ambiguity are not there. And those are the algorithms of wisdom."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- William Hurt</b>
 </blockquote>
 </p>
 
