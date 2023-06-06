@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest adventure is what lies ahead."</i>
+<i>"The greatest way to live with honor in this world is to be what we pretend to be."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
