@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be like a postage stamp. Stick to it until you get there."</i>
+<i>"The biggest adventure is what lies ahead."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
