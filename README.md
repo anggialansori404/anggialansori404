@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change happens when the pain of holding on becomes greater than the fear of letting go."</i>
+<i>"Ask yourself the secret of your success. Listen to your answer and practice it."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
