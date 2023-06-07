@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Know that although in the eternal scheme of things you are small, you are also unique and irreplaceable, as are all your fellow humans everywhere in the world."</i>
+<i>"Invisible things are the only realities."</i>
 <br>
-<b>- Margaret Laurence</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
