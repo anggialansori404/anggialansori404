@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not so important to know everything as to appreciate what we learn."</i>
+<i>"Our greatest glory is not in never falling, but in rising every time we fall."</i>
 <br>
-<b>- Hannah More</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
