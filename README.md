@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Invisible things are the only realities."</i>
+<i>"The journey, not the destination matters."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
