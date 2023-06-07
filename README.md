@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The journey, not the destination matters."</i>
+<i>"There is nothing in a caterpillar that tells you it's going to be a butterfly."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Buckminster Fuller</b>
 </blockquote>
 </p>
 
