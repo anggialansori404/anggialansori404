@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Money poisons you when you've got it, and starves you when you haven't."</i>
+<i>"Change happens when the pain of holding on becomes greater than the fear of letting go."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
