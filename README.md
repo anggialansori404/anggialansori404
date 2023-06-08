@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The power of man has grown in every sphere, except over himself."</i>
+<i>"Begin at once to live, and count each separate day as a separate life.  "</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
