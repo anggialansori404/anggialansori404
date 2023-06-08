@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are the average of the five people you spend most time with."</i>
+<i>"Business, you know, may bring you money, but friendship hardly ever does."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Jane Austen</b>
 </blockquote>
 </p>
 
