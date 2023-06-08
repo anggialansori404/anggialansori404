@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them."</i>
+<i>"The only time to buy these is on a day with no 'y' in it."</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- Warren Buffett</b>
 </blockquote>
 </p>
 
