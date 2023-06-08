@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside, awakens."</i>
+<i>"We are all like the bright moon, we still have our darker side.  "</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
