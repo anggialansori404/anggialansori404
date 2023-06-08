@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all like the bright moon, we still have our darker side.  "</i>
+<i>"Pick battles big enough to matter, small enough to win."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Jonathan Kozol</b>
 </blockquote>
 </p>
 
