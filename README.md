@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Pick battles big enough to matter, small enough to win."</i>
+<i>"Actions are the seeds of fate. Deeds grow into destiny."</i>
 <br>
-<b>- Jonathan Kozol</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
