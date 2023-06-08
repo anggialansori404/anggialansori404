@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Actions are the seeds of fate. Deeds grow into destiny."</i>
+<i>"The power of man has grown in every sphere, except over himself."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
