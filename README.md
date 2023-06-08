@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Business, you know, may bring you money, but friendship hardly ever does."</i>
+<i>"Information changes your mind. Action changes your circumstances."</i>
 <br>
-<b>- Jane Austen</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
