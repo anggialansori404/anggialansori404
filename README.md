@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only time to buy these is on a day with no 'y' in it."</i>
+<i>"You are the average of the five people you spend most time with."</i>
 <br>
-<b>- Warren Buffett</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
