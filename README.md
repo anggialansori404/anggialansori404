@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Begin at once to live, and count each separate day as a separate life.  "</i>
+<i>"Liberty, taking the word in its concrete sense, consists in the ability to choose."</i>
 <br>
-<b>- Seneca</b>
+<b>- Simone Weil</b>
 </blockquote>
 </p>
 
