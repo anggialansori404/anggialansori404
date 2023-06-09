@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace."</i>
+<i>"The sum of wisdom is that time is never lost that is devoted to work."</i>
 <br>
-<b>- Dogen</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
