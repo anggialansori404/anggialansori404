@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine."</i>
+<i>"Human beings can alter their lives by altering their attitudes of mind."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
