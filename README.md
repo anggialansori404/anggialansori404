@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whenever you find yourself on the side of the majority, it is time to pause and reflect."</i>
+<i>"He who cannot be a good follower cannot be a good leader."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
