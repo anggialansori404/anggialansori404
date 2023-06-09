@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best teacher is experience and not through someone's distorted point of view."</i>
+<i>"If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace."</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
