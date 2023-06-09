@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Human beings can alter their lives by altering their attitudes of mind."</i>
+<i>"Go for it now. The future is promised to no one. "</i>
 <br>
-<b>- William James</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
