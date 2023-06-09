@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who cannot be a good follower cannot be a good leader."</i>
+<i>"He that is giddy thinks the world turns round."</i>
 <br>
-<b>- Aristotle</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
