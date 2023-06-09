@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Giving is living. If you stop wanting to give, there's nothing more to live for."</i>
+<i>"Whenever you find yourself on the side of the majority, it is time to pause and reflect."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
