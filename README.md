@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An organization's ability to learn, and translate that learning into action rapidly, is the ultimate competitive advantage."</i>
+<i>"How we spend our days is, of course, how we spend our lives."</i>
 <br>
-<b>- Jack Welch</b>
+<b>- Annie Dillard</b>
 </blockquote>
 </p>
 
