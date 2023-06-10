@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you have the guts to keep making mistakes, your wisdom and intelligence leap forward with huge momentum."</i>
+<i>"Knowing is not enough, we must apply. Willing is not enough, we must do.  "</i>
 <br>
-<b>- Holly Near</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
