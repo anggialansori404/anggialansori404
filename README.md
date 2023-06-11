@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When I was 40, my doctor advised me that a man in his 40s shouldn't play tennis. I heeded his advice carefully and could hardly wait until I reached 50 to start again."</i>
+<i>"The giving of love is an education in itself."</i>
 <br>
-<b>- Hugo Black</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
