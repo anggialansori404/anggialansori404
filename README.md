@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!"</i>
+<i>"Do the difficult things while they are easy and do the great things while they are small."</i>
 <br>
-<b>- Charlotte Perkins Gilman</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
