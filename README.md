@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sorrow is knowledge, those that know the most must mourn the deepest, the tree of knowledge is not the tree of life."</i>
+<i>"Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!"</i>
 <br>
-<b>- Lord Byron</b>
+<b>- Charlotte Perkins Gilman</b>
 </blockquote>
 </p>
 
