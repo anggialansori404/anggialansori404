@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life."</i>
+<i>"The truth of the matter is that you always know the right thing to do. The hard part is doing it."</i>
 <br>
-<b>- James Freeman Clarke</b>
+<b>- Norman Schwarzkopf</b>
 </blockquote>
 </p>
 
