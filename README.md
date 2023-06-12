@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence."</i>
+<i>"A youth, when at home, should be filial and, abroad, respectful to his elders. He should be earnest and truthful. He should overflow in love to all and cultivate the friendship of the good. When he has time and opportunity, after the performance of these things, he should employ them in polite studies."</i>
 <br>
-<b>- George Washington</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
