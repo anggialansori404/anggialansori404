@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are content to be simply yourself and don't compare or compete, everybody will respect you. "</i>
+<i>"Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
