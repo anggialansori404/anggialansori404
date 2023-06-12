@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing happens to any person but what was in his power to go through with."</i>
+<i>"Friendship is the marriage of the soul, and this marriage is liable to divorce."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
