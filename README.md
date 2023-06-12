@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just be patient. Let the game come to you. Don't rush. Be quick, but don't hurry."</i>
+<i>"There is nothing happens to any person but what was in his power to go through with."</i>
 <br>
-<b>- Earl Monroe</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
