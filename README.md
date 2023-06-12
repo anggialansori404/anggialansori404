@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If only wed stop trying to be happy wed have a pretty good time."</i>
+<i>"Just be patient. Let the game come to you. Don't rush. Be quick, but don't hurry."</i>
 <br>
-<b>- Edith Wharton</b>
+<b>- Earl Monroe</b>
 </blockquote>
 </p>
 
