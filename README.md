@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never idealize others. They will never live up to your expectations."</i>
+<i>"When you are content to be simply yourself and don't compare or compete, everybody will respect you. "</i>
 <br>
-<b>- Leo Buscaglia</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
