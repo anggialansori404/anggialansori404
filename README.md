@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world is changed by your example, not by your opinion."</i>
+<i>"If only wed stop trying to be happy wed have a pretty good time."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Edith Wharton</b>
 </blockquote>
 </p>
 
