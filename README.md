@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world turns aside to let any man pass who knows where he is going."</i>
+<i>"Don't let them drag you down by rumors. Just go with what you believe in."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
