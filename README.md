@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time."</i>
+<i>"Imagination is more important than knowledge..."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
