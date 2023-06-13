@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just as much as we see in others, we have in ourselves."</i>
+<i>"Peaceful is the one who expects nothing."</i>
 <br>
-<b>- William Hazlitt</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
