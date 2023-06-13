@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Maxim for life: You get treated in life the way you teach people to treat you."</i>
+<i>"Tradition is the illusion of permanence. "</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
