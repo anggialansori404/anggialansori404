@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As you walk in God's divine wisdom, you will surely begin to see a greater measure of victory and good success in your life."</i>
+<i>"In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time."</i>
 <br>
-<b>- Joseph Prince</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
