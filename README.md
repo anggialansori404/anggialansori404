@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let them drag you down by rumors. Just go with what you believe in."</i>
+<i>"When you are tough on yourself, life is going to be infinitely easier on you.  "</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
