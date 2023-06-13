@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure will never overtake me if my determination to succeed is strong enough."</i>
+<i>"Just as much as we see in others, we have in ourselves."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- William Hazlitt</b>
 </blockquote>
 </p>
 
