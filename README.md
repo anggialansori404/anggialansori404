@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction."</i>
+<i>"Failure will never overtake me if my determination to succeed is strong enough."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
