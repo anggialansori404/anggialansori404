@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Surrender to what is. Let go of what was. Have faith in what will be."</i>
+<i>"Life is just a chance to grow a soul."</i>
 <br>
-<b>- Sonia Ricotti</b>
+<b>- A. Powell Davies</b>
 </blockquote>
 </p>
 
