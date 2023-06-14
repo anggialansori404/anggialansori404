@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never apologize for showing feelings. When you do so, you apologize for the truth."</i>
+<i>"When the time is gone, you can never get it back."</i>
 <br>
-<b>- Benjamin Disraeli</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
