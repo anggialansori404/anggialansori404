@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future is not a gift. It is an achievement."</i>
+<i>"Never apologize for showing feelings. When you do so, you apologize for the truth."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Benjamin Disraeli</b>
 </blockquote>
 </p>
 
