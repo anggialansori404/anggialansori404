@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing great was ever achieved without enthusiasm."</i>
+<i>"You know the more one does the more one can do."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
