@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go put your creed into the deed. Nor speak with double tongue."</i>
+<i>"The future is not a gift. It is an achievement."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
