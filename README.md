@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The time is now, the place is here. Stay in the present."</i>
+<i>"Surrender to what is. Let go of what was. Have faith in what will be."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Sonia Ricotti</b>
 </blockquote>
 </p>
 
