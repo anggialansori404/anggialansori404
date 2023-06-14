@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You know the more one does the more one can do."</i>
+<i>"The outer conditions of a person's life will always be found to reflect their inner beliefs."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
