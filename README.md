@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wise men talk because they have something to say; fools, because they have to say something."</i>
+<i>"There is a difference between giving directions and giving direction."</i>
 <br>
-<b>- Plato</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
