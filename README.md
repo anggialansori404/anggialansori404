@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is a difference between giving directions and giving direction."</i>
+<i>"To follow, without halt, one aim: There is the secret of success."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Anna Pavlova</b>
 </blockquote>
 </p>
 
