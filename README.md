@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him."</i>
+<i>"In youth we run into difficulties. In old age difficulties run into us. "</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
