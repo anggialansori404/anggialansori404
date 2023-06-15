@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Science and technology revolutionize our lives, but memory, tradition and myth frame our response."</i>
+<i>"Do you have the patience to wait until your mud settles and the water is clear?"</i>
 <br>
-<b>- Arthur M. Schlesinger Jr.</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
