@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is just a chance to grow a soul."</i>
+<i>"Wise men talk because they have something to say; fools, because they have to say something."</i>
 <br>
-<b>- A. Powell Davies</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
