@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do you know what my favorite part of the game is? The opportunity to play."</i>
+<i>"Life comes at us in waves. We can't predict or control those waves, but we can learn to surf."</i>
 <br>
-<b>- Mike Singletary (basketball)</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
