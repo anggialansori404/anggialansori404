@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before you embark on a journey of revenge, dig two graves. "</i>
+<i>"Do not pray for an easy life, pray for the strength to endure a difficult one.  "</i>
 <br>
-<b>- Confucius</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
