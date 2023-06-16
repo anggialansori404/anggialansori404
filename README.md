@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It will never rain roses: when we want to have more roses, we must plant more roses."</i>
+<i>"Life is a progress, and not a station."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
