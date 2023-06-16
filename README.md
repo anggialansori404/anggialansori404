@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a progress, and not a station."</i>
+<i>"Well begun is half done."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
