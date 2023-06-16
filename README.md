@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life comes at us in waves. We can't predict or control those waves, but we can learn to surf."</i>
+<i>"Where you are right now doesn't have to determine where you'll end up."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
