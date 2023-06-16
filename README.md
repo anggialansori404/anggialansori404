@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where you are right now doesn't have to determine where you'll end up."</i>
+<i>"Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Eknath Easwaran</b>
 </blockquote>
 </p>
 
