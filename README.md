@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way to love anything is to realize that it may be lost."</i>
+<i>"Everything you've ever wanted is on the other side of fear."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- George Addair</b>
 </blockquote>
 </p>
 
