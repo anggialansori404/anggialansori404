@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Well begun is half done."</i>
+<i>"The way to love anything is to realize that it may be lost."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
