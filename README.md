@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The less you talk about your shame, the more of it you have."</i>
+<i>"When I was 40, my doctor advised me that a man in his 40s shouldn't play tennis. I heeded his advice carefully and could hardly wait until I reached 50 to start again."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Hugo Black</b>
 </blockquote>
 </p>
 
