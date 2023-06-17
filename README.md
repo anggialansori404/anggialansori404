@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be great is to be misunderstood."</i>
+<i>"Nobody will believe in you unless you believe in yourself."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Liberace</b>
 </blockquote>
 </p>
 
