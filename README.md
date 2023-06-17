@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't give up the fight, Stand up for your rights."</i>
+<i>"A man is great not because he hasn't failed; a man is great because failure hasn't stopped him."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
