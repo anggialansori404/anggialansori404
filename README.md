@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice."</i>
+<i>"Many people will walk in and out of your life, but only true friends will leave footprints in your heart."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
