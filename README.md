@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Chaos and Order are not enemies, only opposites."</i>
+<i>"Faith, as well intentioned as it may be, must be built on facts, not fiction--faith in fiction is a damnable false hope."</i>
 <br>
-<b>- Richard Garriott</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
