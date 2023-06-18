@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Faith, as well intentioned as it may be, must be built on facts, not fiction--faith in fiction is a damnable false hope."</i>
+<i>"Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
