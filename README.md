@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Patience expands your options. If you insist on immediate gratification, your choices are severely limited."</i>
+<i>"You have to make time, even for something as universal as staring at the stars."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- W.P. Kinsella</b>
 </blockquote>
 </p>
 
