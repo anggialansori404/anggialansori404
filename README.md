@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People have the illusion that all over the world, all the time, all kinds of fantastic things are happening."</i>
+<i>"No one can hurt you without your consent."</i>
 <br>
-<b>- David Brinkley</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
