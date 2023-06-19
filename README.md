@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have to make time, even for something as universal as staring at the stars."</i>
+<i>"People grow through experience if they meet life honestly and courageously. This is how character is built."</i>
 <br>
-<b>- W.P. Kinsella</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
