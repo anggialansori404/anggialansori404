@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Elegance does not consist in putting on a new dress."</i>
+<i>"It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
