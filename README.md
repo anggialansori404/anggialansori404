@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People grow through experience if they meet life honestly and courageously. This is how character is built."</i>
+<i>"Every man desires to live long, but no man wishes to be old."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
