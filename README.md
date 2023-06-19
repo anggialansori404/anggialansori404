@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I never considered a difference of opinion in politics, in religion, in philosophy, as cause for withdrawing from a friend."</i>
+<i>"Even if you persuade me, you won't persuade me."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
