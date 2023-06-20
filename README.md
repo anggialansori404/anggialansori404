@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even if you persuade me, you won't persuade me."</i>
+<i>"Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
