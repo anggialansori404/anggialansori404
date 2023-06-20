@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself."</i>
+<i>"The more I want to get something done, the less I call it work."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
