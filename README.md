@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Freedom is what you do with what's been done to you."</i>
+<i>"Nothing ever goes away until it has taught us what we need to know."</i>
 <br>
-<b>- Jean-Paul Sartre</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
