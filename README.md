@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.  "</i>
+<i>"I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have. I must stand with anybody that stands right, and stand with him while he is right, and part with him when he goes wrong."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
