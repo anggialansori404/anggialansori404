@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never apologize for showing feelings. When you do so, you apologize for the truth."</i>
+<i>"Freedom is what you do with what's been done to you."</i>
 <br>
-<b>- Benjamin Disraeli</b>
+<b>- Jean-Paul Sartre</b>
 </blockquote>
 </p>
 
