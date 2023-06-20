@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more I want to get something done, the less I call it work."</i>
+<i>"It is important to our friends to believe that we are unreservedly frank with them, and important to friendship that we are not."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Mignon McLaughlin</b>
 </blockquote>
 </p>
 
