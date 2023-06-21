@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world turns aside to let any man pass who knows where he is going."</i>
+<i>"Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. "</i>
 <br>
-<b>- Epictetus</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
