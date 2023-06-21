@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the middle of every difficulty lies opportunity."</i>
+<i>"A good stance and posture reflect a proper state of mind."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
