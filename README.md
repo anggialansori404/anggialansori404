@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections."</i>
+<i>"I'm not in this world to live up to your expectations and you're not in this world to live up to mine."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
