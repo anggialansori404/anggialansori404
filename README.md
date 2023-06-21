@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only normal people are the ones you don't know very well."</i>
+<i>"Give whatever you are doing and whoever you are with the gift of your attention."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
