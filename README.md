@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing ever goes away until it has taught us what we need to know."</i>
+<i>"No great discovery was ever made without a bold guess. "</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
