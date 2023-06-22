@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is a miracle that curiosity survives formal education."</i>
+<i>"Love cures people - both the ones who give it and the ones who receive it."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Karl Menninger</b>
 </blockquote>
 </p>
 
