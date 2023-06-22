@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love cures people - both the ones who give it and the ones who receive it."</i>
+<i>"Vanity can easily overtake wisdom. It usually overtakes common sense."</i>
 <br>
-<b>- Karl Menninger</b>
+<b>- Julian Casablancas</b>
 </blockquote>
 </p>
 
