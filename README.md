@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results."</i>
+<i>"Happiness is as a butterfly which, when pursued, is always beyond our grasp, but which if you will sit down quietly, may alight upon you."</i>
 <br>
-<b>- James Allen</b>
+<b>- Nathaniel Hawthorne</b>
 </blockquote>
 </p>
 
