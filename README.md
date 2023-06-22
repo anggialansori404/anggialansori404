@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who knows how to wait need make no concessions."</i>
+<i>"You can't build a reputation on what you are going to do. "</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
