@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is the spiritual experience of living every minute with love, grace and gratitude."</i>
+<i>"I believe that we are fundamentally the same and have the same basic potential."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
