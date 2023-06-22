@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you only have a hammer, you tend to see every problem as a nail."</i>
+<i>"He who knows how to wait need make no concessions."</i>
 <br>
-<b>- Abraham Maslow</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
