@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You give before you get."</i>
+<i>"Better it is to live one day seeing the rise and fall of things than to live a hundred years without ever seeing the rise and fall of things."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
