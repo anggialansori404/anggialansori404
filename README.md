@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Focusing your life solely on making a buck shows a poverty of ambition. It asks too little of yourself. And it will leave you unfulfilled."</i>
+<i>"By perseverance the snail reached the ark."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Charles Spurgeon</b>
 </blockquote>
 </p>
 
