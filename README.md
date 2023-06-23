@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By perseverance the snail reached the ark."</i>
+<i>"If it is not right, do not do it, if it is not true, do not say it."</i>
 <br>
-<b>- Charles Spurgeon</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
