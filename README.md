@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better it is to live one day seeing the rise and fall of things than to live a hundred years without ever seeing the rise and fall of things."</i>
+<i>"Focusing your life solely on making a buck shows a poverty of ambition. It asks too little of yourself. And it will leave you unfulfilled."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
