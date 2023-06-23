@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to understand a little than to misunderstand a lot."</i>
+<i>"A rational person can find peace by cultivating indifference to things outside of their control."</i>
 <br>
-<b>- Anatole France</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
