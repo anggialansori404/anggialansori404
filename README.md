@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't hate the player. Change the game."</i>
+<i>"You give before you get."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
