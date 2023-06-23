@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love does not consist of gazing at each other, but in looking together in the same direction."</i>
+<i>"A man with outward courage dares to die: a man with inner courage dares to live."</i>
 <br>
-<b>- Antoine de Saint-Exupéry</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
