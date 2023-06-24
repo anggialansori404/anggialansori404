@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You'll see it when you believe it. "</i>
+<i>"Wherever a man turns he can find someone who needs him."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Albert Schweitzer</b>
 </blockquote>
 </p>
 
