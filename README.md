@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of getting ahead is getting started."</i>
+<i>"Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
