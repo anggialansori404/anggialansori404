@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fame usually comes to those who are thinking about something else."</i>
+<i>"The one who praises you is a thief. The one who criticizes you is your true friend."</i>
 <br>
-<b>- Oliver Wendell Holmes Jr.</b>
+<b>- Seungsahn</b>
 </blockquote>
 </p>
 
