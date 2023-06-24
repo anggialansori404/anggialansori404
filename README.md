@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let there be no purpose in friendship save the deepening of the spirit."</i>
+<i>"An invasion of armies can be resisted, but not an idea whose time has come."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Victor Hugo</b>
 </blockquote>
 </p>
 
