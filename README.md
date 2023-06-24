@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long."</i>
+<i>"Be willing to be a beginner every single morning."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
