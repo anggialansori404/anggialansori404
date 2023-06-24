@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Presents are made for the pleasure of who gives them, not the merits of who receives them."</i>
+<i>"You'll see it when you believe it. "</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
