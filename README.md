@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wisdom of life consists in the elimination of the nonessentials."</i>
+<i>"The healthiest response to life is joy."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
