@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Desire for the fruits of work must never be your motive in working."</i>
+<i>"Receive without pride, let go without attachment."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
