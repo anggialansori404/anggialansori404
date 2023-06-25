@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunity does not knock, it presents itself when you beat down the door."</i>
+<i>"A needle is not sharp at both ends. "</i>
 <br>
-<b>- Kyle Chandler</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
