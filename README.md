@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be slow of tongue and quick of eye."</i>
+<i>"Opportunity does not knock, it presents itself when you beat down the door."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Kyle Chandler</b>
 </blockquote>
 </p>
 
