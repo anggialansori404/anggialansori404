@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of getting ahead is getting started."</i>
+<i>"Desire for the fruits of work must never be your motive in working."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
