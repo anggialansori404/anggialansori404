@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be willing to be a beginner every single morning."</i>
+<i>"It is not so important to know everything as to appreciate what we learn."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Hannah More</b>
 </blockquote>
 </p>
 
