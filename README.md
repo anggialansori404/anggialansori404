@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The superior man acts before he speaks, and afterwards speaks according to his action."</i>
+<i>"He can who thinks he can, and he can't who thinks he can't. This is an inexorable, indisputable law."</i>
 <br>
-<b>- Confucius</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
