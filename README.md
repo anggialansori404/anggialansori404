@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The healthiest response to life is joy."</i>
+<i>"The secret of getting ahead is getting started."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
