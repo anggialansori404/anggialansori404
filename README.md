@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quality of your life is the quality of your relationships."</i>
+<i>"He who knows how to wait need make no concessions."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
