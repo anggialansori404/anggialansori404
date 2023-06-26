@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who knows how to wait need make no concessions."</i>
+<i>"There is some self-interest behind every friendship. There is no friendship without self-interests. This is a bitter truth."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Chanakya</b>
 </blockquote>
 </p>
 
