@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the fish is caught we pay no more attention to the trap."</i>
+<i>"Honesty is the first chapter in the book of wisdom."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
