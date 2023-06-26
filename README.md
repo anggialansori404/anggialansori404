@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I don't believe you have to be better than everybody else. I believe you have to be better than you ever thought you could be."</i>
+<i>"There are two kinds of failures: those who thought and never did, and those who did and never thought."</i>
 <br>
-<b>- Ken Venturi</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
