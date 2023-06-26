@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is some self-interest behind every friendship. There is no friendship without self-interests. This is a bitter truth."</i>
+<i>"What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!"</i>
 <br>
-<b>- Chanakya</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
