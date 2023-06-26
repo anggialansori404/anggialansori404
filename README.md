@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are most nearly ourselves when we achieve the seriousness of the child at play."</i>
+<i>"I don't believe you have to be better than everybody else. I believe you have to be better than you ever thought you could be."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Ken Venturi</b>
 </blockquote>
 </p>
 
