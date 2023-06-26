@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who dare to fail miserably can achieve greatly."</i>
+<i>"Without hard work, nothing grows but weeds."</i>
 <br>
-<b>- John F. Kennedy</b>
+<b>- Gordon Hinckley</b>
 </blockquote>
 </p>
 
