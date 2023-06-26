@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!"</i>
+<i>"I want my friend to miss me as long as I miss him."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Augustine of Hippo</b>
 </blockquote>
 </p>
 
