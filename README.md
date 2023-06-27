@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It does not matter how slowly you go so long as you do not stop."</i>
+<i>"You are the average of the five people you spend the most time with."</i>
 <br>
-<b>- Confucius</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
