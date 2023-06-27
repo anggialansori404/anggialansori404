@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have not failed. I've just found 10,000 ways that won't work."</i>
+<i>"Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
