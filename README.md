@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are the average of the five people you spend the most time with."</i>
+<i>"The true soldier fights not because he hates what is in front of him, but because he loves what is behind him."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
