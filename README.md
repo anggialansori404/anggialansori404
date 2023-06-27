@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The goal is not to be perfect by the end, the goal is to be better today."</i>
+<i>"The most important thing is transforming our minds, for a new way of thinking, a new outlook: we should strive to develop a new inner world."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
