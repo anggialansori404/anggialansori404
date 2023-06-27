@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When we strive to become better than we are, everything around us becomes better, too."</i>
+<i>"It is far better to be alone, than to be in bad company."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
