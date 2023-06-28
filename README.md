@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the flower you've got to let grow."</i>
+<i>"Don't cry because it's over. Smile because it happened."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
