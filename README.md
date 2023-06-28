@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything you are against weakens you. Everything you are for empowers you."</i>
+<i>"Surround yourself with only people who are going to lift you higher. "</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
