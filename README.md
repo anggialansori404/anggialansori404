@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Neatness begets order; but from order to taste there is the same difference as from taste to genius, or from love to friendship."</i>
+<i>"What the mind can conceive and believe, and the heart desire, you can achieve."</i>
 <br>
-<b>- Johann Kaspar Lavater</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
