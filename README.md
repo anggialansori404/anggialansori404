@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a process. We are a process. The universe is a process."</i>
+<i>"Strength does not come from physical capacity. It comes from an indomitable will."</i>
 <br>
-<b>- Anne Wilson Schaef</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
