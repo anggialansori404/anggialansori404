@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What the mind can conceive and believe, and the heart desire, you can achieve."</i>
+<i>"Life is a process. We are a process. The universe is a process."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Anne Wilson Schaef</b>
 </blockquote>
 </p>
 
