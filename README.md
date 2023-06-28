@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not engaging in ignorance is wisdom."</i>
+<i>"No great discovery was ever made without a bold guess. "</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
