@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're waiting until you feel talented enough to make it, you'll never make it."</i>
+<i>"Everything has beauty, but not everyone sees it."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
