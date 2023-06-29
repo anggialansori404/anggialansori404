@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love at first sight is easy to understand; it's when two people have been looking at each other for a lifetime that it becomes a miracle."</i>
+<i>"Who looks outside, dreams, who looks inside, awakes."</i>
 <br>
-<b>- Amy Bloom</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
