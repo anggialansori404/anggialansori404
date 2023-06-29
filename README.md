@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We do not quit playing because we grow old, we grow old because we quit playing."</i>
+<i>"Life is a question and how we live it is our answer."</i>
 <br>
-<b>- Oliver Wendell Holmes Jr.</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
