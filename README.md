@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a question and how we live it is our answer."</i>
+<i>"One must be deeply aware of the impermanence of the world."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
