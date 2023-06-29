@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Who looks outside, dreams, who looks inside, awakes."</i>
+<i>"Never let the fear of striking out keep you from playing the game."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Babe Ruth</b>
 </blockquote>
 </p>
 
