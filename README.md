@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be."</i>
+<i>"Any idea, plan, or purpose may be placed in the mind through repetition of thought."</i>
 <br>
-<b>- Yanni</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
