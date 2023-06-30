@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have the ability, now apply yourself."</i>
+<i>"There is only the one reality, neither to be realized nor attained."</i>
 <br>
-<b>- Benjamin Mays</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
