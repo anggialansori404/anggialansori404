@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything has beauty, but not everyone sees it."</i>
+<i>"To dare is to lose ones footing momentarily. To not dare is to lose oneself."</i>
 <br>
-<b>- Confucius</b>
+<b>- Søren Kierkegaard</b>
 </blockquote>
 </p>
 
