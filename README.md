@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To dare is to lose ones footing momentarily. To not dare is to lose oneself."</i>
+<i>"The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be."</i>
 <br>
-<b>- Søren Kierkegaard</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
