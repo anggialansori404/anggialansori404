@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who hath many friends hath none."</i>
+<i>"The only time you run out of chances is when you stop taking them."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
