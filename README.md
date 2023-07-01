@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no right or wrong, only a series of possibilities that shift with each thought, feeling, and action that you experience."</i>
+<i>"Success in business requires training and discipline and hard work. But if you're not frightened by these things, the opportunities are just as great today as they ever were."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- David Rockefeller</b>
 </blockquote>
 </p>
 
