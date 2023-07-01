@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am always doing what I cannot do yet, in order to learn how to do it."</i>
+<i>"Think for yourselves and let others enjoy the privilege to do so too."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
