@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Little minds have little worries, big minds have no time for worries."</i>
+<i>"By believing passionately in something that does not yet exist, we create it."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Nikos Kazantzakis</b>
 </blockquote>
 </p>
 
