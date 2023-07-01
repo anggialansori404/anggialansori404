@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge has three degrees: opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition."</i>
+<i>"We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly."</i>
 <br>
-<b>- Plotinus</b>
+<b>- Sam Keen</b>
 </blockquote>
 </p>
 
