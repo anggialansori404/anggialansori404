@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you know, the more you know you don't know."</i>
+<i>"Whoever is happy will make others happy, too."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
