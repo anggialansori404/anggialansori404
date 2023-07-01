@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Lord, make me an instrument of thy peace. Where there is hatred, let me sow love."</i>
+<i>"True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us."</i>
 <br>
-<b>- Francis of Assisi</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
