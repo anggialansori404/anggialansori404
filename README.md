@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whoever is happy will make others happy, too."</i>
+<i>"Lord, make me an instrument of thy peace. Where there is hatred, let me sow love."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Francis of Assisi</b>
 </blockquote>
 </p>
 
