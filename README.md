@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly."</i>
+<i>"Little minds have little worries, big minds have no time for worries."</i>
 <br>
-<b>- Sam Keen</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
