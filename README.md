@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We're born alone, we live alone, we die alone. Only through our love and friendship can we create the illusion for the moment that we're not alone."</i>
+<i>"Begin, be bold, and venture to be wise."</i>
 <br>
-<b>- Orson Welles</b>
+<b>- Horace</b>
 </blockquote>
 </p>
 
