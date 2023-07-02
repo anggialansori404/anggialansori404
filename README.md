@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like playing the violin in public and learning the instrument as one goes on."</i>
+<i>"It is never too late to be what you might have been."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
