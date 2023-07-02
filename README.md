@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even youngish men can acquire wisdom as time goes by."</i>
+<i>"If you don't know where you are going, you will probably end up somewhere else."</i>
 <br>
-<b>- John Bercow</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
