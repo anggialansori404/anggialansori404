@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't blame gravity for falling in love."</i>
+<i>"If you can't argue both sides, you can't argue."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
