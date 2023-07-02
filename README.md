@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make each day your masterpiece."</i>
+<i>"You can't blame gravity for falling in love."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
