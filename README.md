@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Begin, be bold, and venture to be wise."</i>
+<i>"Trust is the lubrication that makes it possible for organizations to work."</i>
 <br>
-<b>- Horace</b>
+<b>- Warren Bennis</b>
 </blockquote>
 </p>
 
