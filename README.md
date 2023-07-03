@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you extend kindness to yourself, the more it will become your automatic response to others."</i>
+<i>"No one ever said life was fair. Just Eventful."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
