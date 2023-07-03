@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Talent is God-given; be humble. Fame is man-given; be thankful. Conceit is self-given; be careful."</i>
+<i>"Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them."</i>
 <br>
-<b>- Harvey Mackay</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
