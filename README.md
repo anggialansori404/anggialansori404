@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Real magic in relationships means an absence of judgement of others."</i>
+<i>"Talent is God-given; be humble. Fame is man-given; be thankful. Conceit is self-given; be careful."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Harvey Mackay</b>
 </blockquote>
 </p>
 
