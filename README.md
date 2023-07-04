@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Think like a man of action; act like a man of thought."</i>
+<i>"We can change our lives. We can do, have, and be exactly what we wish."</i>
 <br>
-<b>- Henri Bergson</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
