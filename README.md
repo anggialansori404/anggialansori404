@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't like something change it; if you can't change it, change the way you think about it."</i>
+<i>"A successful person is one who can lay a firm foundation with the bricks that others throw at him or her."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- David Brinkley</b>
 </blockquote>
 </p>
 
