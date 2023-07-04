@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk."</i>
+<i>"No man will make a great leader who wants to do it all himself or to get all the credit for doing it."</i>
 <br>
-<b>- Doug Larson</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
