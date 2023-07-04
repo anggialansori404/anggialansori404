@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Start with what is right rather than what is acceptable."</i>
+<i>"Think like a man of action; act like a man of thought."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Henri Bergson</b>
 </blockquote>
 </p>
 
