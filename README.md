@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A successful person is one who can lay a firm foundation with the bricks that others throw at him or her."</i>
+<i>"I'm not interested in age. People who tell me their age are silly. You're as old as you feel."</i>
 <br>
-<b>- David Brinkley</b>
+<b>- Elizabeth Arden</b>
 </blockquote>
 </p>
 
