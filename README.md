@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I can't listen to that much Wagner. I start getting the urge to conquer Poland."</i>
+<i>"If you don't like something change it; if you can't change it, change the way you think about it."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
