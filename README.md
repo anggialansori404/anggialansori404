@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'm not interested in age. People who tell me their age are silly. You're as old as you feel."</i>
+<i>"Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk."</i>
 <br>
-<b>- Elizabeth Arden</b>
+<b>- Doug Larson</b>
 </blockquote>
 </p>
 
