@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't stop the waves, but you can learn to surf."</i>
+<i>"It is the quality of our work which will please God, not the quantity."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
