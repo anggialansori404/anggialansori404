@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man will make a great leader who wants to do it all himself or to get all the credit for doing it."</i>
+<i>"You can't stop the waves, but you can learn to surf."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
