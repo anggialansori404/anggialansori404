@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The difference between impossible and possible is a willing heart."</i>
+<i>"Give out what you most want to come back."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
