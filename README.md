@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is hopeless; we must hope for everything."</i>
+<i>"A man sees in the world what he carries in his heart."</i>
 <br>
-<b>- Euripides</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
