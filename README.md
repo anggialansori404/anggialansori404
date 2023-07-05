@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man sees in the world what he carries in his heart."</i>
+<i>"Talent is God-given; be humble. Fame is man-given; be thankful. Conceit is self-given; be careful."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Harvey Mackay</b>
 </blockquote>
 </p>
 
