@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Science can flourish only in an atmosphere of free speech. "</i>
+<i>"The difference between impossible and possible is a willing heart."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
