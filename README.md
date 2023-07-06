@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can have more than we've got because we can become more than we are."</i>
+<i>"Friendship at first sight, like love at first sight, is said to be the only truth."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Herman Melville</b>
 </blockquote>
 </p>
 
