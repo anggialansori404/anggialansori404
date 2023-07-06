@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom begins in wonder."</i>
+<i>"We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences "</i>
 <br>
-<b>- Socrates</b>
+<b>- Nikola Tesla</b>
 </blockquote>
 </p>
 
