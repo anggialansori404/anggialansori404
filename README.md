@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship at first sight, like love at first sight, is said to be the only truth."</i>
+<i>"All animals except man know that the principal business of life is to enjoy it."</i>
 <br>
-<b>- Herman Melville</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
