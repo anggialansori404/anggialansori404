@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge is of no value unless you put it into practice."</i>
+<i>"Genius unrefined resembles a flash of lightning, but wisdom is like the sun."</i>
 <br>
-<b>- Anton Chekhov</b>
+<b>- Franz Grillparzer</b>
 </blockquote>
 </p>
 
