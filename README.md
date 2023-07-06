@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences "</i>
+<i>"We can have more than we've got because we can become more than we are."</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
