@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world."</i>
+<i>"The health of nations is more important than the wealth of nations."</i>
 <br>
-<b>- Blaise Pascal</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
