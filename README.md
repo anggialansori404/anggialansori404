@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The health of nations is more important than the wealth of nations."</i>
+<i>"Don’t sacrifice your own welfare for that of another, no matter how great. Realizing your own true welfare, be intent on just that."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
