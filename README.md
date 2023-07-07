@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fortune favors the brave."</i>
+<i>"We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light."</i>
 <br>
-<b>- Virgil</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
