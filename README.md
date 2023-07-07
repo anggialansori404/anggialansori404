@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don’t sacrifice your own welfare for that of another, no matter how great. Realizing your own true welfare, be intent on just that."</i>
+<i>"If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Anne Bradstreet</b>
 </blockquote>
 </p>
 
