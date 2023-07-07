@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Although there may be tragedy in your life, there's always a possibility to triumph. It doesn't matter who you are, where you come from. The ability to triumph begins with you. Always."</i>
+<i>"I am not the first Buddha who came upon Earth, nor shall I be the last. In due time, another Buddha will arise in the world - a Holy One, a supremely enlightened One, endowed with wisdom in conduct, auspicious, knowing the universe, an incomparable leader of men, a master of angels and mortals."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
