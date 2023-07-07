@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We shall never know all the good that a simple smile can do."</i>
+<i>"I have always thought the actions of men the best interpreters of their thoughts."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
