@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light."</i>
+<i>"Be brave to stand for what you believe in even if you stand alone."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
