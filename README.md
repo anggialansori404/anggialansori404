@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be royal in your own fashion: act like a king to be treated like one."</i>
+<i>"Reviewing what you have learned and learning anew, you are fit to be a teacher."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
