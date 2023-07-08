@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can know only that we know nothing. And that is the highest degree of human wisdom."</i>
+<i>"Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
