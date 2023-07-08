@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born."</i>
+<i>"Wheresoever you go, go with all your heart."</i>
 <br>
-<b>- Anaïs Nin</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
