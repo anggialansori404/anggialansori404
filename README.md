@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People are not lazy. They simply have impotent goals - that is, goals that do not inspire them."</i>
+<i>"Luck is what happens when preparation meets opportunity."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
