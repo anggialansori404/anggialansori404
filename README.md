@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Luck is what happens when preparation meets opportunity."</i>
+<i>"We can know only that we know nothing. And that is the highest degree of human wisdom."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
