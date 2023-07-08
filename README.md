@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reviewing what you have learned and learning anew, you are fit to be a teacher."</i>
+<i>"The pine stays green in winter... wisdom in hardship."</i>
 <br>
-<b>- Confucius</b>
+<b>- Norman Douglas</b>
 </blockquote>
 </p>
 
