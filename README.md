@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want."</i>
+<i>"When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.  "</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
