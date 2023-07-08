@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wheresoever you go, go with all your heart."</i>
+<i>"People are not lazy. They simply have impotent goals - that is, goals that do not inspire them."</i>
 <br>
-<b>- Confucius</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
