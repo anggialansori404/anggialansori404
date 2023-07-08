@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pine stays green in winter... wisdom in hardship."</i>
+<i>"A moving door hinge never corrodes. Flowing water never grows stagnant."</i>
 <br>
-<b>- Norman Douglas</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
