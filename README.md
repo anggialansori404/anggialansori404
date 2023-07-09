@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about."</i>
+<i>"If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- John Steinbeck</b>
 </blockquote>
 </p>
 
