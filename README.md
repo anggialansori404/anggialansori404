@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away."</i>
+<i>"Mind is the creator of everything. You should therefore guide it to create only good."</i>
 <br>
-<b>- John Steinbeck</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
