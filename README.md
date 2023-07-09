@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mind is the creator of everything. You should therefore guide it to create only good."</i>
+<i>"To succeed takes more than the desire to win. It also takes the acceptance that we could fail."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
