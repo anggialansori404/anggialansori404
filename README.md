@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To succeed takes more than the desire to win. It also takes the acceptance that we could fail."</i>
+<i>"Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more"</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
