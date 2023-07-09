@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not express your own original ideas, if you do not listen to your own being, you will have betrayed yourself."</i>
+<i>"Don't spend time beating on a wall, hoping to transform it into a door."</i>
 <br>
-<b>- Rollo May</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
