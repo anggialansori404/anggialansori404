@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing makes a man broad-minded like adversity."</i>
+<i>"If you do not express your own original ideas, if you do not listen to your own being, you will have betrayed yourself."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Rollo May</b>
 </blockquote>
 </p>
 
