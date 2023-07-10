@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never be bored, and you will never be boring."</i>
+<i>"We lie the loudest when we lie to ourselves."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
