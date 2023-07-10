@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"So we beat on, boats against the current, borne back ceaselessly into the past."</i>
+<i>"A friend to all is a friend to none."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
