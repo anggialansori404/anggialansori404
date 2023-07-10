@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A friend to all is a friend to none."</i>
+<i>"My friends are my estate."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
