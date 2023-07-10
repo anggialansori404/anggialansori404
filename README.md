@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We lie the loudest when we lie to ourselves."</i>
+<i>"The greatest danger for most of us is not that our aim is too high, and we miss it, but that it is too low, and we reach it."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Michelangelo</b>
 </blockquote>
 </p>
 
