@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"History will be kind to me for I intend to write it."</i>
+<i>"There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
