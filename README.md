@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest danger for most of us is not that our aim is too high, and we miss it, but that it is too low, and we reach it."</i>
+<i>"It is no use saying, 'We are doing our best.' You have got to succeed in doing what is necessary."</i>
 <br>
-<b>- Michelangelo</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
