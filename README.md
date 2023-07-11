@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Adversity causes some men to break, others to break records."</i>
+<i>"There are many ways of going forward, but only one way of standing still."</i>
 <br>
-<b>- William Arthur Ward</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
