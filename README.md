@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who is taught to live upon little owes more to his father's wisdom than he who has a great deal left him does to his father's care."</i>
+<i>"We suffer more often in imagination than in reality.  "</i>
 <br>
-<b>- William C. Menninger</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
