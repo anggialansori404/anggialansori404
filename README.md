@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is the meaning and the purpose of life, the whole aim and end of human existence."</i>
+<i>"If you are going to achieve excellence in big things, you develop the habit in little matters."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
