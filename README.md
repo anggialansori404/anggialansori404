@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember we're all in this alone."</i>
+<i>"There is only one success - to be able to spend your life in your own way."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Christopher Morley</b>
 </blockquote>
 </p>
 
