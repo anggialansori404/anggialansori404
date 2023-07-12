@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wherever a man turns he can find someone who needs him."</i>
+<i>"Friendship is one of our most treasured relationships, but it isn't codified and celebrated; it's never going to give you a party."</i>
 <br>
-<b>- Albert Schweitzer</b>
+<b>- Hanya Yanagihara</b>
 </blockquote>
 </p>
 
