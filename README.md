@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything that exists is in a manner the seed of that which will be."</i>
+<i>"Wherever a man turns he can find someone who needs him."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Albert Schweitzer</b>
 </blockquote>
 </p>
 
