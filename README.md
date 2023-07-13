@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present."</i>
+<i>"I don't believe you have to be better than everybody else. I believe you have to be better than you ever thought you could be."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Ken Venturi</b>
 </blockquote>
 </p>
 
