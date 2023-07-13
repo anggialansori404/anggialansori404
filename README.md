@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is nothing more than a few simple disciplines practiced every day."</i>
+<i>"Love and compassion open our own inner life, reducing stress, distrust and loneliness."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
