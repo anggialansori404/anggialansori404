@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Freedom from desire leads to inner peace."</i>
+<i>"Every man takes the limits of his own field of vision for the limits of the world."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Arthur Schopenhauer</b>
 </blockquote>
 </p>
 
