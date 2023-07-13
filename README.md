@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to pay for a lovely moment is to enjoy it."</i>
+<i>"He is richest who is content with the least, for content is the wealth of nature."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
