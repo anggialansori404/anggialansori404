@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I don't believe you have to be better than everybody else. I believe you have to be better than you ever thought you could be."</i>
+<i>"Real loss is only possible when you love something more than you love yourself."</i>
 <br>
-<b>- Ken Venturi</b>
+<b>- Robin Williams</b>
 </blockquote>
 </p>
 
