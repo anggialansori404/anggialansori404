@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man takes the limits of his own field of vision for the limits of the world."</i>
+<i>"Go as far as you can see and you will see further.  "</i>
 <br>
-<b>- Arthur Schopenhauer</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
