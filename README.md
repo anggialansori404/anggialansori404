@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love and compassion open our own inner life, reducing stress, distrust and loneliness."</i>
+<i>"The best way to pay for a lovely moment is to enjoy it."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
