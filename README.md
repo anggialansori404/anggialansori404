@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better than a thousand hollow words, is one word that brings peace."</i>
+<i>"It is the mark of an educated mind to be able to entertain a thought without accepting it."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
