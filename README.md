@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't smother each other. No one can grow in the shade."</i>
+<i>"It is best to begin at the beginning."</i>
 <br>
-<b>- Leo Buscaglia</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
