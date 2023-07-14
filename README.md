@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing makes a man broad-minded like adversity."</i>
+<i>"I will not be concerned at other men's not knowing me; I will be concerned at my own want of ability."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
