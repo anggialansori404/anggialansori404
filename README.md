@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't know where you're going, you will probably end up somewhere else."</i>
+<i>"Neatness begets order; but from order to taste there is the same difference as from taste to genius, or from love to friendship."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Johann Kaspar Lavater</b>
 </blockquote>
 </p>
 
