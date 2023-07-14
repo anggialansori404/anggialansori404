@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To live is to be willing to die over and over again."</i>
+<i>"Better than a thousand hollow words, is one word that brings peace."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
