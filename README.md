@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The fall of dropping water wears away the Stone."</i>
+<i>"For it was not into my ear you whispered, but into my heart. It was not my lips you kissed, but my soul."</i>
 <br>
-<b>- Lucretius</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
