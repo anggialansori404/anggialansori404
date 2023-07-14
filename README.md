@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the mark of an educated mind to be able to entertain a thought without accepting it."</i>
+<i>"We must reach out our hand in friendship and dignity both to those who would befriend us and those who would be our enemy."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Arthur Ashe</b>
 </blockquote>
 </p>
 
