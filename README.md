@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For it was not into my ear you whispered, but into my heart. It was not my lips you kissed, but my soul."</i>
+<i>"Don't smother each other. No one can grow in the shade."</i>
 <br>
-<b>- Judy Garland</b>
+<b>- Leo Buscaglia</b>
 </blockquote>
 </p>
 
