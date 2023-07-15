@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I don't believe you have to be better than everybody else. I believe you have to be better than you ever thought you could be."</i>
+<i>"He can who thinks he can, and he can't who thinks he can't. This is an inexorable, indisputable law."</i>
 <br>
-<b>- Ken Venturi</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
