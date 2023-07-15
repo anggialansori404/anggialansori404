@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not how much we have, but how much we enjoy, that makes happiness."</i>
+<i>"Don't let your mind stop you."</i>
 <br>
-<b>- Charles Spurgeon</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
