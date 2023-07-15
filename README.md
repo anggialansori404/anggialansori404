@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wrong turns are as important as right turns. More important, sometimes."</i>
+<i>"I don't believe you have to be better than everybody else. I believe you have to be better than you ever thought you could be."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Ken Venturi</b>
 </blockquote>
 </p>
 
