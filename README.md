@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Humans and prosperity never endure side by side for long."</i>
+<i>"It is not how much we have, but how much we enjoy, that makes happiness."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Charles Spurgeon</b>
 </blockquote>
 </p>
 
