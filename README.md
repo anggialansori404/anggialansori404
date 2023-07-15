@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Creative people are often found either disagreeable or intimidating by mediocrities."</i>
+<i>"Most people dabble their way through life, never deciding to master anything in particular."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
