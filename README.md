@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not regret the past. Look to the future."</i>
+<i>"Life is like riding a bicycle. To keep your balance you must keep moving."</i>
 <br>
-<b>- Soyen Shaku</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
