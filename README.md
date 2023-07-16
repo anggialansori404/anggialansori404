@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We may encounter many defeats, but we must not be defeated."</i>
+<i>"While some of us act without thinking, too many of us think without acting."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
