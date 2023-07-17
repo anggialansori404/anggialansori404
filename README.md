@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn to sit back and observe, not everything needs a reaction."</i>
+<i>"Everyone has been made for some particular work, and the desire for that work has been put in every heart."</i>
 <br>
-<b>- Unknown</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
