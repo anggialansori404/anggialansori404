@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people never run far enough on their first wind to find out they've got a second."</i>
+<i>"Learn to sit back and observe, not everything needs a reaction."</i>
 <br>
-<b>- William James</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
