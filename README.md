@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram them down people's throats."</i>
+<i>"To be great is to be misunderstood."</i>
 <br>
-<b>- Howard H. Aiken</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
