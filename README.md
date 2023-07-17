@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all self-made, but only the successful will admit it."</i>
+<i>"It always seems impossible until it's done."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
