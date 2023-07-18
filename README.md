@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is acceptable. Not trying is a whole different ball park."</i>
+<i>"Skill to do comes of doing."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
