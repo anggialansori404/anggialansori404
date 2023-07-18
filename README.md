@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A creative man is motivated by the desire to achieve, not by the desire to beat others."</i>
+<i>"Let there be no purpose in friendship save the deepening of the spirit."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
