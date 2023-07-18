@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Skill to do comes of doing."</i>
+<i>"In order to win, you must expect to win."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
