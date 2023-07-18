@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be not angry that you cannot make others as you wish them to be, since you cannot make yourself as you wish to be."</i>
+<i>"When something is important enough, you do it even if the odds are not in your favor."</i>
 <br>
-<b>- Thomas à Kempis</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
