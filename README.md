@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A flower falls, even though we love it; and a weed grows, even though we do not love it."</i>
+<i>"A creative man is motivated by the desire to achieve, not by the desire to beat others."</i>
 <br>
-<b>- Dogen</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
