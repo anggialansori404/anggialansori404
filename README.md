@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex."</i>
+<i>"Let us sacrifice our today so that our children can have a better tomorrow."</i>
 <br>
-<b>- Kurt Vonnegut</b>
+<b>- A. P. J. Abdul Kalam</b>
 </blockquote>
 </p>
 
