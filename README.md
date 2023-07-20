@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be willing to be a beginner every single morning."</i>
+<i>"The past has no power to stop you from being present now. Only your grievance about the past can do that."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
