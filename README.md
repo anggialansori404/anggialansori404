@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The past has no power to stop you from being present now. Only your grievance about the past can do that."</i>
+<i>"I can't imagine a person becoming a success who doesn't give this game of life everything he's got."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Walter Cronkite</b>
 </blockquote>
 </p>
 
