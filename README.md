@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I can't imagine a person becoming a success who doesn't give this game of life everything he's got."</i>
+<i>"When the world pushes you to your knees, you're in the perfect position to pray."</i>
 <br>
-<b>- Walter Cronkite</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
