@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can dream it, you can do it."</i>
+<i>"He who knows, does not speak. He who speaks, does not know."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
