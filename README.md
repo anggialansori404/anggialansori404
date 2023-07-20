@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My religion consists of a humble admiration of the illimitable superior spirit who reveals himself in the slight details we are able to perceive with our frail and feeble mind."</i>
+<i>"Be slow of tongue and quick of eye."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
