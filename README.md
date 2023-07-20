@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be slow of tongue and quick of eye."</i>
+<i>"The Superior Man is aware of Righteousness, the inferior man is aware of advantage."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
