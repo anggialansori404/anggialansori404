@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The fear of death is more to be feared, than death itself."</i>
+<i>"The rule of friendship means there should be mutual sympathy between them, each supplying what the other lacks and trying to benefit the other, always using friendly and sincere words."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Cicero</b>
 </blockquote>
 </p>
 
