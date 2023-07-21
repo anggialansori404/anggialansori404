@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom is always an overmatch for strength."</i>
+<i>"While we stop to think, we often miss our opportunity."</i>
 <br>
-<b>- Phil Jackson</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
