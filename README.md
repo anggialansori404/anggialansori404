@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"While we stop to think, we often miss our opportunity."</i>
+<i>"Poverty and hardship are created by false thinking."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
