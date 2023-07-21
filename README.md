@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Poverty and hardship are created by false thinking."</i>
+<i>"Keep your face to the sunshine and you cannot see the shadows."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
