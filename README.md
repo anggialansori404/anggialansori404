@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is the living power and prime agent of all human perception."</i>
+<i>"Successful people do what unsuccessful people are not willing to do."</i>
 <br>
-<b>- Samuel Taylor Coleridge</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
