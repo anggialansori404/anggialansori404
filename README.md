@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people do what unsuccessful people are not willing to do."</i>
+<i>"The fear of death is more to be feared, than death itself."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
