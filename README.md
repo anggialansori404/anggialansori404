@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every second you have on this planet is very precious and it's your responsibility that you're happy."</i>
+<i>"Short cuts make long delays."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
