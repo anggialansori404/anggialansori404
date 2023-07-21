@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Cultivate the merry heart, develop the happiness habit, and life will become a continual feast."</i>
+<i>"Wisdom is always an overmatch for strength."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Phil Jackson</b>
 </blockquote>
 </p>
 
