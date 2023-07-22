@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Think big thoughts but relish small pleasures."</i>
+<i>"Friendship brings in a lot of honesty and trust into any relationship, especially a marriage."</i>
 <br>
-<b>- H. Jackson Brown Jr.</b>
+<b>- Farhan Akhtar</b>
 </blockquote>
 </p>
 
