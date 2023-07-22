@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By oneself is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one made pure."</i>
+<i>"Think big thoughts but relish small pleasures."</i>
 <br>
-<b>- The Buddha</b>
+<b>- H. Jackson Brown Jr.</b>
 </blockquote>
 </p>
 
