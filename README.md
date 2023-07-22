@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of perfect health lies in keeping the mind always cheerful - never worried, never hurried, never borne down by any fear, thought or anxiety."</i>
+<i>"You don't earn loyalty in a day. You earn loyalty day-by-day."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Jeffrey Gitomer</b>
 </blockquote>
 </p>
 
