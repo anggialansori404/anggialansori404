@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything that irritates us about others can lead us to a better understanding of ourselves."</i>
+<i>"By oneself is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one made pure."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
