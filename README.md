@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't earn loyalty in a day. You earn loyalty day-by-day."</i>
+<i>"I learned the value of hard work by working hard. "</i>
 <br>
-<b>- Jeffrey Gitomer</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
