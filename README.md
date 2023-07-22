@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship brings in a lot of honesty and trust into any relationship, especially a marriage."</i>
+<i>"Failure is just information and an opportunity to change your course."</i>
 <br>
-<b>- Farhan Akhtar</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
