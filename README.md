@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just trust yourself, then you will know how to live."</i>
+<i>"If you want your life to be more rewarding, you have to change the way you think."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
