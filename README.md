@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is great by deeds, not by birth."</i>
+<i>"Life is really simple, but men insist on making it complicated. "</i>
 <br>
-<b>- Chanakya</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
