@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Silence is deep as Eternity; Speech is shallow as Time."</i>
+<i>"Mind is the creator of everything. You should therefore guide it to create only good."</i>
 <br>
-<b>- Thomas Carlyle</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
