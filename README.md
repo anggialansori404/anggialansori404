@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is really simple, but men insist on making it complicated. "</i>
+<i>"We choose our joys and sorrows long before we experience them."</i>
 <br>
-<b>- Confucius</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
