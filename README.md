@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We choose our joys and sorrows long before we experience them."</i>
+<i>"FOCUS - Follow One Course Until Successful"</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
