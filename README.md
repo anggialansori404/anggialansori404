@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus."</i>
+<i>"Can miles truly separate you from friends... If you want to be with someone you love, aren't you already there?"</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
