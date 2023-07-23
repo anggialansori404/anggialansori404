@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mind is the creator of everything. You should therefore guide it to create only good."</i>
+<i>"To dare is to lose ones footing momentarily. To not dare is to lose oneself."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Søren Kierkegaard</b>
 </blockquote>
 </p>
 
