@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To dare is to lose ones footing momentarily. To not dare is to lose oneself."</i>
+<i>"There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world."</i>
 <br>
-<b>- Søren Kierkegaard</b>
+<b>- Robert Louis Stevenson</b>
 </blockquote>
 </p>
 
