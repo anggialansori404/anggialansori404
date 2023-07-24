@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If a man does his best, what else is there?"</i>
+<i>"One today is worth two tomorrows."</i>
 <br>
-<b>- George S. Patton</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
