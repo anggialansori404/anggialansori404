@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One today is worth two tomorrows."</i>
+<i>"The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Isaac Asimov</b>
 </blockquote>
 </p>
 
