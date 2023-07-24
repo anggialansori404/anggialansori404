@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is easier to live through someone else than to become complete yourself."</i>
+<i>"You cannot be lonely if you like the person you're alone with."</i>
 <br>
-<b>- Betty Friedan</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
