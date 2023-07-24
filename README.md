@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What sweetness is left in life, if you take away friendship? Robbing life of friendship is like robbing the world of the sun. A true friend is more to be esteemed than kinsfolk."</i>
+<i>"If a man does his best, what else is there?"</i>
 <br>
-<b>- Cicero</b>
+<b>- George S. Patton</b>
 </blockquote>
 </p>
 
