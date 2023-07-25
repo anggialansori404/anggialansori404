@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All the great performers I have worked with are fueled by a personal dream."</i>
+<i>"When one door closes another door opens. "</i>
 <br>
-<b>- John Eliot</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
