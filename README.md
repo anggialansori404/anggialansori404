@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Until you make peace with who you are, you'll never be content with what you have."</i>
+<i>"Good, better, best. Never let it rest. 'Til your good is better and your better is best. "</i>
 <br>
-<b>- Doris Mortman</b>
+<b>- St. Jerome</b>
 </blockquote>
 </p>
 
