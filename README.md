@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're going through hell, keep going."</i>
+<i>"Freedom is the right to live as we wish."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
