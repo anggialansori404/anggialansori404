@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A little knowledge that acts is worth infinitely more than much knowledge that is idle."</i>
+<i>"You know you are on the road to success if you would do your job and not be paid for it."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
