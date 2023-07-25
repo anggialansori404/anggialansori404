@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You give before you get."</i>
+<i>"All the great performers I have worked with are fueled by a personal dream."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
