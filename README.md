@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward."</i>
+<i>"Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk."</i>
 <br>
-<b>- Unknown</b>
+<b>- Doug Larson</b>
 </blockquote>
 </p>
 
