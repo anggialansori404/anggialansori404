@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only reason to be alive is to enjoy it."</i>
+<i>"Opportunity is missed by most people because it is dressed in overalls and looks like work."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
