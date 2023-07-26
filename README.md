@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is only when the mind and character slumber that the dress can be seen."</i>
+<i>"Try not to become a man of success, but rather try to become a man of value."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
