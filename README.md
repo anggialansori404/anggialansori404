@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Things do not have meaning. We assign meaning to everything."</i>
+<i>"Greatness comes from living with purpose and passion."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
