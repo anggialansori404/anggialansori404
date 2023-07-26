@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk."</i>
+<i>"All know the way; few actually walk it."</i>
 <br>
-<b>- Doug Larson</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
