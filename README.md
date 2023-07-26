@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I know what love is, it is because of you."</i>
+<i>"It is only when the mind and character slumber that the dress can be seen."</i>
 <br>
-<b>- Hermann Hesse</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
