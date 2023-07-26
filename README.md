@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Try not to become a man of success, but rather try to become a man of value."</i>
+<i>"Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
