@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We all live with the objective of being happy; our lives are all different and yet the same."</i>
+<i>"What other people may find in poetry or art museums, I find in the flight of a good drive."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Arnold Palmer</b>
 </blockquote>
 </p>
 
