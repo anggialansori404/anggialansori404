@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigor of the mind."</i>
+<i>"There is more wisdom in your body than in your deepest philosophy."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Friedrich Nietzsche</b>
 </blockquote>
 </p>
 
