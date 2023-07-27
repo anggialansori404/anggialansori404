@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is more wisdom in your body than in your deepest philosophy."</i>
+<i>"We all live with the objective of being happy; our lives are all different and yet the same."</i>
 <br>
-<b>- Friedrich Nietzsche</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
