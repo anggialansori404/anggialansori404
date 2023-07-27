@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must either modify your dreams or magnify your skills."</i>
+<i>"If your actions inspire others to dream more, learn more, do more and become more, you are a leader."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- John Quincy Adams</b>
 </blockquote>
 </p>
 
