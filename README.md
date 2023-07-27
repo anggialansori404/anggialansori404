@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The time to repair the roof is when the sun is shining."</i>
+<i>"Appearances are often deceiving."</i>
 <br>
-<b>- John F. Kennedy</b>
+<b>- Aesop</b>
 </blockquote>
 </p>
 
