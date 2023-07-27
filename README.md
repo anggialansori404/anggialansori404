@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What other people may find in poetry or art museums, I find in the flight of a good drive."</i>
+<i>"You can't let your failures define you. You have to let your failures teach you."</i>
 <br>
-<b>- Arnold Palmer</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
