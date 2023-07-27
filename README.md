@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom is the supreme part of happiness."</i>
+<i>"The time to repair the roof is when the sun is shining."</i>
 <br>
-<b>- Sophocles</b>
+<b>- John F. Kennedy</b>
 </blockquote>
 </p>
 
