@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have enemies? Good. That means you've stood up for something, sometime in your life."</i>
+<i>"One of the most difficult things is not to change society - but to change yourself."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
