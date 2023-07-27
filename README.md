@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time goes from present to past."</i>
+<i>"You have enemies? Good. That means you've stood up for something, sometime in your life."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
