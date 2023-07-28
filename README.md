@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't let your failures define you. You have to let your failures teach you."</i>
+<i>"If one advances confidently in the direction of his dream, and endeavors to live the life which he had imagines, he will meet with a success unexpected in common hours."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
