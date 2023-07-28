@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Leave the beaten track behind occasionally and dive into the woods. Every time you do you will be certain to find something you have never seen before."</i>
+<i>"Be who you are and say what you feel because those who mind don't matter and those who matter don't mind."</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
