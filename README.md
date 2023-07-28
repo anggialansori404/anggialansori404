@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Silence is a source of great strength."</i>
+<i>"Every moment is a fresh beginning."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
