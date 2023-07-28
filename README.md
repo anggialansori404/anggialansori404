@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quality means doing it right when no one is looking."</i>
+<i>"Your dream has to be bigger than your fear."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
