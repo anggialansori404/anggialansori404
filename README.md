@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. "</i>
+<i>"Silence is a source of great strength."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
