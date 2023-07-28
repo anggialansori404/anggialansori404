@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be who you are and say what you feel because those who mind don't matter and those who matter don't mind."</i>
+<i>"There is nothing impossible to him who will try."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Alexander the Great</b>
 </blockquote>
 </p>
 
