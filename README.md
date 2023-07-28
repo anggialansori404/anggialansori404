@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To improve is to change, so to be perfect is to change often."</i>
+<i>"Time is the most valuable thing a man can spend."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Theophrastus</b>
 </blockquote>
 </p>
 
