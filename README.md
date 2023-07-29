@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The language of friendship is not words but meanings."</i>
+<i>"One may say the eternal mystery of the world is its comprehensibility."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
