@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It isn't what happens to us that causes us to suffer; it's what we say to ourselves about what happens."</i>
+<i>"Art, like morality, consists of drawing the line somewhere."</i>
 <br>
-<b>- Pema Chödrön</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
