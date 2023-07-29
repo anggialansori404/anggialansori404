@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Art, like morality, consists of drawing the line somewhere."</i>
+<i>"Muddy water is best cleared by leaving it alone."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
