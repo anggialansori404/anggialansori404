@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do something wonderful, people may imitate it."</i>
+<i>"There is no path to Happiness. Happiness is the path."</i>
 <br>
-<b>- Albert Schweitzer</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
