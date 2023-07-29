@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One may say the eternal mystery of the world is its comprehensibility."</i>
+<i>"It isn't what happens to us that causes us to suffer; it's what we say to ourselves about what happens."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Pema Chödrön</b>
 </blockquote>
 </p>
 
