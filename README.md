@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do what you've always done, you'll get what you've always gotten."</i>
+<i>"The two most important days in your life are the day you are born and the day you find out why."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
