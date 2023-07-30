@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not look upon this world with fear and loathing. Bravely face whatever the gods offer."</i>
+<i>"The more you extend kindness to yourself, the more it will become your automatic response to others."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
