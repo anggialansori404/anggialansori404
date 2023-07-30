@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who conquers others is strong; He who conquers himself is mighty."</i>
+<i>"Mistakes are always forgivable, if one has the courage to admit them. "</i>
 <br>
-<b>- Laozi</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
