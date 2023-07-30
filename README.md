@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Decide upon your major definite purpose in life and then organize all your activities around it."</i>
+<i>"The wisdom of life consists in the elimination of the nonessentials."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
