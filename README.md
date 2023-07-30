@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mistakes are always forgivable, if one has the courage to admit them. "</i>
+<i>"Do not look upon this world with fear and loathing. Bravely face whatever the gods offer."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
