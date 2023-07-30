@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you extend kindness to yourself, the more it will become your automatic response to others."</i>
+<i>"All great men are gifted with intuition. They know without reasoning or analysis, what they need to know."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Alexis Carrel</b>
 </blockquote>
 </p>
 
