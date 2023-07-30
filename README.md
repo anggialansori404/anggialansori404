@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All great men are gifted with intuition. They know without reasoning or analysis, what they need to know."</i>
+<i>"The way you see people is the way you treat them, and the way you treat them is what they become."</i>
 <br>
-<b>- Alexis Carrel</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
