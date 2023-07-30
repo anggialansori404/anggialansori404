@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One fails forward toward success."</i>
+<i>"Always keep an open mind and a compassionate heart."</i>
 <br>
-<b>- Charles F. Kettering</b>
+<b>- Phil Jackson</b>
 </blockquote>
 </p>
 
