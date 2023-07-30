@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Often we pass beside happiness without seeing it, without looking at it, or even if we have seen and looked at it, without recognizing it."</i>
+<i>"I endeavor to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Elizabeth Montagu</b>
 </blockquote>
 </p>
 
