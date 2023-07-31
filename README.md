@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A hero is no braver than an ordinary man, but he is braver five minutes longer."</i>
+<i>"Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
