@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice."</i>
+<i>"I have lost friends, some by death...others by sheer inability to cross the street."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
