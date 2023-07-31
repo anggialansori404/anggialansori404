@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always render more and better service than is expected of you, no matter what your task may be."</i>
+<i>"Little minds have little worries, big minds have no time for worries."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
