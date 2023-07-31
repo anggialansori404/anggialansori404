@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You win the victory when you yield to friends."</i>
+<i>"A hero is no braver than an ordinary man, but he is braver five minutes longer."</i>
 <br>
-<b>- Sophocles</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
