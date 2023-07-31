@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A friend is, as it were, a second self."</i>
+<i>"You win the victory when you yield to friends."</i>
 <br>
-<b>- Cicero</b>
+<b>- Sophocles</b>
 </blockquote>
 </p>
 
