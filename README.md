@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I endeavor to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress."</i>
+<i>"Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice."</i>
 <br>
-<b>- Elizabeth Montagu</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
