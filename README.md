@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have lost friends, some by death...others by sheer inability to cross the street."</i>
+<i>"Know how to listen, and you will profit even from those who talk badly."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Plutarch</b>
 </blockquote>
 </p>
 
