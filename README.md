@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't break your ropes while you're alive, do you think ghosts will do it after?"</i>
+<i>"In romance, we feel the need to zoom in and expound on our partner's foibles in intimate detail; in friendship, we tend to do the opposite, avoiding confrontation through fear, lethargy or both."</i>
 <br>
-<b>- Kabir</b>
+<b>- Mariella Frostrup</b>
 </blockquote>
 </p>
 
