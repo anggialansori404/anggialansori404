@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear makes strangers of people who would be friends."</i>
+<i>"Be brave enough to suck at something new."</i>
 <br>
-<b>- Shirley MacLaine</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
