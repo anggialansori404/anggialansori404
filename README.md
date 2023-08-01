@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is not a goal...it's a by-product of a life well lived."</i>
+<i>"In order to be irreplaceable one must always be different."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
