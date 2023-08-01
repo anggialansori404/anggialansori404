@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In order to be irreplaceable one must always be different."</i>
+<i>"I am building a fire, and everyday I train, I add more fuel. At just the right moment, I light the match."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Mia Hamm</b>
 </blockquote>
 </p>
 
