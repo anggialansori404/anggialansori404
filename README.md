@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing on this earth more to be prized than true friendship."</i>
+<i>"The grand essentials of happiness are: something to do, something to love, and something to hope for."</i>
 <br>
-<b>- Thomas Aquinas</b>
+<b>- Alexander Chalmers</b>
 </blockquote>
 </p>
 
