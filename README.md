@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He that is giddy thinks the world turns round."</i>
+<i>"We are masters of the unsaid words, but slaves of those we let slip out."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
