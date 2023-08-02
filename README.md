@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no failures. Just experiences and your reactions to them."</i>
+<i>"He that is giddy thinks the world turns round."</i>
 <br>
-<b>- Tom Krause</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
