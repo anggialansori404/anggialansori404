@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you get up one more time than you fall, you will make it through."</i>
+<i>"What the eye doesn't see and the mind doesn't know, doesn't exist."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
