@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What do we live for, if it is not to make life less difficult for each other?"</i>
+<i>"Speak only endearing speech, speech that is welcomed. Speech, when it brings no evil to others, is a pleasant thing."</i>
 <br>
-<b>- George Eliot</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
