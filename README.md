@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Speak only endearing speech, speech that is welcomed. Speech, when it brings no evil to others, is a pleasant thing."</i>
+<i>"A wise man can learn more from a foolish question than a fool can learn from a wise answer."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
