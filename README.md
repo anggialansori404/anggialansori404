@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The grand essentials of happiness are: something to do, something to love, and something to hope for."</i>
+<i>"There are no failures. Just experiences and your reactions to them."</i>
 <br>
-<b>- Alexander Chalmers</b>
+<b>- Tom Krause</b>
 </blockquote>
 </p>
 
