@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Determine never to be idle. No person will have occasion to complain of the want of time who never loses any."</i>
+<i>"Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
