@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I cannot make my days longer, so I strive to make them better."</i>
+<i>"Nothing is more real than nothing."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
