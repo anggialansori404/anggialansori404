@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way to change others' minds is with affection, and not anger."</i>
+<i>"What happens is not as important as how you react to what happens."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Ellen Glasgow</b>
 </blockquote>
 </p>
 
