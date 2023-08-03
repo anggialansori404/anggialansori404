@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight."</i>
+<i>"There are three methods to gaining wisdom. The first is reflection, which is the highest. The second is limitation, which is the easiest. The third is experience, which is the bitterest."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
