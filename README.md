@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What lies behind us and what lies before us are tiny matters compared to what lies within us."</i>
+<i>"Where there is charity and wisdom, there is neither fear nor ignorance."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Francis of Assisi</b>
 </blockquote>
 </p>
 
