@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value."</i>
+<i>"I hear and I forget. I see and I remember. I do and I understand. "</i>
 <br>
-<b>- Isaac Asimov</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
