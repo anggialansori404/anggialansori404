@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where there is charity and wisdom, there is neither fear nor ignorance."</i>
+<i>"I cannot make my days longer, so I strive to make them better."</i>
 <br>
-<b>- Francis of Assisi</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
