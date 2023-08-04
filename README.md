@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Decision is a risk rooted in the courage of being free."</i>
+<i>"The greatest achievement of humanity is not its works of art, science, or technology, but the recognition of its own dysfunction."</i>
 <br>
-<b>- Paul Tillich</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
