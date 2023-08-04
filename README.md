@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of life is to fall seven times and to get up eight times."</i>
+<i>"Everything that irritates us about others can lead us to an understanding of ourselves."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
