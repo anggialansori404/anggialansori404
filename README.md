@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything that irritates us about others can lead us to an understanding of ourselves."</i>
+<i>"Nothing ever goes away until it has taught us what we need to know."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Pema Chödrön</b>
 </blockquote>
 </p>
 
