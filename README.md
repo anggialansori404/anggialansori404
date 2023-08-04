@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Waste not fresh tears over old griefs."</i>
+<i>"The true soldier fights not because he hates what is in front of him, but because he loves what is behind him."</i>
 <br>
-<b>- Euripides</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
