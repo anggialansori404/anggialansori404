@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only thing we have to fear is fear itself."</i>
+<i>"A friend may well be reckoned the masterpiece of nature."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
