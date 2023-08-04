@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A friend may well be reckoned the masterpiece of nature."</i>
+<i>"Decision is a risk rooted in the courage of being free."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Paul Tillich</b>
 </blockquote>
 </p>
 
