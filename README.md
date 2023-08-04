@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest achievement of humanity is not its works of art, science, or technology, but the recognition of its own dysfunction."</i>
+<i>"The secret of life is to fall seven times and to get up eight times."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
