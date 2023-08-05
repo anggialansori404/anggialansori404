@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you have made mistakes, there is always another chance for you. You may have a fresh start any moment you choose."</i>
+<i>"Train up a fig tree in the way it should go, and when you are old sit under the shade of it."</i>
 <br>
-<b>- Mary Pickford</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
