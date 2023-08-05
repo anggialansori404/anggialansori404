@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is through science that we prove, but through intuition that we discover."</i>
+<i>"To know your Enemy, you must become your Enemy."</i>
 <br>
-<b>- Henri Poincaré</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
