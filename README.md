@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"But at any rate, the point is that God is what nobody admits to being, and everybody really is."</i>
+<i>"If you have made mistakes, there is always another chance for you. You may have a fresh start any moment you choose."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Mary Pickford</b>
 </blockquote>
 </p>
 
