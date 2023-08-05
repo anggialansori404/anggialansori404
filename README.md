@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Error is discipline through which we advance."</i>
+<i>"Keep your eyes on the stars and your feet on the ground."</i>
 <br>
-<b>- William Ellery Channing</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
