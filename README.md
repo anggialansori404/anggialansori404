@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I wasn't brave, I just didn't have time to be scared."</i>
+<i>"Error is discipline through which we advance."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- William Ellery Channing</b>
 </blockquote>
 </p>
 
