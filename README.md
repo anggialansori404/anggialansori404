@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep your eyes on the stars and your feet on the ground."</i>
+<i>"Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
