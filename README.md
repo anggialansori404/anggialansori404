@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must learn our limits. We are all something, but none of us are everything."</i>
+<i>"If there were no God, there would be no atheists."</i>
 <br>
-<b>- Blaise Pascal</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
