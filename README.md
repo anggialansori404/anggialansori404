@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not how much money you make, it's how much money you keep."</i>
+<i>"We must learn our limits. We are all something, but none of us are everything."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Blaise Pascal</b>
 </blockquote>
 </p>
 
