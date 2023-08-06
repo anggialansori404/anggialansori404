@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company. "</i>
+<i>"None of us can change our yesterdays but all of us can change our tomorrows."</i>
 <br>
-<b>- George Washington</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
