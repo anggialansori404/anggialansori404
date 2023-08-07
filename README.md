@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What is not started today is never finished tomorrow."</i>
+<i>"One fails forward toward success."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Charles F. Kettering</b>
 </blockquote>
 </p>
 
