@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are important enough to ask and you are blessed enough to receive back."</i>
+<i>"Learning is the beginning of wealth. Learning is the beginning of health. Learning is the beginning of spirituality. Searching and learning is where the miracle process all begins."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
