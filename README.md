@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To follow, without halt, one aim: There is the secret of success."</i>
+<i>"What is not started today is never finished tomorrow."</i>
 <br>
-<b>- Anna Pavlova</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
