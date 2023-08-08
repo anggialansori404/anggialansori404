@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship with oneself is all important, because without it one cannot be friends with anyone else in the world."</i>
+<i>"Life is a gift. Never forget to enjoy and bask in every moment you are in."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
