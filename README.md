@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no great genius without some touch of madness."</i>
+<i>"Fans don't boo nobodies."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Reggie Jackson (basketball, born 1990)</b>
 </blockquote>
 </p>
 
