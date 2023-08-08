@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a gift. Never forget to enjoy and bask in every moment you are in."</i>
+<i>"Both formerly and now, it is only suffering that I describe, and the cessation of suffering."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
