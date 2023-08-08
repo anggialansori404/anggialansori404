@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Both formerly and now, it is only suffering that I describe, and the cessation of suffering."</i>
+<i>"Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
