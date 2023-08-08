@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Vanity can easily overtake wisdom. It usually overtakes common sense."</i>
+<i>"Never say never, because limits, like fears, are often just an illusion."</i>
 <br>
-<b>- Julian Casablancas</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
