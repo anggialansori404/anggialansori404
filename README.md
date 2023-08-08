@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All know the way; few actually walk it."</i>
+<i>"When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
