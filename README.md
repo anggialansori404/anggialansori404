@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To forgive means pardoning the unpardonable."</i>
+<i>"When times are bad is when the real entrepreneurs emerge."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
