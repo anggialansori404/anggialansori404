@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence comes not from always being right but not fearing to be wrong."</i>
+<i>"You can't win unless you learn how to lose."</i>
 <br>
-<b>- Unknown</b>
+<b>- Kareem Abdul-Jabbar</b>
 </blockquote>
 </p>
 
