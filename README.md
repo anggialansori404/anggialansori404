@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are totally at peace with yourself, nothing can shake you."</i>
+<i>"If you aim at nothing, you will hit it every time.  "</i>
 <br>
-<b>- Deepam Chaterjee</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
