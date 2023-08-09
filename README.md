@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself."</i>
+<i>"To forgive means pardoning the unpardonable."</i>
 <br>
-<b>- Confucius</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
