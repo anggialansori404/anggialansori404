@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't choose your family. They are God's gift to you, as you are to them."</i>
+<i>"Beware of false knowledge; it is more dangerous than ignorance."</i>
 <br>
-<b>- Desmond Tutu</b>
+<b>- Bernard Shaw</b>
 </blockquote>
 </p>
 
