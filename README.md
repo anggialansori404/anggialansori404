@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you aim at nothing, you will hit it every time.  "</i>
+<i>"Do not pray for an easy life, pray for the strength to endure a difficult one.  "</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
