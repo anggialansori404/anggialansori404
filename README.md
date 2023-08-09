@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not pray for an easy life, pray for the strength to endure a difficult one.  "</i>
+<i>"Pick battles big enough to matter, small enough to win."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Jonathan Kozol</b>
 </blockquote>
 </p>
 
