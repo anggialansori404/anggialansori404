@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't win unless you learn how to lose."</i>
+<i>"Experts on romance say for a happy marriage there has to be more than a passionate love. For a lasting union, they insist, there must be a genuine liking for each other. Which, in my book, is a good definition for friendship."</i>
 <br>
-<b>- Kareem Abdul-Jabbar</b>
+<b>- Marilyn Monroe</b>
 </blockquote>
 </p>
 
