@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Experts on romance say for a happy marriage there has to be more than a passionate love. For a lasting union, they insist, there must be a genuine liking for each other. Which, in my book, is a good definition for friendship."</i>
+<i>"You don't choose your family. They are God's gift to you, as you are to them."</i>
 <br>
-<b>- Marilyn Monroe</b>
+<b>- Desmond Tutu</b>
 </blockquote>
 </p>
 
