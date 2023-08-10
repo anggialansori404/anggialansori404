@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nobody will believe in you unless you believe in yourself."</i>
+<i>"True prayer has no set form."</i>
 <br>
-<b>- Liberace</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
