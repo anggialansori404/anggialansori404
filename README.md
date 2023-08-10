@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not how much we give but how much love we put into giving."</i>
+<i>"Throw your heart over the bar and your body will follow."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
