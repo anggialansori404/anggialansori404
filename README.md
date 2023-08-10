@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never interrupt your enemy when he is making a mistake."</i>
+<i>"Nobody will believe in you unless you believe in yourself."</i>
 <br>
-<b>- Napoleon</b>
+<b>- Liberace</b>
 </blockquote>
 </p>
 
