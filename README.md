@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing in the world so irresistibly contagious as laughter and good humor."</i>
+<i>"If I cannot do great things. I can do small things in a great way."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
