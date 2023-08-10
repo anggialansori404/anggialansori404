@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Emancipate yourself from mental slavery, none but ourselves can free our mind."</i>
+<i>"Life is like a wheel. Sooner or later, it always comes around to where you started again."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
