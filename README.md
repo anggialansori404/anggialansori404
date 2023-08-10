@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before we acquire great power, we must acquire wisdom to use it well."</i>
+<i>"Never interrupt your enemy when he is making a mistake."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Napoleon</b>
 </blockquote>
 </p>
 
