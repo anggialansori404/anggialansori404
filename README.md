@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True prayer has no set form."</i>
+<i>"Unhappiness enters through a door that has been left open."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
