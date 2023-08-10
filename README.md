@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throw your heart over the bar and your body will follow."</i>
+<i>"Before we acquire great power, we must acquire wisdom to use it well."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
