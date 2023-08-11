@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mistake is a mistake only if you make it twice."</i>
+<i>"If you focus on results, you will never change. If you focus on change, you will get results."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Jack Dixon</b>
 </blockquote>
 </p>
 
