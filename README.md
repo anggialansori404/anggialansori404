@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is not a goal...it's a by-product of a life well lived."</i>
+<i>"Mistake is a mistake only if you make it twice."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
