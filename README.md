@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Blessed are the hearts that can bend; they shall never be broken."</i>
+<i>"Never, never, never give up."</i>
 <br>
-<b>- Albert Camus</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
