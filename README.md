@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you focus on results, you will never change. If you focus on change, you will get results."</i>
+<i>"False friendship, like the ivy, decays and ruins the walls it embraces; but true friendship gives new life and animation to the object it supports."</i>
 <br>
-<b>- Jack Dixon</b>
+<b>- Richard Burton</b>
 </blockquote>
 </p>
 
