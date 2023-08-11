@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truest greatness lies in being kind, the truest wisdom in a happy mind."</i>
+<i>"Remember that the best relationship is one in which your love for each other exceeds your need for each other."</i>
 <br>
-<b>- Ella Wheeler Wilcox</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
