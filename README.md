@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom is the supreme part of happiness."</i>
+<i>"If the shoe doesn't fit, must we change the foot?"</i>
 <br>
-<b>- Sophocles</b>
+<b>- Gloria Steinem</b>
 </blockquote>
 </p>
 
