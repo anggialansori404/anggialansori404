@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the beginner's mind there are many possibilities, but in the expert's mind there are few."</i>
+<i>"Happiness resides not in possessions, and not in gold, happiness dwells in the soul."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Democritus</b>
 </blockquote>
 </p>
 
