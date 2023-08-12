@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness resides not in possessions, and not in gold, happiness dwells in the soul."</i>
+<i>"Character is the result of two things: mental attitude and the way we spend our time."</i>
 <br>
-<b>- Democritus</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
