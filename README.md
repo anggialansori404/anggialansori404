@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You need a plan to build a house. To build a life, it is even more important to have a plan or goal."</i>
+<i>"If you are going to achieve excellence in big things, you develop the habit in little matters. Excellence is not an exception; it is a prevailing attitude."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
