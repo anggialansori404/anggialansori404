@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are tough on yourself, life is going to be infinitely easier on you.  "</i>
+<i>"Every great advance in science has issued from a new audacity of the imagination."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- John Dewey</b>
 </blockquote>
 </p>
 
