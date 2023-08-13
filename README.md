@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who conquers others is strong; He who conquers himself is mighty."</i>
+<i>"It is useless to meet revenge with revenge; it will heal nothing."</i>
 <br>
-<b>- Laozi</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
