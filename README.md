@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is useless to meet revenge with revenge; it will heal nothing."</i>
+<i>"People who have goals succeed because they know where they're going. It's that simple."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
