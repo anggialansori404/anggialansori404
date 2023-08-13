@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no uninteresting things, only uninterested people."</i>
+<i>"There are few reasons for telling the truth, but for lying the number is infinite."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
