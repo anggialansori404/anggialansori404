@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight."</i>
+<i>"The measure of who we are is what we do with what we have."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
