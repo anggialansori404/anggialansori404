@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Either you choose to stay in the shallow end of the pool or you go out into the ocean."</i>
+<i>"To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
