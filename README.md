@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else."</i>
+<i>"Doing the best at this moment puts you in the best place for the next moment."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
