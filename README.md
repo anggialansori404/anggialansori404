@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are few reasons for telling the truth, but for lying the number is infinite."</i>
+<i>"Make no small plans for they have no power to stir the soul."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Niccolo Machiavelli</b>
 </blockquote>
 </p>
 
