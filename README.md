@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"First-rate people hire first-rate people; second-rate people hire third-rate people."</i>
+<i>"Reason and free inquiry are the only effectual agents against error."</i>
 <br>
-<b>- Leo Rosten</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
