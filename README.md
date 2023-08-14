@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go put your creed into the deed. Nor speak with double tongue."</i>
+<i>"First-rate people hire first-rate people; second-rate people hire third-rate people."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Leo Rosten</b>
 </blockquote>
 </p>
 
