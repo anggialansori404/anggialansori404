@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make no small plans for they have no power to stir the soul."</i>
+<i>"The energy of the mind is the essence of life."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
