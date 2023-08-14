@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you care about someone enough, you'll always be there for them no matter what."</i>
+<i>"Go put your creed into the deed. Nor speak with double tongue."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
