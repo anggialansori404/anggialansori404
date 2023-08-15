@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The years teach much which the days never know."</i>
+<i>"The extreme limit of wisdom, that's what the public calls madness."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Jean Cocteau</b>
 </blockquote>
 </p>
 
