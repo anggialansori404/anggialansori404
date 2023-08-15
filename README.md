@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The extreme limit of wisdom, that's what the public calls madness."</i>
+<i>"Friendship is essentially a partnership."</i>
 <br>
-<b>- Jean Cocteau</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
