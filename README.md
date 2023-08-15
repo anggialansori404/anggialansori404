@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A goal without a plan is just a wish."</i>
+<i>"You cannot step twice into the same river, for other waters are continually flowing in."</i>
 <br>
-<b>- Larry Elder</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
