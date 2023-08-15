@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot step twice into the same river, for other waters are continually flowing in."</i>
+<i>"There is only one corner of the universe you can be certain of improving, and that's your own self."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Aldous Huxley</b>
 </blockquote>
 </p>
 
