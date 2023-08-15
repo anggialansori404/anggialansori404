@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is only one corner of the universe you can be certain of improving, and that's your own self."</i>
+<i>"Those who attain the middle Dominate the whole."</i>
 <br>
-<b>- Aldous Huxley</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
