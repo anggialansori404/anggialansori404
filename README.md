@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Follow your instincts. That is where true wisdom manifests itself."</i>
+<i>"In life, all good things come hard, but wisdom is the hardest to come by."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Lucille Ball</b>
 </blockquote>
 </p>
 
