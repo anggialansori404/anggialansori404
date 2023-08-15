@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is essentially a partnership."</i>
+<i>"A goal without a plan is just a wish."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Larry Elder</b>
 </blockquote>
 </p>
 
