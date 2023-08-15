@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Eternal nothingness is fine if you happen to be dressed for it."</i>
+<i>"The years teach much which the days never know."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
