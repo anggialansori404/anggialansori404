@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In life, all good things come hard, but wisdom is the hardest to come by."</i>
+<i>"Be like the flower, turn your face to the sun."</i>
 <br>
-<b>- Lucille Ball</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
