@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be like the flower, turn your face to the sun."</i>
+<i>"Eternal nothingness is fine if you happen to be dressed for it."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
