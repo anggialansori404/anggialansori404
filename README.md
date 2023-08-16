@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Gravitation cannot be held responsible for people falling in love. How on earth can you explain in terms of chemistry and physics so important a biological phenomenon as first love? Put your hand on a stove for a minute and it seems like an hour. Sit with that special girl for an hour and it seems like a minute. That's relativity."</i>
+<i>"To lose your temper is only useful once a year."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Colin R. Davis</b>
 </blockquote>
 </p>
 
