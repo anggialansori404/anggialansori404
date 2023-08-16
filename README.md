@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Acquaintances we meet, enjoy, and can easily leave behind; but friendship grows deep roots."</i>
+<i>"Conditions fall apart. Persist with diligence."</i>
 <br>
-<b>- H. Jackson Brown Jr.</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
