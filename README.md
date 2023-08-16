@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The two most powerful warriors are patience and time."</i>
+<i>"Subdue your appetites, my dears, and you've conquered human nature."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
