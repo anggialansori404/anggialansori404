@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The sweetest pleasure arises from difficulties overcome."</i>
+<i>"The pine stays green in winter... wisdom in hardship."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Norman Douglas</b>
 </blockquote>
 </p>
 
