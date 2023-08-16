@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life."</i>
+<i>"The one thing that you have that nobody else has is you. Your voice, your mind, your story, your vision. So write and draw and build and play and dance and live as only you can."</i>
 <br>
-<b>- James Freeman Clarke</b>
+<b>- Neil Gaiman</b>
 </blockquote>
 </p>
 
