@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our greatness lies not so much in being able to remake the world as being able to remake ourselves."</i>
+<i>"Life goes by fast. Enjoy it. Calm down. It's all funny."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
