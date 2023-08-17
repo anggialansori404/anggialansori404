@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pine stays green in winter... wisdom in hardship."</i>
+<i>"The truth you believe and cling to makes you unavailable to hear anything new."</i>
 <br>
-<b>- Norman Douglas</b>
+<b>- Pema Chödrön</b>
 </blockquote>
 </p>
 
