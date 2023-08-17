@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be yourself; everyone else is already taken."</i>
+<i>"Begin now to be what you will be hereafter."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- St. Jerome</b>
 </blockquote>
 </p>
 
