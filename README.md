@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life needs to be more than just solving problems every day. You need to wake up and be excited about the future."</i>
+<i>"You don't look out there for God, something in the sky, you look in you."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
