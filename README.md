@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be Impeccable with Your Word. Speak with integrity. Say only what you mean. Avoid using the word to speak against yourself or to gossip about others. Use the power of your word in the direction of truth and love."</i>
+<i>"Real growth comes through intense, difficult, and challenging situations."</i>
 <br>
-<b>- Don Miguel Ruiz</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
