@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truth you believe and cling to makes you unavailable to hear anything new."</i>
+<i>"Life needs to be more than just solving problems every day. You need to wake up and be excited about the future."</i>
 <br>
-<b>- Pema Chödrön</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
