@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Begin now to be what you will be hereafter."</i>
+<i>"Our greatness lies not so much in being able to remake the world as being able to remake ourselves."</i>
 <br>
-<b>- St. Jerome</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
