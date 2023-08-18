@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never make friends with people who are above or below you in status. Such friendships will never give you any happiness."</i>
+<i>"Go confidently in the direction of your dreams. Live the life you've imagined."</i>
 <br>
-<b>- Chanakya</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
