@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No alibi will save you from accepting the responsibility."</i>
+<i>"What is past is left behind. The future is yet unreached. Whatever quality is present, clearly see it right there."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
