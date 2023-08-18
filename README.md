@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The power of man has grown in every sphere, except over himself."</i>
+<i>"Thinking is difficult, that's why most people judge."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
