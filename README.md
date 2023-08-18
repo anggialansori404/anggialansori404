@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our intention creates our reality."</i>
+<i>"Lose an hour in the morning, and you will spend all day looking for it."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Richard Whately</b>
 </blockquote>
 </p>
 
