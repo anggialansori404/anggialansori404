@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not so important to know everything as to appreciate what we learn."</i>
+<i>"Love is not about possession. Love is about appreciation."</i>
 <br>
-<b>- Hannah More</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
