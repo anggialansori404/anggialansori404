@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Lose an hour in the morning, and you will spend all day looking for it."</i>
+<i>"Death smiles at us all. All we can do is smile back."</i>
 <br>
-<b>- Richard Whately</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
