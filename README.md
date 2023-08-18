@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go confidently in the direction of your dreams. Live the life you've imagined."</i>
+<i>"No alibi will save you from accepting the responsibility."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
