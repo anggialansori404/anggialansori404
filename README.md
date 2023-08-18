@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a question and how we live it is our answer."</i>
+<i>"It is not so important to know everything as to appreciate what we learn."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Hannah More</b>
 </blockquote>
 </p>
 
