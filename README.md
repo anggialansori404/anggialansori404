@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"May you find grace as you surrender to life. May you find happiness, as you stop seeking it."</i>
+<i>"The essence of true friendship is to make allowance for another's little lapses."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Ovid</b>
 </blockquote>
 </p>
 
