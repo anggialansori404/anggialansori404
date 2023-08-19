@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whether you have a problem in your life or not depends upon your own attitude, your own understanding."</i>
+<i>"It is not fair to ask of others what you are unwilling to do yourself."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
