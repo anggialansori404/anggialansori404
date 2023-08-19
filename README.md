@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you cannot do great things, do small things in a great way."</i>
+<i>"The biggest room in the world is the room for improvement."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
