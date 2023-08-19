@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no absolute success in the world, only constant progress."</i>
+<i>"You talk when you cease to be at peace with your thoughts."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
