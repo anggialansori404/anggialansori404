@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not fair to ask of others what you are unwilling to do yourself."</i>
+<i>"And as we let our own light shine, we unconsciously give other people permission to do the same."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
