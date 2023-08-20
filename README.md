@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trouble is only opportunity in work clothes."</i>
+<i>"Before you can inspire with emotion, you must be swamped with it yourself. Before you can move their tears, your own must flow. To convince them, you must yourself believe."</i>
 <br>
-<b>- Henry J. Kaiser</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
