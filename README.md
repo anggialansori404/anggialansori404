@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Identify your problems, but give your power and energy to solutions."</i>
+<i>"Trouble is only opportunity in work clothes."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Henry J. Kaiser</b>
 </blockquote>
 </p>
 
