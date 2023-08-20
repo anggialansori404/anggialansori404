@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex."</i>
+<i>"You can't stop the waves, but you can learn to surf."</i>
 <br>
-<b>- Kurt Vonnegut</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
