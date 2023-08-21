@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people achieved their greatest success one step beyond what looked like their greatest failure."</i>
+<i>"The happiness of a man in this life does not consist in the absence but in the mastery of his passions."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Alfred Tennyson</b>
 </blockquote>
 </p>
 
