@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most powerful is he who has himself in his own power."</i>
+<i>"Champions keep playing until they get it right."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Billie Jean King</b>
 </blockquote>
 </p>
 
