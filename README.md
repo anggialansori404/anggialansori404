@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything has its beauty, but not everyone sees it. "</i>
+<i>"Absurdity is the ecstasy of intellectualism."</i>
 <br>
-<b>- Confucius</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
