@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Absurdity is the ecstasy of intellectualism."</i>
+<i>"The best way out is always through."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
