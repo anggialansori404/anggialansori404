@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Silence at the proper season is wisdom, and better than any speech."</i>
+<i>"If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher."</i>
 <br>
-<b>- Plutarch</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
