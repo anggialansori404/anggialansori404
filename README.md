@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The happiness of a man in this life does not consist in the absence but in the mastery of his passions."</i>
+<i>"Silence at the proper season is wisdom, and better than any speech."</i>
 <br>
-<b>- Alfred Tennyson</b>
+<b>- Plutarch</b>
 </blockquote>
 </p>
 
