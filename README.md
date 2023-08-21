@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before you can inspire with emotion, you must be swamped with it yourself. Before you can move their tears, your own must flow. To convince them, you must yourself believe."</i>
+<i>"If you have made mistakes, there is always another chance for you. You may have a fresh start any moment you choose."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Mary Pickford</b>
 </blockquote>
 </p>
 
