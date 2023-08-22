@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Working hard for something we don't care about is called stress: Working hard for something we love is called passion."</i>
+<i>"To be happy we need something to solve. Happiness is therefore a form of action."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
