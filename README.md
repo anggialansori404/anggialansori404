@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The one who boasts does so only out of a feeling of inferiority."</i>
+<i>"See the positive side, the potential, and make an effort."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
