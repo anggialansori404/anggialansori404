@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is not something ready made. It comes from your own actions."</i>
+<i>"Working hard for something we don't care about is called stress: Working hard for something we love is called passion."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
