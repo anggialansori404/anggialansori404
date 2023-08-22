@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is an option here. If things are not failing, you are not innovating enough."</i>
+<i>"As you think, you travel, and as you love, you attract."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
