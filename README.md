@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it."</i>
+<i>"A real friend is one who walks in when the rest of the world walks out."</i>
 <br>
-<b>- M. Scott Peck</b>
+<b>- Walter Winchell</b>
 </blockquote>
 </p>
 
