@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be happy we need something to solve. Happiness is therefore a form of action."</i>
+<i>"Failure is an option here. If things are not failing, you are not innovating enough."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
