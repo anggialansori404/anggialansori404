@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You were not born a winner, and you were not born a loser. You are what you make yourself be."</i>
+<i>"If you can dream it, you can do it."</i>
 <br>
-<b>- Lou Holtz</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
