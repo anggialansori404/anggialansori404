@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you."</i>
+<i>"Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social environment. Most people are even incapable of forming such opinions."</i>
 <br>
-<b>- Sonia Ricotti</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
