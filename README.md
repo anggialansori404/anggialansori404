@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our character is what we do when we think no one is looking."</i>
+<i>"Great ideas often receive violent opposition from mediocre minds."</i>
 <br>
-<b>- H. Jackson Brown Jr.</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
