@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To live outside the law, you must be honest. "</i>
+<i>"Experience is not what happens to a man. It is what a man does with what happens to him."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Aldous Huxley</b>
 </blockquote>
 </p>
 
