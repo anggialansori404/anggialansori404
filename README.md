@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most I can do for my friend is simply be his friend."</i>
+<i>"You were not born a winner, and you were not born a loser. You are what you make yourself be."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Lou Holtz</b>
 </blockquote>
 </p>
 
