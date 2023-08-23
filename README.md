@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Experience is not what happens to a man. It is what a man does with what happens to him."</i>
+<i>"Our character is what we do when we think no one is looking."</i>
 <br>
-<b>- Aldous Huxley</b>
+<b>- H. Jackson Brown Jr.</b>
 </blockquote>
 </p>
 
