@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social environment. Most people are even incapable of forming such opinions."</i>
+<i>"The most I can do for my friend is simply be his friend."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
