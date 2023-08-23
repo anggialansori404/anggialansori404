@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can dream it, you can do it."</i>
+<i>"To hell with circumstances, I create opportunities."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
