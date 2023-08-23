@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great ideas often receive violent opposition from mediocre minds."</i>
+<i>"When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Sonia Ricotti</b>
 </blockquote>
 </p>
 
