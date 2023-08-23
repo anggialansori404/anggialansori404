@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a gift and the trick is not to expect it, but to delight in it when it comes."</i>
+<i>"To live outside the law, you must be honest. "</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
