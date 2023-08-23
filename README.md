@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To hell with circumstances, I create opportunities."</i>
+<i>"Only the hand that erases can write the true thing."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
