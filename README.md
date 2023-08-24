@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Many answers to what you seek don't lie 'out there'. If you look inwards, you'll find the answer has been in you all along."</i>
+<i>"Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
