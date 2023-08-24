@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True knowledge exists in knowing that you know nothing."</i>
+<i>"If only wed stop trying to be happy wed have a pretty good time."</i>
 <br>
-<b>- Isocrates</b>
+<b>- Edith Wharton</b>
 </blockquote>
 </p>
 
