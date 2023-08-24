@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Without leaps of imagination, or dreaming, we lose the excitement of possibilities. Dreaming, after all, is a form of planning."</i>
+<i>"Note that this journey is uniquely yours, no one elses. So the path has to be your own."</i>
 <br>
-<b>- Gloria Steinem</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
