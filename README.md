@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life reflects your own thoughts back to you."</i>
+<i>"If opportunity doesn't knock, build a door."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Milton Berle</b>
 </blockquote>
 </p>
 
