@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who knows, does not speak. He who speaks, does not know."</i>
+<i>"The shoe that fits one person pinches another; there is no recipe for living that suits all cases."</i>
 <br>
-<b>- Laozi</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
