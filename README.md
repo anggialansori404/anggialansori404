@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can never cross the ocean unless you have the courage to lose sight of the shore."</i>
+<i>"One today is worth two tomorrows."</i>
 <br>
-<b>- Christopher Columbus</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
