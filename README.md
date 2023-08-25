@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You always have two choices: your commitment versus your fear."</i>
+<i>"Life is a gift. Never forget to enjoy and bask in every moment you are in."</i>
 <br>
-<b>- Sammy Davis Jr.</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
