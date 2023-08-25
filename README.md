@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a gift. Never forget to enjoy and bask in every moment you are in."</i>
+<i>"There are no shortcuts to any place worth going."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
