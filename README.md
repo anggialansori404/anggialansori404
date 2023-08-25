@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Difficulties increase the nearer we get to the goal."</i>
+<i>"Opportunity often comes disguised in the form of misfortune or temporary defeat."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
