@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no path to Love. Love is the path."</i>
+<i>"Either I will find a way, or I will make one."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Philip Sidney</b>
 </blockquote>
 </p>
 
