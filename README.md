@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One today is worth two tomorrows."</i>
+<i>"Live, travel, adventure, bless, and don't be sorry.  "</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Jack Kerouac</b>
 </blockquote>
 </p>
 
