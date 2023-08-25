@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunity often comes disguised in the form of misfortune or temporary defeat."</i>
+<i>"There is no path to Love. Love is the path."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
