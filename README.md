@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Either I will find a way, or I will make one."</i>
+<i>"Very little is needed to make a happy life; it is all within yourself, in your way of thinking."</i>
 <br>
-<b>- Philip Sidney</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
