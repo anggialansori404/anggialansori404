@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A hero is an ordinary person doing things in an extra ordinary way."</i>
+<i>"Our greatest glory is not in never falling, but in rising every time we fall. "</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
