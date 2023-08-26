@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Genuine love should first be directed at oneself; if we do not love ourselves, how can we love others?"</i>
+<i>"You can't blame gravity for falling in love."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
