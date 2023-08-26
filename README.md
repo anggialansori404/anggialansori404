@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't blame gravity for falling in love."</i>
+<i>"The best way to understanding is a few good examples."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
