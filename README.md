@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our greatest glory is not in never falling, but in rising every time we fall. "</i>
+<i>"May you find grace as you surrender to life. May you find happiness, as you stop seeking it."</i>
 <br>
-<b>- Confucius</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
