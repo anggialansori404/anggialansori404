@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who dream by day are cognizant of many things which escape those who dream only by night."</i>
+<i>"Genuine love should first be directed at oneself; if we do not love ourselves, how can we love others?"</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
