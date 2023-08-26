@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!"</i>
+<i>"Those who dream by day are cognizant of many things which escape those who dream only by night."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
