@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A crisis is an opportunity riding the dangerous wind."</i>
+<i>"What you do today can improve all your tomorrows."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
