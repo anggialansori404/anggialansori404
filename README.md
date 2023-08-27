@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"God gave us the gift of life; it is up to us to give ourselves the gift of living well."</i>
+<i>"Don't gain the world and lose your soul. Wisdom is better than silver and gold."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
