@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't gain the world and lose your soul. Wisdom is better than silver and gold."</i>
+<i>"In order to be walked over, you have to be lying down."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
