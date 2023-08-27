@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you realize there is nothing lacking, the whole world belongs to you."</i>
+<i>"The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back."</i>
 <br>
-<b>- Laozi</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
