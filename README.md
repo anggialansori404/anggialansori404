@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before preparing to improve the world, first look around your own home three times. "</i>
+<i>"God gave us the gift of life; it is up to us to give ourselves the gift of living well."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
