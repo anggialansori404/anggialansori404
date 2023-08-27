@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Until you change how you get things done, you'll never know what works best."</i>
+<i>"The person who makes a success of living is the one who see his goal steadily and aims for it unswervingly. That is dedication."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Cecil B. DeMille</b>
 </blockquote>
 </p>
 
