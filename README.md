@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways."</i>
+<i>"Change is the law of life. And those who look only to the past or present are certain to miss the future."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- John F. Kennedy</b>
 </blockquote>
 </p>
 
