@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why do you stay in prison when the door is so wide open?"</i>
+<i>"Be not afraid of growing slowly, be afraid only of standing still. "</i>
 <br>
-<b>- Rumi</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
