@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone is a moon, and has a dark side which he never shows to anybody."</i>
+<i>"Who looks outside, dreams, who looks inside, awakes."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
