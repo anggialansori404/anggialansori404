@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be slow of tongue and quick of eye."</i>
+<i>"Those who are blessed with the most talent don't necessarily outperform everyone else. It's the people with follow-through who excel."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Mary Kay Ash</b>
 </blockquote>
 </p>
 
