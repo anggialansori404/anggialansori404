@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all faced with a series of great opportunities brilliantly disguised as impossible situations."</i>
+<i>"Bodily exercise, when compulsory, does no harm to the body; but knowledge which is acquired under compulsion obtains no hold on the mind."</i>
 <br>
-<b>- Chuck Swindoll</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
