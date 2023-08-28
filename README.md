@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As an organizer I start from where the world is, as it is, not as I would like it to be."</i>
+<i>"We are all faced with a series of great opportunities brilliantly disguised as impossible situations."</i>
 <br>
-<b>- Saul Alinsky</b>
+<b>- Chuck Swindoll</b>
 </blockquote>
 </p>
 
