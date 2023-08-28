@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Bodily exercise, when compulsory, does no harm to the body; but knowledge which is acquired under compulsion obtains no hold on the mind."</i>
+<i>"Let not your mind run on what you lack as much as on what you have already."</i>
 <br>
-<b>- Plato</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
