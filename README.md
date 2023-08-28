@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wise men talk because they have something to say; fools, because they have to say something."</i>
+<i>"I never dwell on what happened. You can't change it. Move forward."</i>
 <br>
-<b>- Plato</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
