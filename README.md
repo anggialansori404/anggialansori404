@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no way to prosperity, prosperity is the way."</i>
+<i>"Everyone is a moon, and has a dark side which he never shows to anybody."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
