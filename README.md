@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who are blessed with the most talent don't necessarily outperform everyone else. It's the people with follow-through who excel."</i>
+<i>"There is no way to prosperity, prosperity is the way."</i>
 <br>
-<b>- Mary Kay Ash</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
