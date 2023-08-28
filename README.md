@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We choose our joys and sorrows long before we experience them."</i>
+<i>"As an organizer I start from where the world is, as it is, not as I would like it to be."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Saul Alinsky</b>
 </blockquote>
 </p>
 
