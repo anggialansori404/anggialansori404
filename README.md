@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Who looks outside, dreams, who looks inside, awakes."</i>
+<i>"We choose our joys and sorrows long before we experience them."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
