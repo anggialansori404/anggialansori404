@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Silence at the proper season is wisdom, and better than any speech."</i>
+<i>"The most successful people are those who are good at plan B."</i>
 <br>
-<b>- Plutarch</b>
+<b>- James A. Yorke</b>
 </blockquote>
 </p>
 
