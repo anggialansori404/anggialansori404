@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I never dwell on what happened. You can't change it. Move forward."</i>
+<i>"Skill to do comes of doing."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
