@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is not to be pursued, it is to be attracted by the person you become."</i>
+<i>"Silence at the proper season is wisdom, and better than any speech."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Plutarch</b>
 </blockquote>
 </p>
 
