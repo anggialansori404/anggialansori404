@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one has ever become poor by giving."</i>
+<i>"A little impatience will spoil great plans."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
