@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A little impatience will spoil great plans."</i>
+<i>"Thinking is the hardest work there is. That is why so few people engage in it."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
