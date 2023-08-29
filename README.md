@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Skill to do comes of doing."</i>
+<i>"If you think you can, you can. And if you think you can't, you're right."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
