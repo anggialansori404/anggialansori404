@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you think you can, you can. And if you think you can't, you're right."</i>
+<i>"A man who dares to waste one hour of time has not discovered the value of life."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
