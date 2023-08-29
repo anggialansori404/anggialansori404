@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unhappiness enters through a door that has been left open."</i>
+<i>"It's possible in ways both large or small to make a difference in someone's life."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
