@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world is but a canvas to the imagination."</i>
+<i>"He who controls others may be powerful, but he who has mastered himself is mightier still."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
