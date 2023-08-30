@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never do things others can do and will do if there are things others cannot do or will not do."</i>
+<i>"Can miles truly separate you from friends... If you want to be with someone you love, aren't you already there?"</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
