@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Greatness comes from living with purpose and passion."</i>
+<i>"An organization, no matter how well designed, is only as good as the people who live and work in it."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Dee Hock</b>
 </blockquote>
 </p>
 
