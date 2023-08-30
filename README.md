@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even though you are on the right track - you will get run over if you just sit there."</i>
+<i>"Life is what you make it. Always has been, always will be."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
