@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An organization, no matter how well designed, is only as good as the people who live and work in it."</i>
+<i>"Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more."</i>
 <br>
-<b>- Dee Hock</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
