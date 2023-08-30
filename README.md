@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who controls others may be powerful, but he who has mastered himself is mightier still."</i>
+<i>"You can have it all. You just can't have it all at once. "</i>
 <br>
-<b>- Laozi</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
