@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are things so deep and complex that only intuition can reach it in our stage of development as human beings."</i>
+<i>"Words can only have a positive effect on others if and when they are ready to listen."</i>
 <br>
-<b>- John Astin</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
