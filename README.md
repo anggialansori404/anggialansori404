@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the quality of our work which will please God, not the quantity."</i>
+<i>"Imagination rules the world."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Napoleon</b>
 </blockquote>
 </p>
 
