@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In order to win, you must expect to win."</i>
+<i>"Some people find fault like there is a reward for it.  "</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
