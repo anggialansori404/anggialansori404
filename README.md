@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Motivation is what gets you started. Habit is what keeps you going."</i>
+<i>"There are things so deep and complex that only intuition can reach it in our stage of development as human beings."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- John Astin</b>
 </blockquote>
 </p>
 
