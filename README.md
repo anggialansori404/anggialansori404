@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination rules the world."</i>
+<i>"Motivation is what gets you started. Habit is what keeps you going."</i>
 <br>
-<b>- Napoleon</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
