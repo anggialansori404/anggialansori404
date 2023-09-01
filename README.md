@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well."</i>
+<i>"Every saint has a past, and every sinner has a future."</i>
 <br>
-<b>- Jeff Bezos</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
