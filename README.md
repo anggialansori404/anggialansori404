@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything in the universe goes by indirection. There are no straight lines."</i>
+<i>"Life is what happens while you are making other plans."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
