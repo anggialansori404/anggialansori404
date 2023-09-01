@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fools resist. The wise embrace."</i>
+<i>"From wonder into wonder existence opens."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
