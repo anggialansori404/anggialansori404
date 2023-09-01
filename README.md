@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wise men make more opportunities than they find."</i>
+<i>"The ultimate promise of technology is to make us master of a world that we command by the push of a button."</i>
 <br>
-<b>- Francis Bacon</b>
+<b>- Volker Grassmuck</b>
 </blockquote>
 </p>
 
