@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every saint has a past, and every sinner has a future."</i>
+<i>"Think how hard physics would be if particles could think."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Murray Gell-Mann</b>
 </blockquote>
 </p>
 
