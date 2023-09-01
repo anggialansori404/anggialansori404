@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ultimate promise of technology is to make us master of a world that we command by the push of a button."</i>
+<i>"A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well."</i>
 <br>
-<b>- Volker Grassmuck</b>
+<b>- Jeff Bezos</b>
 </blockquote>
 </p>
 
