@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never find fault with the absent."</i>
+<i>"Insanity is relative. It depends on who has who locked in what cage.  "</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
