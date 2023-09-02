@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you live to be a hundred, I want to live to be a hundred minus one day, so I never have to live without you."</i>
+<i>"It is dangerous to be right in matters on which the established authorities are wrong."</i>
 <br>
-<b>- A. A. Milne</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
