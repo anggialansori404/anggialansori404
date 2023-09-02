@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot be lonely if you like the person you're alone with."</i>
+<i>"Sadness flies away on the wings of time."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Jean de La Fontaine</b>
 </blockquote>
 </p>
 
