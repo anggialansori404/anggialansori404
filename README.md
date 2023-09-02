@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are two kinds of failures: those who thought and never did, and those who did and never thought."</i>
+<i>"The poor man is not he who is without a cent, but he who is without a dream."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Harry Kemp</b>
 </blockquote>
 </p>
 
