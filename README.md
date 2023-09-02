@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The poor man is not he who is without a cent, but he who is without a dream."</i>
+<i>"Is it really possible to tell someone else what one feels?"</i>
 <br>
-<b>- Harry Kemp</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
