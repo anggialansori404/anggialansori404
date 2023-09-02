@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Faults are yours to fix, not to curse."</i>
+<i>"You cannot be lonely if you like the person you're alone with."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
