@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us."</i>
+<i>"If I were two-faced, would I be wearing this one?"</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
