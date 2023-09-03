@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can do no great things, only small things with great love."</i>
+<i>"Convinced myself, I seek not to convince."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
