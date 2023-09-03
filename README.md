@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great ones are willing to get burned time and again as they sharpen their swords in the fire."</i>
+<i>"Marriage is the highest state of friendship. If happy, it lessens our cares by dividing them, at the same time that it doubles our pleasures by mutual participation."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Samuel Richardson</b>
 </blockquote>
 </p>
 
