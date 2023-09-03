@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The essence of true friendship is to make allowance for another's little lapses."</i>
+<i>"When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us."</i>
 <br>
-<b>- Ovid</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
