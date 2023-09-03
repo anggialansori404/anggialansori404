@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No person is your friend who demands your silence or denies your right to grow."</i>
+<i>"Where there is no struggle, there is no strength. "</i>
 <br>
-<b>- Alice Walker</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
