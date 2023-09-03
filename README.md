@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I were two-faced, would I be wearing this one?"</i>
+<i>"Doing the best at this moment puts you in the best place for the next moment."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
