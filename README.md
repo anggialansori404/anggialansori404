@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One must be deeply aware of the impermanence of the world."</i>
+<i>"No person is your friend who demands your silence or denies your right to grow."</i>
 <br>
-<b>- Dogen</b>
+<b>- Alice Walker</b>
 </blockquote>
 </p>
 
