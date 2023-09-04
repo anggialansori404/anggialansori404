@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it."</i>
+<i>"Should a person do good, let him do it again and again. Let him find pleasure therein, for blissful is the accumulation of good."</i>
 <br>
-<b>- Rumi</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
