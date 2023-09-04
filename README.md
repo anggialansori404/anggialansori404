@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Should a person do good, let him do it again and again. Let him find pleasure therein, for blissful is the accumulation of good."</i>
+<i>"Your only obligation in any lifetime is to be true to yourself."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
