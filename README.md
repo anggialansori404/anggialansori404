@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant."</i>
+<i>"If you have knowledge, let others light their candles in it."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Margaret Fuller</b>
 </blockquote>
 </p>
 
