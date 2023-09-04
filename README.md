@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Real magic in relationships means an absence of judgement of others."</i>
+<i>"With pride, there are many curses. With humility, there come many blessings."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Ezra Taft Benson</b>
 </blockquote>
 </p>
 
