@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"None knows the weight of another's burden."</i>
+<i>"I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on man unless they act."</i>
 <br>
-<b>- George Herbert</b>
+<b>- G. K. Chesterton</b>
 </blockquote>
 </p>
 
