@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you have knowledge, let others light their candles in it."</i>
+<i>"Be your own hero, it's cheaper than a movie ticket."</i>
 <br>
-<b>- Margaret Fuller</b>
+<b>- Doug Horton</b>
 </blockquote>
 </p>
 
