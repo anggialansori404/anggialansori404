@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be wrong is nothing unless you continue to remember it."</i>
+<i>"If you want to kill any idea in the world, get a committee working on it."</i>
 <br>
-<b>- Confucius</b>
+<b>- Charles F. Kettering</b>
 </blockquote>
 </p>
 
