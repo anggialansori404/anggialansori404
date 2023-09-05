@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who wishes to secure the good of others, has already secured his own."</i>
+<i>"Our doubts are traitors and make us lose the good we often might win, by fearing to attempt."</i>
 <br>
-<b>- Confucius</b>
+<b>- Jane Addams</b>
 </blockquote>
 </p>
 
