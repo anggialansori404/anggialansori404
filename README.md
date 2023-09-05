@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our doubts are traitors and make us lose the good we often might win, by fearing to attempt."</i>
+<i>"To be wrong is nothing unless you continue to remember it."</i>
 <br>
-<b>- Jane Addams</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
