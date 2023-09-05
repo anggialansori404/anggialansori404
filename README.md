@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If there is no struggle, there is no progress."</i>
+<i>"All the world is a stage, And all the men and women merely players. They have their exits and entrances; Each man in his time plays many parts."</i>
 <br>
-<b>- Frederick Douglass</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
