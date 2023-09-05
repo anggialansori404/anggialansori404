@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All the world is a stage, And all the men and women merely players. They have their exits and entrances; Each man in his time plays many parts."</i>
+<i>"Always try to be a little kinder than necessary."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
