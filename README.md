@@ -28,7 +28,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It does not matter how slowly you go so long as you do not stop."</i>
+<i>"He who wishes to secure the good of others, has already secured his own."</i>
 <br>
 <b>- Confucius</b>
 </blockquote>
