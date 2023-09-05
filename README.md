@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always try to be a little kinder than necessary."</i>
+<i>"Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!"</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Charlotte Perkins Gilman</b>
 </blockquote>
 </p>
 
