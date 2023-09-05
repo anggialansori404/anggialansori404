@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!"</i>
+<i>"A man cannot be said to succeed in this life who does not satisfy one friend."</i>
 <br>
-<b>- Charlotte Perkins Gilman</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
