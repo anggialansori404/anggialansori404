@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Begin at once to live and count each separate day as a separate life."</i>
+<i>"If there is no struggle, there is no progress."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Frederick Douglass</b>
 </blockquote>
 </p>
 
