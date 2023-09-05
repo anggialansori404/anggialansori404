@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to kill any idea in the world, get a committee working on it."</i>
+<i>"A diamond is a piece of charcoal that handled stress exceptionally well."</i>
 <br>
-<b>- Charles F. Kettering</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
