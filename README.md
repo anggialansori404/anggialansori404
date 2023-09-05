@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A diamond is a piece of charcoal that handled stress exceptionally well."</i>
+<i>"Begin at once to live and count each separate day as a separate life."</i>
 <br>
-<b>- Unknown</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
