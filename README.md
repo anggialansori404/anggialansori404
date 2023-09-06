@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man cannot be said to succeed in this life who does not satisfy one friend."</i>
+<i>"It is in the heart that makes a man rich. He is rich according to what he is, not according to what he has."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
