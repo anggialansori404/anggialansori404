@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For all evils there are two remedies - time and silence."</i>
+<i>"Numberless are the worlds wonders, but none more wonderful than man."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Sophocles</b>
 </blockquote>
 </p>
 
