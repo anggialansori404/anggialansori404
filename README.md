@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is too important to be taken seriously."</i>
+<i>"Friendship multiplies the good of life and divides the evil."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Baltasar Gracián</b>
 </blockquote>
 </p>
 
