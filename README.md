@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ignorance never settles a question."</i>
+<i>"The thing that is disliked by me is also disliked by others. Since I dislike this thing, how can I inflict it on someone else?"</i>
 <br>
-<b>- Benjamin Disraeli</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
