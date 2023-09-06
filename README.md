@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Who looks outside, dreams; who looks inside, awakes."</i>
+<i>"You are the only person on earth who can use your ability."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
