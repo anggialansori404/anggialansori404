@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship multiplies the good of life and divides the evil."</i>
+<i>"I don't walk away from things that I think are unfinished."</i>
 <br>
-<b>- Baltasar Gracián</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
