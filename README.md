@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments."</i>
+<i>"Nothing great was ever achieved without enthusiasm."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
