@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not in the stars to hold our destiny but in ourselves."</i>
+<i>"Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
