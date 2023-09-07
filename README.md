@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If it turns out that there is a God, I don't think that he's evil. But the worst that you can say about him is that basically he's an underachiever."</i>
+<i>"Words, once they are printed, have a life of their own."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
