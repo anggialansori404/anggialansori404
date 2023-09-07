@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we open a quarrel between past and present, we shall find that we have lost the future."</i>
+<i>"When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
