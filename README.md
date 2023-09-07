@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Today I begin a new life. I will greet this day with love in my heart."</i>
+<i>"It is not in the stars to hold our destiny but in ourselves."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
