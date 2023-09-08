@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is a wisdom of the head, and there is a wisdom of the heart."</i>
+<i>"In all chaos there is a cosmos, in all disorder a secret order."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
