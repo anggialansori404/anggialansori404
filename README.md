@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything is possible. The impossible just takes longer."</i>
+<i>"It's just a bad day, not a bad life."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
