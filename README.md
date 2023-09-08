@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's just a bad day, not a bad life."</i>
+<i>"Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
