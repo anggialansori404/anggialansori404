@@ -28,7 +28,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge rests not upon truth alone, but upon error also."</i>
+<i>"Your vision will become clear only when you can look into your own heart. Who looks outside, dreams, who looks inside, awakes."</i>
 <br>
 <b>- Carl Jung</b>
 </blockquote>
