@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never take your position for granted and never let any favors you receive go to your head."</i>
+<i>"The rule of friendship means there should be mutual sympathy between them, each supplying what the other lacks and trying to benefit the other, always using friendly and sincere words."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Cicero</b>
 </blockquote>
 </p>
 
