@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only do what your heart tells you."</i>
+<i>"If there's a definition of freedom, I think it's this: living life on your terms."</i>
 <br>
-<b>- Princess Diana</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
