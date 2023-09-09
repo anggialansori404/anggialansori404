@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the only force capable of transforming an enemy into a friend."</i>
+<i>"There are two primary choices in life: to accept conditions as they exist or accept responsibility for changing them."</i>
 <br>
-<b>- Martin Luther King Jr.</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
