@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are two primary choices in life: to accept conditions as they exist or accept responsibility for changing them."</i>
+<i>"Friendship is but another name for an alliance with the follies and the misfortunes of others. Our own share of miseries is sufficient: why enter then as volunteers into those of another?"</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
