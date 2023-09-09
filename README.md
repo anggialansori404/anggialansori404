@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The fear of death is more to be feared, than death itself."</i>
+<i>"Baseball is the only field of endeavor where a man can succeed three times out of ten and be considered a good performer."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Ted Williams</b>
 </blockquote>
 </p>
 
