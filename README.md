@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no greatness where there is not simplicity, goodness, and truth."</i>
+<i>"Normality is a paved road: It's comfortable to walk, but no flowers grow on it."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
