@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Children are our greatest natural resource."</i>
+<i>"You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
