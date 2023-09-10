@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of success is constancy to purpose."</i>
+<i>"Nature gave us one tongue and two ears so we could hear twice as much as we speak."</i>
 <br>
-<b>- Benjamin Disraeli</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
