@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only true wisdom is in knowing you know nothing."</i>
+<i>"Children are our greatest natural resource."</i>
 <br>
-<b>- Isocrates</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
