@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing."</i>
+<i>"Our shared values define us more than our differences. And acknowledging those shared values can see us through our challenges today if we have the wisdom to trust in them again."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- John McCain</b>
 </blockquote>
 </p>
 
