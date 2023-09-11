@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is the living power and prime agent of all human perception."</i>
+<i>"Ask no questions, and you'll be told no lies."</i>
 <br>
-<b>- Samuel Taylor Coleridge</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
