@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be approximately right rather than exactly wrong."</i>
+<i>"There is nothing like looking if you want to find something."</i>
 <br>
-<b>- John Tukey</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
