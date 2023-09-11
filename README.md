@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The idea of ourselves is our escape from the fact of what we really are."</i>
+<i>"I will not be concerned at other men's not knowing me; I will be concerned at my own want of ability."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
