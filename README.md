@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I will not be concerned at other men's not knowing me; I will be concerned at my own want of ability."</i>
+<i>"She who loves roses must be patient and not cry out when she is pierced by thorns."</i>
 <br>
-<b>- Confucius</b>
+<b>- Kenji Miyazawa</b>
 </blockquote>
 </p>
 
