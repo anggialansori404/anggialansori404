@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nature gave us one tongue and two ears so we could hear twice as much as we speak."</i>
+<i>"I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
