@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An ant on the move does more than a dozing ox"</i>
+<i>"Be approximately right rather than exactly wrong."</i>
 <br>
-<b>- Laozi</b>
+<b>- John Tukey</b>
 </blockquote>
 </p>
 
