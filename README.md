@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Study the past, if you would divine the future."</i>
+<i>"Once you choose hope, anything's possible."</i>
 <br>
-<b>- Confucius</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
