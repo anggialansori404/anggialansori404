@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ego wants to go fast. The soul needs to go slow."</i>
+<i>"Love and compassion open our own inner life, reducing stress, distrust and loneliness."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
