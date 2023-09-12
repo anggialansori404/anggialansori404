@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Once you choose hope, anything's possible."</i>
+<i>"Being entirely honest with oneself is a good exercise."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
