@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One day, in retrospect, the years of struggle will strike you as the most beautiful."</i>
+<i>"Study the past, if you would divine the future."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
