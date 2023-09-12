@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being entirely honest with oneself is a good exercise."</i>
+<i>"To command is to serve, nothing more and nothing less."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- André Malraux</b>
 </blockquote>
 </p>
 
