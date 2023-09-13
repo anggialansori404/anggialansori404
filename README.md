@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be brave enough to suck at something new."</i>
+<i>"Friendship, like the immortality of the soul, is too good to be believed."</i>
 <br>
-<b>- Unknown</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
