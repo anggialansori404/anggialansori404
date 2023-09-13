@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Goodness is the only investment that never fails."</i>
+<i>"We're responsible for everything that happens to us."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
