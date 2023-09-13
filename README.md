@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a travelling to the edge of knowledge, then a leap taken."</i>
+<i>"Short words are best and the old words when short are best of all."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
