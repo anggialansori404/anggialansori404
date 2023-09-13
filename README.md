@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot find yourself by going into the past. You can find yourself by coming into the present."</i>
+<i>"Two of man's basic needs are to love and to share. Both of these needs are satisfied in greater or lesser degree by friendship."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Mother Angelica</b>
 </blockquote>
 </p>
 
