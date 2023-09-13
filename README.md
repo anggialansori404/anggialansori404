@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pain passes, but the beauty remains."</i>
+<i>"Be brave enough to suck at something new."</i>
 <br>
-<b>- Pierre-Auguste Renoir</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
