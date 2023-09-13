@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wherever you go, go with all your heart."</i>
+<i>"The pain passes, but the beauty remains."</i>
 <br>
-<b>- Confucius</b>
+<b>- Pierre-Auguste Renoir</b>
 </blockquote>
 </p>
 
