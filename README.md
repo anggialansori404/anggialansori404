@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We're responsible for everything that happens to us."</i>
+<i>"Men do not attract which they want but that which they are."</i>
 <br>
-<b>- Yanni</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
