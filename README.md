@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People don't notice whether it's winter or summer when they're happy."</i>
+<i>"Life is a travelling to the edge of knowledge, then a leap taken."</i>
 <br>
-<b>- Anton Chekhov</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
