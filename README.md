@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men do not attract which they want but that which they are."</i>
+<i>"You cannot find yourself by going into the past. You can find yourself by coming into the present."</i>
 <br>
-<b>- James Allen</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
