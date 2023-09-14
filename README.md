@@ -28,7 +28,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's only when the tide goes out that you discover who's been swimming naked."</i>
+<i>"Most people get interested in stocks when everyone else is. The time to get interested is when no one else is. You can't buy what is popular and do well."</i>
 <br>
 <b>- Warren Buffett</b>
 </blockquote>
