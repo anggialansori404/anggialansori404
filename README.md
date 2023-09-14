@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Short words are best and the old words when short are best of all."</i>
+<i>"To be great is to be misunderstood."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
