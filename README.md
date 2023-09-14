@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be not angry that you cannot make others as you wish them to be, since you cannot make yourself as you wish to be."</i>
+<i>"An intelligent person hires people who are more intelligent than he is."</i>
 <br>
-<b>- Thomas à Kempis</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
