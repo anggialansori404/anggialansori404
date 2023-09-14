@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man is not sum of what he has already, but rather the sum of what he does not yet have, of what he could have."</i>
+<i>"The person born with a talent they are meant to use will find their greatest happiness in using it."</i>
 <br>
-<b>- Jean-Paul Sartre</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
