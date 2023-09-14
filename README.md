@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your vision will become clear only when you can look into your own heart. Who looks outside, dreams, who looks inside, awakes."</i>
+<i>"A loving heart is the truest wisdom."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
