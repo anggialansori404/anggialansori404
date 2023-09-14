@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"With the new day comes new strength and new thoughts."</i>
+<i>"It's only when the tide goes out that you discover who's been swimming naked."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Warren Buffett</b>
 </blockquote>
 </p>
 
