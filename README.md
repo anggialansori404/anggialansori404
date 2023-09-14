@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people get interested in stocks when everyone else is. The time to get interested is when no one else is. You can't buy what is popular and do well."</i>
+<i>"Man is not sum of what he has already, but rather the sum of what he does not yet have, of what he could have."</i>
 <br>
-<b>- Warren Buffett</b>
+<b>- Jean-Paul Sartre</b>
 </blockquote>
 </p>
 
