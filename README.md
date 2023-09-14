@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The person born with a talent they are meant to use will find their greatest happiness in using it."</i>
+<i>"Each misfortune you encounter will carry in it the seed of tomorrows good luck."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
