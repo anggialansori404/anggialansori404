@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An intelligent person hires people who are more intelligent than he is."</i>
+<i>"Your vision will become clear only when you can look into your own heart. Who looks outside, dreams, who looks inside, awakes."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
