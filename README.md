@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world."</i>
+<i>"I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain."</i>
 <br>
-<b>- Robert Louis Stevenson</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
