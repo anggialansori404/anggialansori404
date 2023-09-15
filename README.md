@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no ordinary moments."</i>
+<i>"Make failure your teacher, not your undertaker.  "</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
