@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is in the darkness that one finds the light."</i>
+<i>"There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Robert Louis Stevenson</b>
 </blockquote>
 </p>
 
