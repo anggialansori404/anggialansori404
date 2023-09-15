@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"More often than not, anger is actually an indication of weakness rather than of strength."</i>
+<i>"There can be no deep disappointment where there is not deep love."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
