@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There can be no deep disappointment where there is not deep love."</i>
+<i>"Every poem should remind the reader that they are going to die."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
