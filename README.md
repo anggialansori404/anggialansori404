@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are stuck with technology when what we really want is just stuff that works."</i>
+<i>"More often than not, anger is actually an indication of weakness rather than of strength."</i>
 <br>
-<b>- Douglas Adams</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
