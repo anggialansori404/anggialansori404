@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A mind unruffled by the vagaries of fortune, from sorrow freed, from defilements cleansed, from fear liberated — this is the greatest blessing."</i>
+<i>"The key to success is action."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
