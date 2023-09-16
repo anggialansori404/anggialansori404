@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live simply, expect little, give much."</i>
+<i>"It is hard to fail, but it is worse never to have tried to succeed."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
