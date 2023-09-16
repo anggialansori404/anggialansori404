@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must cultivate our garden. "</i>
+<i>"Your sacred space is where you can find yourself again and again."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Joseph Campbell</b>
 </blockquote>
 </p>
 
