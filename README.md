@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We suffer more often in imagination than in reality.  "</i>
+<i>"Everything comes to him who hustles while he waits."</i>
 <br>
-<b>- Seneca</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
