@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything comes to him who hustles while he waits."</i>
+<i>"We must cultivate our garden. "</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
