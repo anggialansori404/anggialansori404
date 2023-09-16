@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not change direction, you may end up where you are heading."</i>
+<i>"Live simply, expect little, give much."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
