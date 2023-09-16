@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world has the habit of making room for the man whose actions show that he knows where he is going."</i>
+<i>"A mind unruffled by the vagaries of fortune, from sorrow freed, from defilements cleansed, from fear liberated — this is the greatest blessing."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
