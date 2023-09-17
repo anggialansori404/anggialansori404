@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Information changes your mind. Action changes your circumstances."</i>
+<i>"Common sense is not so common. "</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
