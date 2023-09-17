@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good actions give strength to ourselves and inspire good actions in others."</i>
+<i>"The best thing in every noble dream is the dreamer..."</i>
 <br>
-<b>- Plato</b>
+<b>- Moncure D. Conway</b>
 </blockquote>
 </p>
 
