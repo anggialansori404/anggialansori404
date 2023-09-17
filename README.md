@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled."</i>
+<i>"Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside, awakens."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
