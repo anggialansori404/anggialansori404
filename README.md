@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All serious daring starts from within."</i>
+<i>"Good actions give strength to ourselves and inspire good actions in others."</i>
 <br>
-<b>- Harriet Beecher Stowe</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
