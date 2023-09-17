@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside, awakens."</i>
+<i>"Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
