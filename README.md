@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid to go out on a limb. That's where the fruit is."</i>
+<i>"It is easy to discover what another has discovered before."</i>
 <br>
-<b>- H. Jackson Brown Jr.</b>
+<b>- Christopher Columbus</b>
 </blockquote>
 </p>
 
