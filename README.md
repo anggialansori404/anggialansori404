@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them."</i>
+<i>"Don't be afraid to go out on a limb. That's where the fruit is."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- H. Jackson Brown Jr.</b>
 </blockquote>
 </p>
 
