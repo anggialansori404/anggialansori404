@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is easy to discover what another has discovered before."</i>
+<i>"Information changes your mind. Action changes your circumstances."</i>
 <br>
-<b>- Christopher Columbus</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
