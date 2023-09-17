@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The key to success is action."</i>
+<i>"Do one thing every day that scares you."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
