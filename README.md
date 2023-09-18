@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I try more and more to be myself, caring relatively little whether people approve or disapprove."</i>
+<i>"All human wisdom is contained in these two words - Wait and Hope"</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
