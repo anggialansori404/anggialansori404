@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world is round and the place which may seem like the end may also be the beginning."</i>
+<i>"Go put your creed into the deed. Nor speak with double tongue."</i>
 <br>
-<b>- Ivy Baker Priest</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
