@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go put your creed into the deed. Nor speak with double tongue."</i>
+<i>"You don't play against opponents, you play against the game of basketball."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Bob Knight</b>
 </blockquote>
 </p>
 
