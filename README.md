@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't play against opponents, you play against the game of basketball."</i>
+<i>"Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish."</i>
 <br>
-<b>- Bob Knight</b>
+<b>- John Adams</b>
 </blockquote>
 </p>
 
