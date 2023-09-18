@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best thing in every noble dream is the dreamer..."</i>
+<i>"The goal is not to show how great you are to others, but how vulnerable you are to yourself."</i>
 <br>
-<b>- Moncure D. Conway</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
