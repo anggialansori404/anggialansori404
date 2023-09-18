@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All human wisdom is contained in these two words - Wait and Hope"</i>
+<i>"The world is round and the place which may seem like the end may also be the beginning."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Ivy Baker Priest</b>
 </blockquote>
 </p>
 
