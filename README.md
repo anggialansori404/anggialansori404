@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"20 percent of your activities will account for 80 percent of your results."</i>
+<i>"You drown not by falling into a river, but by staying submerged in it."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
