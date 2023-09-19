@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you cannot understand something, then you have understood it incorrectly."</i>
+<i>"I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence."</i>
 <br>
-<b>- Kabir</b>
+<b>- Frederick Douglass</b>
 </blockquote>
 </p>
 
