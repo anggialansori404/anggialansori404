@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A really great talent finds its happiness in execution."</i>
+<i>"The temptation to give up is strongest just before victory."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
