@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Normality is a paved road: It's comfortable to walk, but no flowers grow on it."</i>
+<i>"You may be one person in this world, but to one person you may mean the world."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
