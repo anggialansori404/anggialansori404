@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You may be one person in this world, but to one person you may mean the world."</i>
+<i>"20 percent of your activities will account for 80 percent of your results."</i>
 <br>
-<b>- Unknown</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
