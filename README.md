@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You drown not by falling into a river, but by staying submerged in it."</i>
+<i>"If you cannot understand something, then you have understood it incorrectly."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
