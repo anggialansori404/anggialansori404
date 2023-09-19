@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything in the universe goes by indirection. There are no straight lines."</i>
+<i>"None of us can change our yesterdays but all of us can change our tomorrows."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
