@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The impossible can always be broken down into possibilities."</i>
+<i>"A really great talent finds its happiness in execution."</i>
 <br>
-<b>- Unknown</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
