@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far."</i>
+<i>"Genuine sincerity opens people's hearts, while manipulation causes them to close."</i>
 <br>
-<b>- Swami Vivekananda</b>
+<b>- Daisaku Ikeda</b>
 </blockquote>
 </p>
 
