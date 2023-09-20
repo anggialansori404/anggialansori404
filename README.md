@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest challenge after success is shutting up about it."</i>
+<i>"When deeds and words are in accord, the whole world is transformed."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Zhuang Zhou</b>
 </blockquote>
 </p>
 
