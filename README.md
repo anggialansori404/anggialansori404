@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make peace within, and there will be no one who can overcome you. And no one you will wish to overcome."</i>
+<i>"Winning isn't everything, but wanting to win is."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
