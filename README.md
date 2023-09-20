@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The very essence of instinct is that it's followed independently of reason."</i>
+<i>"Man must use what he has, not hope for what is not."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- G.I. Gurdjieff</b>
 </blockquote>
 </p>
 
