@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself."</i>
+<i>"Nature takes away any faculty that is not used."</i>
 <br>
-<b>- Confucius</b>
+<b>- William Inge</b>
 </blockquote>
 </p>
 
