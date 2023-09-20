@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Genuine sincerity opens people's hearts, while manipulation causes them to close."</i>
+<i>"The biggest challenge after success is shutting up about it."</i>
 <br>
-<b>- Daisaku Ikeda</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
