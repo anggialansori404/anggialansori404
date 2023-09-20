@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man must use what he has, not hope for what is not."</i>
+<i>"Make peace within, and there will be no one who can overcome you. And no one you will wish to overcome."</i>
 <br>
-<b>- G.I. Gurdjieff</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
