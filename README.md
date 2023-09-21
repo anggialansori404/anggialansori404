@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not worry about your difficulties in Mathematics. I can assure you mine are still greater."</i>
+<i>"Confidence is contagious. So is lack of confidence."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
