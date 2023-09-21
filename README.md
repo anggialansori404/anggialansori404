@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is contagious. So is lack of confidence."</i>
+<i>"There is no retirement for an artist, it's your way of living so there is no end to it."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Henry Moore</b>
 </blockquote>
 </p>
 
