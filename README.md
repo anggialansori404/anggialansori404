@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no retirement for an artist, it's your way of living so there is no end to it."</i>
+<i>"A wise person should have money in their head, but not in their heart."</i>
 <br>
-<b>- Henry Moore</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
