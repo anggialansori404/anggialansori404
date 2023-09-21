@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Memory is the mother of all wisdom."</i>
+<i>"Irrigators channel waters; fletchers straighten arrows; carpenters bend wood; the wise master themselves."</i>
 <br>
-<b>- Samuel Johnson</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
