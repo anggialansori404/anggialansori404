@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He that respects himself is safe from others; he wears a coat of mail that none can pierce."</i>
+<i>"Sometimes being a friend means mastering the art of timing. There is a time for silence. A time to let go and allow people to hurl themselves into their own destiny. And a time to prepare to pick up the pieces when it's all over."</i>
 <br>
-<b>- Henry Wadsworth Longfellow</b>
+<b>- Octavia E. Butler</b>
 </blockquote>
 </p>
 
