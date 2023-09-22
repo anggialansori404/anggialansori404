@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A wise person should have money in their head, but not in their heart."</i>
+<i>"We are like islands in the sea, separate on the surface but connected in the deep."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
