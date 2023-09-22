@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never stand begging for that which you have the power to earn."</i>
+<i>"Heedfulness is the path to the Deathless. Heedlessness is the path to death. The heedful die not. The heedless are as if already dead."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
