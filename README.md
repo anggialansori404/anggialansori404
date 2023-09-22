@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never deny a diagnosis but do deny the negative verdict that may go with it."</i>
+<i>"He that respects himself is safe from others; he wears a coat of mail that none can pierce."</i>
 <br>
-<b>- Norman Cousins</b>
+<b>- Henry Wadsworth Longfellow</b>
 </blockquote>
 </p>
 
