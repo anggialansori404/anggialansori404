@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Try not to become a man of success, but rather try to become a man of value."</i>
+<i>"Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
