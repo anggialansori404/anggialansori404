@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing."</i>
+<i>"When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
