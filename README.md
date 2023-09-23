@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is in your moments of decision that your destiny is shaped."</i>
+<i>"Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
