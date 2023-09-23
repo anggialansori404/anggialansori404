@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps."</i>
+<i>"Bad times have a scientific value. These are occasions a good learner would not miss."</i>
 <br>
-<b>- Confucius</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
