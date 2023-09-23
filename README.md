@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Bad times have a scientific value. These are occasions a good learner would not miss."</i>
+<i>"Great ones are willing to get burned time and again as they sharpen their swords in the fire."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
