@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail."</i>
+<i>"Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
