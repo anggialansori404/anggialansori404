@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure will never overtake me if my determination to succeed is strong enough."</i>
+<i>"It's so simple to be wise. Just think of something stupid to say and then don't say it."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Sam Levenson</b>
 </blockquote>
 </p>
 
