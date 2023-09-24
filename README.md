@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust your own instinct. Your mistakes might as well be your own, instead of someone else's."</i>
+<i>"Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance."</i>
 <br>
-<b>- Billy Wilder</b>
+<b>- Thomas Carlyle</b>
 </blockquote>
 </p>
 
