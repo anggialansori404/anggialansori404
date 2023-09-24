@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are going to achieve excellence in big things, you develop the habit in little matters. Excellence is not an exception; it is a prevailing attitude."</i>
+<i>"God has given you one face, and you make yourself another."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
