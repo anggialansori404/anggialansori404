@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself."</i>
+<i>"All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason."</i>
 <br>
-<b>- Henry Reed</b>
+<b>- Immanuel Kant</b>
 </blockquote>
 </p>
 
