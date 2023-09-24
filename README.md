@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone telling you it's pointless to share your perspective is sharing their perspective."</i>
+<i>"Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Henry Reed</b>
 </blockquote>
 </p>
 
