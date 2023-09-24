@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason."</i>
+<i>"Loving thoughts and actions are clearly beneficial for our physical and mental health."</i>
 <br>
-<b>- Immanuel Kant</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
