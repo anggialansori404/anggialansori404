@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"God has given you one face, and you make yourself another."</i>
+<i>"Trust your own instinct. Your mistakes might as well be your own, instead of someone else's."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- Billy Wilder</b>
 </blockquote>
 </p>
 
