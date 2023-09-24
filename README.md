@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truth is not for all men, but only for those who seek it."</i>
+<i>"If you are going to achieve excellence in big things, you develop the habit in little matters. Excellence is not an exception; it is a prevailing attitude."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
