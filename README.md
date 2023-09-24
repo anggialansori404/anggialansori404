@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Loving thoughts and actions are clearly beneficial for our physical and mental health."</i>
+<i>"Fans don't boo nobodies."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Reggie Jackson (basketball, born 1990)</b>
 </blockquote>
 </p>
 
