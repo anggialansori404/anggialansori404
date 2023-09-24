@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance."</i>
+<i>"Never make friends with people who are above or below you in status. Such friendships will never give you any happiness."</i>
 <br>
-<b>- Thomas Carlyle</b>
+<b>- Chanakya</b>
 </blockquote>
 </p>
 
