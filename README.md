@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never make friends with people who are above or below you in status. Such friendships will never give you any happiness."</i>
+<i>"Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge."</i>
 <br>
-<b>- Chanakya</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
