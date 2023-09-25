@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quality is not an act; it is a habit."</i>
+<i>"Start where you are. Use what you have. Do what you can."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Arthur Ashe</b>
 </blockquote>
 </p>
 
