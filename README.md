@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your talent is God's gift to you. What you do with it is your gift back to God."</i>
+<i>"It is far easier to start something than it is to finish it."</i>
 <br>
-<b>- Leo Buscaglia</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
