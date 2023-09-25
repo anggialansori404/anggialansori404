@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be the chief but never the lord."</i>
+<i>"Quality is not an act; it is a habit."</i>
 <br>
-<b>- Laozi</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
