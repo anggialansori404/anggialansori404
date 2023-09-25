@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hell, there are no rules here-- we're trying to accomplish something."</i>
+<i>"The greatest achievement of humanity is not its works of art, science, or technology, but the recognition of its own dysfunction."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
