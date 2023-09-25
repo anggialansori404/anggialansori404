@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Start where you are. Use what you have. Do what you can."</i>
+<i>"The only thing worse than being blind is having sight but no vision."</i>
 <br>
-<b>- Arthur Ashe</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
