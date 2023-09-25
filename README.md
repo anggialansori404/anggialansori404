@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In spite of everything, I shall rise again."</i>
+<i>"Be the chief but never the lord."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
