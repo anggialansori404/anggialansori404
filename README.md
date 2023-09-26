@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're brave enough to say goodbye, life will reward you with a new hello."</i>
+<i>"If you done it, it ain't bragging."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
