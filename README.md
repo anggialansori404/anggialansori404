@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let your learning lead to knowledge. Let your learning lead to action."</i>
+<i>"Friendship is an arrangement by which we undertake to exchange small favors for big ones."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Montesquieu</b>
 </blockquote>
 </p>
 
