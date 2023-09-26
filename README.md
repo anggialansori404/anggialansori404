@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is an arrangement by which we undertake to exchange small favors for big ones."</i>
+<i>"Not how long, but how well you have lived is the main thing."</i>
 <br>
-<b>- Montesquieu</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
