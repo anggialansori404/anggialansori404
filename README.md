@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not what happens to you, but how you react to it that matters."</i>
+<i>"Focus on how far you have come in life rather than looking at the accomplishments of others."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
