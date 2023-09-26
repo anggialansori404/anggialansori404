@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success."</i>
+<i>"And when the world is created, it is created in such a way that those eternal objects of God's loving wisdom become actualities - interacting with one another, relating to God in the finite realm."</i>
 <br>
-<b>- John Locke</b>
+<b>- Rowan Williams</b>
 </blockquote>
 </p>
 
