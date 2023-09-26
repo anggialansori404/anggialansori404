@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men are disturbed not by things, but by the view which they take of them."</i>
+<i>"If you're brave enough to say goodbye, life will reward you with a new hello."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
