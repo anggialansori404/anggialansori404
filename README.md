@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't have anything worthwhile without difficulties."</i>
+<i>"If you surrender to the wind, you can ride it."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Toni Morrison</b>
 </blockquote>
 </p>
 
