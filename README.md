@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never put off to tomorrow what you can do to-day."</i>
+<i>"Life is either a daring adventure, or nothing."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
