@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is either a daring adventure, or nothing."</i>
+<i>"Never give up work. Work gives you meaning and purpose and life is empty without it."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
