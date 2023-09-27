@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you."</i>
+<i>"Never interrupt your enemy when he is making a mistake."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Napoleon</b>
 </blockquote>
 </p>
 
