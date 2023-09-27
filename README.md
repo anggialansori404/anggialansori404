@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Experience keeps a dear school, but fools will learn in no other."</i>
+<i>"The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Walter Benjamin</b>
 </blockquote>
 </p>
 
