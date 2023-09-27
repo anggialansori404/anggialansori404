@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out."</i>
+<i>"The cause is hidden. The effect is visible to all."</i>
 <br>
-<b>- Walter Benjamin</b>
+<b>- Ovid</b>
 </blockquote>
 </p>
 
