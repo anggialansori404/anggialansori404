@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The cause is hidden. The effect is visible to all."</i>
+<i>"Never argue with stupid people, they will drag you down to their level and then beat you with experience."</i>
 <br>
-<b>- Ovid</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
