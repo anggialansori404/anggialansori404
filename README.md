@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never argue with stupid people, they will drag you down to their level and then beat you with experience."</i>
+<i>"I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
