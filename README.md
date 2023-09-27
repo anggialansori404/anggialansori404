@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never give up work. Work gives you meaning and purpose and life is empty without it."</i>
+<i>"Experience keeps a dear school, but fools will learn in no other."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
