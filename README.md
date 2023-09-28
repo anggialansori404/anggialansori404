@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We meet ourselves time and again in a thousand disguises on the path of life."</i>
+<i>"Think as a wise man but communicate in the language of the people."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- William Butler Yeats</b>
 </blockquote>
 </p>
 
