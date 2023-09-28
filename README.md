@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness mainly comes from our own attitude, rather than from external factors."</i>
+<i>"The most important battle is one to conquer yourself."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
