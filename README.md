@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest."</i>
+<i>"The art challenges the technology, and the technology inspires the art."</i>
 <br>
-<b>- Sri Chinmoy</b>
+<b>- John Lasseter</b>
 </blockquote>
 </p>
 
