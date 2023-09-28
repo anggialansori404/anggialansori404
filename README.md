@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A friend may well be reckoned the masterpiece of nature."</i>
+<i>"We meet ourselves time and again in a thousand disguises on the path of life."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
