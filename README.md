@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Think as a wise man but communicate in the language of the people."</i>
+<i>"Happiness mainly comes from our own attitude, rather than from external factors."</i>
 <br>
-<b>- William Butler Yeats</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
