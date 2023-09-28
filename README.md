@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The art challenges the technology, and the technology inspires the art."</i>
+<i>"Don't look for meaning in the words. Listen to the silences."</i>
 <br>
-<b>- John Lasseter</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
