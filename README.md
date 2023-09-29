@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wake up and smile! Wake up and be grateful!"</i>
+<i>"The only real mistake is the one from which we learn nothing."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- John Powell</b>
 </blockquote>
 </p>
 
