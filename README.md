@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly."</i>
+<i>"Education breeds confidence. Confidence breeds hope. Hope breeds peace."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
