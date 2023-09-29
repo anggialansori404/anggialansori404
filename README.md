@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness resides not in possessions, and not in gold, happiness dwells in the soul."</i>
+<i>"Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more"</i>
 <br>
-<b>- Democritus</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
