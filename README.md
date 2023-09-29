@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I can't change the direction of the wind, but I can adjust my sails to always reach my destination."</i>
+<i>"A leader leads by example, not by force."</i>
 <br>
-<b>- Jimmy Dean</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
