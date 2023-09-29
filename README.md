@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more"</i>
+<i>"It's easier to resist at the beginning than at the end."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
