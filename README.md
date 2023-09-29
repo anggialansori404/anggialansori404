@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only real mistake is the one from which we learn nothing."</i>
+<i>"Happiness resides not in possessions, and not in gold, happiness dwells in the soul."</i>
 <br>
-<b>- John Powell</b>
+<b>- Democritus</b>
 </blockquote>
 </p>
 
