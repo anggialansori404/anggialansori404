@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let the future tell the truth and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine."</i>
+<i>"I can't change the direction of the wind, but I can adjust my sails to always reach my destination."</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- Jimmy Dean</b>
 </blockquote>
 </p>
 
