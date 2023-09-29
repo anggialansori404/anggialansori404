@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's easier to resist at the beginning than at the end."</i>
+<i>"The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Booker T. Washington</b>
 </blockquote>
 </p>
 
