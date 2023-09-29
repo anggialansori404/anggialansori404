@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts."</i>
+<i>"He who lives in harmony with himself lives in harmony with the universe."</i>
 <br>
-<b>- Booker T. Washington</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
