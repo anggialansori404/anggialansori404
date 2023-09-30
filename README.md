@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great acts are made up of small deeds."</i>
+<i>"The enemy is a very good teacher."</i>
 <br>
-<b>- Laozi</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
