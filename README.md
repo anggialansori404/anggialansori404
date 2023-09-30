@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no significance in life without struggle."</i>
+<i>"Be strong. Be confident. Be the star of your own life."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
