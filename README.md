@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Progress lies not in enhancing what is, but in advancing toward what will be."</i>
+<i>"We can only be said to be alive in those moments when our hearts are conscious of our treasures."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Thornton Wilder</b>
 </blockquote>
 </p>
 
