@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can only be said to be alive in those moments when our hearts are conscious of our treasures."</i>
+<i>"If the plan doesn't work, change the plan, but never the goal."</i>
 <br>
-<b>- Thornton Wilder</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
