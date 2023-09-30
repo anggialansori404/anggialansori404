@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It has been my experience that folks who have no vices have very few virtues."</i>
+<i>"Progress lies not in enhancing what is, but in advancing toward what will be."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
