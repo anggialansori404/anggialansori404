@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the absence of judgment."</i>
+<i>"Great acts are made up of small deeds."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
