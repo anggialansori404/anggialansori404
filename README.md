@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest good you can do for another is not just share your riches but reveal to them their own."</i>
+<i>"There is nothing in a caterpillar that tells you it's going to be a butterfly."</i>
 <br>
-<b>- Benjamin Disraeli</b>
+<b>- Buckminster Fuller</b>
 </blockquote>
 </p>
 
