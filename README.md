@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Resentment or grudges do no harm to the person against whom you hold these feelings but every day and every night of your life, they are eating at you."</i>
+<i>"If one does not know to which port is sailing, no wind is favorable."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
