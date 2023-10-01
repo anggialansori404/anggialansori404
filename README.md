@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even though you are on the right track - you will get run over if you just sit there."</i>
+<i>"A true friend is the most precious of all possessions and the one we take the least thought about acquiring."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- François de La Rochefoucauld</b>
 </blockquote>
 </p>
 
