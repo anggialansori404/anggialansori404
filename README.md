@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hold yourself responsible for a higher standard than anybody else expects of you."</i>
+<i>"Two of man's basic needs are to love and to share. Both of these needs are satisfied in greater or lesser degree by friendship."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Mother Angelica</b>
 </blockquote>
 </p>
 
