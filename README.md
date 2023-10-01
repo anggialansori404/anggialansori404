@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A true friend is the most precious of all possessions and the one we take the least thought about acquiring."</i>
+<i>"It is better to understand a little than to misunderstand a lot."</i>
 <br>
-<b>- François de La Rochefoucauld</b>
+<b>- Anatole France</b>
 </blockquote>
 </p>
 
