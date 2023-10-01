@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship at first sight, like love at first sight, is said to be the only truth."</i>
+<i>"Hold yourself responsible for a higher standard than anybody else expects of you."</i>
 <br>
-<b>- Herman Melville</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
