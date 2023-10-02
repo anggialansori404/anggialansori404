@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time you enjoy wasting, was not wasted."</i>
+<i>"Speak low, if you speak love."</i>
 <br>
-<b>- John Lennon</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
