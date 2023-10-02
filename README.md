@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How many cares one loses when one decides not to be something but to be someone."</i>
+<i>"The biggest adventure you can ever take is to live the life of your dreams. "</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
