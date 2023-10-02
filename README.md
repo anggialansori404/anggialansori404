@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're only given a little spark of madness. You mustn't lose it."</i>
+<i>"Don't explain your philosophy. Embody it."</i>
 <br>
-<b>- Robin Williams</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
