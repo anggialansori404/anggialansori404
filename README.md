@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The soul is neither born, and nor does it die."</i>
+<i>"How many cares one loses when one decides not to be something but to be someone."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
