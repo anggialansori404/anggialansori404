@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest adventure you can ever take is to live the life of your dreams. "</i>
+<i>"You're only given a little spark of madness. You mustn't lose it."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Robin Williams</b>
 </blockquote>
 </p>
 
