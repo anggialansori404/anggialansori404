@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Abundance of knowledge does not teach men to be wise."</i>
+<i>"Share your smile with the world. It's a symbol of friendship and peace."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Christie Brinkley</b>
 </blockquote>
 </p>
 
