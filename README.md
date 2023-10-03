@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Setting an example is not the main means of influencing another, it is the only means."</i>
+<i>"One of the advantages of being disorganized is that one is always having surprising discoveries."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- A.A. Milne</b>
 </blockquote>
 </p>
 
