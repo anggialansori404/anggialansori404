@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Chase your passion, not your pension. "</i>
+<i>"In order to be walked over, you have to be lying down."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
