@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"See the positive side, the potential, and make an effort."</i>
+<i>"There is nothing so useless as doing efficiently that which should not be done at all."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
