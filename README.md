@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We win by helping each other win."</i>
+<i>"Talent is luck. The important thing in life is courage."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
