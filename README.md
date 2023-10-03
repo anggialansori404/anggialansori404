@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world makes way for the man who knows where he is going."</i>
+<i>"Chase your passion, not your pension. "</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
