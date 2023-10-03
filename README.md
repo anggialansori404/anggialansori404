@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We're kept from our goal not by obstacles, but by a clear path to a lesser goal."</i>
+<i>"Quality is not an act; it is a habit."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
