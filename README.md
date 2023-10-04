@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Motivation gets you going and habit gets you there.  "</i>
+<i>"Life is like a sewer. What you get out of it depends on what you put into it."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Tom Lehrer</b>
 </blockquote>
 </p>
 
