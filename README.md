@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the advantages of being disorganized is that one is always having surprising discoveries."</i>
+<i>"Great indeed is the sublimity of the Creative, to which all beings owe their beginning, and which permeates all heaven."</i>
 <br>
-<b>- A.A. Milne</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
