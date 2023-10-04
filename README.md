@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is not the absence of fear, but simply moving on with dignity despite that fear."</i>
+<i>"As a water bead on a lotus leaf, as water on a red lily, does not adhere, so the sage does not adhere to the seen, the heard, or the sensed."</i>
 <br>
-<b>- Pat Riley</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
