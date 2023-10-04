@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In nature there is no alienation. Everything belongs."</i>
+<i>"In the business world, the rearview mirror is always clearer than the windshield."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Warren Buffett</b>
 </blockquote>
 </p>
 
