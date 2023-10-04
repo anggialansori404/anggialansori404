@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truth is rarely pure and never simple. "</i>
+<i>"Nature is a mutable cloud which is always and never the same."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
