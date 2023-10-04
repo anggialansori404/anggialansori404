@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nature is a mutable cloud which is always and never the same."</i>
+<i>"Work for something because it is good, not just because it stands a chance to succeed."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
