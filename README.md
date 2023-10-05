@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There will always be suffering. But we must not suffer over the suffering."</i>
+<i>"Would you rather live your life according to the approval of others or aligned with your truth and your dreams?"</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
