@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is not a talent of some men but is the health of every man."</i>
+<i>"There will always be suffering. But we must not suffer over the suffering."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
