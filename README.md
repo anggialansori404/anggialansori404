@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The businessman's tool is value."</i>
+<i>"The smallest act of kindness is worth more than the grandest intention."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
