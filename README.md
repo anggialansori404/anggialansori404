@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is one long process of getting tired."</i>
+<i>"Imagination is not a talent of some men but is the health of every man."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
