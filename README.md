@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The smallest act of kindness is worth more than the grandest intention."</i>
+<i>"Success is often achieved by those who don't know that failure is inevitable."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
