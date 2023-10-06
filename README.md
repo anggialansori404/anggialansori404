@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your setback is just a setup for a comeback."</i>
+<i>"A good decision is based on knowledge and not on numbers."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
