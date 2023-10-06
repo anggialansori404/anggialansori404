@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never let the fear of striking out keep you from playing the game."</i>
+<i>"Reality does not conform to the ideal but confirms it."</i>
 <br>
-<b>- Babe Ruth</b>
+<b>- Gustave Flaubert</b>
 </blockquote>
 </p>
 
