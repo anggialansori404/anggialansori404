@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reality does not conform to the ideal but confirms it."</i>
+<i>"The man who trusts men will make fewer mistakes than he who distrusts them."</i>
 <br>
-<b>- Gustave Flaubert</b>
+<b>- Camillo Benso, Count of Cavour</b>
 </blockquote>
 </p>
 
