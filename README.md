@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ego wants comfort and certainty. The soul wants to live fully."</i>
+<i>"Greatness lies not in being strong, but in the right use of strength."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
