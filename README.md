@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good decision is based on knowledge and not on numbers."</i>
+<i>"The fewer rules a coach has, the fewer rules there are for players to break."</i>
 <br>
-<b>- Plato</b>
+<b>- John Madden</b>
 </blockquote>
 </p>
 
