@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The noblest worship is to make yourself as good and as just as you can."</i>
+<i>"The essence of true friendship is to make allowance for another's little lapses."</i>
 <br>
-<b>- Isocrates</b>
+<b>- Ovid</b>
 </blockquote>
 </p>
 
