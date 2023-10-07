@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Manifest plainness, embrace simplicity, reduce selfishness, have few desires."</i>
+<i>"If you don't make things happen then things will happen to you."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
