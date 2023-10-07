@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let what you cannot do interfere with what you can do."</i>
+<i>"If there is no struggle, there is no progress."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Frederick Douglass</b>
 </blockquote>
 </p>
 
