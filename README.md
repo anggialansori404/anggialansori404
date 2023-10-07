@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To command is to serve, nothing more and nothing less."</i>
+<i>"I will not walk backward in life."</i>
 <br>
-<b>- André Malraux</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
