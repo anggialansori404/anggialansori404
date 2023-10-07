@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The fewer rules a coach has, the fewer rules there are for players to break."</i>
+<i>"Love demands infinitely less than friendship."</i>
 <br>
-<b>- John Madden</b>
+<b>- George Jean Nathan</b>
 </blockquote>
 </p>
 
