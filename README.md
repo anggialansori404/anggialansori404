@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The essence of true friendship is to make allowance for another's little lapses."</i>
+<i>"Manifest plainness, embrace simplicity, reduce selfishness, have few desires."</i>
 <br>
-<b>- Ovid</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
