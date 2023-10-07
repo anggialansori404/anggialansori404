@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If there is no struggle, there is no progress."</i>
+<i>"The noblest worship is to make yourself as good and as just as you can."</i>
 <br>
-<b>- Frederick Douglass</b>
+<b>- Isocrates</b>
 </blockquote>
 </p>
 
