@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love demands infinitely less than friendship."</i>
+<i>"Don't let what you cannot do interfere with what you can do."</i>
 <br>
-<b>- George Jean Nathan</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
