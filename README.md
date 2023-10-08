@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can have the mind or you can have the moment."</i>
+<i>"Men in general judge more from appearances than from reality. All men have eyes, but few have the gift of penetration."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Niccolò Machiavelli</b>
 </blockquote>
 </p>
 
