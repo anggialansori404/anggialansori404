@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be fully alive, fully human, and completely awake is to be continually thrown out of the nest."</i>
+<i>"If you want more luck, take more chances."</i>
 <br>
-<b>- Pema Chödrön</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
