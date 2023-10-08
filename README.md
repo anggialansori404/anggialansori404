@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let us always meet each other with smile, for the smile is the beginning of love."</i>
+<i>"To be fully alive, fully human, and completely awake is to be continually thrown out of the nest."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Pema Chödrön</b>
 </blockquote>
 </p>
 
