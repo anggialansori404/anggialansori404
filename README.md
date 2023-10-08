@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most important things are the hardest to say."</i>
+<i>"By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
