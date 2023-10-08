@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing impossible to him who will try."</i>
+<i>"The most important things are the hardest to say."</i>
 <br>
-<b>- Alexander the Great</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
