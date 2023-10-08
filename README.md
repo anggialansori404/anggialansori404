@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"So is cheerfulness, or a good temper, the more it is spent, the more remains."</i>
+<i>"Sometimes you have to travel a long way to find what is near."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
