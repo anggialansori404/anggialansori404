@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it."</i>
+<i>"Waste no more time arguing about what a good man should be. Be one."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
