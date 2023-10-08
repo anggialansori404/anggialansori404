@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep your face always toward the sunshine -  shadows will fall behind you."</i>
+<i>"There is nothing impossible to him who will try."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Alexander the Great</b>
 </blockquote>
 </p>
 
