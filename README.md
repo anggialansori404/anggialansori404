@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Music is a higher revelation than all wisdom and philosophy."</i>
+<i>"If you find yourself in a hole, the first thing to do is stop digging."</i>
 <br>
-<b>- Ludwig van Beethoven</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
