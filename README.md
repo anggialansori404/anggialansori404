@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The minute you settle for less than you deserve, you get even less than you settled for."</i>
+<i>"Worry is a waste of emotional reserve."</i>
 <br>
-<b>- Maureen Dowd</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
