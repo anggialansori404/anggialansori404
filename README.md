@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our intention creates our reality."</i>
+<i>"The fall of dropping water wears away the Stone."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Lucretius</b>
 </blockquote>
 </p>
 
