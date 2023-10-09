@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The fall of dropping water wears away the Stone."</i>
+<i>"Turn your face to the sun, as flowers know how to do."</i>
 <br>
-<b>- Lucretius</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
