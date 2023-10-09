@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want more luck, take more chances."</i>
+<i>"Our intention creates our reality."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
