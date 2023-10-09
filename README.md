@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be able to forget means sanity."</i>
+<i>"Music is a higher revelation than all wisdom and philosophy."</i>
 <br>
-<b>- Jack London</b>
+<b>- Ludwig van Beethoven</b>
 </blockquote>
 </p>
 
