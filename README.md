@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some of the best lessons we ever learn are learned from past mistakes. The error of the past is the wisdom and success of the future."</i>
+<i>"To be able to forget means sanity."</i>
 <br>
-<b>- Dale Turner</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
