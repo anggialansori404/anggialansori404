@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no greatness where there is not simplicity, goodness, and truth."</i>
+<i>"Knowledge is going to make you stronger. Knowledge is going to let you control your life. Knowledge is going to give you the wisdom to teach their children. Knowledge is the thing that makes you smile in the face of disaster."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Avery Brooks</b>
 </blockquote>
 </p>
 
