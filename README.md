@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't explain it simply, you don't understand it well enough."</i>
+<i>"A friendship founded on business is better than a business founded on friendship."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
