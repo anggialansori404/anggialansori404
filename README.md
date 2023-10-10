@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A friendship founded on business is better than a business founded on friendship."</i>
+<i>"A friend is one who knows you and loves you just the same."</i>
 <br>
-<b>- John Locke</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
