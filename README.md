@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds."</i>
+<i>"One should train in deeds of merit—generosity, a balanced life, developing a loving mind—that yield long-lasting happiness."</i>
 <br>
-<b>- Will Durant</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
