@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you find yourself in a hole, the first thing to do is stop digging."</i>
+<i>"Each of us is a unique strand in the intricate web of life and here to make a contribution."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
