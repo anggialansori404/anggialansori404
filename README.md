@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can often change your circumstances by changing your attitude."</i>
+<i>"Life is what happens to you while you're busy making other plans."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
