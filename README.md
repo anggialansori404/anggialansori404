@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future belongs to those who believe in the beauty of their dreams."</i>
+<i>"The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Will Durant</b>
 </blockquote>
 </p>
 
