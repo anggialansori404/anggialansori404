@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win."</i>
+<i>"The harder the conflict, the greater the triumph. "</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
