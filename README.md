@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The harder the conflict, the greater the triumph. "</i>
+<i>"The future belongs to those who believe in the beauty of their dreams."</i>
 <br>
-<b>- George Washington</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
