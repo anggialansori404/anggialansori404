@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not regret the past. Look to the future."</i>
+<i>"The truth of the matter is that you always know the right thing to do. The hard part is doing it."</i>
 <br>
-<b>- Soyen Shaku</b>
+<b>- Norman Schwarzkopf</b>
 </blockquote>
 </p>
 
