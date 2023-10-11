@@ -28,7 +28,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anything you really want, you can attain, if you really go after it."</i>
+<i>"You are not stuck where you are unless you decide to be.  "</i>
 <br>
 <b>- Wayne Dyer</b>
 </blockquote>
