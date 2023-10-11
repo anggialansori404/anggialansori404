@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One should train in deeds of merit—generosity, a balanced life, developing a loving mind—that yield long-lasting happiness."</i>
+<i>"First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.  "</i>
 <br>
-<b>- The Buddha</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
