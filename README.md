@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stress happens when the mind resists what is."</i>
+<i>"Who you are is always right."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
