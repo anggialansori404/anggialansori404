@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let the noise of others' opinions drown out your own inner voice."</i>
+<i>"Do not regret the past. Look to the future."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Soyen Shaku</b>
 </blockquote>
 </p>
 
