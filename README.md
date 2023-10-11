@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Who you are is always right."</i>
+<i>"Friendship often ends in love, but love in friendship - never."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Albert Camus</b>
 </blockquote>
 </p>
 
