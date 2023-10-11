@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let us rather run the risk of wearing out than rusting out."</i>
+<i>"Stress happens when the mind resists what is."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
