@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truth of the matter is that you always know the right thing to do. The hard part is doing it."</i>
+<i>"Anything you really want, you can attain, if you really go after it."</i>
 <br>
-<b>- Norman Schwarzkopf</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
