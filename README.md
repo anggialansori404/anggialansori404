@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is only one thing that makes a dream impossible to achieve: the fear of failure."</i>
+<i>"I care not so much what I am to others as what I am to myself. I will be rich by myself, and not by borrowing."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Michel de Montaigne</b>
 </blockquote>
 </p>
 
