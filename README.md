@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is the offspring of silence and meditation."</i>
+<i>"Turn off your mind, relax, and float downstream."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
