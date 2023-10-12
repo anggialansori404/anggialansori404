@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nature is pleased with simplicity. And nature is no dummy."</i>
+<i>"Perseverance and spirit have done wonders in all ages. "</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
