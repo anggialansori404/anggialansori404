@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All that we see or seem is but a dream within a dream."</i>
+<i>"Truth is the offspring of silence and meditation."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
