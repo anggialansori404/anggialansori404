@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Turn off your mind, relax, and float downstream."</i>
+<i>"A path is made by walking on it."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
