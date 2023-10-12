@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No enterprise is more likely to succeed than one concealed from the enemy until it is ripe for execution."</i>
+<i>"Be faithful in small things because it is in them that your strength lies."</i>
 <br>
-<b>- Niccolò Machiavelli</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
