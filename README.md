@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the quality of our work which will please God, not the quantity."</i>
+<i>"All that we see or seem is but a dream within a dream."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
