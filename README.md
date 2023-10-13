@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your worst enemy cannot harm you as much as your own unguarded thoughts."</i>
+<i>"If I were two-faced, would I be wearing this one?"</i>
 <br>
-<b>- The Buddha</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
