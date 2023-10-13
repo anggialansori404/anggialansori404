@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Minds are like parachutes. They only function when open."</i>
+<i>"Talent is God-given; be humble. Fame is man-given; be thankful. Conceit is self-given; be careful."</i>
 <br>
-<b>- Thomas Dewar</b>
+<b>- Harvey Mackay</b>
 </blockquote>
 </p>
 
