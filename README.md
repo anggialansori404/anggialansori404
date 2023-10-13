@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every day is a new opportunity. You can build on yesterday's success or put its failures behind and start over again. That's the way life is, with a new game every day, and that's the way baseball is."</i>
+<i>"Your worst enemy cannot harm you as much as your own unguarded thoughts."</i>
 <br>
-<b>- Bob Feller</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
