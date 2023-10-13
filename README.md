@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How people treat you is their karma; how you react is yours. "</i>
+<i>"Minds are like parachutes. They only function when open."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Thomas Dewar</b>
 </blockquote>
 </p>
 
