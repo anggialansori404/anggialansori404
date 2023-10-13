@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be faithful in small things because it is in them that your strength lies."</i>
+<i>"If one way be better than another, that you may be sure is nature's way."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
