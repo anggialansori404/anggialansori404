@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self."</i>
+<i>"I love you the more in that I believe you had liked me for my own sake and for nothing else."</i>
 <br>
-<b>- Confucius</b>
+<b>- John Keats</b>
 </blockquote>
 </p>
 
