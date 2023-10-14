@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't have to control your thoughts; you just have to stop letting them control you."</i>
+<i>"Time doesn't heal emotional pain, you need to learn how to let go."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
