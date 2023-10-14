@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time doesn't heal emotional pain, you need to learn how to let go."</i>
+<i>"Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
