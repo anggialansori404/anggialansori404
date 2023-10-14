@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I love you the more in that I believe you had liked me for my own sake and for nothing else."</i>
+<i>"Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are."</i>
 <br>
-<b>- John Keats</b>
+<b>- Bernice Reagon</b>
 </blockquote>
 </p>
 
