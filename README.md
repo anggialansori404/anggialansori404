@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are."</i>
+<i>"You can do nothing to change the past, and the future will never come exactly as you plan or hope for."</i>
 <br>
-<b>- Bernice Reagon</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
