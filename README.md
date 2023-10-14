@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no significance in life without struggle."</i>
+<i>"If we did all the things we are capable of, we would literally astound ourselves."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
