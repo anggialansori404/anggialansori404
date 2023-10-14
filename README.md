@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everybody needs a passion. That's what keeps life interesting."</i>
+<i>"Whoever doesn't flare up at someone who's angry wins a battle hard to win."</i>
 <br>
-<b>- Betty White</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
