@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can do nothing to change the past, and the future will never come exactly as you plan or hope for."</i>
+<i>"If you set out to be liked, you would be prepared to compromise on anything at any time, and you would achieve nothing."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Margaret Thatcher</b>
 </blockquote>
 </p>
 
