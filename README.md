@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love all, trust a few, do wrong to none."</i>
+<i>"You purchase pain with all that joy can give and die of nothing but a rage to live."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
