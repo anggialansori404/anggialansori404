@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's wise to tell the truth. It's even wiser to tell it kindly."</i>
+<i>"The fastest way to change is to laugh at your own folly."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
