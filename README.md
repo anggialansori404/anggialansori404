@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart."</i>
+<i>"To be alive - is Power."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
