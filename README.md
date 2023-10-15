@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be alive - is Power."</i>
+<i>"The best preparation for tomorrow is doing your best today."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- H. Jackson Brown Jr.</b>
 </blockquote>
 </p>
 
