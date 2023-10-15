@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best preparation for tomorrow is doing your best today."</i>
+<i>"The world makes way for the man who knows where he is going."</i>
 <br>
-<b>- H. Jackson Brown Jr.</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
