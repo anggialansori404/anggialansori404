@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen."</i>
+<i>"Optimism is the one quality more associated with success and happiness than any other."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
