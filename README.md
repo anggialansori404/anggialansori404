@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes you have to shut your eyes, so you can see the real beauty."</i>
+<i>"Duty makes us do things well, but love makes us do them beautifully.  "</i>
 <br>
-<b>- Kilian Jornet</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
