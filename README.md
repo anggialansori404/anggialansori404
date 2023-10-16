@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world makes way for the man who knows where he is going."</i>
+<i>"Nothing important is learned; it is simply remembered."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
