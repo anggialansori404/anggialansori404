@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing more truly artistic than to love people."</i>
+<i>"Everybody needs a passion. That's what keeps life interesting."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
