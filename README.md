@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I will not walk backward in life."</i>
+<i>"Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
