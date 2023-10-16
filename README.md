@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A goal is a dream with a deadline."</i>
+<i>"Decision is a risk rooted in the courage of being free."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Paul Tillich</b>
 </blockquote>
 </p>
 
