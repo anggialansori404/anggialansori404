@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Duty makes us do things well, but love makes us do them beautifully.  "</i>
+<i>"How wonderful that we have met with a paradox. Now we have some hope of making progress."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Niels Bohr</b>
 </blockquote>
 </p>
 
