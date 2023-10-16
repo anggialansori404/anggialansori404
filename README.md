@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I prefer the folly of enthusiasm to the indifference of wisdom."</i>
+<i>"There is nothing more truly artistic than to love people."</i>
 <br>
-<b>- Anatole France</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
