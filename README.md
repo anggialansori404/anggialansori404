@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. "</i>
+<i>"There are no secrets to success. It is the result of preparation, hard work, and learning from failure."</i>
 <br>
-<b>- Charles Swindoll</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
