@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How wonderful that we have met with a paradox. Now we have some hope of making progress."</i>
+<i>"People think about what they don't want and attract more of the same."</i>
 <br>
-<b>- Niels Bohr</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
