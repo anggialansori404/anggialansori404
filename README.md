@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In order to control myself I must first accept myself by going with and not against my nature."</i>
+<i>"Words are the clothing of our thoughts."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
