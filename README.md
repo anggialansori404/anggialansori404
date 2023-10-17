@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship increases in visiting friends, but in visiting them seldom."</i>
+<i>"Before God we are all equally wise - and equally foolish."</i>
 <br>
-<b>- Francis Bacon</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
