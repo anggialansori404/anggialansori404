@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you feed your mind with positive thoughts, the more you can attract great things into your life."</i>
+<i>"The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. "</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Charles Swindoll</b>
 </blockquote>
 </p>
 
