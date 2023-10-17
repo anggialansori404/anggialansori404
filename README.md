@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When asked, how do you write? I invariably answer, one word at a time."</i>
+<i>"The more you feed your mind with positive thoughts, the more you can attract great things into your life."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
