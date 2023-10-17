@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In wartime, truth is so precious that she should always be attended by a bodyguard of lies."</i>
+<i>"Your greatest asset is your earning ability. Your greatest resource is your time."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
