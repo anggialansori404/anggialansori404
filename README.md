@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want things to be different, perhaps the answer is to become different yourself."</i>
+<i>"The meaning I picked, the one that changed my life: Overcome fear, behold wonder."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
