@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge speaks, but wisdom listens."</i>
+<i>"It is only with the heart that one can see rightly, what is essential is invisible to the eye."</i>
 <br>
-<b>- Jimi Hendrix</b>
+<b>- Antoine de Saint-Exupéry</b>
 </blockquote>
 </p>
 
