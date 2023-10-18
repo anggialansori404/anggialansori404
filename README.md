@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is only with the heart that one can see rightly, what is essential is invisible to the eye."</i>
+<i>"No one can hurt you without your consent."</i>
 <br>
-<b>- Antoine de Saint-Exupéry</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
