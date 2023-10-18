@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The meaning I picked, the one that changed my life: Overcome fear, behold wonder."</i>
+<i>"A journey of a thousand miles begins with a single step."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
