@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first duty of a human being is to assume the right functional relationship to society - more briefly, to find your real job, and do it."</i>
+<i>"Read as you taste fruit or savor wine, or enjoy friendship, love or life."</i>
 <br>
-<b>- Charlotte Perkins Gilman</b>
+<b>- George Herbert</b>
 </blockquote>
 </p>
 
