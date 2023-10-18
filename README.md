@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A journey of a thousand miles begins with a single step."</i>
+<i>"The first duty of a human being is to assume the right functional relationship to society - more briefly, to find your real job, and do it."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Charlotte Perkins Gilman</b>
 </blockquote>
 </p>
 
