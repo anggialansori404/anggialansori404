@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Without the confidence, nothing can be accomplished."</i>
+<i>"Stop comparing yourself to others and focus on your own improvement."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
