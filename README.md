@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stop comparing yourself to others and focus on your own improvement."</i>
+<i>"The industrial landscape is already littered with remains of once successful companies that could not adapt their strategic vision to altered conditions of competition."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Ralph Abernathy</b>
 </blockquote>
 </p>
 
