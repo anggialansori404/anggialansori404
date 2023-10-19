@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness."</i>
+<i>"Without the confidence, nothing can be accomplished."</i>
 <br>
-<b>- Rumi</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
