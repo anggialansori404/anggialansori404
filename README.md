@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Power is not what we do but what we do not - hasty and unwise actions that we repeat every day and which ultimately bring us into trouble."</i>
+<i>"To raise your consciousness, surround yourself with people of higher consciousness."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
