@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To raise your consciousness, surround yourself with people of higher consciousness."</i>
+<i>"On the other side of the clouds is a bright blue sky."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
