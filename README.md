@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just as much as we see in others, we have in ourselves."</i>
+<i>"We don't stop playing because we grow old; we grow old because we stop playing."</i>
 <br>
-<b>- William Hazlitt</b>
+<b>- Bernard Shaw</b>
 </blockquote>
 </p>
 
