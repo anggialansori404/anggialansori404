@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be content with your lot; one cannot be first in everything."</i>
+<i>"If you don't know, the thing to do is not to get scared, but to learn."</i>
 <br>
-<b>- Aesop</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
