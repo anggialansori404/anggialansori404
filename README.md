@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We don't stop playing because we grow old; we grow old because we stop playing."</i>
+<i>"We should not give up and we should not allow the problem to defeat us."</i>
 <br>
-<b>- Bernard Shaw</b>
+<b>- A. P. J. Abdul Kalam</b>
 </blockquote>
 </p>
 
