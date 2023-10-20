@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Follow your instincts. That is where true wisdom manifests itself."</i>
+<i>"It's not what happens to you, but how you react to it that matters."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
