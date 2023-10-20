@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no significance in life without struggle."</i>
+<i>"Just as much as we see in others, we have in ourselves."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- William Hazlitt</b>
 </blockquote>
 </p>
 
