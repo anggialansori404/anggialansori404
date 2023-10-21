@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the absence of judgment."</i>
+<i>"I'd rather welcome change than cling to the past."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
