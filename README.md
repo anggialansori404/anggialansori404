@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'd rather welcome change than cling to the past."</i>
+<i>"The more you know yourself, the more you forgive yourself."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
