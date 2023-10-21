@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone is a moon, and has a dark side which he never shows to anybody."</i>
+<i>"If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
