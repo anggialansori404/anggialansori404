@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you judge others, you do not define them, you define yourself."</i>
+<i>"Let us resolve to be masters, not the victims, of our history, controlling our own destiny without giving way to blind suspicions and emotions."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- John F. Kennedy</b>
 </blockquote>
 </p>
 
