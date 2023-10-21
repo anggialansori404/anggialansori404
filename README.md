@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wherever you are, it's the place you need to be."</i>
+<i>"Memory is the mother of all wisdom."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Samuel Johnson</b>
 </blockquote>
 </p>
 
