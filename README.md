@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you know yourself, the more you forgive yourself."</i>
+<i>"All human wisdom is summed up in two words; wait and hope."</i>
 <br>
-<b>- Confucius</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
