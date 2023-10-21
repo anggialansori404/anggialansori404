@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only person who never makes mistakes is the person who never does anything."</i>
+<i>"Everyone is a moon, and has a dark side which he never shows to anybody."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
