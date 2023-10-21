@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do what is right, not what is easy, nor what is popular."</i>
+<i>"The only person who never makes mistakes is the person who never does anything."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
