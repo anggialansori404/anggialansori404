@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you accept the expectations of others, especially negative ones, then you never will change the outcome."</i>
+<i>"Our kindness may be the most persuasive argument for that which we believe."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Gordon Hinckley</b>
 </blockquote>
 </p>
 
