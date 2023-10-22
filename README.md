@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The hardest arithmetic to master is that which enables us to count our blessings."</i>
+<i>"Wisdom consists of the anticipation of consequences."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Norman Cousins</b>
 </blockquote>
 </p>
 
