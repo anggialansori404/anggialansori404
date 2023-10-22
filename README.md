@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I always wanted to be somebody, but I should have been more specific."</i>
+<i>"The hardest arithmetic to master is that which enables us to count our blessings."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
