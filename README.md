@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity."</i>
+<i>"In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists."</i>
 <br>
-<b>- William C. Menninger</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
