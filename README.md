@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are things so deep and complex that only intuition can reach it in our stage of development as human beings."</i>
+<i>"Meditate … do not delay, lest you later regret it."</i>
 <br>
-<b>- John Astin</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
