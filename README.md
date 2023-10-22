@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists."</i>
+<i>"Wisdom and penetration are the fruit of experience, not the lessons of retirement and leisure. Great necessities call out great virtues."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Abigail Adams</b>
 </blockquote>
 </p>
 
