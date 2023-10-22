@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Habit, if not resisted, soon becomes necessity."</i>
+<i>"I always wanted to be somebody, but I should have been more specific."</i>
 <br>
-<b>- Augustine of Hippo</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
