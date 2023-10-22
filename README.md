@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Memory is the mother of all wisdom."</i>
+<i>"If you accept the expectations of others, especially negative ones, then you never will change the outcome."</i>
 <br>
-<b>- Samuel Johnson</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
