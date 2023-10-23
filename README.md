@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The journey of a thousand miles begins with one step."</i>
+<i>"Your chances of success in any undertaking can always be measured by your belief in yourself."</i>
 <br>
-<b>- Laozi</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
