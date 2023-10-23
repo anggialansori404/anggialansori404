@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The prettiest eyes have cried the most."</i>
+<i>"Never idealize others. They will never live up to your expectations."</i>
 <br>
-<b>- Unknown</b>
+<b>- Leo Buscaglia</b>
 </blockquote>
 </p>
 
