@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Receive without complaint, Work with fate."</i>
+<i>"The prettiest eyes have cried the most."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
