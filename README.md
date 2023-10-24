@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is good even for old men to learn wisdom."</i>
+<i>"If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace."</i>
 <br>
-<b>- Aeschylus</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
