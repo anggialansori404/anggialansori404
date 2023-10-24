@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When deeds and words are in accord, the whole world is transformed."</i>
+<i>"It requires wisdom to understand wisdom: the music is nothing if the audience is deaf."</i>
 <br>
-<b>- Zhuang Zhou</b>
+<b>- Walter Lippmann</b>
 </blockquote>
 </p>
 
