@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Circumstances rule men; men do not rule circumstances. "</i>
+<i>"Those that know, do. Those that understand, teach."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
