@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy."</i>
+<i>"When deeds and words are in accord, the whole world is transformed."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Zhuang Zhou</b>
 </blockquote>
 </p>
 
