@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You do not read a book for the book's sake, but for your own."</i>
+<i>"It requires wisdom to understand wisdom: the music is nothing if the audience is deaf."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Walter Lippmann</b>
 </blockquote>
 </p>
 
