@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be happy is to be able to become aware of oneself without fright."</i>
+<i>"You have power over your mind - not outside events. Realize this, and you will find strength."</i>
 <br>
-<b>- Walter Benjamin</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
