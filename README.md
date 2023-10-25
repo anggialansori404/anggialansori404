@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only I can change my life. No one can do it for me."</i>
+<i>"Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it."</i>
 <br>
-<b>- Carol Burnett</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
