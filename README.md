@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself."</i>
+<i>"Where there is charity and wisdom, there is neither fear nor ignorance."</i>
 <br>
-<b>- Henry Reed</b>
+<b>- Francis of Assisi</b>
 </blockquote>
 </p>
 
