@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True friends stab you in the front."</i>
+<i>"Only I can change my life. No one can do it for me."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
