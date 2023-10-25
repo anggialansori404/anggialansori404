@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where there is charity and wisdom, there is neither fear nor ignorance."</i>
+<i>"It does not do to dwell on dreams and forget to live, remember that."</i>
 <br>
-<b>- Francis of Assisi</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
