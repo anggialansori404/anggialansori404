@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The heart wants what it wants - or else it does not care."</i>
+<i>"Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Henry Reed</b>
 </blockquote>
 </p>
 
