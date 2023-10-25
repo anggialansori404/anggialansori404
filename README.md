@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only put off until tomorrow what you are willing to die having left undone."</i>
+<i>"To be happy is to be able to become aware of oneself without fright."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Walter Benjamin</b>
 </blockquote>
 </p>
 
