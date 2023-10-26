@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go and do the things you can't. That is how you get to do them."</i>
+<i>"Positive thinking will let you do everything better than negative thinking will."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
