@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Build a better mousetrap and the world will beat a path to your door."</i>
+<i>"Honesty is the first chapter in the book of wisdom."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
