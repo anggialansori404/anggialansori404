@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If anything is worth doing, do it with all your heart."</i>
+<i>"An appeaser is one who feeds a crocodile, hoping it will eat him last."</i>
 <br>
-<b>- Buddha</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
