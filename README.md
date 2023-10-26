@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Chop your own wood and it will warm you twice. "</i>
+<i>"Build a better mousetrap and the world will beat a path to your door."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
