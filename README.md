@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An appeaser is one who feeds a crocodile, hoping it will eat him last."</i>
+<i>"My instinct is always to seek out challenges as opposed to avoiding them."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
