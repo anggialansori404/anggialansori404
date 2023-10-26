@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My instinct is always to seek out challenges as opposed to avoiding them."</i>
+<i>"Well done is better than well said."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
