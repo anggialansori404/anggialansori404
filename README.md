@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We could never learn to be brave and patient if there were only joy in the world."</i>
+<i>"You become stronger with every problem you face and every obstacle you overcome."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
