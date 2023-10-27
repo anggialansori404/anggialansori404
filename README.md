@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Well done is better than well said."</i>
+<i>"He who lives in harmony with himself lives in harmony with the world."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
