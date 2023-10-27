@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Decide what your truth is. Then live it."</i>
+<i>"Well done is better than well said."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
