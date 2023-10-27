@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What is necessary to change a person is to change his awareness of himself."</i>
+<i>"The cost of leadership is self-interest."</i>
 <br>
-<b>- Abraham Maslow</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
