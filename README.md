@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unless someone truly has the power to say no, they never truly have the power to say yes."</i>
+<i>"Short cuts make long delays."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
