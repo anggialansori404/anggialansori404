@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The personal life deeply lived always expands into truths beyond itself."</i>
+<i>"Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending."</i>
 <br>
-<b>- Anaïs Nin</b>
+<b>- Carl Bard</b>
 </blockquote>
 </p>
 
