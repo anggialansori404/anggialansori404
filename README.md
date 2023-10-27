@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending."</i>
+<i>"You can observe a lot just by watching."</i>
 <br>
-<b>- Carl Bard</b>
+<b>- Yogi Berra</b>
 </blockquote>
 </p>
 
