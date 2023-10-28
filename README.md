@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let none find fault with others; let none see the omissions and commissions of others. But let one see one's own acts, done and undone."</i>
+<i>"Take no thought of who is right or wrong or who is better than. Be not for or against."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
