@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway."</i>
+<i>"Work is always an antidote to depression."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
