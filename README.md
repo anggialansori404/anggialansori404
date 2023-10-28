@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Independence is happiness."</i>
+<i>"To acquire knowledge, one must study; but to acquire wisdom, one must observe."</i>
 <br>
-<b>- Susan B. Anthony</b>
+<b>- Marilyn vos Savant</b>
 </blockquote>
 </p>
 
