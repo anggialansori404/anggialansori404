@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never bend your head. Always hold it high. Look the world right in the eye."</i>
+<i>"My mind seems to have become a kind of machine for grinding general laws out of large collections of facts."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
