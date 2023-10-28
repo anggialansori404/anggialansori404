@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Adversity causes some men to break, others to break records."</i>
+<i>"Never bend your head. Always hold it high. Look the world right in the eye."</i>
 <br>
-<b>- William Arthur Ward</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
