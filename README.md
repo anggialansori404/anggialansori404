@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quality means doing it right when no one is looking."</i>
+<i>"Let none find fault with others; let none see the omissions and commissions of others. But let one see one's own acts, done and undone."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
