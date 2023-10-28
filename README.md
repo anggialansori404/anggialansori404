@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The shoe that fits one person pinches another; there is no recipe for living that suits all cases."</i>
+<i>"Quality means doing it right when no one is looking."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
