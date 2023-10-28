@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take no thought of who is right or wrong or who is better than. Be not for or against."</i>
+<i>"Adversity causes some men to break, others to break records."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- William Arthur Ward</b>
 </blockquote>
 </p>
 
