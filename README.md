@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Action may not always bring happiness; but there is no happiness without action."</i>
+<i>"Applause is a receipt, not a bill."</i>
 <br>
-<b>- Benjamin Disraeli</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
