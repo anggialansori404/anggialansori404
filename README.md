@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our character is what we do when we think no one is looking."</i>
+<i>"Action may not always bring happiness; but there is no happiness without action."</i>
 <br>
-<b>- H. Jackson Brown Jr.</b>
+<b>- Benjamin Disraeli</b>
 </blockquote>
 </p>
 
