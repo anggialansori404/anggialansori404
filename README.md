@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendships are the family we make - not the one we inherit. I've always been someone to whom friendship, elective affinities, is as important as family."</i>
+<i>"Joy is what happens to us when we allow ourselves to recognize how good things really are."</i>
 <br>
-<b>- Salman Rushdie</b>
+<b>- Marianne Williamson</b>
 </blockquote>
 </p>
 
