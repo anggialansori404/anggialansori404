@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it."</i>
+<i>"We love life, not because we are used to living but because we are used to loving."</i>
 <br>
-<b>- M. Scott Peck</b>
+<b>- Friedrich Nietzsche</b>
 </blockquote>
 </p>
 
