@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To give oneself earnestly to the duties due to men, and, while respecting spiritual beings, to keep aloof from them, may be called wisdom."</i>
+<i>"Friendships are the family we make - not the one we inherit. I've always been someone to whom friendship, elective affinities, is as important as family."</i>
 <br>
-<b>- Confucius</b>
+<b>- Salman Rushdie</b>
 </blockquote>
 </p>
 
