@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To acquire knowledge, one must study; but to acquire wisdom, one must observe."</i>
+<i>"Our character is what we do when we think no one is looking."</i>
 <br>
-<b>- Marilyn vos Savant</b>
+<b>- H. Jackson Brown Jr.</b>
 </blockquote>
 </p>
 
