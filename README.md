@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is simply what our feelings do to us."</i>
+<i>"The only way to make sense out of change is to plunge into it, move with it, and join the dance."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
