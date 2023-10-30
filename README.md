@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you need inspiration, don't do it."</i>
+<i>"Don't wait for extraordinary opportunities. Seize common occasions and make them great."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Orison Swett Marden</b>
 </blockquote>
 </p>
 
