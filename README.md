@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Management is doing things right; leadership is doing the right things."</i>
+<i>"It is easier to live through someone else than to become complete yourself."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Betty Friedan</b>
 </blockquote>
 </p>
 
