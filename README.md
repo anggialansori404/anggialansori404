@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing your own darkness is the best method for dealing with the darknesses of other people."</i>
+<i>"We can't help everyone, but everyone can help someone."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
