@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Lost Time is never found again."</i>
+<i>"You have the potential for greatness."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
