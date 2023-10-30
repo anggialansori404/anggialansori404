@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only way to make sense out of change is to plunge into it, move with it, and join the dance."</i>
+<i>"Knowing your own darkness is the best method for dealing with the darknesses of other people."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
