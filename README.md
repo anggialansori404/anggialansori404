@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are things so deep and complex that only intuition can reach it in our stage of development as human beings."</i>
+<i>"Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence."</i>
 <br>
-<b>- John Astin</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
