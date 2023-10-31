@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not what you've got; it's what you do that makes the difference."</i>
+<i>"Trust your own instinct. Your mistakes might as well be your own, instead of someone else's."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Billy Wilder</b>
 </blockquote>
 </p>
 
