@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your goals are the road maps that guide you and show you what is possible for your life."</i>
+<i>"I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
