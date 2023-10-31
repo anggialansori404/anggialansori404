@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust your own instinct. Your mistakes might as well be your own, instead of someone else's."</i>
+<i>"By seeking and blundering we learn."</i>
 <br>
-<b>- Billy Wilder</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
