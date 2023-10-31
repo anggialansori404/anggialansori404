@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Find your Light; They can't love you if they can't see you."</i>
+<i>"FOCUS - Follow One Course Until Successful"</i>
 <br>
-<b>- Bette Midler</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
