@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness."</i>
+<i>"The world is round so that friendship may encircle it."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Pierre Teilhard de Chardin</b>
 </blockquote>
 </p>
 
