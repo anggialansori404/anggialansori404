@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have the potential for greatness."</i>
+<i>"Your goals are the road maps that guide you and show you what is possible for your life."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
