@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"FOCUS - Follow One Course Until Successful"</i>
+<i>"There are things so deep and complex that only intuition can reach it in our stage of development as human beings."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- John Astin</b>
 </blockquote>
 </p>
 
