@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company. "</i>
+<i>"It's not what you've got; it's what you do that makes the difference."</i>
 <br>
-<b>- George Washington</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
