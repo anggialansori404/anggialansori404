@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world is round so that friendship may encircle it."</i>
+<i>"Find your Light; They can't love you if they can't see you."</i>
 <br>
-<b>- Pierre Teilhard de Chardin</b>
+<b>- Bette Midler</b>
 </blockquote>
 </p>
 
