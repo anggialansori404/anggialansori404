@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To improve is to change; to be perfect is to change often."</i>
+<i>"Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- John Adams</b>
 </blockquote>
 </p>
 
