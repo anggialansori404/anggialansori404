@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not titles that honour men, but men that honour titles."</i>
+<i>"History is written by the victors."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
