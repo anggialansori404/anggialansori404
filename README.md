@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"History is written by the victors."</i>
+<i>"Reviewing what you have learned and learning anew, you are fit to be a teacher."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
