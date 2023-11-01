@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Here is one quality that one must possess to win, and that is definiteness of purpose, the knowledge of what one wants, and a burning desire to possess it."</i>
+<i>"To improve is to change; to be perfect is to change often."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
