@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish."</i>
+<i>"It is the supreme art of the teacher to awaken joy in creative expression and knowledge."</i>
 <br>
-<b>- John Adams</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
