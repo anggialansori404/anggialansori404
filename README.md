@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some of the best lessons we ever learn are learned from past mistakes. The error of the past is the wisdom and success of the future."</i>
+<i>"The best revenge is to be unlike him who performed the injury."</i>
 <br>
-<b>- Dale Turner</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
