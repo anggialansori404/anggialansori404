@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We all live with the objective of being happy; our lives are all different and yet the same."</i>
+<i>"Some of the best lessons we ever learn are learned from past mistakes. The error of the past is the wisdom and success of the future."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Dale Turner</b>
 </blockquote>
 </p>
 
