@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reviewing what you have learned and learning anew, you are fit to be a teacher."</i>
+<i>"We all live with the objective of being happy; our lives are all different and yet the same."</i>
 <br>
-<b>- Confucius</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
