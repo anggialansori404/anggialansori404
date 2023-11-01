@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the supreme art of the teacher to awaken joy in creative expression and knowledge."</i>
+<i>"Character develops itself in the stream of life."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
