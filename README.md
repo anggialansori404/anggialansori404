@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rejoicing in our joy, not suffering over our suffering, makes someone a friend."</i>
+<i>"A long habit of not thinking a thing wrong gives it a superficial appearance of being right."</i>
 <br>
-<b>- Friedrich Nietzsche</b>
+<b>- Thomas Paine</b>
 </blockquote>
 </p>
 
