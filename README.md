@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you break your neck, if you have nothing to eat, if your house is on fire, then you got a problem. Everything else is inconvenience."</i>
+<i>"I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody."</i>
 <br>
-<b>- Robert Fulghum</b>
+<b>- Herbert Bayard Swope</b>
 </blockquote>
 </p>
 
