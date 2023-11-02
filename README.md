@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Chaos and Order are not enemies, only opposites."</i>
+<i>"Never spend your money before you have earned it."</i>
 <br>
-<b>- Richard Garriott</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
