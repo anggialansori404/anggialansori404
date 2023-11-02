@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To conquer fear is the beginning of wisdom."</i>
+<i>"Life happens in the river, not the shore."</i>
 <br>
-<b>- Bertrand Russell</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
