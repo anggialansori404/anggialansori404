@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A long habit of not thinking a thing wrong gives it a superficial appearance of being right."</i>
+<i>"The entrepreneur always searches for change, responds to it, and exploits it as an opportunity."</i>
 <br>
-<b>- Thomas Paine</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
