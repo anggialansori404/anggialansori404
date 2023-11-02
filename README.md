@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never spend your money before you have earned it."</i>
+<i>"Rejoicing in our joy, not suffering over our suffering, makes someone a friend."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Friedrich Nietzsche</b>
 </blockquote>
 </p>
 
