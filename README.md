@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace."</i>
+<i>"If you break your neck, if you have nothing to eat, if your house is on fire, then you got a problem. Everything else is inconvenience."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Robert Fulghum</b>
 </blockquote>
 </p>
 
