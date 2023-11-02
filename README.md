@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody."</i>
+<i>"Chaos and Order are not enemies, only opposites."</i>
 <br>
-<b>- Herbert Bayard Swope</b>
+<b>- Richard Garriott</b>
 </blockquote>
 </p>
 
