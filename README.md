@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have a brain and mind of your own. Use it, and reach your own decisions."</i>
+<i>"No valid plans for the future can be made by those who have no capacity for living now."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
