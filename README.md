@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A memory is a beautiful thing, it's almost a desire that you miss."</i>
+<i>"You have a brain and mind of your own. Use it, and reach your own decisions."</i>
 <br>
-<b>- Gustave Flaubert</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
