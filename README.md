@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No valid plans for the future can be made by those who have no capacity for living now."</i>
+<i>"It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!"</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
