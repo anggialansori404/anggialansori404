@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people ask better questions, and as a result, they get better answers."</i>
+<i>"The one thing that you have that nobody else has is you. Your voice, your mind, your story, your vision. So write and draw and build and play and dance and live as only you can."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Neil Gaiman</b>
 </blockquote>
 </p>
 
