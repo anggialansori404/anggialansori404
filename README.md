@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sweet is the memory of distant friends! Like the mellow rays of the departing sun, it falls tenderly, yet sadly, on the heart."</i>
+<i>"Do not regret the past. Look to the future."</i>
 <br>
-<b>- Washington Irving</b>
+<b>- Soyen Shaku</b>
 </blockquote>
 </p>
 
