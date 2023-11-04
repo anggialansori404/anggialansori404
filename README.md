@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No act of kindness, no matter how small, is ever wasted."</i>
+<i>"Friendship always benefits; love sometimes injures."</i>
 <br>
-<b>- Aesop</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
