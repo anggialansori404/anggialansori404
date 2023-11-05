@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pine stays green in winter... wisdom in hardship."</i>
+<i>"If you want to keep your memories, you first have to live them."</i>
 <br>
-<b>- Norman Douglas</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
