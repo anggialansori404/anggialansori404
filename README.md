@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most virtuous are those who content themselves with being virtuous without seeking to appear so."</i>
+<i>"When you reach the end of your rope, tie a knot in it and hang on."</i>
 <br>
-<b>- Plato</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
