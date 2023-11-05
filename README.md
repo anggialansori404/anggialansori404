@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to keep your memories, you first have to live them."</i>
+<i>"There is nothing on this earth more to be prized than true friendship."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Thomas Aquinas</b>
 </blockquote>
 </p>
 
