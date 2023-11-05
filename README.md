@@ -28,7 +28,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you done it, it ain't bragging."</i>
+<i>"Keep your face always toward the sunshine - and shadows will fall behind you."</i>
 <br>
 <b>- Walt Whitman</b>
 </blockquote>
