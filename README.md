@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you reach the end of your rope, tie a knot in it and hang on."</i>
+<i>"You can't blame gravity for falling in love."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
