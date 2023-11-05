@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have to keep breaking your heart until it opens."</i>
+<i>"None knows the weight of another's burden."</i>
 <br>
-<b>- Rumi</b>
+<b>- George Herbert</b>
 </blockquote>
 </p>
 
