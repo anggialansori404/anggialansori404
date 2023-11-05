@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The place to improve the world is first in one's own heart and head and hands."</i>
+<i>"The happiness of a man in this life does not consist in the absence but in the mastery of his passions."</i>
 <br>
-<b>- Robert M. Pirsig</b>
+<b>- Alfred Tennyson</b>
 </blockquote>
 </p>
 
