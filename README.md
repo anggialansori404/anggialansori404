@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"None knows the weight of another's burden."</i>
+<i>"The place to improve the world is first in one's own heart and head and hands."</i>
 <br>
-<b>- George Herbert</b>
+<b>- Robert M. Pirsig</b>
 </blockquote>
 </p>
 
