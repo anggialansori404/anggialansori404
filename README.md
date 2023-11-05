@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep your face always toward the sunshine - and shadows will fall behind you."</i>
+<i>"You have to keep breaking your heart until it opens."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
