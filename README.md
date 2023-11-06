@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no way to prosperity, prosperity is the way."</i>
+<i>"A friend in power is a friend lost."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Henry Adams</b>
 </blockquote>
 </p>
 
