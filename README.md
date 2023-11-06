@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Well begun is half done."</i>
+<i>"Empty your mind, be formless, shapeless, like water."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
