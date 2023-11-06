@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is in the heart that makes a man rich. He is rich according to what he is, not according to what he has."</i>
+<i>"Effort only fully releases its reward after a person refuses to quit."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
