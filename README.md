@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Empty your mind, be formless, shapeless, like water."</i>
+<i>"One of the keys to happiness is a bad memory."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
