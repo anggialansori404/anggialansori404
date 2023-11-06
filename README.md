@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Golf is a game in which one endeavors to control a ball with implements ill adapted for the purpose."</i>
+<i>"I can't imagine a person becoming a success who doesn't give this game of life everything he's got."</i>
 <br>
-<b>- Woodrow Wilson</b>
+<b>- Walter Cronkite</b>
 </blockquote>
 </p>
 
