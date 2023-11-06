@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is a wisdom of the head, and a wisdom of the heart."</i>
+<i>"Well begun is half done."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
