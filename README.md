@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the keys to happiness is a bad memory."</i>
+<i>"There is no way to prosperity, prosperity is the way."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
