@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing on this earth more to be prized than true friendship."</i>
+<i>"Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years."</i>
 <br>
-<b>- Thomas Aquinas</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
