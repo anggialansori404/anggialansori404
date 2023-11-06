@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years."</i>
+<i>"Golf is a game in which one endeavors to control a ball with implements ill adapted for the purpose."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Woodrow Wilson</b>
 </blockquote>
 </p>
 
