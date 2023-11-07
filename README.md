@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only in the agony of parting do we look into the depths of love."</i>
+<i>"Not how long, but how well you have lived is the main thing."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
