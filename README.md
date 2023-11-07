@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Yesterday's home runs don't win today's games."</i>
+<i>"Any sufficiently advanced technology is equivalent to magic."</i>
 <br>
-<b>- Babe Ruth</b>
+<b>- Arthur C. Clarke</b>
 </blockquote>
 </p>
 
