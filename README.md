@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results."</i>
+<i>"Each day provides it's own gifts."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
