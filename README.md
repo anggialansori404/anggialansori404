@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Any sufficiently advanced technology is equivalent to magic."</i>
+<i>"Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results."</i>
 <br>
-<b>- Arthur C. Clarke</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
