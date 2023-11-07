@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not how long, but how well you have lived is the main thing."</i>
+<i>"Yesterday's home runs don't win today's games."</i>
 <br>
-<b>- Seneca</b>
+<b>- Babe Ruth</b>
 </blockquote>
 </p>
 
