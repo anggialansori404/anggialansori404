@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each day provides it's own gifts."</i>
+<i>"Without the rain there would be no rainbow."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
