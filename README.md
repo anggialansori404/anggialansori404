@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The attempt to combine wisdom and power has only rarely been successful and then only for a short while."</i>
+<i>"For your life to be great, your faith must be bigger than your fear."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
