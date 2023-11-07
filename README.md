@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Forgive those who have hurt you."</i>
+<i>"Loss is nothing else but change, and change is Nature's delight."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
