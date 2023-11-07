@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nature and books belong to the eyes that see them."</i>
+<i>"Adventure is worthwhile in itself."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
