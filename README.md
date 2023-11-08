@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I cannot always control what goes on outside. But I can always control what goes on inside."</i>
+<i>"We turn not older with years but newer every day."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
