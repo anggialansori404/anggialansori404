@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best thing about the future is that it only comes one day at a time."</i>
+<i>"Don't let someone elses. opinion become your reality."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
