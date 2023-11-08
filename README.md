@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have the potential for greatness."</i>
+<i>"Happiness is the reward we get for living to the highest right we know."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
