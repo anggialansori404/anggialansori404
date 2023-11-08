@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There's power in looking silly and not caring that you do."</i>
+<i>"The best thing about the future is that it only comes one day at a time."</i>
 <br>
-<b>- Amy Poehler</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
