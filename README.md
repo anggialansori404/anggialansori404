@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Self-knowledge is the beginning of self-correction."</i>
+<i>"I cannot always control what goes on outside. But I can always control what goes on inside."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
