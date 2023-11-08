@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We turn not older with years but newer every day."</i>
+<i>"Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
