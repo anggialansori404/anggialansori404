@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is the reward we get for living to the highest right we know."</i>
+<i>"All has not been said and never will be."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
