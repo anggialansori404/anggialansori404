@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments."</i>
+<i>"Any sufficiently advanced technology is equivalent to magic."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Arthur C. Clarke</b>
 </blockquote>
 </p>
 
