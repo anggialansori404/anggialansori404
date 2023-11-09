@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Experience is not what happens to a man. It is what a man does with what happens to him."</i>
+<i>"Every great change is preceded by chaos."</i>
 <br>
-<b>- Aldous Huxley</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
