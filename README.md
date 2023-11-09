@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every great change is preceded by chaos."</i>
+<i>"Opportunity comes when you continually push forward."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Sonia Ricotti</b>
 </blockquote>
 </p>
 
