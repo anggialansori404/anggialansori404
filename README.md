@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Originality is the fine art of remembering what you hear but forgetting where you heard it. "</i>
+<i>"You can't shake hands with a clenched fist."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Indira Gandhi</b>
 </blockquote>
 </p>
 
