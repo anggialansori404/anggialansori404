@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Any sufficiently advanced technology is equivalent to magic."</i>
+<i>"Experience is not what happens to a man. It is what a man does with what happens to him."</i>
 <br>
-<b>- Arthur C. Clarke</b>
+<b>- Aldous Huxley</b>
 </blockquote>
 </p>
 
