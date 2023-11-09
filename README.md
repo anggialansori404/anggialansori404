@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is the price that life exacts for granting peace."</i>
+<i>"Originality is the fine art of remembering what you hear but forgetting where you heard it. "</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
