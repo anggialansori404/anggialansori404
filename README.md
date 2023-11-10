@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing in a caterpillar that tells you it's going to be a butterfly."</i>
+<i>"If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness."</i>
 <br>
-<b>- Buckminster Fuller</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
