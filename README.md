@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no secrets to success. It is the result of preparation, hard work, learning from failure."</i>
+<i>"I believe that one of life's greatest risks is never daring to risk."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
