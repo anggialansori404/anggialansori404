@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The beginning of knowledge is the discovery of something we do not understand."</i>
+<i>"Happiness can exist only in acceptance."</i>
 <br>
-<b>- Frank Herbert</b>
+<b>- George Orwell</b>
 </blockquote>
 </p>
 
