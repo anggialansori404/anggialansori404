@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rich people have small TVs and big libraries, and poor people have small libraries and big TVs."</i>
+<i>"There is nothing in a caterpillar that tells you it's going to be a butterfly."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Buckminster Fuller</b>
 </blockquote>
 </p>
 
