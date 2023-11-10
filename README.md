@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are two kinds of failures: those who thought and never did, and those who did and never thought."</i>
+<i>"There are no secrets to success. It is the result of preparation, hard work, learning from failure."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
