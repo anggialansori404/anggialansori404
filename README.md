@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Inspiration exists, but it has to find you working."</i>
+<i>"Tell me and I forget. Teach me and I remember. Involve me and I learn."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
