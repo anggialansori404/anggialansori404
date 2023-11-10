@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"History will be kind to me for I intend to write it."</i>
+<i>"Inspiration exists, but it has to find you working."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
