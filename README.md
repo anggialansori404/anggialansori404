@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you care, the stronger you can be."</i>
+<i>"Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Whoopi Goldberg</b>
 </blockquote>
 </p>
 
