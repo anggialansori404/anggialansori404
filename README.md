@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We cannot always do great things in life, but we can do small things with great love."</i>
+<i>"Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
