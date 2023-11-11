@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As an elephant in the battlefield withstands arrows shot from bows all around, even so shall I endure abuse."</i>
+<i>"Time is the wisest counsellor of all."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Pericles</b>
 </blockquote>
 </p>
 
