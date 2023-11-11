@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don’t sacrifice your own welfare for that of another, no matter how great. Realizing your own true welfare, be intent on just that."</i>
+<i>"The more you care, the stronger you can be."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
