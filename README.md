@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark."</i>
+<i>"As an elephant in the battlefield withstands arrows shot from bows all around, even so shall I endure abuse."</i>
 <br>
-<b>- Whoopi Goldberg</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
