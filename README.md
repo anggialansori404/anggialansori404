@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time is the wisest counsellor of all."</i>
+<i>"You can live a whole life time never being awake."</i>
 <br>
-<b>- Pericles</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
