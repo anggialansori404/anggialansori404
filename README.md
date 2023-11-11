@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can live a whole life time never being awake."</i>
+<i>"No pessimist ever discovered the secrets of the stars, or sailed to an uncharted land, or opened a new heaven to the human spirit."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
