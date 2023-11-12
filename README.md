@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. "</i>
+<i>"Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time."</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
