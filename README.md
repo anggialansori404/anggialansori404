@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is nothing more than a few simple disciplines practiced every day."</i>
+<i>"Always be smarter than the people who hire you."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Lena Horne</b>
 </blockquote>
 </p>
 
