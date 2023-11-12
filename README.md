@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust your own instinct. Your mistakes might as well be your own, instead of someone else's."</i>
+<i>"All things change; nothing perishes."</i>
 <br>
-<b>- Billy Wilder</b>
+<b>- Ovid</b>
 </blockquote>
 </p>
 
