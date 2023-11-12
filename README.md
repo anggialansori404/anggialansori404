@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always be smarter than the people who hire you."</i>
+<i>"When people are free to do as they please, they usually imitate each other."</i>
 <br>
-<b>- Lena Horne</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
