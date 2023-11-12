@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perplexity is the beginning of knowledge."</i>
+<i>"Remember we're all in this alone."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
