@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember we're all in this alone."</i>
+<i>"When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
