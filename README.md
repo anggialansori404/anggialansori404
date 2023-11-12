@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time."</i>
+<i>"Trust your own instinct. Your mistakes might as well be your own, instead of someone else's."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Billy Wilder</b>
 </blockquote>
 </p>
 
