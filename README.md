@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Beware of missing chances; otherwise it may be altogether too late someday."</i>
+<i>"Applause is a receipt, not a bill."</i>
 <br>
-<b>- Franz Liszt</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
