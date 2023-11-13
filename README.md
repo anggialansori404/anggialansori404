@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Joy is what happens to us when we allow ourselves to recognize how good things really are."</i>
+<i>"If you would take, you must first give, this is the beginning of intelligence."</i>
 <br>
-<b>- Marianne Williamson</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
