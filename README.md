@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next."</i>
+<i>"Joy is what happens to us when we allow ourselves to recognize how good things really are."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Marianne Williamson</b>
 </blockquote>
 </p>
 
