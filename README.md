@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people spend more time and energy going around problems than in trying to solve them. "</i>
+<i>"Life has the name of life, but in reality it is death."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
