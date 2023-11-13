@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wherever a man turns he can find someone who needs him."</i>
+<i>"It's important to know that words don't move mountains. Work, exacting work moves mountains."</i>
 <br>
-<b>- Albert Schweitzer</b>
+<b>- Danilo Dolci</b>
 </blockquote>
 </p>
 
