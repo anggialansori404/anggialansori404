@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life has the name of life, but in reality it is death."</i>
+<i>"Wherever a man turns he can find someone who needs him."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Albert Schweitzer</b>
 </blockquote>
 </p>
 
