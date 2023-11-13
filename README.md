@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you would take, you must first give, this is the beginning of intelligence."</i>
+<i>"Friendship always benefits; love sometimes injures."</i>
 <br>
-<b>- Laozi</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
