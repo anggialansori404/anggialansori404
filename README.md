@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness can exist only in acceptance."</i>
+<i>"Motivation is the art of getting people to do what you want them to do because they want to do it."</i>
 <br>
-<b>- George Orwell</b>
+<b>- Dwight D. Eisenhower</b>
 </blockquote>
 </p>
 
