@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What we see depends mainly on what we look for."</i>
+<i>"Smile, breathe and go slowly."</i>
 <br>
-<b>- John Lubbock</b>
+<b>- Thích Nhất Hạnh</b>
 </blockquote>
 </p>
 
