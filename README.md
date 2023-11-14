@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Smile, breathe and go slowly."</i>
+<i>"Acquaintances we meet, enjoy, and can easily leave behind; but friendship grows deep roots."</i>
 <br>
-<b>- Thích Nhất Hạnh</b>
+<b>- H. Jackson Brown Jr.</b>
 </blockquote>
 </p>
 
