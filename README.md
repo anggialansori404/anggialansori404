@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I believe that every person is born with talent."</i>
+<i>"Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Bernice Reagon</b>
 </blockquote>
 </p>
 
