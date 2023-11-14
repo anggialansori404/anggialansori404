@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I think somehow, we learn who we really are and then live with that decision."</i>
+<i>"When you realize you've made a mistake, take immediate steps to correct it."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
