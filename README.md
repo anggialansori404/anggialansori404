@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are."</i>
+<i>"Friendship improves happiness and abates misery, by the doubling of our joy and the dividing of our grief."</i>
 <br>
-<b>- Bernice Reagon</b>
+<b>- Cicero</b>
 </blockquote>
 </p>
 
