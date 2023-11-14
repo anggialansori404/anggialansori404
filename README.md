@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship improves happiness and abates misery, by the doubling of our joy and the dividing of our grief."</i>
+<i>"Everything is created twice, first in the mind and then in reality."</i>
 <br>
-<b>- Cicero</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
