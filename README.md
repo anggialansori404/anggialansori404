@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you realize you've made a mistake, take immediate steps to correct it."</i>
+<i>"Love doesn't need reason. It speaks from the irrational wisdom of the heart."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
