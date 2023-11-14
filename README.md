@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything is created twice, first in the mind and then in reality."</i>
+<i>"I think somehow, we learn who we really are and then live with that decision."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
