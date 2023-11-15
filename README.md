@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The man who does not value himself, cannot value anything or anyone."</i>
+<i>"Why change? Everyone has his own style. When you have found it, you should stick to it."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
