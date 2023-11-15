@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you seek is seeking you."</i>
+<i>"Everything that exists is in a manner the seed of that which will be."</i>
 <br>
-<b>- Rumi</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
