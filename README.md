@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The opposite of courage in our society is not cowardice... it is conformity."</i>
+<i>"Never apologize for showing feelings. When you do so, you apologize for the truth."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Benjamin Disraeli</b>
 </blockquote>
 </p>
 
