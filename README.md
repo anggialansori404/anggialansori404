@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Irony is the gaiety of reflection and the joy of wisdom."</i>
+<i>"All that I am, or hope to be, I owe to my angel mother."</i>
 <br>
-<b>- Anatole France</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
