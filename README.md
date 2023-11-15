@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never apologize for showing feelings. When you do so, you apologize for the truth."</i>
+<i>"What is past is left behind. The future is yet unreached. Whatever quality is present, clearly see it right there."</i>
 <br>
-<b>- Benjamin Disraeli</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
