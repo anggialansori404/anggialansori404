@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why change? Everyone has his own style. When you have found it, you should stick to it."</i>
+<i>"The opposite of courage in our society is not cowardice... it is conformity."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
