@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The virtue of justice consists in moderation, as regulated by wisdom."</i>
+<i>"You have to accept whatever comes, and the only important thing is that you meet it with the best you have to give."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
