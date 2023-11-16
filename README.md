@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Victory is always possible for the person who refuses to stop fighting."</i>
+<i>"The universe is full of magical things, patiently waiting for our wits to grow sharper."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Eden Phillpotts</b>
 </blockquote>
 </p>
 
