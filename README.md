@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People don't care how much you know until they know how much you care."</i>
+<i>"People spend too much time doing and not enough time thinking about what they should be doing."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
