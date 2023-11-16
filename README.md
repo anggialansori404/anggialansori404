@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man must use what he has, not hope for what is not."</i>
+<i>"The virtue of justice consists in moderation, as regulated by wisdom."</i>
 <br>
-<b>- G.I. Gurdjieff</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
