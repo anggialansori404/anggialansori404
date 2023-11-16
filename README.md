@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go for it now. The future is promised to no one."</i>
+<i>"Peace if possible, truth at all costs."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
