@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People spend too much time doing and not enough time thinking about what they should be doing."</i>
+<i>"Set your goals high, and don't stop till you get there."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Bo Jackson</b>
 </blockquote>
 </p>
 
