@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace if possible, truth at all costs."</i>
+<i>"Friendship is Love without his wings!"</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Lord Byron</b>
 </blockquote>
 </p>
 
