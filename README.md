@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Allow the world to live as it chooses, and allow yourself to live as you choose."</i>
+<i>"All human beings can alter their lives by altering their attitudes."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
