@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One loyal friend is worth ten thousand relatives."</i>
+<i>"If you practiced for the day, then you have won. If you were lazy for the day, then you have lost."</i>
 <br>
-<b>- Euripides</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
