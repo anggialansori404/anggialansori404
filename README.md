@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To some degree, you control your life by controlling your time."</i>
+<i>"The only person who never makes mistakes is the person who never does anything."</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
