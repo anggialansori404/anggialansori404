@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only person who never makes mistakes is the person who never does anything."</i>
+<i>"The greatest achievement of humanity is not its works of art, science, or technology, but the recognition of its own dysfunction."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
