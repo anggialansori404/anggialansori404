@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Technology presumes there's just one right way to do things and there never is."</i>
+<i>"I had three chairs in my house; one for solitude, two for friendship, three for society."</i>
 <br>
-<b>- Robert M. Pirsig</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
