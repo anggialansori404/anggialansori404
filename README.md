@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you practiced for the day, then you have won. If you were lazy for the day, then you have lost."</i>
+<i>"One small positive thought can change your whole day."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
