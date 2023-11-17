@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Winning isn't always championships."</i>
+<i>"Allow the world to live as it chooses, and allow yourself to live as you choose."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
