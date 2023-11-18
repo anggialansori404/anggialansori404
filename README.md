@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One small positive thought can change your whole day."</i>
+<i>"The fewer rules a coach has, the fewer rules there are for players to break."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- John Madden</b>
 </blockquote>
 </p>
 
