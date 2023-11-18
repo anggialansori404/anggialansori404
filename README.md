@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot have what you do not want."</i>
+<i>"It is passion that makes man live; wisdom makes one only last."</i>
 <br>
-<b>- John Acosta</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
