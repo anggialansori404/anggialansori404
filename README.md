@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is just a chance to grow a soul."</i>
+<i>"You cannot have what you do not want."</i>
 <br>
-<b>- A. Powell Davies</b>
+<b>- John Acosta</b>
 </blockquote>
 </p>
 
