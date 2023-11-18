@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The fewer rules a coach has, the fewer rules there are for players to break."</i>
+<i>"Our doubts are traitors and make us lose the good we often might win, by fearing to attempt."</i>
 <br>
-<b>- John Madden</b>
+<b>- Jane Addams</b>
 </blockquote>
 </p>
 
