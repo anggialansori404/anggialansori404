@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being wrong brings the opportunity for growth."</i>
+<i>"Silence is a source of great strength."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
