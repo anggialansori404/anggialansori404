@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest achievement of humanity is not its works of art, science, or technology, but the recognition of its own dysfunction."</i>
+<i>"Adults are just children who earn money."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Kenneth Branagh</b>
 </blockquote>
 </p>
 
