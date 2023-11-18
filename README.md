@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is passion that makes man live; wisdom makes one only last."</i>
+<i>"One small positive thought can change your whole day."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
