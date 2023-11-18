@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Adults are just children who earn money."</i>
+<i>"Life is just a chance to grow a soul."</i>
 <br>
-<b>- Kenneth Branagh</b>
+<b>- A. Powell Davies</b>
 </blockquote>
 </p>
 
