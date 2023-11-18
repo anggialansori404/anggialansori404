@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our doubts are traitors and make us lose the good we often might win, by fearing to attempt."</i>
+<i>"Being wrong brings the opportunity for growth."</i>
 <br>
-<b>- Jane Addams</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
