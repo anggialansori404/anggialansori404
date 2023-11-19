@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To do all that one is able to do, is to be a man; to do all that one would like to do, is to be a god."</i>
+<i>"The less effort, the faster and more powerful you will be."</i>
 <br>
-<b>- Napoleon</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
