@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear."</i>
+<i>"Time stays long enough for anyone who will use it."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
