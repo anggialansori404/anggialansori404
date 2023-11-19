@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where the willingness is great, the difficulties cannot be great."</i>
+<i>"Happiness can exist only in acceptance."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- George Orwell</b>
 </blockquote>
 </p>
 
