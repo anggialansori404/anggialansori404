@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved."</i>
+<i>"To do all that one is able to do, is to be a man; to do all that one would like to do, is to be a god."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Napoleon</b>
 </blockquote>
 </p>
 
