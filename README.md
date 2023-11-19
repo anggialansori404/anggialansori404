@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness can exist only in acceptance."</i>
+<i>"The only reason to be alive is to enjoy it."</i>
 <br>
-<b>- George Orwell</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
