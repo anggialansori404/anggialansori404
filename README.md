@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Find something you love and do it better than everyone else."</i>
+<i>"Silence is a source of great strength."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
