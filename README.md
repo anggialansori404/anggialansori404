@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Silence is a source of great strength."</i>
+<i>"Keep your friends close, and your enemies closer."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
