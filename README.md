@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep your friends close, and your enemies closer."</i>
+<i>"On every thorn, delightful wisdom grows, in every rill a sweet instruction flows."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Edward Young</b>
 </blockquote>
 </p>
 
