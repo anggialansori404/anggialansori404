@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truth you believe and cling to makes you unavailable to hear anything new."</i>
+<i>"Find something you love and do it better than everyone else."</i>
 <br>
-<b>- Pema Chödrön</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
