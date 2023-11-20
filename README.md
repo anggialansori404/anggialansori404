@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A garden is always a series of losses set against a few triumphs, like life itself."</i>
+<i>"Peace begins with a smile."</i>
 <br>
-<b>- May Sarton</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
