@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace begins with a smile."</i>
+<i>"All our knowledge has its origins in our perceptions."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
