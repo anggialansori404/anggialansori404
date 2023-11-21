@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There's no next time. It's now or never."</i>
+<i>"The longer we dwell on our misfortunes, the greater is their power to harm us."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
