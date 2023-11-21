@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All men have a sweetness in their life. That is what helps them go on. It is towards that they turn when they feel too worn out."</i>
+<i>"People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love."</i>
 <br>
-<b>- Albert Camus</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
