@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control."</i>
+<i>"There's no next time. It's now or never."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
