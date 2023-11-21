@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love."</i>
+<i>"One's life has value so long as one attributes value to the life of others, by means of love, friendship, indignation and compassion."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Simone de Beauvoir</b>
 </blockquote>
 </p>
 
