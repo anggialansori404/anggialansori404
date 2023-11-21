@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only man who never makes mistakes is the man who never does anything."</i>
+<i>"Often in the real world, it's not the smart that get ahead, but the bold."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
