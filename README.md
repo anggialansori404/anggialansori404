@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Often in the real world, it's not the smart that get ahead, but the bold."</i>
+<i>"Work out your own salvation. Do not depend on others."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
