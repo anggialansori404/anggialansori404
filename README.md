@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you love someone, you love the person as they are, and not as you'd like them to be."</i>
+<i>"For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Mary Kay Ash</b>
 </blockquote>
 </p>
 
