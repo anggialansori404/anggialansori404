@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned."</i>
+<i>"Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
