@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour."</i>
+<i>"When you repeat a mistake, it is not a mistake anymore: it is a decision."</i>
 <br>
-<b>- Mary Kay Ash</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
