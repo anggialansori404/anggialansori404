@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you repeat a mistake, it is not a mistake anymore: it is a decision."</i>
+<i>"There is no path to Happiness. Happiness is the path."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
