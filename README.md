@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A failure is a man who has blundered but is not capable of cashing in on the experience."</i>
+<i>"The shoe that fits one person pinches another; there is no recipe for living that suits all cases."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
