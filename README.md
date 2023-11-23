@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Talk sense to a fool and he calls you foolish."</i>
+<i>"Hope arouses, as nothing else can arouse, a passion for the possible."</i>
 <br>
-<b>- Euripides</b>
+<b>- William Sloane Coffin</b>
 </blockquote>
 </p>
 
