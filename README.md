@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hope arouses, as nothing else can arouse, a passion for the possible."</i>
+<i>"You cannot find peace by avoiding life."</i>
 <br>
-<b>- William Sloane Coffin</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
