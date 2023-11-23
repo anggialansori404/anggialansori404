@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship needs no words - it is solitude delivered from the anguish of loneliness."</i>
+<i>"As you think, so shall you become."</i>
 <br>
-<b>- Dag Hammarskjöld</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
