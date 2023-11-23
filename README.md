@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take up one idea. Make that one idea your life - think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success."</i>
+<i>"When a friend is in trouble, don't annoy him by asking if there is anything you can do. Think up something appropriate and do it."</i>
 <br>
-<b>- Swami Vivekananda</b>
+<b>- A. Powell Davies</b>
 </blockquote>
 </p>
 
