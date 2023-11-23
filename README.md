@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot find peace by avoiding life."</i>
+<i>"Friendship needs no words - it is solitude delivered from the anguish of loneliness."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Dag Hammarskjöld</b>
 </blockquote>
 </p>
 
