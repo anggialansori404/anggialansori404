@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As you think, so shall you become."</i>
+<i>"Sometimes, the only way to evolve is to open ourselves fully."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
