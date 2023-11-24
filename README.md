@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living."</i>
+<i>"To lead people walk behind them."</i>
 <br>
-<b>- Anaïs Nin</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
