@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone has oceans to fly, if they have the heart to do it. Is it reckless? Maybe. But what do dreams know of boundaries."</i>
+<i>"Good advice is always certain to be ignored, but that's no reason not to give it."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Agatha Christie</b>
 </blockquote>
 </p>
 
