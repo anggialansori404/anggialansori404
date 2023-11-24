@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not that we have too little time to do all the things we need to do , it is that we feel the need to do too many things in the time we have."</i>
+<i>"There are no accidents... there is only some purpose that we haven't yet understood."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
