@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Inspiration exists, but it has to find us working."</i>
+<i>"To be wronged is nothing unless you continue to remember it."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
