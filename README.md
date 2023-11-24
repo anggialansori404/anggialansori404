@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no accidents... there is only some purpose that we haven't yet understood."</i>
+<i>"Inspiration exists, but it has to find us working."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
