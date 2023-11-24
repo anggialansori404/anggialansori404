@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't find the time, if you don't do the work, you don't get the results."</i>
+<i>"It is a miracle that curiosity survives formal education."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
