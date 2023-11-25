@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throughout this life, you can never be certain of living long enough to take another breath."</i>
+<i>"Be slow to fall into friendship; but when thou art in, continue firm and constant."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Isocrates</b>
 </blockquote>
 </p>
 
