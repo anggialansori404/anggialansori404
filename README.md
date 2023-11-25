@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I never considered a difference of opinion in politics, in religion, in philosophy, as cause for withdrawing from a friend."</i>
+<i>"'All conditioned things are impermanent' — when one sees this with wisdom, one turns away from suffering."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
