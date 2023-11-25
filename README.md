@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The spirit, the will to win, and the will to excel, are the things that endure. These qualities are so much more important than the events that occur."</i>
+<i>"Only do what your heart tells you."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Princess Diana</b>
 </blockquote>
 </p>
 
