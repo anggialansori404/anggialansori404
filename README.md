@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be wronged is nothing unless you continue to remember it."</i>
+<i>"Price is what you pay. Value is what you get."</i>
 <br>
-<b>- Confucius</b>
+<b>- Warren Buffett</b>
 </blockquote>
 </p>
 
