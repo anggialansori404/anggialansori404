@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As an organizer I start from where the world is, as it is, not as I would like it to be."</i>
+<i>"Throughout this life, you can never be certain of living long enough to take another breath."</i>
 <br>
-<b>- Saul Alinsky</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
