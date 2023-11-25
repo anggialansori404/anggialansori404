@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If life were predictable it would cease to be life, and be without flavor."</i>
+<i>"As an organizer I start from where the world is, as it is, not as I would like it to be."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Saul Alinsky</b>
 </blockquote>
 </p>
 
