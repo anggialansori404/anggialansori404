@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be slow to fall into friendship; but when thou art in, continue firm and constant."</i>
+<i>"The spirit, the will to win, and the will to excel, are the things that endure. These qualities are so much more important than the events that occur."</i>
 <br>
-<b>- Isocrates</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
