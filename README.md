@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Price is what you pay. Value is what you get."</i>
+<i>"Be confident, not certain."</i>
 <br>
-<b>- Warren Buffett</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
