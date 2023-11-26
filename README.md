@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"'All conditioned things are impermanent' — when one sees this with wisdom, one turns away from suffering."</i>
+<i>"Trust in dreams, for in them is the hidden gate to eternity.  "</i>
 <br>
-<b>- The Buddha</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
