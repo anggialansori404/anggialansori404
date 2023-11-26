@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wiser you get, the less you care to look like a fool."</i>
+<i>"Whatever you do in life, surround yourself with smart people who'll argue with you."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
