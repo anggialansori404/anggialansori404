@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you do in life, surround yourself with smart people who'll argue with you."</i>
+<i>"Enthusiasm makes up for a host of deficiencies."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
