@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is a common experience that a problem difficult at night is resolved in the morning after the committee of sleep has worked on it."</i>
+<i>"The wiser you get, the less you care to look like a fool."</i>
 <br>
-<b>- John Steinbeck</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
