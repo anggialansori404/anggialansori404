@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is ten percent what you experience and ninety percent how you respond to it."</i>
+<i>"A change is brought about because ordinary people do extraordinary things."</i>
 <br>
-<b>- Unknown</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
