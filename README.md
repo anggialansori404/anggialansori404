@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life moves on and so should we."</i>
+<i>"The desire for more positive experience is itself a negative experience."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
