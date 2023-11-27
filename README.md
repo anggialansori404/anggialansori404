@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are always free to change your mind and choose a different future, or a different past."</i>
+<i>"Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Arthur Rubinstein</b>
 </blockquote>
 </p>
 
