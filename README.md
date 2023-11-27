@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Beware of false knowledge, it is more dangerous than ignorance."</i>
+<i>"You are always free to change your mind and choose a different future, or a different past."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
