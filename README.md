@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have realized that the past and future are real illusions, that they exist in the present, which is what there is and all there is."</i>
+<i>"In the sweetness of friendship let there be laughter and sharing of pleasures. For in the dew of little things the heart finds its morning and is refreshed."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
