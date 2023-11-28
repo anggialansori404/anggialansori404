@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one can make you feel inferior without your consent."</i>
+<i>"To support mother and father, to cherish partner and children, and to be engaged in peaceful occupation — this is the greatest blessing."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
