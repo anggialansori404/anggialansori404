@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To support mother and father, to cherish partner and children, and to be engaged in peaceful occupation — this is the greatest blessing."</i>
+<i>"Accept challenges, so that you may feel the exhilaration of victory."</i>
 <br>
-<b>- The Buddha</b>
+<b>- George S. Patton</b>
 </blockquote>
 </p>
 
