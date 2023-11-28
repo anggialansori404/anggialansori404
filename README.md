@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The art challenges the technology, and the technology inspires the art."</i>
+<i>"If with a pure mind a person speaks or acts, happiness follows them like a never-departing shadow."</i>
 <br>
-<b>- John Lasseter</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
