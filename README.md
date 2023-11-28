@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Accept challenges, so that you may feel the exhilaration of victory."</i>
+<i>"The art challenges the technology, and the technology inspires the art."</i>
 <br>
-<b>- George S. Patton</b>
+<b>- John Lasseter</b>
 </blockquote>
 </p>
 
