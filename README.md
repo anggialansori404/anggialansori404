@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If with a pure mind a person speaks or acts, happiness follows them like a never-departing shadow."</i>
+<i>"Wisdom is the power to put our time and our knowledge to the proper use."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Thomas J. Watson</b>
 </blockquote>
 </p>
 
