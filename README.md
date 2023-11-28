@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be Impeccable with Your Word. Speak with integrity. Say only what you mean. Avoid using the word to speak against yourself or to gossip about others. Use the power of your word in the direction of truth and love."</i>
+<i>"Forgiveness is choosing to love. It is the first skill of self-giving love."</i>
 <br>
-<b>- Don Miguel Ruiz</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
