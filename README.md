@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Forgiveness is choosing to love. It is the first skill of self-giving love."</i>
+<i>"Turn the pain into power."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
