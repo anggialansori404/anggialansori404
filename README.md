@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You spend a good piece of your life gripping a baseball and in the end it turns out that it was the other way around all the time."</i>
+<i>"Concentrated power has always been the enemy of liberty."</i>
 <br>
-<b>- Jim Bouton</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
