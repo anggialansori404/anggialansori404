@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great things are not accomplished by those who yield to trends and fads and popular opinion."</i>
+<i>"Make your mind your own business."</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
