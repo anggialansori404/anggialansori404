@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no failure except in no longer trying."</i>
+<i>"You spend a good piece of your life gripping a baseball and in the end it turns out that it was the other way around all the time."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Jim Bouton</b>
 </blockquote>
 </p>
 
