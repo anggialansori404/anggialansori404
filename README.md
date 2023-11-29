@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"This is such a short and precious life that it's really important that you don't spend it being unhappy."</i>
+<i>"Identify your problems, but give your power and energy to solutions."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
