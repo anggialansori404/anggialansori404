@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Identify your problems, but give your power and energy to solutions."</i>
+<i>"Goals are the fuel in the furnace of achievement."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
