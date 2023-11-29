@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make your mind your own business."</i>
+<i>"Turn your face to the sun, as flowers know how to do."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
