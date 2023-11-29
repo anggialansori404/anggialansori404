@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You give before you get."</i>
+<i>"There is no failure except in no longer trying."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
