@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Meaning is not what you start with but what you end up with."</i>
+<i>"The spirit, the will to win, and the will to excel, are the things that endure. These qualities are so much more important than the events that occur."</i>
 <br>
-<b>- Peter Elbow</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
