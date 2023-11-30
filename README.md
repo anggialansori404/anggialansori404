@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity."</i>
+<i>"I look forward to a great future for America - a future in which our country will match its military strength with our moral restraint, its wealth with our wisdom, its power with our purpose."</i>
 <br>
-<b>- William C. Menninger</b>
+<b>- John F. Kennedy</b>
 </blockquote>
 </p>
 
