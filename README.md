@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Goals are the fuel in the furnace of achievement."</i>
+<i>"The past has no power to stop you from being present now. Only your grievance about the past can do that."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
