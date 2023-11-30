@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The spirit, the will to win, and the will to excel, are the things that endure. These qualities are so much more important than the events that occur."</i>
+<i>"Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- William C. Menninger</b>
 </blockquote>
 </p>
 
