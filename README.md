@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The past has no power to stop you from being present now. Only your grievance about the past can do that."</i>
+<i>"Motivation is the art of getting people to do what you want them to do because they want to do it."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Dwight D. Eisenhower</b>
 </blockquote>
 </p>
 
