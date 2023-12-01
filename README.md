@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better."</i>
+<i>"All animals except man know that the principal business of life is to enjoy it."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
