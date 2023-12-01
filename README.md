@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A monarchy conducted with infinite wisdom and infinite benevolence is the most perfect of all possible governments."</i>
+<i>"Those who cling to perceptions and views wander the world offending people."</i>
 <br>
-<b>- Ezra Stiles</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
