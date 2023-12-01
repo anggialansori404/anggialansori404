@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wit is educated insolence."</i>
+<i>"A monarchy conducted with infinite wisdom and infinite benevolence is the most perfect of all possible governments."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Ezra Stiles</b>
 </blockquote>
 </p>
 
