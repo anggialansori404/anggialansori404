@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is going from failure to failure without losing enthusiasm."</i>
+<i>"Allow motion to equal emotion."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
