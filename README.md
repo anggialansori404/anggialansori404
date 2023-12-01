@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who cling to perceptions and views wander the world offending people."</i>
+<i>"The key to success is failure."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
