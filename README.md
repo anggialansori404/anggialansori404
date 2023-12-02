@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By accepting yourself and being fully what you are, your presence can make others happy."</i>
+<i>"He who is not contented with what he has, would not be contented with what he would like to have."</i>
 <br>
-<b>- Jane Roberts</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
