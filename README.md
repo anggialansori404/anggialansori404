@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know."</i>
+<i>"People do not decide their futures, they decide their habits and their habits decide their futures."</i>
 <br>
-<b>- William Saroyan</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
