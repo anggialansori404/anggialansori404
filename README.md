@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you feed your mind with positive thoughts, the more you can attract great things into your life."</i>
+<i>"A true friend is someone who is there for you when he'd rather be anywhere else."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Len Wein</b>
 </blockquote>
 </p>
 
