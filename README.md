@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The person born with a talent they are meant to use will find their greatest happiness in using it."</i>
+<i>"Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- William Saroyan</b>
 </blockquote>
 </p>
 
