@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every strike brings me closer to the next home run. "</i>
+<i>"Discipline yourself, and others won't need to."</i>
 <br>
-<b>- Babe Ruth</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
