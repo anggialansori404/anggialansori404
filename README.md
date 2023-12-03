@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The art of being happy lies in the power of extracting happiness from common things."</i>
+<i>"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Albert Schweitzer</b>
 </blockquote>
 </p>
 
