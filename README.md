@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A Penny Saved is a Penny Earned"</i>
+<i>"The only person who never makes mistakes is the person who never does anything."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
