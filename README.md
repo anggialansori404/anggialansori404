@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Government of the people, by the people, for the people, shall not perish from the Earth."</i>
+<i>"The art of being happy lies in the power of extracting happiness from common things."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
