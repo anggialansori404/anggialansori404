@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Discipline yourself, and others won't need to."</i>
+<i>"Friendship always benefits; love sometimes injures."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
