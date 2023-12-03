@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful."</i>
+<i>"There are things so deep and complex that only intuition can reach it in our stage of development as human beings."</i>
 <br>
-<b>- Albert Schweitzer</b>
+<b>- John Astin</b>
 </blockquote>
 </p>
 
