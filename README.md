@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only person who never makes mistakes is the person who never does anything."</i>
+<i>"Government of the people, by the people, for the people, shall not perish from the Earth."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
