@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want something you've never had you must be willing to do something you've never done."</i>
+<i>"It is a characteristic of wisdom not to do desperate things."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
