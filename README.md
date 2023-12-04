@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is a characteristic of wisdom not to do desperate things."</i>
+<i>"There is nothing impossible to him who will try."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Alexander the Great</b>
 </blockquote>
 </p>
 
