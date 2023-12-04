@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't smother each other. No one can grow in the shade."</i>
+<i>"When we have our body and mind in order, everything else will exist in the right place, in the right way."</i>
 <br>
-<b>- Leo Buscaglia</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
