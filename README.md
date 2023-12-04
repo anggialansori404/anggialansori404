@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I know where I'm going and I know the truth, and I don't have to be what you want me to be. I'm free to be what I want."</i>
+<i>"Life would be tragic if it weren't funny."</i>
 <br>
-<b>- Muhammad Ali</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
