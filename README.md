@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything starts with a dream. A particle of our imagination that teases us of what the future could be like, as long as we fight for it."</i>
+<i>"I know not age, nor weariness nor defeat."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Rose Kennedy</b>
 </blockquote>
 </p>
 
