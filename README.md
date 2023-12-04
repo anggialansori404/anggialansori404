@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them."</i>
+<i>"Don't smother each other. No one can grow in the shade."</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- Leo Buscaglia</b>
 </blockquote>
 </p>
 
