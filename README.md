@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When we have our body and mind in order, everything else will exist in the right place, in the right way."</i>
+<i>"I know where I'm going and I know the truth, and I don't have to be what you want me to be. I'm free to be what I want."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Muhammad Ali</b>
 </blockquote>
 </p>
 
