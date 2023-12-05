@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even an animal, if you show genuine affection, gradually trust develops... If you always showing bad face and beating, how can you develop friendship?"</i>
+<i>"Life is a progress, and not a station."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
