@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A real friend is one who walks in when the rest of the world walks out."</i>
+<i>"Even an animal, if you show genuine affection, gradually trust develops... If you always showing bad face and beating, how can you develop friendship?"</i>
 <br>
-<b>- Walter Winchell</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
