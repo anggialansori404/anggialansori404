@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a progress, and not a station."</i>
+<i>"The more light you allow within you, the brighter the world you live in will be."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Shakti Gawain</b>
 </blockquote>
 </p>
 
