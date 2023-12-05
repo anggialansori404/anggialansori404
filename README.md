@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all self-made, but only the successful will admit it."</i>
+<i>"A real friend is one who walks in when the rest of the world walks out."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Walter Winchell</b>
 </blockquote>
 </p>
 
