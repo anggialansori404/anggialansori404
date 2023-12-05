@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more light you allow within you, the brighter the world you live in will be."</i>
+<i>"Plants grow weak without wind."</i>
 <br>
-<b>- Shakti Gawain</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
