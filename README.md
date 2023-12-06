@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Behind every beautiful thing, there's some kind of pain."</i>
+<i>"Each time we don't say what we wanna say, we're dying."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
