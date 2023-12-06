@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one has ever become poor by giving."</i>
+<i>"We win by helping each other win."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
