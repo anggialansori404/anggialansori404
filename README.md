@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"May our hearts garden of awakening bloom with hundreds of flowers."</i>
+<i>"The truest greatness lies in being kind, the truest wisdom in a happy mind."</i>
 <br>
-<b>- Thích Nhất Hạnh</b>
+<b>- Ella Wheeler Wilcox</b>
 </blockquote>
 </p>
 
