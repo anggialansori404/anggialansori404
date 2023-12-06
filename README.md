@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is not a goal...it's a by-product of a life well lived."</i>
+<i>"Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. "</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
