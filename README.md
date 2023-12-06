@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I can't listen to that much Wagner. I start getting the urge to conquer Poland."</i>
+<i>"Behind every beautiful thing, there's some kind of pain."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
