@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truest greatness lies in being kind, the truest wisdom in a happy mind."</i>
+<i>"Every day is a new opportunity. You can build on yesterday's success or put its failures behind and start over again. That's the way life is, with a new game every day, and that's the way baseball is."</i>
 <br>
-<b>- Ella Wheeler Wilcox</b>
+<b>- Bob Feller</b>
 </blockquote>
 </p>
 
