@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit."</i>
+<i>"A friendship founded on business is better than a business founded on friendship."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
