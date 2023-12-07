@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If one does not know to which port is sailing, no wind is favorable."</i>
+<i>"Human beings, who are almost unique in having the ability to learn from the experience of others, are also remarkable for their apparent disinclination to do so."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Douglas Adams</b>
 </blockquote>
 </p>
 
