@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As you walk in God's divine wisdom, you will surely begin to see a greater measure of victory and good success in your life."</i>
+<i>"When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness."</i>
 <br>
-<b>- Joseph Prince</b>
+<b>- Joseph Campbell</b>
 </blockquote>
 </p>
 
