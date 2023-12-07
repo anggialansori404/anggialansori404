@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Obstacles are those frightful things you see when you take your eyes off your goal."</i>
+<i>"As you walk in God's divine wisdom, you will surely begin to see a greater measure of victory and good success in your life."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Joseph Prince</b>
 </blockquote>
 </p>
 
