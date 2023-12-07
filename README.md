@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not all those who wander are lost."</i>
+<i>"The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails."</i>
 <br>
-<b>- J. R. R. Tolkien</b>
+<b>- William Arthur Ward</b>
 </blockquote>
 </p>
 
