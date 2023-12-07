@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are out to describe the truth, leave elegance to the tailor."</i>
+<i>"The world makes way for the man who knows where he is going."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
