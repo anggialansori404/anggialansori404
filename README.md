@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails."</i>
+<i>"I am always doing that which I cannot do, in order that I may learn how to do it."</i>
 <br>
-<b>- William Arthur Ward</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
