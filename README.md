@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be. "</i>
+<i>"There is never enough time to do everything, but there is always enough time to do the most important thing."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
