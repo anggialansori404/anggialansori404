@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The deepest craving of human nature is the need to be appreciated."</i>
+<i>"Friendship is like money, easier made than kept."</i>
 <br>
-<b>- William James</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
