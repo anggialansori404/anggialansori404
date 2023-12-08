@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is never enough time to do everything, but there is always enough time to do the most important thing."</i>
+<i>"The deepest craving of human nature is the need to be appreciated."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
