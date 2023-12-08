@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better to have loved and lost, than to have never loved at all."</i>
+<i>"Happiness does not come from doing easy work but from the afterglow of satisfaction that comes after the achievement of a difficult task that demanded our best."</i>
 <br>
-<b>- Augustine of Hippo</b>
+<b>- Theodore Isaac Rubin</b>
 </blockquote>
 </p>
 
