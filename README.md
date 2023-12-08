@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am always doing that which I cannot do, in order that I may learn how to do it."</i>
+<i>"To be wrong is nothing unless you continue to remember it."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
