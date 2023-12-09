@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every failure brings with it the seed of an equivalent success."</i>
+<i>"Trust only movement. Life happens at the level of events, not of words. Trust movement."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
