@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness does not come from doing easy work but from the afterglow of satisfaction that comes after the achievement of a difficult task that demanded our best."</i>
+<i>"The awareness of our own strength makes us modest."</i>
 <br>
-<b>- Theodore Isaac Rubin</b>
+<b>- Paul Cézanne</b>
 </blockquote>
 </p>
 
