@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The awareness of our own strength makes us modest."</i>
+<i>"You know you are on the road to success if you would do your job and not be paid for it."</i>
 <br>
-<b>- Paul Cézanne</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
