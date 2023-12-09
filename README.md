@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One secret of success in life is for a man to be ready for his opportunity when it comes."</i>
+<i>"Every great change is preceded by chaos."</i>
 <br>
-<b>- Benjamin Disraeli</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
