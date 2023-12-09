@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men in general judge more from appearances than from reality. All men have eyes, but few have the gift of penetration."</i>
+<i>"All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable."</i>
 <br>
-<b>- Niccolò Machiavelli</b>
+<b>- Kathleen Norris</b>
 </blockquote>
 </p>
 
