@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable."</i>
+<i>"Hell, there are no rules here-- we're trying to accomplish something."</i>
 <br>
-<b>- Kathleen Norris</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
