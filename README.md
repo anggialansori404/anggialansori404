@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust only movement. Life happens at the level of events, not of words. Trust movement."</i>
+<i>"Life is about not knowing and then doing something anyway."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
