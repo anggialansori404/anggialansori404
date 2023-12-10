@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are out to describe the truth, leave elegance to the tailor."</i>
+<i>"When you realize there is nothing lacking, the whole world belongs to you."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
