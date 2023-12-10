@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thinking is the hardest work there is, which is probably the reason why so few engage in it."</i>
+<i>"It's the possibility of having a dream come true that makes life interesting."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
