@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is the highest kite one can fly."</i>
+<i>"He who conquers others is strong; He who conquers himself is mighty."</i>
 <br>
-<b>- Lauren Bacall</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
