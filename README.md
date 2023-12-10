@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where there is anger, there is always pain underneath."</i>
+<i>"If you are out to describe the truth, leave elegance to the tailor."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
