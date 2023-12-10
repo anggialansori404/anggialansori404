@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything begins with an idea."</i>
+<i>"Love is blind; friendship closes its eyes."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Friedrich Nietzsche</b>
 </blockquote>
 </p>
 
