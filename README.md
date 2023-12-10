@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who conquers others is strong; He who conquers himself is mighty."</i>
+<i>"Where there is anger, there is always pain underneath."</i>
 <br>
-<b>- Laozi</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
