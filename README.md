@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you realize there is nothing lacking, the whole world belongs to you."</i>
+<i>"To enjoy life, we must touch much of it lightly."</i>
 <br>
-<b>- Laozi</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
