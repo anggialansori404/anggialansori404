@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Difficulties are things that show a person what they are."</i>
+<i>"Sustaining true friendship is a lot more challenging than we give it credit for."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Mariella Frostrup</b>
 </blockquote>
 </p>
 
