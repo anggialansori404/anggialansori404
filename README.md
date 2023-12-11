@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An intelligence test sometimes shows a man how smart he would have been not to have taken it."</i>
+<i>"Difficulties are things that show a person what they are."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
