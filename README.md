@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you break your neck, if you have nothing to eat, if your house is on fire, then you got a problem. Everything else is inconvenience."</i>
+<i>"No man becomes rich unless he enriches others."</i>
 <br>
-<b>- Robert Fulghum</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
