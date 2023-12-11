@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sustaining true friendship is a lot more challenging than we give it credit for."</i>
+<i>"If you break your neck, if you have nothing to eat, if your house is on fire, then you got a problem. Everything else is inconvenience."</i>
 <br>
-<b>- Mariella Frostrup</b>
+<b>- Robert Fulghum</b>
 </blockquote>
 </p>
 
