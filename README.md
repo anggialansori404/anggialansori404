@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself."</i>
+<i>"Life is too short to waste your time on people who don't respect, appreciate, and value you."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
