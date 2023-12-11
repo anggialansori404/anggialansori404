@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness does not come from having much, but from being attached to little."</i>
+<i>"Nothing endures but change."</i>
 <br>
-<b>- Cheng Yen</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
