@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must reach out our hand in friendship and dignity both to those who would befriend us and those who would be our enemy."</i>
+<i>"Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself."</i>
 <br>
-<b>- Arthur Ashe</b>
+<b>- Henry Reed</b>
 </blockquote>
 </p>
 
