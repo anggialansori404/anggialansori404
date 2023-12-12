@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Meetings are indispensable when you don't want to do anything."</i>
+<i>"Wisdom is always an overmatch for strength."</i>
 <br>
-<b>- John Kenneth Galbraith</b>
+<b>- Phil Jackson</b>
 </blockquote>
 </p>
 
