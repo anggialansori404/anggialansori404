@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trying to define yourself is like trying to bite your own teeth."</i>
+<i>"Meetings are indispensable when you don't want to do anything."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- John Kenneth Galbraith</b>
 </blockquote>
 </p>
 
