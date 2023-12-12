@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If one does not know to which port is sailing, no wind is favorable."</i>
+<i>"Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Robert Graves</b>
 </blockquote>
 </p>
 
