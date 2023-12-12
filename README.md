@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself."</i>
+<i>"The ones who are crazy enough to think they can change the world, are the ones that do."</i>
 <br>
-<b>- Henry Reed</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
