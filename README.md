@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't blame others. it won't make you a better person."</i>
+<i>"We must reach out our hand in friendship and dignity both to those who would befriend us and those who would be our enemy."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Arthur Ashe</b>
 </blockquote>
 </p>
 
