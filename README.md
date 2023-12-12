@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Doing what you love is the cornerstone of having abundance in your life. "</i>
+<i>"If one does not know to which port is sailing, no wind is favorable."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
