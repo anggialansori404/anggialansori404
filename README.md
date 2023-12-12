@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut."</i>
+<i>"Don't blame others. it won't make you a better person."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
