@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people do what unsuccessful people are not willing to do."</i>
+<i>"Doing what you love is the cornerstone of having abundance in your life. "</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
