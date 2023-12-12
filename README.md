@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One never does wrong by doing right."</i>
+<i>"If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
