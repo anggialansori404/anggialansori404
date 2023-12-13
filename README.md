@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whether you think you can or think you can't – you are right."</i>
+<i>"You get in life what you have the courage to ask for."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
