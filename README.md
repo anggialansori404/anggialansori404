@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Freedom lies in being bold."</i>
+<i>"Life has no blessing like a prudent friend."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
