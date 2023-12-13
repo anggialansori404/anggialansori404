@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's the little things done consistently over time, straight from your heart, that have the greatest impact."</i>
+<i>"Judgments prevent us from seeing the good that lies beyond appearances.  "</i>
 <br>
-<b>- Unknown</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
