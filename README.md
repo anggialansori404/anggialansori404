@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer."</i>
+<i>"Trying to sneak a fastball past Hank Aaron is like trying to sneak the sunrise past a rooster."</i>
 <br>
-<b>- Robert Graves</b>
+<b>- Joe Adcock</b>
 </blockquote>
 </p>
 
