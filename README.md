@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change in all things is sweet."</i>
+<i>"Whether you think you can or think you can't – you are right."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
