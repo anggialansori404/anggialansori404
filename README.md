@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The hard path is often the right one. The river teaches more than the shore."</i>
+<i>"Wrinkles should merely indicate where smiles have been."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
