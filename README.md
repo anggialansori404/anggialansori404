@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Should a seeker not find a companion who is better or equal, let them resolutely pursue a solitary course."</i>
+<i>"The hard path is often the right one. The river teaches more than the shore."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
