@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let the silly little dramas of each day get you down. For you are here to do great things."</i>
+<i>"Everyone thinks of changing the world, but no one thinks of changing himself."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
