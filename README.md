@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I never considered a difference of opinion in politics, in religion, in philosophy, as cause for withdrawing from a friend."</i>
+<i>"When you want to be honored by others, you learn to honor them first."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
