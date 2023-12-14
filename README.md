@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone thinks of changing the world, but no one thinks of changing himself."</i>
+<i>"True friendship ought never to conceal what it thinks."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Jerome</b>
 </blockquote>
 </p>
 
