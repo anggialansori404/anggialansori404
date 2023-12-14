@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We're responsible for everything that happens to us."</i>
+<i>"Should a seeker not find a companion who is better or equal, let them resolutely pursue a solitary course."</i>
 <br>
-<b>- Yanni</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
