@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your gift is something that you can do innately better than anything else."</i>
+<i>"Don't let the silly little dramas of each day get you down. For you are here to do great things."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
