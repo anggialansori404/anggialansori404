@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task."</i>
+<i>"We're responsible for everything that happens to us."</i>
 <br>
-<b>- William James</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
