@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is within the reach of just about everyone."</i>
+<i>"One small positive thought can change your whole day."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
