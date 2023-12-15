@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't judge each day by the harvest you reap but by the seeds that you plant."</i>
+<i>"The World is my country, all mankind are my brethren, and to do good is my religion."</i>
 <br>
-<b>- Robert Louis Stevenson</b>
+<b>- Thomas Paine</b>
 </blockquote>
 </p>
 
