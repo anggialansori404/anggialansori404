@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The chief cause of failure and unhappiness is trading what you want most for what you want right now."</i>
+<i>"The road to success and the road to failure are almost exactly the same."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Colin R. Davis</b>
 </blockquote>
 </p>
 
