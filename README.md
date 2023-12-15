@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A real friend is one who walks in when the rest of the world walks out."</i>
+<i>"Don't judge each day by the harvest you reap but by the seeds that you plant."</i>
 <br>
-<b>- Walter Winchell</b>
+<b>- Robert Louis Stevenson</b>
 </blockquote>
 </p>
 
