@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man should look for what is, and not for what he thinks should be."</i>
+<i>"Golf is a game in which one endeavors to control a ball with implements ill adapted for the purpose."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Woodrow Wilson</b>
 </blockquote>
 </p>
 
