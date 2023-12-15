@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you want to be honored by others, you learn to honor them first."</i>
+<i>"Success is within the reach of just about everyone."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
