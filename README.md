@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Golf is a game in which one endeavors to control a ball with implements ill adapted for the purpose."</i>
+<i>"The chief cause of failure and unhappiness is trading what you want most for what you want right now."</i>
 <br>
-<b>- Woodrow Wilson</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
