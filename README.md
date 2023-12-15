@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mistakes are the usual bridge between inexperience and wisdom."</i>
+<i>"You do not read a book for the book's sake, but for your own."</i>
 <br>
-<b>- Phyllis Grissim-Theroux</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
