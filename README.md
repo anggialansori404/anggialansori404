@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Watch the little things; a small leak will sink a great ship."</i>
+<i>"No snowflake in an avalanche ever feels responsible."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
