@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone you meet is fighting a battle you know nothing about. Be kind. Always."</i>
+<i>"The more people you help become successful the more successful you become."</i>
 <br>
-<b>- Robin Williams</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
