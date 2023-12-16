@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The World is my country, all mankind are my brethren, and to do good is my religion."</i>
+<i>"What we see depends mainly on what we look for."</i>
 <br>
-<b>- Thomas Paine</b>
+<b>- John Lubbock</b>
 </blockquote>
 </p>
 
