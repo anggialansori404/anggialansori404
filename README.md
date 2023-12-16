@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No snowflake in an avalanche ever feels responsible."</i>
+<i>"Everyone you meet is fighting a battle you know nothing about. Be kind. Always."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Robin Williams</b>
 </blockquote>
 </p>
 
