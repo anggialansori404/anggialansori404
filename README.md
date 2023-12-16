@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship at first sight, like love at first sight, is said to be the only truth."</i>
+<i>"Do all things with love."</i>
 <br>
-<b>- Herman Melville</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
