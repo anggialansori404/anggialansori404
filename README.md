@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not turn back when you are just at the goal."</i>
+<i>"Watch the little things; a small leak will sink a great ship."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
