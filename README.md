@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more people you help become successful the more successful you become."</i>
+<i>"The guest will judge better of a feast than the cook."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
