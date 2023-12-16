@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The guest will judge better of a feast than the cook."</i>
+<i>"If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
