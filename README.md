@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You become stronger with every problem you face and every obstacle you overcome."</i>
+<i>"People take different roads seeking fulfilment and happiness. Just because they're not on your road doesn't mean they've gotten lost."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
