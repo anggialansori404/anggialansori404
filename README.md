@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You always succeed in producing a result."</i>
+<i>"There is no such thing as a great talent without great willpower."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
