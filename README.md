@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing can bring you peace but yourself."</i>
+<i>"You were not born a winner, and you were not born a loser. You are what you make yourself be."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Lou Holtz</b>
 </blockquote>
 </p>
 
