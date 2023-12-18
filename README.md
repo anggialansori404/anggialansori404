@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Vision is the art of seeing things invisible."</i>
+<i>"Duty makes us do things well, but love makes us do them beautifully.  "</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
