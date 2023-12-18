@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never deny a diagnosis but do deny the negative verdict that may go with it."</i>
+<i>"It is in your moments of decision that your destiny is shaped."</i>
 <br>
-<b>- Norman Cousins</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
