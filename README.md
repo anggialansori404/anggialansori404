@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The doorstep to the temple of wisdom is a knowledge of our own ignorance."</i>
+<i>"Never deny a diagnosis but do deny the negative verdict that may go with it."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Norman Cousins</b>
 </blockquote>
 </p>
 
