@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are two kinds of perfect people: those who are dead, and those who have not been born yet."</i>
+<i>"Go for it now. The future is promised to no one."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
