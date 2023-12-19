@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far."</i>
+<i>"If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away."</i>
 <br>
-<b>- Swami Vivekananda</b>
+<b>- John Steinbeck</b>
 </blockquote>
 </p>
 
