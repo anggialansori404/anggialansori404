@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ethical axioms are found and tested not very differently from the axioms of science. Truth is what stands the test of experience."</i>
+<i>"We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Swami Vivekananda</b>
 </blockquote>
 </p>
 
