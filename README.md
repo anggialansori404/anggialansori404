@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are two ways of spreading light: to be the candle or the mirror that reflects it."</i>
+<i>"Ethical axioms are found and tested not very differently from the axioms of science. Truth is what stands the test of experience."</i>
 <br>
-<b>- Edith Wharton</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
