@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Music in the soul can be heard by the universe."</i>
+<i>"Everyone has the right to make his own decisions, but none has the right to force his decision on others."</i>
 <br>
-<b>- Laozi</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
