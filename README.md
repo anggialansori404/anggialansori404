@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence."</i>
+<i>"There are two ways of spreading light: to be the candle or the mirror that reflects it."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Edith Wharton</b>
 </blockquote>
 </p>
 
