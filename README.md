@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Poverty and hardship are created by false thinking."</i>
+<i>"Music in the soul can be heard by the universe."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
