@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness."</i>
+<i>"However difficult life may seem, there is always something you can do and succeed at."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
