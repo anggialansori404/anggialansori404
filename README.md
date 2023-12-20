@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love has no age, no limit; and no death."</i>
+<i>"Successful people appreciate where they have come from, but they don't let their past set the tone for their future."</i>
 <br>
-<b>- John Galsworthy</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
