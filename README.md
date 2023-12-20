@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship without self-interest is one of the rare and beautiful things of life."</i>
+<i>"The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions."</i>
 <br>
-<b>- James F. Byrnes</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
