@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best."</i>
+<i>"There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness."</i>
 <br>
-<b>- Marilyn Monroe</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
