@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people appreciate where they have come from, but they don't let their past set the tone for their future."</i>
+<i>"A wise man will make more opportunities than he finds."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Francis Bacon</b>
 </blockquote>
 </p>
 
