@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A wise man will make more opportunities than he finds."</i>
+<i>"Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday."</i>
 <br>
-<b>- Francis Bacon</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
