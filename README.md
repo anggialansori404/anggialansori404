@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"However difficult life may seem, there is always something you can do and succeed at."</i>
+<i>"Love has no age, no limit; and no death."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- John Galsworthy</b>
 </blockquote>
 </p>
 
