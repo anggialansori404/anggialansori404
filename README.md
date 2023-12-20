@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Kind words can be short and easy to speak, but their echoes are truly endless."</i>
+<i>"Friendship without self-interest is one of the rare and beautiful things of life."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- James F. Byrnes</b>
 </blockquote>
 </p>
 
