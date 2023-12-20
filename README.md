@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday."</i>
+<i>"There is no retirement for an artist, it's your way of living so there is no end to it."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Henry Moore</b>
 </blockquote>
 </p>
 
