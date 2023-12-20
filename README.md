@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no retirement for an artist, it's your way of living so there is no end to it."</i>
+<i>"Kind words can be short and easy to speak, but their echoes are truly endless."</i>
 <br>
-<b>- Henry Moore</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
