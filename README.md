@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be not angry that you cannot make others as you wish them to be, since you cannot make yourself as you wish to be."</i>
+<i>"Nothing diminishes anxiety faster than action."</i>
 <br>
-<b>- Thomas à Kempis</b>
+<b>- Walter Inglis Anderson</b>
 </blockquote>
 </p>
 
