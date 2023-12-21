@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing in life is to be feared. It is only to be understood."</i>
+<i>"Be not angry that you cannot make others as you wish them to be, since you cannot make yourself as you wish to be."</i>
 <br>
-<b>- Marie Curie</b>
+<b>- Thomas à Kempis</b>
 </blockquote>
 </p>
 
