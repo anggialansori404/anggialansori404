@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are always free to change your mind and choose a different future, or a different past."</i>
+<i>"The only thing new in the world is the history you do not know."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
