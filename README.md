@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions."</i>
+<i>"You are always free to change your mind and choose a different future, or a different past."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
