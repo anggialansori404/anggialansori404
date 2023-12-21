@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life may be full of pain but that's not an excuse to give up."</i>
+<i>"Take care of your body. It's the only place you have to live."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
