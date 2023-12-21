@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Liberty, taking the word in its concrete sense, consists in the ability to choose."</i>
+<i>"Many of life's failures are people who did not realize how close they were to success when they gave up."</i>
 <br>
-<b>- Simone Weil</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
