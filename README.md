@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be fully alive, fully human, and completely awake is to be continually thrown out of the nest."</i>
+<i>"Liberty, taking the word in its concrete sense, consists in the ability to choose."</i>
 <br>
-<b>- Pema Chödrön</b>
+<b>- Simone Weil</b>
 </blockquote>
 </p>
 
