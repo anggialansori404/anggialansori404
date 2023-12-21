@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Many of life's failures are people who did not realize how close they were to success when they gave up."</i>
+<i>"Every man desires to live long, but no man wishes to be old."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
