@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'd rather attempt to do something great and fail than to attempt to do nothing and succeed."</i>
+<i>"Mastering others is strength, mastering yourself is true power."</i>
 <br>
-<b>- Robert Schuller</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
