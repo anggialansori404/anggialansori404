@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world."</i>
+<i>"Most people are about as happy as they make up their minds to be"</i>
 <br>
-<b>- Harriet Tubman</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
