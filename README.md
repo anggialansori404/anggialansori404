@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Through perseverance many people win success out of what seemed destined to be certain failure."</i>
+<i>"He who knows himself is enlightened."</i>
 <br>
-<b>- Benjamin Disraeli</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
