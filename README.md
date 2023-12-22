@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We cannot change anything unless we accept it."</i>
+<i>"Those who attain the middle Dominate the whole."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
