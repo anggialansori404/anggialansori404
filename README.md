@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To judge a man by his weakest link or deed is like judging the power of the ocean by one wave."</i>
+<i>"How you think when you lose determines how long it will be until you win."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
