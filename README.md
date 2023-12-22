@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"With the realization of one's own potential and self-confidence in one's ability, one can build a better world."</i>
+<i>"I'd rather attempt to do something great and fail than to attempt to do nothing and succeed."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Robert Schuller</b>
 </blockquote>
 </p>
 
