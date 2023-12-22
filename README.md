@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How you think when you lose determines how long it will be until you win."</i>
+<i>"Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Harriet Tubman</b>
 </blockquote>
 </p>
 
