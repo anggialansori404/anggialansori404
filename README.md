@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship... is not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything."</i>
+<i>"The power of man has grown in every sphere, except over himself."</i>
 <br>
-<b>- Muhammad Ali</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
