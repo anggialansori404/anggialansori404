@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can tell more about a person by what he says about others than you can by what others say about him."</i>
+<i>"If you set your goals ridiculously high and its a failure, you will fail above everyone elses success."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- James Cameron</b>
 </blockquote>
 </p>
 
