@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you set your goals ridiculously high and its a failure, you will fail above everyone elses success."</i>
+<i>"Friendship... is not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything."</i>
 <br>
-<b>- James Cameron</b>
+<b>- Muhammad Ali</b>
 </blockquote>
 </p>
 
