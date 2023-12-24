@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just do the best you can. No one can do more than that."</i>
+<i>"Communications tools don't get socially interesting until they get technologically boring."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Clay Shirky</b>
 </blockquote>
 </p>
 
