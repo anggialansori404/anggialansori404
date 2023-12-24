@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Accept challenges, so that you may feel the exhilaration of victory."</i>
+<i>"I'm not interested in age. People who tell me their age are silly. You're as old as you feel."</i>
 <br>
-<b>- George S. Patton</b>
+<b>- Elizabeth Arden</b>
 </blockquote>
 </p>
 
