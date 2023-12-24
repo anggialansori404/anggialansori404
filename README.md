@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It always seems impossible until it's done."</i>
+<i>"A creative man is motivated by the desire to achieve, not by the desire to beat others."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
