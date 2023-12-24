@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest test of courage on earth is to bear defeat without losing heart."</i>
+<i>"It always seems impossible until it's done."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
