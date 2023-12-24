@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities."</i>
+<i>"You have enemies? Good. That means you've stood up for something, sometime in your life."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
