@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The key to success is failure."</i>
+<i>"Fear is stupid. So are regrets."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Marilyn Monroe</b>
 </blockquote>
 </p>
 
