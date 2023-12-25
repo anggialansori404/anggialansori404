@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only I can change my life. No one can do it for me."</i>
+<i>"Those who know, do. Those that understand, teach."</i>
 <br>
-<b>- Carol Burnett</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
