@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even if you're on the right track, you'll get run over if you just sit there."</i>
+<i>"Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
