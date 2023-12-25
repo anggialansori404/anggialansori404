@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It takes courage to grow up and become who you really are."</i>
+<i>"The key to success is failure."</i>
 <br>
-<b>- E. E. Cummings</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
