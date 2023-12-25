@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Communications tools don't get socially interesting until they get technologically boring."</i>
+<i>"There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered."</i>
 <br>
-<b>- Clay Shirky</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
