@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy."</i>
+<i>"Learning is the beginning of wealth. Learning is the beginning of health. Learning is the beginning of spirituality. Searching and learning is where the miracle process all begins."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
