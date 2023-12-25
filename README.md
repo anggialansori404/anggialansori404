@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear is stupid. So are regrets."</i>
+<i>"Only I can change my life. No one can do it for me."</i>
 <br>
-<b>- Marilyn Monroe</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
