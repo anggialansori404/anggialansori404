@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Appreciation is the highest form of prayer, for it acknowledges the presence of good wherever you shine the light of your thankful thoughts."</i>
+<i>"Friendship may, and often does, grow into love, but love never subsides into friendship."</i>
 <br>
-<b>- Alan Cohen</b>
+<b>- Lord Byron</b>
 </blockquote>
 </p>
 
