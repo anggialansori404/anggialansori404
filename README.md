@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship may, and often does, grow into love, but love never subsides into friendship."</i>
+<i>"Even if you're on the right track, you'll get run over if you just sit there."</i>
 <br>
-<b>- Lord Byron</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
