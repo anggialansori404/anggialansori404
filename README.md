@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be like the flower, turn your face to the sun."</i>
+<i>"We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
