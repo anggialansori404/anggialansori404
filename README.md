@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The meaning of life is just to be alive. It is so plain and so obvious and so simple."</i>
+<i>"All children are artists. The problem is how to remain an artist once he grows up."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
