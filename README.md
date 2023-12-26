@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing we see or hear is perfect. But right there in the imperfection is perfect reality."</i>
+<i>"Be like the flower, turn your face to the sun."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
