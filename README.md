@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light."</i>
+<i>"Everyone you meet is fighting a battle you know nothing about. Be kind. Always."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Robin Williams</b>
 </blockquote>
 </p>
 
