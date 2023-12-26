@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All of our technology is completely unnecessary to a happy life."</i>
+<i>"The meaning of life is just to be alive. It is so plain and so obvious and so simple."</i>
 <br>
-<b>- Tom Hodgkinson</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
