@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All children are artists. The problem is how to remain an artist once he grows up."</i>
+<i>"Curiosity is the most powerful thing you own."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- James Cameron</b>
 </blockquote>
 </p>
 
