@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain."</i>
+<i>"Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Eustace Budgell</b>
 </blockquote>
 </p>
 
