@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another."</i>
+<i>"Don't let the behavior of others destroy your inner peace."</i>
 <br>
-<b>- Eustace Budgell</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
