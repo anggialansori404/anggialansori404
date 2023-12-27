@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Realize deeply that the present moment is all you ever have. "</i>
+<i>"The more one judges, the less one loves."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
