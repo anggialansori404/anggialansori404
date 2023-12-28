@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't ever save anything for a special occasion. Being alive is the special occasion."</i>
+<i>"A single act of kindness throws out roots in all directions, and the roots spring up and make new trees."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
