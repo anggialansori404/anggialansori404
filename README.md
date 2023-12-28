@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your home is where your thoughts find peace."</i>
+<i>"Don't ever save anything for a special occasion. Being alive is the special occasion."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
