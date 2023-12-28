@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people are not without problems. They're simply people who've learned to solve their problems."</i>
+<i>"All our dreams can come true, if we have the courage to pursue them."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
