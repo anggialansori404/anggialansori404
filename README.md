@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we are not fully ourselves, truly in the present moment, we miss everything."</i>
+<i>"Successful people are not without problems. They're simply people who've learned to solve their problems."</i>
 <br>
-<b>- Thích Nhất Hạnh</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
