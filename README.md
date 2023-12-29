@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All our dreams can come true, if we have the courage to pursue them."</i>
+<i>"Walk with those seeking truth... RUN FROM THOSE WHO THINK THEY'VE FOUND IT."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
