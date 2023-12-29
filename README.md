@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change."</i>
+<i>"True wisdom is less presuming than folly. The wise man doubteth often, and changeth his mind; the fool is obstinate, and doubteth not; he knoweth all things but his own ignorance."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Akhenaten</b>
 </blockquote>
 </p>
 
