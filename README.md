@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is Love without his wings!"</i>
+<i>"If I know what love is, it is because of you."</i>
 <br>
-<b>- Lord Byron</b>
+<b>- Hermann Hesse</b>
 </blockquote>
 </p>
 
