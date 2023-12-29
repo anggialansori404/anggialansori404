@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your sacred space is where you can find yourself again and again."</i>
+<i>"I cannot make my days longer so I strive to make them better."</i>
 <br>
-<b>- Joseph Campbell</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
