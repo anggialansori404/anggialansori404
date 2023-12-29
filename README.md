@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whoever is happy will make others happy, too."</i>
+<i>"Your sacred space is where you can find yourself again and again."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Joseph Campbell</b>
 </blockquote>
 </p>
 
