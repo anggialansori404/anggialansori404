@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom, compassion, and courage are the three universally recognized moral qualities of men."</i>
+<i>"Friendship is Love without his wings!"</i>
 <br>
-<b>- Confucius</b>
+<b>- Lord Byron</b>
 </blockquote>
 </p>
 
