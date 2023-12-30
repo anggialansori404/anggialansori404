@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness depends on your mindset and attitude."</i>
+<i>"Your friend is your needs answered."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
