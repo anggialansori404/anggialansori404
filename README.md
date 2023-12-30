@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A friendship founded on business is better than a business founded on friendship."</i>
+<i>"Happiness depends on your mindset and attitude."</i>
 <br>
-<b>- John Locke</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
