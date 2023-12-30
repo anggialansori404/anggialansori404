@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Strong people make as many mistakes as weak people. Difference is that strong people admit their mistakes, laugh at them, learn from them. That is how they become strong."</i>
+<i>"The supreme art of war is to subdue the enemy without fighting."</i>
 <br>
-<b>- Richard Needham</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
