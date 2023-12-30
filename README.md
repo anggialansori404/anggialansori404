@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The businessman's tool is value."</i>
+<i>"A friendship founded on business is better than a business founded on friendship."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
