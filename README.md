@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the middle of difficulty lies opportunity."</i>
+<i>"Focus on how far you have come in life rather than looking at the accomplishments of others."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
