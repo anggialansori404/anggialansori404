@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I know what love is, it is because of you."</i>
+<i>"In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice."</i>
 <br>
-<b>- Hermann Hesse</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
