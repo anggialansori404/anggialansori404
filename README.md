@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who possesses most must be most afraid of loss."</i>
+<i>"Where there is a will, there is a way. If there is a chance in a million that you can do something, anything, to keep what you want from ending, do it. Pry the door open or, if need be, wedge your foot in that door and keep it open."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Pauline Kael</b>
 </blockquote>
 </p>
 
