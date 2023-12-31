@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Aerodynamically the bumblebee shouldn't be able to fly, but the bumblebee doesn't know that, so it goes on flying anyway."</i>
+<i>"The key to success is action."</i>
 <br>
-<b>- Mary Kay Ash</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
