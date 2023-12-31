@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways."</i>
+<i>"To do two things at once is to do neither."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
