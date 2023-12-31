@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Character develops itself in the stream of life."</i>
+<i>"All tremble at violence; all fear death. Putting oneself in the place of another, one should not kill nor cause another to kill."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
