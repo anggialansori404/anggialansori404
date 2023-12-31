@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Try all things, hold fast that which is good."</i>
+<i>"He who possesses most must be most afraid of loss."</i>
 <br>
-<b>- John Locke</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
