@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All tremble at violence; all fear death. Putting oneself in the place of another, one should not kill nor cause another to kill."</i>
+<i>"We will outstretch the hand if you unclench your fist."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
