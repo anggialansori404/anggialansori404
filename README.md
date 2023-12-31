@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If a man knows not to which port he sails, no wind is favorable.  "</i>
+<i>"Character develops itself in the stream of life."</i>
 <br>
-<b>- Seneca</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
