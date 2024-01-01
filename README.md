@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not the possession of truth, but the success which attends the seeking after it, that enriches the seeker and brings happiness to him."</i>
+<i>"The weak can never forgive. Forgiveness is the attribute of the strong."</i>
 <br>
-<b>- Max Planck</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
