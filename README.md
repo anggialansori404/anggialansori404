@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The score never interested me, only the game."</i>
+<i>"Sustaining true friendship is a lot more challenging than we give it credit for."</i>
 <br>
-<b>- Mae West</b>
+<b>- Mariella Frostrup</b>
 </blockquote>
 </p>
 
