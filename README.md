@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sustaining true friendship is a lot more challenging than we give it credit for."</i>
+<i>"We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop."</i>
 <br>
-<b>- Mariella Frostrup</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
