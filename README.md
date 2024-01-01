@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your mind will answer most questions if you learn to relax and wait for the answer."</i>
+<i>"Beauty is not in the face; beauty is a light in the heart."</i>
 <br>
-<b>- William Burroughs</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
