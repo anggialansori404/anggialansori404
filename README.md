@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either."</i>
+<i>"The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Benjamin Mays</b>
 </blockquote>
 </p>
 
