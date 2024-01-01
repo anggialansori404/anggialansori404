@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The weak can never forgive. Forgiveness is the attribute of the strong."</i>
+<i>"Imagination is everything. It is the preview of life's coming attractions."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
