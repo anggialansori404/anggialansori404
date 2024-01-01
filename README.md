@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is everything. It is the preview of life's coming attractions."</i>
+<i>"Make the most of yourself, for that is all there is of you."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
