@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reading should be a pleasure, not a chore."</i>
+<i>"Those who look for the bad in people will surely find it."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
