@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only journey is the one within."</i>
+<i>"What you do today can improve all your tomorrows."</i>
 <br>
-<b>- Rainer Maria Rilke</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
