@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I don't believe in failure. It's not failure if you enjoyed the process."</i>
+<i>"It always seems impossible until it's done."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
