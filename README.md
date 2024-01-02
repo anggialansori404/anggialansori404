@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you do today can improve all your tomorrows."</i>
+<i>"Well begun is half done."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
