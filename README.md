@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want things to be different, perhaps the answer is to become different yourself."</i>
+<i>"I don't believe in failure. It's not failure if you enjoyed the process."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
