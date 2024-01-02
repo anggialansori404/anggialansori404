@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where the willingness is great, the difficulties cannot be great."</i>
+<i>"If you want things to be different, perhaps the answer is to become different yourself."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
