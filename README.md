@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always bear in mind that your own resolution to succeed is more important than any other."</i>
+<i>"No great discovery was ever made without a bold guess. "</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
