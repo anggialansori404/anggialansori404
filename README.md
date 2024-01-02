@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No great discovery was ever made without a bold guess. "</i>
+<i>"Reading should be a pleasure, not a chore."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
