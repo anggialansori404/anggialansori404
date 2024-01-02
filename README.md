@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Well begun is half done."</i>
+<i>"Always bear in mind that your own resolution to succeed is more important than any other."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
