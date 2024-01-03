@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next."</i>
+<i>"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Nikola Tesla</b>
 </blockquote>
 </p>
 
