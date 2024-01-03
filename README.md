@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone has been made for some particular work, and the desire for that work has been put in every heart."</i>
+<i>"I never think of the future. It comes soon enough."</i>
 <br>
-<b>- Rumi</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
