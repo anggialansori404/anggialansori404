@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Numbing the pain for a while will make it worse when you finally feel it."</i>
+<i>"Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
