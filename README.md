@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I never think of the future. It comes soon enough."</i>
+<i>"The strength of a wall is neither greater nor less than the courage of the men who defend it. "</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Genghis Khan</b>
 </blockquote>
 </p>
 
