@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The goal of an artist is to create the definitive work that cannot be surpassed."</i>
+<i>"Everyone has been made for some particular work, and the desire for that work has been put in every heart."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
