@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every day do something that will inch you closer to a better tomorrow."</i>
+<i>"Friendship is like money, easier made than kept."</i>
 <br>
-<b>- Unknown</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
