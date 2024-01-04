@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is never final, failure is never fatal. It's courage that counts."</i>
+<i>"Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
