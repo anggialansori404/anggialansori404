@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the greatest of all mistakes to do nothing because you can only do little; do something."</i>
+<i>"Success is never final, failure is never fatal. It's courage that counts."</i>
 <br>
-<b>- Sydney Smith</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
