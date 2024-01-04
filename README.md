@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is some self-interest behind every friendship. There is no friendship without self-interests. This is a bitter truth."</i>
+<i>"Originality is the fine art of remembering what you hear but forgetting where you heard it. "</i>
 <br>
-<b>- Chanakya</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
