@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Originality is the fine art of remembering what you hear but forgetting where you heard it. "</i>
+<i>"Autumn is a second spring when every leaf is a flower."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Albert Camus</b>
 </blockquote>
 </p>
 
