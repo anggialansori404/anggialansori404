@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes, the only way to evolve is to open ourselves fully."</i>
+<i>"The single biggest problem in communication is the illusion that it has taken place."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
