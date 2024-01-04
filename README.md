@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Autumn is a second spring when every leaf is a flower."</i>
+<i>"Character is destiny."</i>
 <br>
-<b>- Albert Camus</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
