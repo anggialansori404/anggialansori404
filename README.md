@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where there is great love, there are always miracles."</i>
+<i>"Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world."</i>
 <br>
-<b>- Willa Cather</b>
+<b>- Blaise Pascal</b>
 </blockquote>
 </p>
 
