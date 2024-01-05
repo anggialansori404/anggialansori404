@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"But I'll tell you what hermits realize. If you go off into a far, far forest and get very quiet, you'll come to understand that you're connected with everything."</i>
+<i>"If you find yourself in a hole, the first thing to do is stop digging."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
