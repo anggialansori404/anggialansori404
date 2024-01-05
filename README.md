@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only put off until tomorrow what you are willing to die having left undone."</i>
+<i>"The whole of life, from the moment you are born to the moment you die, is a process of learning."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
