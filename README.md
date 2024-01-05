@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is consistency of thinking about what is possible and how to make it possible."</i>
+<i>"I like the dreams of the future better than the history of the past."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
