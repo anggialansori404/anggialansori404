@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you find yourself in a hole, the first thing to do is stop digging."</i>
+<i>"Confidence is consistency of thinking about what is possible and how to make it possible."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
