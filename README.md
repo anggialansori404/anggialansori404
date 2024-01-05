@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words are the clothing of our thoughts."</i>
+<i>"Wherever a man may happen to turn, whatever a man may undertake, he will always end up by returning to the path which nature has marked out for him."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
