@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Myths which are believed in tend to become true."</i>
+<i>"Let yourself be silently drawn by the stronger pull of what you really love."</i>
 <br>
-<b>- George Orwell</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
