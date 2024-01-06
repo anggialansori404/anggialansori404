@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence."</i>
+<i>"Myths which are believed in tend to become true."</i>
 <br>
-<b>- Frederick Douglass</b>
+<b>- George Orwell</b>
 </blockquote>
 </p>
 
