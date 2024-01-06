@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good judgment comes from experience, and a lot of that comes from bad judgment."</i>
+<i>"Life and death are of supreme importance. Time swiftly passes by and opportunity is lost."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
