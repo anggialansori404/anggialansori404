@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Gratitude is the fairest blossom which springs from the soul."</i>
+<i>"You can only learn so much from books. You can only learn so much from education. Ultimately, it is the wisdom of God that will carry you through in the toughest situations of life."</i>
 <br>
-<b>- Henry K. Beecher</b>
+<b>- Ravi Zacharias</b>
 </blockquote>
 </p>
 
