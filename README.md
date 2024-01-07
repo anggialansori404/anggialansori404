@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each day provides its own gifts."</i>
+<i>"Few things are more deceptive than memories."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
