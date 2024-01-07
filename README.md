@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better be ignorant of a matter than half know it."</i>
+<i>"Good judgment comes from experience, and a lot of that comes from bad judgment."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
