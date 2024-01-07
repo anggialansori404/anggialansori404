@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who know, do. Those that understand, teach."</i>
+<i>"The primary point of this existence is to live, and all living things move and grow."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
