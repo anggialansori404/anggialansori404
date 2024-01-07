@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If the shoe doesn't fit, must we change the foot?"</i>
+<i>"Nothing has any power over me other than that which I give it through my conscious thoughts."</i>
 <br>
-<b>- Gloria Steinem</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
