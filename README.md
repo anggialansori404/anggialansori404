@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The primary point of this existence is to live, and all living things move and grow."</i>
+<i>"There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
