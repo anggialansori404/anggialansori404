@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Belief consists in accepting the affirmations of the soul; Unbelief, in denying them."</i>
+<i>"Those who know, do. Those that understand, teach."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
