@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can only learn so much from books. You can only learn so much from education. Ultimately, it is the wisdom of God that will carry you through in the toughest situations of life."</i>
+<i>"If the shoe doesn't fit, must we change the foot?"</i>
 <br>
-<b>- Ravi Zacharias</b>
+<b>- Gloria Steinem</b>
 </blockquote>
 </p>
 
