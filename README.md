@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict."</i>
+<i>"Sometimes being a friend means mastering the art of timing. There is a time for silence. A time to let go and allow people to hurl themselves into their own destiny. And a time to prepare to pick up the pieces when it's all over."</i>
 <br>
-<b>- William Ellery Channing</b>
+<b>- Octavia E. Butler</b>
 </blockquote>
 </p>
 
