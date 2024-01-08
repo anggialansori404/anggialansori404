@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Once we accept our limits, we go beyond them."</i>
+<i>"Creativity comes from trust. Trust your instincts. And never hope more than you work."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
