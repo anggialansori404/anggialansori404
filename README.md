@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being in a good frame of mind helps keep one in the picture of health."</i>
+<i>"Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict."</i>
 <br>
-<b>- Unknown</b>
+<b>- William Ellery Channing</b>
 </blockquote>
 </p>
 
