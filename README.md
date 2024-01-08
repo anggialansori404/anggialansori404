@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To go against the dominant thinking of your friends, of most of the people you see every day, is perhaps the most difficult act of heroism you can perform."</i>
+<i>"I endeavor to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress."</i>
 <br>
-<b>- Theodore H. White</b>
+<b>- Elizabeth Montagu</b>
 </blockquote>
 </p>
 
