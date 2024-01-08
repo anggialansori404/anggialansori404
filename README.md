@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good judgment comes from experience, and a lot of that comes from bad judgment."</i>
+<i>"If you're changing the world, you're working on important things. You're excited to get up in the morning."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Larry Page</b>
 </blockquote>
 </p>
 
