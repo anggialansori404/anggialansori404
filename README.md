@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you trust yourself, the less you compare yourself to others."</i>
+<i>"Remember that a gesture of friendship, no matter how small, is always appreciated."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- H. Jackson Brown Jr.</b>
 </blockquote>
 </p>
 
