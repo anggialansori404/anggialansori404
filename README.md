@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In peace, sons bury their fathers. In war, fathers bury their sons. "</i>
+<i>"Your gift is something that you can do innately better than anything else."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
