@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Until you change how you get things done, you'll never know what works best."</i>
+<i>"Our joy does not have to be based on our circumstances."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
