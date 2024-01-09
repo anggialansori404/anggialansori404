@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember that a gesture of friendship, no matter how small, is always appreciated."</i>
+<i>"Where your talents and the needs of the world cross, there lies your vocation."</i>
 <br>
-<b>- H. Jackson Brown Jr.</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
