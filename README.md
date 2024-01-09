@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Beauty is not in the face; beauty is a light in the heart."</i>
+<i>"Who looks outside, dreams, who looks inside, awakes."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
