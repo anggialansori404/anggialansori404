@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Who looks outside, dreams, who looks inside, awakes."</i>
+<i>"I will prepare and someday my chance will come."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
