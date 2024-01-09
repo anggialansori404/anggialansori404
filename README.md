@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our joy does not have to be based on our circumstances."</i>
+<i>"In peace, sons bury their fathers. In war, fathers bury their sons. "</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
