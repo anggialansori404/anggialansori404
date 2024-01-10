@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram them down people's throats."</i>
+<i>"Words used to attract the dull of wit are not to be relied on."</i>
 <br>
-<b>- Howard H. Aiken</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
