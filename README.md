@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Baseball is the only field of endeavor where a man can succeed three times out of ten and be considered a good performer."</i>
+<i>"You can't shake hands with a clenched fist."</i>
 <br>
-<b>- Ted Williams</b>
+<b>- Indira Gandhi</b>
 </blockquote>
 </p>
 
