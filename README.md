@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never be bored, and you will never be boring."</i>
+<i>"I hope our wisdom will grow with our power, and teach us, that the less we use our power the greater it will be."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
