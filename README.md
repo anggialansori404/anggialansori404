@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing more frightful than ignorance in action."</i>
+<i>"Never be bored, and you will never be boring."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
