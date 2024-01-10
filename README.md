@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is rightly esteemed the first of human qualities... because it is the quality which guarantees all others."</i>
+<i>"Baseball is the only field of endeavor where a man can succeed three times out of ten and be considered a good performer."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Ted Williams</b>
 </blockquote>
 </p>
 
