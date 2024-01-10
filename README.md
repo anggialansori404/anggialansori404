@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A mind unruffled by the vagaries of fortune, from sorrow freed, from defilements cleansed, from fear liberated — this is the greatest blessing."</i>
+<i>"Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram them down people's throats."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Howard H. Aiken</b>
 </blockquote>
 </p>
 
