@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the only force capable of transforming an enemy into a friend."</i>
+<i>"Don't think money does everything or you are going to end up doing everything for money."</i>
 <br>
-<b>- Martin Luther King Jr.</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
