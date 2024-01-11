@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friends are those rare people who ask how we are and then wait to hear the answer."</i>
+<i>"Love is the only force capable of transforming an enemy into a friend."</i>
 <br>
-<b>- Ed Cunningham</b>
+<b>- Martin Luther King Jr.</b>
 </blockquote>
 </p>
 
