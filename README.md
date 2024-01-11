@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time changes everything except something within us which is always surprised by change."</i>
+<i>"Friends are those rare people who ask how we are and then wait to hear the answer."</i>
 <br>
-<b>- Thomas Hardy</b>
+<b>- Ed Cunningham</b>
 </blockquote>
 </p>
 
