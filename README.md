@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We cannot solve our problems with the same thinking we used when we created them."</i>
+<i>"Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Louis Pasteur</b>
 </blockquote>
 </p>
 
