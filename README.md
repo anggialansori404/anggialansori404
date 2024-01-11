@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As a cure for worrying, work is better than whisky."</i>
+<i>"True happiness arises, in the first place, from the enjoyment of oneself, and in the next, from the friendship and conversation of a few select companions."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Joseph Addison</b>
 </blockquote>
 </p>
 
