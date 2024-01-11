@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity."</i>
+<i>"The clock indicates the moment...but what does eternity indicate?"</i>
 <br>
-<b>- Louis Pasteur</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
