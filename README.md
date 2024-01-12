@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who angers you conquers you."</i>
+<i>"Don't waste your energy on being angry at something that somebody did six months ago or a year ago. It's over."</i>
 <br>
-<b>- Elizabeth Kenny</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
