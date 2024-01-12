@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our life is what our thoughts make it. A man will find that as he alters his thoughts toward things and other people, things and other people will alter towards him."</i>
+<i>"If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving."</i>
 <br>
-<b>- James Allen</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
