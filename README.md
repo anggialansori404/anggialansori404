@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True happiness arises, in the first place, from the enjoyment of oneself, and in the next, from the friendship and conversation of a few select companions."</i>
+<i>"Faithless is he that says farewell when the road darkens."</i>
 <br>
-<b>- Joseph Addison</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
