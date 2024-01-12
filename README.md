@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not doing it is certainly the best way to not getting it.  "</i>
+<i>"He who learns must suffer. And even in our sleep pain that cannot forget falls drop by drop upon the heart, and in our own despair, against our will, comes wisdom to us by the awful grace of God."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Aeschylus</b>
 </blockquote>
 </p>
 
