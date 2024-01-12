@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot change your destination overnight but you can change your direction overnight."</i>
+<i>"Be here now. Be someplace else later. Is that so complicated?"</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- David Bader</b>
 </blockquote>
 </p>
 
