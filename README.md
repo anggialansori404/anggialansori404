@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. "</i>
+<i>"Not doing it is certainly the best way to not getting it.  "</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
