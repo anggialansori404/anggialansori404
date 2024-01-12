@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be here now. Be someplace else later. Is that so complicated?"</i>
+<i>"True happiness arises, in the first place, from the enjoyment of oneself, and in the next, from the friendship and conversation of a few select companions."</i>
 <br>
-<b>- David Bader</b>
+<b>- Joseph Addison</b>
 </blockquote>
 </p>
 
