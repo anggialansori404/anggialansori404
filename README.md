@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't waste your energy on being angry at something that somebody did six months ago or a year ago. It's over."</i>
+<i>"I can't imagine a person becoming a success who doesn't give this game of life everything he's got."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Walter Cronkite</b>
 </blockquote>
 </p>
 
