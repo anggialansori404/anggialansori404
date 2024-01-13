@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change is hardest at the beginning, messiest in the middle and best at the end."</i>
+<i>"Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!"</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
