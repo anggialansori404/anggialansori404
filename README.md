@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man gotta right to decide his own destiny."</i>
+<i>"Whatever you do in life, surround yourself with smart people who'll argue with you."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
