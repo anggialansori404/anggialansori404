@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We lost because we told ourselves we lost."</i>
+<i>"We are all faced with a series of great opportunities brilliantly disguised as impossible situations. "</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Charles Swindoll</b>
 </blockquote>
 </p>
 
