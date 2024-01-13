@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no truth. There is only perception."</i>
+<i>"Change is hardest at the beginning, messiest in the middle and best at the end."</i>
 <br>
-<b>- Gustave Flaubert</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
