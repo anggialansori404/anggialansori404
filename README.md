@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else."</i>
+<i>"I never teach my pupils. I only attempt to provide the conditions in which they can learn."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
