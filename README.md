@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friends show their love in times of trouble, not in happiness."</i>
+<i>"Mistake is a mistake only if you make it twice."</i>
 <br>
-<b>- Euripides</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
