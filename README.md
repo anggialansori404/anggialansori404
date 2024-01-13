@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mistake is a mistake only if you make it twice."</i>
+<i>"There's power in looking silly and not caring that you do."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Amy Poehler</b>
 </blockquote>
 </p>
 
