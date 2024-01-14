@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner."</i>
+<i>"I don't ever give up. I'd have to be dead or completely incapacitated."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
