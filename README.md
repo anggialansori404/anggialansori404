@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man is more cheated than the selfish man."</i>
+<i>"Lord, make me an instrument of thy peace. Where there is hatred, let me sow love."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Francis of Assisi</b>
 </blockquote>
 </p>
 
