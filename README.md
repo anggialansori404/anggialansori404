@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All happiness depends on courage and work."</i>
+<i>"The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
