@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Lord, make me an instrument of thy peace. Where there is hatred, let me sow love."</i>
+<i>"The universe is full of magical things, patiently waiting for our wits to grow sharper."</i>
 <br>
-<b>- Francis of Assisi</b>
+<b>- Eden Phillpotts</b>
 </blockquote>
 </p>
 
