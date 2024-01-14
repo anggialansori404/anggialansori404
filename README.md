@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only journey is the one within."</i>
+<i>"Exceptional thinkers ignore their critics and go about their business making history."</i>
 <br>
-<b>- Rainer Maria Rilke</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
