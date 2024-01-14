@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The universe is full of magical things, patiently waiting for our wits to grow sharper."</i>
+<i>"Abundance of knowledge does not teach men to be wise."</i>
 <br>
-<b>- Eden Phillpotts</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
