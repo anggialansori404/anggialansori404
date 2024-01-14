@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you."</i>
+<i>"The only journey is the one within."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Rainer Maria Rilke</b>
 </blockquote>
 </p>
 
