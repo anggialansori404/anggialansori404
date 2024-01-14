@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Exceptional thinkers ignore their critics and go about their business making history."</i>
+<i>"It takes courage to grow up and become who you really are."</i>
 <br>
-<b>- John Eliot</b>
+<b>- E. E. Cummings</b>
 </blockquote>
 </p>
 
