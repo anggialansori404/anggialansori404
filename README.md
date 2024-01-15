@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only real security that a man can have in this world is a reserve of knowledge, experience and ability. "</i>
+<i>"Wise men talk because they have something to say; fools, because they have to say something."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
