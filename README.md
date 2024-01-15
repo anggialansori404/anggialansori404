@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go confidently in the direction of your dreams. Live the life you've imagined."</i>
+<i>"Divide each difficulty into as many parts as is feasible and necessary to resolve it."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- René Descartes</b>
 </blockquote>
 </p>
 
