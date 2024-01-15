@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Determine never to be idle. No person will have occasion to complain of the want of time who never loses any."</i>
+<i>"You are the only problem you will ever have and you are the only solution."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
