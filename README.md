@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Divide each difficulty into as many parts as is feasible and necessary to resolve it."</i>
+<i>"Determine never to be idle. No person will have occasion to complain of the want of time who never loses any."</i>
 <br>
-<b>- René Descartes</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
