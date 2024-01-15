@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness."</i>
+<i>"The only real security that a man can have in this world is a reserve of knowledge, experience and ability. "</i>
 <br>
-<b>- Rumi</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
