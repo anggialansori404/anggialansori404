@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Abundance of knowledge does not teach men to be wise."</i>
+<i>"Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
