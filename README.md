@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wise men talk because they have something to say; fools, because they have to say something."</i>
+<i>"Excellence is to do a common thing in an uncommon way."</i>
 <br>
-<b>- Plato</b>
+<b>- Booker T. Washington</b>
 </blockquote>
 </p>
 
