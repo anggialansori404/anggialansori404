@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intelligence is the ability to adapt to change."</i>
+<i>"But friendship is precious, not only in the shade, but in the sunshine of life, and thanks to a benevolent arrangement the greater part of life is sunshine."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
