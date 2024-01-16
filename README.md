@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One secret of success in life is for a man to be ready for his opportunity when it comes."</i>
+<i>"All men are equal before fish."</i>
 <br>
-<b>- Benjamin Disraeli</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
