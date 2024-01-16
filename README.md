@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth will always be truth, regardless of lack of understanding, disbelief or ignorance. "</i>
+<i>"Loyalty and friendship, which is to me the same, created all the wealth that I've ever thought I'd have."</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- Ernie Banks</b>
 </blockquote>
 </p>
 
