@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A dream you dream alone is only a dream. A dream you dream together is reality."</i>
+<i>"Just as a solid rock is not shaken by the storm, even so the wise are not affected by praise or blame."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
