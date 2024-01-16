@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Loyalty and friendship, which is to me the same, created all the wealth that I've ever thought I'd have."</i>
+<i>"Wisdom consists of the anticipation of consequences."</i>
 <br>
-<b>- Ernie Banks</b>
+<b>- Norman Cousins</b>
 </blockquote>
 </p>
 
