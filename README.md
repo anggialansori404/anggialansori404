@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Freedom is what you do with what's been done to you."</i>
+<i>"The cautious seldom err."</i>
 <br>
-<b>- Jean-Paul Sartre</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
