@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just as a solid rock is not shaken by the storm, even so the wise are not affected by praise or blame."</i>
+<i>"Freedom is what you do with what's been done to you."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Jean-Paul Sartre</b>
 </blockquote>
 </p>
 
