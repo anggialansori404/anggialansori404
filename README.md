@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work."</i>
+<i>"Luck is what happens when preparation meets opportunity."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
