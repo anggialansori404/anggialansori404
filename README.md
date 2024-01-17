@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a process. We are a process. The universe is a process."</i>
+<i>"Lying can never save us from another lie."</i>
 <br>
-<b>- Anne Wilson Schaef</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
