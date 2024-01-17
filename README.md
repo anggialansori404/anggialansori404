@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are wiser than we know."</i>
+<i>"It takes courage to grow up and become who you really are."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- E. E. Cummings</b>
 </blockquote>
 </p>
 
