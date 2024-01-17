@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All men are equal before fish."</i>
+<i>"He that can have patience can have what he will."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
