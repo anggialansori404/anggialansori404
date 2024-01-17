@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The consequences of today are determined by the actions of the past. To change your future, alter your decisions today."</i>
+<i>"An appeaser is one who feeds a crocodile, hoping it will eat him last."</i>
 <br>
-<b>- Unknown</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
