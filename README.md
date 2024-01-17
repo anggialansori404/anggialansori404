@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Luck is what happens when preparation meets opportunity."</i>
+<i>"Wherever a man turns he can find someone who needs him."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Albert Schweitzer</b>
 </blockquote>
 </p>
 
