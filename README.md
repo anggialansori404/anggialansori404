@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Lying can never save us from another lie."</i>
+<i>"You really can change the world if you care enough."</i>
 <br>
-<b>- Vaclav Havel</b>
+<b>- Marian Wright Edelman</b>
 </blockquote>
 </p>
 
