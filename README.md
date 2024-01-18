@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I had only known, I would have been a locksmith."</i>
+<i>"The awareness of our own strength makes us modest."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Paul Cézanne</b>
 </blockquote>
 </p>
 
