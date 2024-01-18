@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Many sophisticated, intelligent people lack wisdom and common sense."</i>
+<i>"If I had only known, I would have been a locksmith."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
