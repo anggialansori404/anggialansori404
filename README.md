@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What keeps life fascinating is the constant creativity of the soul."</i>
+<i>"Many sophisticated, intelligent people lack wisdom and common sense."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
