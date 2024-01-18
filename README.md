@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The awareness of our own strength makes us modest."</i>
+<i>"You don't know who is important to you until you actually lose them."</i>
 <br>
-<b>- Paul Cézanne</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
