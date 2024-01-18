@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It requires wisdom to understand wisdom: the music is nothing if the audience is deaf."</i>
+<i>"There are few reasons for telling the truth, but for lying the number is infinite."</i>
 <br>
-<b>- Walter Lippmann</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
