@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The healthiest response to life is joy."</i>
+<i>"The thing always happens that you really believe in; and the belief in a thing makes it happen."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Frank Lloyd Wright</b>
 </blockquote>
 </p>
 
