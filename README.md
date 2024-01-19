@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you begin to touch your heart or let your heart be touched, you begin to discover that it's bottomless."</i>
+<i>"The best cure for the body is a quiet mind."</i>
 <br>
-<b>- Pema Chödrön</b>
+<b>- Napoleon</b>
 </blockquote>
 </p>
 
