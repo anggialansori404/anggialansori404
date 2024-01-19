@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who permits himself to tell a lie once, finds it much easier to do it the second time."</i>
+<i>"The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
