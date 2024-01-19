@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing happens unless first we dream."</i>
+<i>"He who permits himself to tell a lie once, finds it much easier to do it the second time."</i>
 <br>
-<b>- Carl Sandburg</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
