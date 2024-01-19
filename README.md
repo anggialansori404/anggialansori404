@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time."</i>
+<i>"If we all did the things we are capable of doing, we would literally astound ourselves."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
