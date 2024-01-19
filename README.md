@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The thing always happens that you really believe in; and the belief in a thing makes it happen."</i>
+<i>"It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends."</i>
 <br>
-<b>- Frank Lloyd Wright</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
