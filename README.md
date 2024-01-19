@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When it hurts - observe. Life is trying to teach you something."</i>
+<i>"When you begin to touch your heart or let your heart be touched, you begin to discover that it's bottomless."</i>
 <br>
-<b>- Anita Krizzan</b>
+<b>- Pema Chödrön</b>
 </blockquote>
 </p>
 
