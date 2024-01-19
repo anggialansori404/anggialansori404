@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best cure for the body is a quiet mind."</i>
+<i>"True friends stab you in the front."</i>
 <br>
-<b>- Napoleon</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
