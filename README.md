@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only real mistake is the one from which we learn nothing. "</i>
+<i>"We have committed the Golden Rule to memory; let us now commit it to life."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Edwin Markham</b>
 </blockquote>
 </p>
 
