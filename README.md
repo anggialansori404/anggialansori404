@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The years teach much which the days never know."</i>
+<i>"Your business is not to 'get somewhere' - it is to be here."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
