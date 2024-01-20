@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The difference between winning and losing is most often not quitting."</i>
+<i>"You're never a loser until you quit trying."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Mike Ditka</b>
 </blockquote>
 </p>
 
