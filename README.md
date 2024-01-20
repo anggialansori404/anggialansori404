@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We cannot solve our problems with the same thinking we used when we created them."</i>
+<i>"Don't settle for a relationship that won't let you be yourself."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
