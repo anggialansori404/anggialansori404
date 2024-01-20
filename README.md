@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have committed the Golden Rule to memory; let us now commit it to life."</i>
+<i>"I don't turn to greeting cards for wisdom and advice, but they are a fine reflection of the general drift of the culture."</i>
 <br>
-<b>- Edwin Markham</b>
+<b>- Susan Orlean</b>
 </blockquote>
 </p>
 
