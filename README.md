@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't settle for a relationship that won't let you be yourself."</i>
+<i>"Optimism, when applied to your life, develops strength and peace within you."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
