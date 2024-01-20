@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep your face always toward the sunshine - and shadows will fall behind you."</i>
+<i>"The years teach much which the days never know."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
