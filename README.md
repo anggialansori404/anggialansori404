@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True friends stab you in the front."</i>
+<i>"The difference between winning and losing is most often not quitting."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
