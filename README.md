@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I don't turn to greeting cards for wisdom and advice, but they are a fine reflection of the general drift of the culture."</i>
+<i>"He will win who knows when to fight and when not to fight."</i>
 <br>
-<b>- Susan Orlean</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
