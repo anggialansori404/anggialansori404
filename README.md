@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're never a loser until you quit trying."</i>
+<i>"We cannot solve our problems with the same thinking we used when we created them."</i>
 <br>
-<b>- Mike Ditka</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
