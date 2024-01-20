@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Optimism, when applied to your life, develops strength and peace within you."</i>
+<i>"The only real mistake is the one from which we learn nothing. "</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
