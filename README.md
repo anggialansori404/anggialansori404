@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The winds and waves are always on the side of the ablest navigators."</i>
+<i>"Things do not have meaning. We assign meaning to everything."</i>
 <br>
-<b>- Edward Gibbon</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
