@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything you are against weakens you. Everything you are for empowers you."</i>
+<i>"Unless you're ashamed of yourself now and then, you're not honest."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
