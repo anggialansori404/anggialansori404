@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning."</i>
+<i>"The winds and waves are always on the side of the ablest navigators."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Edward Gibbon</b>
 </blockquote>
 </p>
 
