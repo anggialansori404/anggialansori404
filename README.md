@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No valid plans for the future can be made by those who have no capacity for living now."</i>
+<i>"Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
