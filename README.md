@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True knowledge exists in knowing that you know nothing."</i>
+<i>"Everything you are against weakens you. Everything you are for empowers you."</i>
 <br>
-<b>- Isocrates</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
