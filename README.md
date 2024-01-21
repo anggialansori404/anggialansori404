@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Difficult and meaningful will always bring more satisfaction than easy and meaningless."</i>
+<i>"Distant water does not put out a nearby fire."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
