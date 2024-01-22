@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing can survive without food. Everything we consume acts either to heal us or to poison us."</i>
+<i>"Being entirely honest with oneself is a good exercise."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
