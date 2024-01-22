@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work."</i>
+<i>"No idea, no matter how good, will work if it doesn't get used."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Peter A. Cohen</b>
 </blockquote>
 </p>
 
