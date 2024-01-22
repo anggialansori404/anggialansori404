@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man's character is his fate."</i>
+<i>"Passion creates, addiction consumes."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Gabor Mate</b>
 </blockquote>
 </p>
 
