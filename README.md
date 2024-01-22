@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We forge the chains we wear in life."</i>
+<i>"Man's character is his fate."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
