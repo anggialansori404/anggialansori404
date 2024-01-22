@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity."</i>
+<i>"Few things are more deceptive than memories."</i>
 <br>
-<b>- Charles Spurgeon</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
