@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no secrets to success. It is the result of preparation, hard work, and learning from failure."</i>
+<i>"We forge the chains we wear in life."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
