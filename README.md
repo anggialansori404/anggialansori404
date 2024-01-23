@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you decide to do, make sure it makes you happy."</i>
+<i>"Friendship with oneself is all important because without it one cannot be friends with anybody else in the world."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
