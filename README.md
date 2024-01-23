@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can never get enough of what you don't need to make you happy."</i>
+<i>"Whatever you decide to do, make sure it makes you happy."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
