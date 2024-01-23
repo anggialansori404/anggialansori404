@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Maxim for life: You get treated in life the way you teach people to treat you."</i>
+<i>"You can only grow if you're willing to feel awkward and uncomfortable when you try something new."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
