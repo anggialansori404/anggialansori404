@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In all chaos there is a cosmos, in all disorder a secret order."</i>
+<i>"Stuff your eyes with wonder... live as if you'd drop dead in ten seconds. See the world. It's more fantastic than any dream made or paid for in factories."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
