@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can only grow if you're willing to feel awkward and uncomfortable when you try something new."</i>
+<i>"You can never get enough of what you don't need to make you happy."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
