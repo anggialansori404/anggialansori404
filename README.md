@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your home is where your thoughts find peace."</i>
+<i>"Friendship is like money, easier made than kept."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
