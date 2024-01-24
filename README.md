@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you run you stand a chance of losing, but if you don't run you've already lost."</i>
+<i>"Your home is where your thoughts find peace."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
