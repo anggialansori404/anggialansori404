@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No snowflake in an avalanche ever feels responsible."</i>
+<i>"Remember that sometimes not getting what you want is a wonderful stroke of luck."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
