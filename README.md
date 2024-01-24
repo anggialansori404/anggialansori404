@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is like money, easier made than kept."</i>
+<i>"Never, never, never give up."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
