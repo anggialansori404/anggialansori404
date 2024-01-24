@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest treasures are those invisible to the eye but found by the heart."</i>
+<i>"Men in general judge more from appearances than from reality. All men have eyes, but few have the gift of penetration."</i>
 <br>
-<b>- Judy Garland</b>
+<b>- Niccolò Machiavelli</b>
 </blockquote>
 </p>
 
