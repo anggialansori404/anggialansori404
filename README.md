@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return."</i>
+<i>"Make it a rule of life never to regret and never to look back. Regret is an appalling waste of energy; you can't build on it; it's only for wallowing in."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Katherine Mansfield</b>
 </blockquote>
 </p>
 
