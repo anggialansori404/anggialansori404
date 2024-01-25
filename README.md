@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not pray for an easy life, pray for the strength to endure a difficult one.  "</i>
+<i>"If I had only known, I would have been a locksmith."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
