@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching."</i>
+<i>"If you try, you might get exactly what you want. If you don't, you don't."</i>
 <br>
-<b>- Satchel Paige</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
