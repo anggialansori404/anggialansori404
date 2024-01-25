@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I had only known, I would have been a locksmith."</i>
+<i>"Sometimes, the only way to evolve is to open ourselves fully."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
