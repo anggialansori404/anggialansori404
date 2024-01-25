@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time changes everything except something within us which is always surprised by change."</i>
+<i>"I do not exist to impress the world. I exist to live my life in a way that will make me happy."</i>
 <br>
-<b>- Thomas Hardy</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
