@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are stuck with technology when what we really want is just stuff that works."</i>
+<i>"I don't believe in failure. It's not failure if you enjoyed the process."</i>
 <br>
-<b>- Douglas Adams</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
