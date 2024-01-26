@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A real friend is one who walks in when the rest of the world walks out."</i>
+<i>"It all depends on how we look at things, and not how they are in themselves."</i>
 <br>
-<b>- Unknown</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
