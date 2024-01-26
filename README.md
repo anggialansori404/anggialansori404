@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If someone betrays you once, it's their fault; if they betray you twice, it's your fault."</i>
+<i>"If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- John Steinbeck</b>
 </blockquote>
 </p>
 
