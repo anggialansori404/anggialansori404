@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away."</i>
+<i>"Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing."</i>
 <br>
-<b>- John Steinbeck</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
