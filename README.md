@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It all depends on how we look at things, and not how they are in themselves."</i>
+<i>"Russia is a riddle wrapped in a mystery inside an enigma."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
