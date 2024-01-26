@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He that respects himself is safe from others; he wears a coat of mail that none can pierce."</i>
+<i>"When I let go of what I am, I become what I might be."</i>
 <br>
-<b>- Henry Wadsworth Longfellow</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
