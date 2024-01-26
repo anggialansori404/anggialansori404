@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we are not able to smile, then the world will not have peace."</i>
+<i>"A real friend is one who walks in when the rest of the world walks out."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
