@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is one long process of getting tired."</i>
+<i>"In nature there is no alienation. Everything belongs."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
