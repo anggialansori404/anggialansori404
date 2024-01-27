@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man should do his job so well that the living, the dead, and the unborn could do it no better."</i>
+<i>"You can never get enough of what you don't need to make you happy."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
