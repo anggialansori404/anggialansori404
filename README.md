@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Russia is a riddle wrapped in a mystery inside an enigma."</i>
+<i>"By changing nothing, nothing changes."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
