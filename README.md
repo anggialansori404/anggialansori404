@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're trying to create a company, it's like baking a cake. You have to have all the ingredients in the right proportion."</i>
+<i>"Reviewing what you have learned and learning anew, you are fit to be a teacher."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
