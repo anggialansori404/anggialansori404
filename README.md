@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Kindness is the language which the deaf can hear and the blind can see."</i>
+<i>"Life is one long process of getting tired."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
