@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can never get enough of what you don't need to make you happy."</i>
+<i>"If you're trying to create a company, it's like baking a cake. You have to have all the ingredients in the right proportion."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
