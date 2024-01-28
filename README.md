@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunity often comes disguised in the form of misfortune, or temporary defeat."</i>
+<i>"It all depends on how we look at things, and not how they are in themselves."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
