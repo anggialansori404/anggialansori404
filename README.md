@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship improves happiness and abates misery, by the doubling of our joy and the dividing of our grief."</i>
+<i>"Value your friendship. Value your relationships."</i>
 <br>
-<b>- Cicero</b>
+<b>- Barbara Bush</b>
 </blockquote>
 </p>
 
