@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Value your friendship. Value your relationships."</i>
+<i>"No great mind has ever existed without a touch of madness."</i>
 <br>
-<b>- Barbara Bush</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
