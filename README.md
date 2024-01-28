@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If the stars should appear but one night every thousand years how man would marvel and adore."</i>
+<i>"As long as a human being worries about when he will die, and what he has that is his, all of his works are zero."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
