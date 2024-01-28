@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark."</i>
+<i>"Friendship improves happiness and abates misery, by the doubling of our joy and the dividing of our grief."</i>
 <br>
-<b>- Whoopi Goldberg</b>
+<b>- Cicero</b>
 </blockquote>
 </p>
 
