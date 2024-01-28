@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No great mind has ever existed without a touch of madness."</i>
+<i>"There's power in looking silly and not caring that you do."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Amy Poehler</b>
 </blockquote>
 </p>
 
