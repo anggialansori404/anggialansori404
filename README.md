@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There's power in looking silly and not caring that you do."</i>
+<i>"If the stars should appear but one night every thousand years how man would marvel and adore."</i>
 <br>
-<b>- Amy Poehler</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
