@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Share your smile with the world. It's a symbol of friendship and peace."</i>
+<i>"Fools read fast. Geniuses reread."</i>
 <br>
-<b>- Christie Brinkley</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
