@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Know that although in the eternal scheme of things you are small, you are also unique and irreplaceable, as are all your fellow humans everywhere in the world."</i>
+<i>"To accomplish big things, I am convinced you must first dream big dreams."</i>
 <br>
-<b>- Margaret Laurence</b>
+<b>- Conrad Hilton</b>
 </blockquote>
 </p>
 
