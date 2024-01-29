@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An intelligence test sometimes shows a man how smart he would have been not to have taken it."</i>
+<i>"Get mad, then get over it."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
