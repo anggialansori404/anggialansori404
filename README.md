@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Get mad, then get over it."</i>
+<i>"The universe is full of magical things, patiently waiting for our wits to grow sharper."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Eden Phillpotts</b>
 </blockquote>
 </p>
 
