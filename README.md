@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your only limitations are those you set up in your mind or permit others to set up for you."</i>
+<i>"All human wisdom is summed up in two words; wait and hope."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
