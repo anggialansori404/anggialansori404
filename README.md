@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Genuine sincerity opens people's hearts, while manipulation causes them to close."</i>
+<i>"Your only limitations are those you set up in your mind or permit others to set up for you."</i>
 <br>
-<b>- Daisaku Ikeda</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
