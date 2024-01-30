@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be."</i>
+<i>"Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better."</i>
 <br>
-<b>- Sai Baba</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
