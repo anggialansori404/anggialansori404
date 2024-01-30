@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All human wisdom is summed up in two words; wait and hope."</i>
+<i>"Action may not always bring happiness; but there is no happiness without action."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Benjamin Disraeli</b>
 </blockquote>
 </p>
 
