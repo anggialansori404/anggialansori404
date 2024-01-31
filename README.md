@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people get interested in stocks when everyone else is. The time to get interested is when no one else is. You can't buy what is popular and do well."</i>
+<i>"Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better."</i>
 <br>
-<b>- Warren Buffett</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
