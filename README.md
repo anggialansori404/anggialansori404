@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Action may not always bring happiness; but there is no happiness without action."</i>
+<i>"If we did the things we are capable of, we would astound ourselves."</i>
 <br>
-<b>- Benjamin Disraeli</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
