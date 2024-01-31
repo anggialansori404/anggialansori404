@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success."</i>
+<i>"Most people get interested in stocks when everyone else is. The time to get interested is when no one else is. You can't buy what is popular and do well."</i>
 <br>
-<b>- John Locke</b>
+<b>- Warren Buffett</b>
 </blockquote>
 </p>
 
