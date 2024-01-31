@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice."</i>
+<i>"Don't talk about what you have done or what you are going to do."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
