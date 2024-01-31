@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we did the things we are capable of, we would astound ourselves."</i>
+<i>"Winning isn't always championships."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
