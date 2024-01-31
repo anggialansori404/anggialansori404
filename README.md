@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no second chances in life, except to feel remorse."</i>
+<i>"Just as a flower, which seems beautiful has color but no perfume, so are the fruitless words of a man who speaks them but does them not."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Dhammapada</b>
 </blockquote>
 </p>
 
