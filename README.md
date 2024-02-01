@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some do not understand that we must die, But those who do realize this settle their quarrels."</i>
+<i>"You have to do your own growing no matter how tall your grandfather was."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
