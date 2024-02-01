@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't ever be afraid to put yourself in a lesser position so that you can learn something from someone who knows more."</i>
+<i>"Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Blaise Pascal</b>
 </blockquote>
 </p>
 
