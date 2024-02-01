@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It always seems impossible until it's done."</i>
+<i>"Quick decisions are unsafe decisions."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Sophocles</b>
 </blockquote>
 </p>
 
