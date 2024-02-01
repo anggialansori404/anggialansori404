@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Price is what you pay. Value is what you get."</i>
+<i>"When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self."</i>
 <br>
-<b>- Warren Buffett</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
