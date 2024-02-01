@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The real danger is not that computers will begin to think like men, but that men will begin to think like computers."</i>
+<i>"Some do not understand that we must die, But those who do realize this settle their quarrels."</i>
 <br>
-<b>- Sydney J. Harris</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
