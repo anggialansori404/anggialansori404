@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All I can say about life is, Oh God, enjoy it!"</i>
+<i>"Music is like creating an emotional painting. The sounds are the colors."</i>
 <br>
-<b>- Bob Newhart</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
