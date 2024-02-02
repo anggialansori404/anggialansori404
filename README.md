@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our stories may be singular, but our destination is shared."</i>
+<i>"All perceiving is also thinking, all reasoning is also intuition, all observation is also invention."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Rudolf Arnheim</b>
 </blockquote>
 </p>
 
