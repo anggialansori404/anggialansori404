@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be the chief but never the lord."</i>
+<i>"All I can say about life is, Oh God, enjoy it!"</i>
 <br>
-<b>- Laozi</b>
+<b>- Bob Newhart</b>
 </blockquote>
 </p>
 
