@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Music is a higher revelation than all wisdom and philosophy."</i>
+<i>"Your vision will become clear only when you can look into your own heart. Who looks outside, dreams, who looks inside, awakes."</i>
 <br>
-<b>- Ludwig van Beethoven</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
