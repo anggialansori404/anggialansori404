@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Follow effective action with quiet reflection. From the quiet reflection will come even more effective action."</i>
+<i>"If you are far from the enemy, make him believe you are near."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
