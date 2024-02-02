@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All perceiving is also thinking, all reasoning is also intuition, all observation is also invention."</i>
+<i>"Thoughts become things. If you see it in your mind, you will hold it in your hand."</i>
 <br>
-<b>- Rudolf Arnheim</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
