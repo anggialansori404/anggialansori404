@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Music is like creating an emotional painting. The sounds are the colors."</i>
+<i>"Music is a higher revelation than all wisdom and philosophy."</i>
 <br>
-<b>- Yanni</b>
+<b>- Ludwig van Beethoven</b>
 </blockquote>
 </p>
 
