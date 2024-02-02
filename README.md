@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be in harmony with the wholeness of things is not to have anxiety over imperfections."</i>
+<i>"Follow effective action with quiet reflection. From the quiet reflection will come even more effective action."</i>
 <br>
-<b>- Dogen</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
