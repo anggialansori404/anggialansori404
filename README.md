@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your friend is your needs answered."</i>
+<i>"Be the chief but never the lord."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
