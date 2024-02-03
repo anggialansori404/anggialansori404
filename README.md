@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do I speak at the right time, or not? Do I speak of facts, or not? Do I speak gently or harshly? Do I speak profitable words or not? Do I speak with a kindly heart, or inwardly malicious?"</i>
+<i>"The shoe that fits one person pinches another; there is no recipe for living that suits all cases."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
