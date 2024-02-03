@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To do all that one is able to do, is to be a man; to do all that one would like to do, is to be a god."</i>
+<i>"There's no scarcity of opportunity to make a living at what you love. There is only a scarcity of resolve to make it happen."</i>
 <br>
-<b>- Napoleon</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
