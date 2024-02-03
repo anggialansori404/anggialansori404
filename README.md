@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be faithful in small things because it is in them that your strength lies."</i>
+<i>"A path is made by walking on it."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
