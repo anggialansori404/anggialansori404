@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Turn off your mind, relax, and float downstream."</i>
+<i>"Learning is a gift, even when pain is your teacher."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
