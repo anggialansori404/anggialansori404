@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you get up one more time than you fall, you will make it through."</i>
+<i>"There are no shortcuts to any place worth going."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
