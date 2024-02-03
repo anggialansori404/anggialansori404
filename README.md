@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A path is made by walking on it."</i>
+<i>"If you get up one more time than you fall, you will make it through."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
