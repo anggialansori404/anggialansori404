@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you wish to be a writer, write."</i>
+<i>"Friendship brings in a lot of honesty and trust into any relationship, especially a marriage."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Farhan Akhtar</b>
 </blockquote>
 </p>
 
