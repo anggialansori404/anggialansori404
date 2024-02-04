@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt."</i>
+<i>"Success on the outside means nothing unless you also have success within."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
