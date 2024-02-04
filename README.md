@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future belongs to those who believe in the beauty of their dreams."</i>
+<i>"If you wish to be a writer, write."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
