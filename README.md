@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way you see people is the way you treat them, and the way you treat them is what they become."</i>
+<i>"Important principles may, and must, be inflexible."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
