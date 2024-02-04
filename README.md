@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you know yourself, the more you forgive yourself."</i>
+<i>"No grand idea was ever born in a conference, but a lot of foolish ideas have died there."</i>
 <br>
-<b>- Confucius</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
