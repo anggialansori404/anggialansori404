@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No grand idea was ever born in a conference, but a lot of foolish ideas have died there."</i>
+<i>"The future belongs to those who believe in the beauty of their dreams."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
