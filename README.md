@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut."</i>
+<i>"Do not go where the path may lead, go instead where there is no path and leave a trail."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
