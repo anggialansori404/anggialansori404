@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success on the outside means nothing unless you also have success within."</i>
+<i>"The more you know yourself, the more you forgive yourself."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
