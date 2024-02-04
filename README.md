@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Important principles may, and must, be inflexible."</i>
+<i>"We become what we believe."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
