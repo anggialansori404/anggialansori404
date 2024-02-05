@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Someone who points out your flaws to you is not necessarily your enemy. Someone who speaks of your virtues is not necessarily your friend."</i>
+<i>"Friendship brings in a lot of honesty and trust into any relationship, especially a marriage."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Farhan Akhtar</b>
 </blockquote>
 </p>
 
