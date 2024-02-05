@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love yourself first and everything else falls into line. You really have to love yourself to get anything done in this world."</i>
+<i>"A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action."</i>
 <br>
-<b>- Lucille Ball</b>
+<b>- Jawaharlal Nehru</b>
 </blockquote>
 </p>
 
