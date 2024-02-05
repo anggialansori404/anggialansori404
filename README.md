@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you can't make them see the light, make them feel the heat."</i>
+<i>"Your home is where your thoughts find peace."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
