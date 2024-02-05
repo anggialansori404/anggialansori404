@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"They who have conquered doubt and fear have conquered failure."</i>
+<i>"When you can't make them see the light, make them feel the heat."</i>
 <br>
-<b>- James Allen</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
