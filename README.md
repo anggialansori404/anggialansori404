@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot find yourself by going into the past. You can find yourself by coming into the present."</i>
+<i>"They who have conquered doubt and fear have conquered failure."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
