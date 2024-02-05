@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship brings in a lot of honesty and trust into any relationship, especially a marriage."</i>
+<i>"Be the chief but never the lord."</i>
 <br>
-<b>- Farhan Akhtar</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
