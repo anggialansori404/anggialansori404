@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your home is where your thoughts find peace."</i>
+<i>"We cannot always do great things in life, but we can do small things with great love."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
