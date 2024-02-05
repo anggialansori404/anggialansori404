@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship brings in a lot of honesty and trust into any relationship, especially a marriage."</i>
+<i>"You can't wait for inspiration. You have to go after it with a club. "</i>
 <br>
-<b>- Farhan Akhtar</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
