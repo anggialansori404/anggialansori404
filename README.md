@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep silence for the most part, and speak only when you must, and then briefly."</i>
+<i>"Peace begins with a smile."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
