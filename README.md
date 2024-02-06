@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mistake is a mistake only if you make it twice."</i>
+<i>"There is no way to happiness - happiness is the way."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
