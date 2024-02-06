@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no way to happiness - happiness is the way."</i>
+<i>"Keep silence for the most part, and speak only when you must, and then briefly."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
