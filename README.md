@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunity often comes disguised in the form of misfortune, or temporary defeat."</i>
+<i>"Mistake is a mistake only if you make it twice."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
