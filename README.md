@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The possibilities are numerous once we decide to act and not react."</i>
+<i>"Love is the attempt to form a friendship inspired by beauty."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Cicero</b>
 </blockquote>
 </p>
 
