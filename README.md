@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why compare yourself with others? No one in the entire world can do a better job of being you than you."</i>
+<i>"Do not fight with pigs - you will be smeared in mud but the pig will like it."</i>
 <br>
-<b>- Unknown</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
