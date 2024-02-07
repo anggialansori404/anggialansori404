@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom is always an overmatch for strength."</i>
+<i>"However rare true love may be, it is less so than true friendship."</i>
 <br>
-<b>- Phil Jackson</b>
+<b>- François de La Rochefoucauld</b>
 </blockquote>
 </p>
 
