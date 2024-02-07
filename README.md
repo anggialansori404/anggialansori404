@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"However rare true love may be, it is less so than true friendship."</i>
+<i>"Don't leave a stone unturned. It's always something, to know you have done the most you could."</i>
 <br>
-<b>- François de La Rochefoucauld</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
