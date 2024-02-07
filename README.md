@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the attempt to form a friendship inspired by beauty."</i>
+<i>"I don't pretend to know everything; I just only speak on matters I know I'll win."</i>
 <br>
-<b>- Cicero</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
