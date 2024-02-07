@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It has become appallingly obvious that our technology has exceeded our humanity."</i>
+<i>"The possibilities are numerous once we decide to act and not react."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
