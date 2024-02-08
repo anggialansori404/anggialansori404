@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Get mad, then get over it."</i>
+<i>"A path is made by walking on it."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
