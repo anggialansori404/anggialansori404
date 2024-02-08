@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He has no enemies, but is intensely disliked by his friends."</i>
+<i>"Get mad, then get over it."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
