@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who angers you conquers you."</i>
+<i>"With every experience, you alone are painting your own canvas, thought by thought, choice by choice."</i>
 <br>
-<b>- Elizabeth Kenny</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
