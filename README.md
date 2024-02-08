@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't leave a stone unturned. It's always something, to know you have done the most you could."</i>
+<i>"The wisdom of life consists in the elimination of the nonessentials."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
