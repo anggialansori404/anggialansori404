@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't look out there for God, something in the sky, you look in you."</i>
+<i>"When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
