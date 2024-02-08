@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"With every experience, you alone are painting your own canvas, thought by thought, choice by choice."</i>
+<i>"He has no enemies, but is intensely disliked by his friends."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
