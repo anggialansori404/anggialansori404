@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your worth consists in what you are and not in what you have."</i>
+<i>"Don't leave a stone unturned. It's always something, to know you have done the most you could."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
