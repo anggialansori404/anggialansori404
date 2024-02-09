@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing ever happened in the past that can prevent you from being present now; and if the past cannot prevent you from being present now, what power does it have?"</i>
+<i>"What are we doing here, that is the question."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
