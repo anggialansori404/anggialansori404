@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The whole world is a series of miracles, but we're so used to them we call them ordinary things."</i>
+<i>"Should someone do good, let them do it again and again. They should develop this habit, for the accumulation of goodness brings joy."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
