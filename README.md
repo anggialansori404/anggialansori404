@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Does wisdom perhaps appear on the earth as a raven which is inspired by the smell of carrion?"</i>
+<i>"Argue for your limitations, and sure enough they're yours."</i>
 <br>
-<b>- Friedrich Nietzsche</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
