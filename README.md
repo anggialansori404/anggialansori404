@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started."</i>
+<i>"Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
