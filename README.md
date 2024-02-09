@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great minds are always feared by lesser minds."</i>
+<i>"Life shrinks or expands in proportion to one's courage."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Anaïs Nin</b>
 </blockquote>
 </p>
 
