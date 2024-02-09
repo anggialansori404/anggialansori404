@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't leave a stone unturned. It's always something, to know you have done the most you could."</i>
+<i>"Great minds are always feared by lesser minds."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
