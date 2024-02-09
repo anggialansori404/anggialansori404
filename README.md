@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Should someone do good, let them do it again and again. They should develop this habit, for the accumulation of goodness brings joy."</i>
+<i>"All difficult things have their origin in that which is easy, and great things in that which is small."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
