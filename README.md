@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life shrinks or expands in proportion to one's courage."</i>
+<i>"We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started."</i>
 <br>
-<b>- Anaïs Nin</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
