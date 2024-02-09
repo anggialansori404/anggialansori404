@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him."</i>
+<i>"All truths are easy to understand once they are discovered; the point is to discover them."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Galileo Galilei</b>
 </blockquote>
 </p>
 
