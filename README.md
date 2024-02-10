@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep your dreams, you never know when you might need them."</i>
+<i>"Rest in reason; move in passion."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
