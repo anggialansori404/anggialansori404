@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Argue for your limitations, and sure enough they're yours."</i>
+<i>"Keep your dreams, you never know when you might need them."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
