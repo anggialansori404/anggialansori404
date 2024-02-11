@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fiction is the truth inside the lie."</i>
+<i>"Challenge yourself to find the good and beautiful thing inside of everyone."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
