@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The longer we dwell on our misfortunes, the greater is their power to harm us."</i>
+<i>"Fiction is the truth inside the lie."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
