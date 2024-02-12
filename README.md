@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never argue with ignorance. It only leads to frustration."</i>
+<i>"You do not read a book for the book's sake, but for your own."</i>
 <br>
-<b>- Unknown</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
