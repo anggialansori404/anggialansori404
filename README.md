@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is indeed a radical act of love just to sit down and be quiet for a time by yourself."</i>
+<i>"There is only one thing in the world worse than being talked about, and that is not being talked about. "</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
