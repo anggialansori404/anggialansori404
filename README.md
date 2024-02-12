@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The attempt to escape from pain, is what creates more pain."</i>
+<i>"Where we fall are the stepping-stones for our journey."</i>
 <br>
-<b>- Gabor Mate</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
