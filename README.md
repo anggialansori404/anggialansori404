@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Winners are not people who never fail, but people who never quit."</i>
+<i>"Every day is a new opportunity. You can build on yesterday's success or put its failures behind and start over again. That's the way life is, with a new game every day, and that's the way baseball is."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Bob Feller</b>
 </blockquote>
 </p>
 
