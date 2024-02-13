@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are the only problem you will ever have and you are the only solution."</i>
+<i>"If you seek truth, you will not seek victory by dishonorable means, and if you find truth you will become invincible."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
