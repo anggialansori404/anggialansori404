@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give whatever you are doing and whoever you are with the gift of your attention."</i>
+<i>"Friends are the siblings God never gave us."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Mencius</b>
 </blockquote>
 </p>
 
