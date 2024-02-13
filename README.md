@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your problem isn't the problem. Your reaction is the problem."</i>
+<i>"Life is what you make of it. Always has been, always will be."</i>
 <br>
-<b>- Unknown</b>
+<b>- Grandma Moses</b>
 </blockquote>
 </p>
 
