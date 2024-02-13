@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where we fall are the stepping-stones for our journey."</i>
+<i>"Winners are not people who never fail, but people who never quit."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
