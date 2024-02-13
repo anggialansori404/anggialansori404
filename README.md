@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are willing to believe anything other than the truth."</i>
+<i>"Your problem isn't the problem. Your reaction is the problem."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
