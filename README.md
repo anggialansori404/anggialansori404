@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do."</i>
+<i>"You are the only problem you will ever have and you are the only solution."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
