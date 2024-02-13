@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every day is a new opportunity. You can build on yesterday's success or put its failures behind and start over again. That's the way life is, with a new game every day, and that's the way baseball is."</i>
+<i>"Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do."</i>
 <br>
-<b>- Bob Feller</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
