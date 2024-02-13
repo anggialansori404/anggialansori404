@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you seek truth, you will not seek victory by dishonorable means, and if you find truth you will become invincible."</i>
+<i>"Give whatever you are doing and whoever you are with the gift of your attention."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
