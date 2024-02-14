@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our joy does not have to be based on our circumstances."</i>
+<i>"Beware of false knowledge, it is more dangerous than ignorance."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
