@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't design your own life plan, chances are you'll fall into someone else's plan. And guess what they have planned for you? Not much."</i>
+<i>"Nature loves to hide."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
