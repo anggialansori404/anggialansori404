@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All truths are easy to understand once they are discovered; the point is to discover them."</i>
+<i>"If you don't design your own life plan, chances are you'll fall into someone else's plan. And guess what they have planned for you? Not much."</i>
 <br>
-<b>- Galileo Galilei</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
