@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness."</i>
+<i>"Loyalty and friendship, which is to me the same, created all the wealth that I've ever thought I'd have."</i>
 <br>
-<b>- Joseph Campbell</b>
+<b>- Ernie Banks</b>
 </blockquote>
 </p>
 
