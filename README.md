@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Communications tools don't get socially interesting until they get technologically boring."</i>
+<i>"Learn only how to avoid seeking for and attaching yourselves to anything."</i>
 <br>
-<b>- Clay Shirky</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
