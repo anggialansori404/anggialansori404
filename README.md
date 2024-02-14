@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn only how to avoid seeking for and attaching yourselves to anything."</i>
+<i>"Once you label me you negate me."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Søren Kierkegaard</b>
 </blockquote>
 </p>
 
