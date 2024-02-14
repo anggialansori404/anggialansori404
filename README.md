@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is what you make of it. Always has been, always will be."</i>
+<i>"Communications tools don't get socially interesting until they get technologically boring."</i>
 <br>
-<b>- Grandma Moses</b>
+<b>- Clay Shirky</b>
 </blockquote>
 </p>
 
