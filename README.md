@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Loyalty and friendship, which is to me the same, created all the wealth that I've ever thought I'd have."</i>
+<i>"All truths are easy to understand once they are discovered; the point is to discover them."</i>
 <br>
-<b>- Ernie Banks</b>
+<b>- Galileo Galilei</b>
 </blockquote>
 </p>
 
