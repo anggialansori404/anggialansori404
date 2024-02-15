@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can stand tall without standing on someone. You can be a victor without having victims."</i>
+<i>"A really great talent finds its happiness in execution."</i>
 <br>
-<b>- Harriet Woods</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
