@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We become what we believe."</i>
+<i>"The fewer the words, the better the prayer."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
