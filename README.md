@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No act of kindness, no matter how small, is ever wasted."</i>
+<i>"Nature takes away any faculty that is not used."</i>
 <br>
-<b>- Aesop</b>
+<b>- William Inge</b>
 </blockquote>
 </p>
 
