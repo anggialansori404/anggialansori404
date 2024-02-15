@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The fewer the words, the better the prayer."</i>
+<i>"Never let your memories be greater than your dreams."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Doug Ivester</b>
 </blockquote>
 </p>
 
