@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A really great talent finds its happiness in execution."</i>
+<i>"We become what we believe."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
