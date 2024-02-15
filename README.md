@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We gain the strength of the temptation we resist."</i>
+<i>"You can stand tall without standing on someone. You can be a victor without having victims."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Harriet Woods</b>
 </blockquote>
 </p>
 
