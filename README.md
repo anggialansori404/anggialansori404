@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nature loves to hide."</i>
+<i>"We gain the strength of the temptation we resist."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
