@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go for it now. The future is promised to no one."</i>
+<i>"Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
