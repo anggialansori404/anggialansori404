@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness does not come from having much, but from being attached to little."</i>
+<i>"Go for it now. The future is promised to no one."</i>
 <br>
-<b>- Cheng Yen</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
