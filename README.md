@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is essentially a partnership."</i>
+<i>"Let each man exercise the art he knows."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
