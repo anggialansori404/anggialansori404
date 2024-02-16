@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit."</i>
+<i>"All problems are illusions of the mind."</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
