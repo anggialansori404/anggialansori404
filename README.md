@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The lure of the distant and the difficult is deceptive. The great opportunity is where you are."</i>
+<i>"Friendship is essentially a partnership."</i>
 <br>
-<b>- John Burroughs</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
