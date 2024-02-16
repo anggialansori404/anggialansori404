@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times."</i>
+<i>"Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?"</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
