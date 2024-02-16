@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sports do not build character. They reveal it."</i>
+<i>"It doesn't matter what you do, only how well you do it."</i>
 <br>
-<b>- Heywood Broun</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
