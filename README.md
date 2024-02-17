@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Value your friendship. Value your relationships."</i>
+<i>"When you have a dream, you've got to grab it and never let go."</i>
 <br>
-<b>- Barbara Bush</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
