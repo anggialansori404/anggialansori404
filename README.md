@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truest greatness lies in being kind, the truest wisdom in a happy mind."</i>
+<i>"Open your mind before your mouth."</i>
 <br>
-<b>- Ella Wheeler Wilcox</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
