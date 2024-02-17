@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution."</i>
+<i>"You cannot have a positive life and a negative mind."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
