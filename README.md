@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Correction does much, but encouragement does more."</i>
+<i>"The truest greatness lies in being kind, the truest wisdom in a happy mind."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Ella Wheeler Wilcox</b>
 </blockquote>
 </p>
 
