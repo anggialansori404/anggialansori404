@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot have a positive life and a negative mind."</i>
+<i>"A disciplined mind brings happiness."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
