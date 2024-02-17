@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do what you can. Want what you have. Be who you are."</i>
+<i>"Correction does much, but encouragement does more."</i>
 <br>
-<b>- Forrest Church</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
