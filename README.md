@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you change what you believe, you change what you do."</i>
+<i>"Your friend is your needs answered."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
