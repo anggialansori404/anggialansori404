@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure will never overtake me if my determination to succeed is strong enough."</i>
+<i>"Don't cry because it's over. Smile because it happened."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
