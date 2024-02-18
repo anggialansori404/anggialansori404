@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence."</i>
+<i>"The person who says something is impossible should not interrupt the person who is doing it."</i>
 <br>
-<b>- George Washington</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
