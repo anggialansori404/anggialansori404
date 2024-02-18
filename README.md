@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The present moment is filled with joy and happiness. If you are attentive, you will see it."</i>
+<i>"Sadness flies away on the wings of time."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Jean de La Fontaine</b>
 </blockquote>
 </p>
 
