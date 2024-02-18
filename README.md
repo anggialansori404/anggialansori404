@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ignorance never settles a question."</i>
+<i>"Do something to move yourself toward your major goal every day."</i>
 <br>
-<b>- Benjamin Disraeli</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
