@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am not the first Buddha who came upon Earth, nor shall I be the last. In due time, another Buddha will arise in the world - a Holy One, a supremely enlightened One, endowed with wisdom in conduct, auspicious, knowing the universe, an incomparable leader of men, a master of angels and mortals."</i>
+<i>"Failure will never overtake me if my determination to succeed is strong enough."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
