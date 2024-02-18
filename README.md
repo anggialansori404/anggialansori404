@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sadness flies away on the wings of time."</i>
+<i>"Ignorance never settles a question."</i>
 <br>
-<b>- Jean de La Fontaine</b>
+<b>- Benjamin Disraeli</b>
 </blockquote>
 </p>
 
