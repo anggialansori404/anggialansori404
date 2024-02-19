@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He that is giddy thinks the world turns round."</i>
+<i>"Can you imagine what I would do if I could do all I can?"</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
