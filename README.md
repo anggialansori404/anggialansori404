@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I never see what has been done; I only see what remains to be done."</i>
+<i>"We choose our joys and sorrows long before we experience them."</i>
 <br>
-<b>- Marie Curie</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
