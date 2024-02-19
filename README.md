@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it."</i>
+<i>"With the realization of one's own potential and self-confidence in one's ability, one can build a better world."</i>
 <br>
-<b>- M. Scott Peck</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
