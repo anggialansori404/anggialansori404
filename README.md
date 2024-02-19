@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"With the realization of one's own potential and self-confidence in one's ability, one can build a better world."</i>
+<i>"Do not ignore the passion that burns in you. Spend time to discover your gift."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
