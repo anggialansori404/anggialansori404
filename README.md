@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your friend is your needs answered."</i>
+<i>"I never see what has been done; I only see what remains to be done."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Marie Curie</b>
 </blockquote>
 </p>
 
