@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If one does not know to which port is sailing, no wind is favorable."</i>
+<i>"Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- M. Scott Peck</b>
 </blockquote>
 </p>
 
