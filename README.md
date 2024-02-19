@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All know the way; few actually walk it."</i>
+<i>"If one does not know to which port is sailing, no wind is favorable."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
