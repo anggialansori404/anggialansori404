@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Can you imagine what I would do if I could do all I can?"</i>
+<i>"All know the way; few actually walk it."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
