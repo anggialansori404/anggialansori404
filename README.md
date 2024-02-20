@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can, you should, and if you're brave enough to start, you will."</i>
+<i>"So is cheerfulness, or a good temper, the more it is spent, the more remains."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
