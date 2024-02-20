@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is stumbling from failure to failure with no loss of enthusiasm."</i>
+<i>"Just as true humor is laughter at oneself, true humanity is knowledge of oneself."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
