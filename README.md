@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not ignore the passion that burns in you. Spend time to discover your gift."</i>
+<i>"I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- G. K. Chesterton</b>
 </blockquote>
 </p>
 
