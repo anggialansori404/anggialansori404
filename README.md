@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The happiness of a man in this life does not consist in the absence but in the mastery of his passions."</i>
+<i>"The winds and waves are always on the side of the ablest navigators."</i>
 <br>
-<b>- Alfred Tennyson</b>
+<b>- Edward Gibbon</b>
 </blockquote>
 </p>
 
