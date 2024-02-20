@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just as true humor is laughter at oneself, true humanity is knowledge of oneself."</i>
+<i>"Faith in oneself is the best and safest course."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Michelangelo</b>
 </blockquote>
 </p>
 
