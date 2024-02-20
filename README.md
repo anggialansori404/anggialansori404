@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The winds and waves are always on the side of the ablest navigators."</i>
+<i>"Success is stumbling from failure to failure with no loss of enthusiasm."</i>
 <br>
-<b>- Edward Gibbon</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
