@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"So is cheerfulness, or a good temper, the more it is spent, the more remains."</i>
+<i>"The happiness of a man in this life does not consist in the absence but in the mastery of his passions."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Alfred Tennyson</b>
 </blockquote>
 </p>
 
