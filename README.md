@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder."</i>
+<i>"I'd rather regret the things that I have done than the things that I have not done."</i>
 <br>
-<b>- G. K. Chesterton</b>
+<b>- Lucille Ball</b>
 </blockquote>
 </p>
 
