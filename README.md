@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Kindness is the golden chain by which society is bound together."</i>
+<i>"You can, you should, and if you're brave enough to start, you will."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
