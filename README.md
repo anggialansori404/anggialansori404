@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Much learning does not teach understanding."</i>
+<i>"Kindness is the golden chain by which society is bound together."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
