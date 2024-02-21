@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Faith in oneself is the best and safest course."</i>
+<i>"Blessed is he who expects nothing, for he shall be disappointed."</i>
 <br>
-<b>- Michelangelo</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
