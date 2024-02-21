@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is contagious. So is lack of confidence."</i>
+<i>"To hell with circumstances, I create opportunities."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
