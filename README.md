@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stay committed to your decisions, but stay flexible in your approach."</i>
+<i>"Youth has no age."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
