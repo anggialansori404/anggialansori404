@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We should not give up and we should not allow the problem to defeat us."</i>
+<i>"Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win."</i>
 <br>
-<b>- A. P. J. Abdul Kalam</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
