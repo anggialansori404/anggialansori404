@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love all, trust a few, do wrong to none."</i>
+<i>"A man is literally what he thinks."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
