@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To conquer fear is the beginning of wisdom."</i>
+<i>"You are today where your thoughts have brought you."</i>
 <br>
-<b>- Bertrand Russell</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
