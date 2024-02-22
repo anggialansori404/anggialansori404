@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Strive for excellence, not perfection, because we don't live in a perfect world."</i>
+<i>"The person who cannot control his words shows that he cannot control himself."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
