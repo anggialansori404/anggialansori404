@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better to have loved and lost, than to have never loved at all."</i>
+<i>"He who lives in harmony with himself lives in harmony with the universe."</i>
 <br>
-<b>- Augustine of Hippo</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
