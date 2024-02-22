@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no sadder sight than a young pessimist."</i>
+<i>"Better to have loved and lost, than to have never loved at all."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Augustine of Hippo</b>
 </blockquote>
 </p>
 
