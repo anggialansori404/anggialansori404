@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who lives in harmony with himself lives in harmony with the universe."</i>
+<i>"Love all, trust a few, do wrong to none."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
