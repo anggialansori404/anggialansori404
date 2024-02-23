@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Either you run the day or the day runs you."</i>
+<i>"Action may not always bring happiness, but there is no happiness without action."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
