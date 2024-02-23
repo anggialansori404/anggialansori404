@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I begin with an idea and then it becomes something else."</i>
+<i>"Nature is a mutable cloud which is always and never the same."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
