@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each of us is a unique strand in the intricate web of life and here to make a contribution."</i>
+<i>"Should a seeker not find a companion who is better or equal, let them resolutely pursue a solitary course."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
