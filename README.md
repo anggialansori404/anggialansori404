@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Should a seeker not find a companion who is better or equal, let them resolutely pursue a solitary course."</i>
+<i>"I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Plutarch</b>
 </blockquote>
 </p>
 
