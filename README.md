@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better."</i>
+<i>"No man will make a great leader who wants to do it all himself or to get all the credit for doing it."</i>
 <br>
-<b>- Plutarch</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
