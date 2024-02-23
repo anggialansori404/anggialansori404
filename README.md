@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People are doing the best that they can from their own level of consciousness."</i>
+<i>"Create with the heart; build with the mind."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
