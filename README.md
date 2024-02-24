@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you reach the end of your rope, tie a knot in it and hang on."</i>
+<i>"The greatest miracle is to be alive."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
