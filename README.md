@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest miracle is to be alive."</i>
+<i>"From morning till night, we should never rely on a single thing."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
