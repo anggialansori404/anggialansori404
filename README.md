@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nature is a mutable cloud which is always and never the same."</i>
+<i>"Change is hard at first, messy in the middle and gorgeous at the end."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
