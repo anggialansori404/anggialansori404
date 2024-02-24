@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of getting ahead is getting started."</i>
+<i>"When you reach the end of your rope, tie a knot in it and hang on."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
