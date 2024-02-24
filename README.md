@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"From morning till night, we should never rely on a single thing."</i>
+<i>"The grand essentials of happiness are: something to do, something to love, and something to hope for."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Alexander Chalmers</b>
 </blockquote>
 </p>
 
