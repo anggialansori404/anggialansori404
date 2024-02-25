@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must live in the present, launch yourself on every wave, find your eternity in each moment. Fools stand on their island of opportunities and look toward another land. There is no other land; there is no other life but this."</i>
+<i>"Lord, make me an instrument of thy peace. Where there is hatred, let me sow love."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Francis of Assisi</b>
 </blockquote>
 </p>
 
