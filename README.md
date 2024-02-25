@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is one of the blessings of old friends that you can afford to be stupid with them."</i>
+<i>"Quality means doing it right when no one is looking."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
