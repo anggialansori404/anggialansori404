@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is one of the most tangible things in a world which offers fewer and fewer supports."</i>
+<i>"Most of the important things in the world have been accompanied by people who have kept on trying when there seemed to be no hope at all."</i>
 <br>
-<b>- Kenneth Branagh</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
