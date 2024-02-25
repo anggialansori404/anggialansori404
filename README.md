@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most of the important things in the world have been accompanied by people who have kept on trying when there seemed to be no hope at all."</i>
+<i>"Keep your friends close, and your enemies closer."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
