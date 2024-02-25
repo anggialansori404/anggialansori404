@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anybody can make history. Only a great man can write it."</i>
+<i>"A friend is a gift you give yourself."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Robert Louis Stevenson</b>
 </blockquote>
 </p>
 
