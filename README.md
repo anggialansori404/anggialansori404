@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep your friends close, and your enemies closer."</i>
+<i>"Life is a constant series of opportunities."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
