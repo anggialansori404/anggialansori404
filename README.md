@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take things as they are. Punch when you have to punch. Kick when you have to kick."</i>
+<i>"Friendship is one of the most tangible things in a world which offers fewer and fewer supports."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Kenneth Branagh</b>
 </blockquote>
 </p>
 
