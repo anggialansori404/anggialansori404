@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Lord, make me an instrument of thy peace. Where there is hatred, let me sow love."</i>
+<i>"Anybody can make history. Only a great man can write it."</i>
 <br>
-<b>- Francis of Assisi</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
