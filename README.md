@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A friend is a gift you give yourself."</i>
+<i>"It is one of the blessings of old friends that you can afford to be stupid with them."</i>
 <br>
-<b>- Robert Louis Stevenson</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
