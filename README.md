@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you've never eaten while crying you don t know what life tastes like."</i>
+<i>"Happiness mainly comes from our own attitude, rather than from external factors."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
