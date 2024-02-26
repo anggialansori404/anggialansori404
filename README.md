@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You may be disappointed if you fail, but you are doomed if you don't try."</i>
+<i>"If you've never eaten while crying you don t know what life tastes like."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
