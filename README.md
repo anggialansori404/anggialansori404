@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not take life too seriously. You will never get out of it alive."</i>
+<i>"You know you're in love when you can't fall asleep because reality is finally better than your dreams."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
