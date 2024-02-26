@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness mainly comes from our own attitude, rather than from external factors."</i>
+<i>"Do not take life too seriously. You will never get out of it alive."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
