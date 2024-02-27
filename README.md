@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To change one's life, start immediately, do it flamboyantly, no exceptions."</i>
+<i>"You're never too old for anything."</i>
 <br>
-<b>- William James</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
