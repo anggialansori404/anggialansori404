@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Absence makes the heart grow fonder."</i>
+<i>"Keep me away from the wisdom which does not cry, the philosophy which does not laugh and the greatness which does not bow before children."</i>
 <br>
-<b>- Thomas Haynes Bayly</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
