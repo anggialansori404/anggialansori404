@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth."</i>
+<i>"To create more positive results in your life, replace 'if only' with 'next time'."</i>
 <br>
-<b>- Arthur Conan Doyle</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
