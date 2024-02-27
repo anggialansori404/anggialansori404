@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You know you're in love when you can't fall asleep because reality is finally better than your dreams."</i>
+<i>"Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Bernice Reagon</b>
 </blockquote>
 </p>
 
