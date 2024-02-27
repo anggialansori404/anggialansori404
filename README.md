@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have not failed. I've just found 10,000 ways that won't work."</i>
+<i>"To change one's life, start immediately, do it flamboyantly, no exceptions."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
