@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To create more positive results in your life, replace 'if only' with 'next time'."</i>
+<i>"Absence makes the heart grow fonder."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Thomas Haynes Bayly</b>
 </blockquote>
 </p>
 
