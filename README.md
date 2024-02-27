@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't look back. Something might be gaining on you."</i>
+<i>"Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth."</i>
 <br>
-<b>- Satchel Paige</b>
+<b>- Arthur Conan Doyle</b>
 </blockquote>
 </p>
 
