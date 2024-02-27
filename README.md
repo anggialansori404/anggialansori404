@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are."</i>
+<i>"The world would go on even without you. Don't take yourself so seriously."</i>
 <br>
-<b>- Bernice Reagon</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
