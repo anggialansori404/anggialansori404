@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must welcome change as the rule but not as your ruler. "</i>
+<i>"Through selfless service, you will always be fruitful and find the fulfillment of your desires."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
