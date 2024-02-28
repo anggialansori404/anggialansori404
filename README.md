@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The important thing is this: to be able at any moment to sacrifice what we are for what we could become."</i>
+<i>"I am always doing what I cannot do yet, in order to learn how to do it."</i>
 <br>
-<b>- Charles Du Bos</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
