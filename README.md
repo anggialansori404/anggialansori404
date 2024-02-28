@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Instead of worrying about what you cannot control, shift your energy to what you can create."</i>
+<i>"The important thing is this: to be able at any moment to sacrifice what we are for what we could become."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Charles Du Bos</b>
 </blockquote>
 </p>
 
