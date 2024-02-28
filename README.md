@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Computers are useless. They can only give you answers."</i>
+<i>"We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Uta Hagen</b>
 </blockquote>
 </p>
 
