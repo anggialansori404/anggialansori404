@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot have what you do not want."</i>
+<i>"To be calm is the highest achievement of the self."</i>
 <br>
-<b>- John Acosta</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
