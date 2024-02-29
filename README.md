@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth."</i>
+<i>"Life is not a problem to be solved, but a reality to be experienced."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Søren Kierkegaard</b>
 </blockquote>
 </p>
 
