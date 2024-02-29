@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're really truthful with yourself, it's a wonderful guidance.  "</i>
+<i>"The most important single ingredient in the formula of success is knowing how to get along with people."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
