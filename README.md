@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre."</i>
+<i>"Don't wish it were easier, wish you were better."</i>
 <br>
-<b>- Uta Hagen</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
