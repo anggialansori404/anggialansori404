@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship at first sight, like love at first sight, is said to be the only truth."</i>
+<i>"Life is what happens to you while you're busy making other plans."</i>
 <br>
-<b>- Herman Melville</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
