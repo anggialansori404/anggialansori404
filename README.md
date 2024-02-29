@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't wish it were easier, wish you were better."</i>
+<i>"From the errors of others, a wise man corrects his own."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
