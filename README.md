@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is what happens to you while you're busy making other plans."</i>
+<i>"Discipline is the bridge between goals and accomplishment."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
