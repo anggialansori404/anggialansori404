@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take no thought of who is right or wrong or who is better than. Be not for or against."</i>
+<i>"Strong beliefs win strong men, and then make them stronger."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
