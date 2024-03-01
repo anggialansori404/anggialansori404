@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Strong beliefs win strong men, and then make them stronger."</i>
+<i>"Waste no more time arguing about what a good man should be. Be one."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
