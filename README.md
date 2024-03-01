@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no shortcuts to any place worth going. "</i>
+<i>"All the world is a stage, And all the men and women merely players. They have their exits and entrances; Each man in his time plays many parts."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
