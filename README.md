@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like stepping onto a boat which is about to sail out to sea and sink."</i>
+<i>"Because a thing seems difficult for you, do not think it impossible."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
