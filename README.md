@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Waste no more time arguing about what a good man should be. Be one."</i>
+<i>"Life is like stepping onto a boat which is about to sail out to sea and sink."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
