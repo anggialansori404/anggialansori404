@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists."</i>
+<i>"Formula for success: under promise and over deliver."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Tom Peters</b>
 </blockquote>
 </p>
 
