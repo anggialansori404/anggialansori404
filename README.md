@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Greatness lies not in being strong, but in the right use of strength."</i>
+<i>"The simplest things are often the truest."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
