@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest way to live with honor in this world is to be what we pretend to be."</i>
+<i>"Everyone you admire was once a beginner."</i>
 <br>
-<b>- Socrates</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
