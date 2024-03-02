@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Formula for success: under promise and over deliver."</i>
+<i>"Every day passes whether you participate or not."</i>
 <br>
-<b>- Tom Peters</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
