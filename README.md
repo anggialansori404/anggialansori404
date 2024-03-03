@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A little knowledge that acts is worth infinitely more than much knowledge that is idle."</i>
+<i>"Some people don't like change, but you need to embrace change if the alternative is disaster."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
