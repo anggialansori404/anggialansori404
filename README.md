@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Belief consists in accepting the affirmations of the soul; Unbelief, in denying them."</i>
+<i>"The universe is transformation; our life is what our thoughts make it."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
