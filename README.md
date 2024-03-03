@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I don't pretend to know everything; I just only speak on matters I know I'll win."</i>
+<i>"Heedfulness is the path to the Deathless. Heedlessness is the path to death. The heedful die not. The heedless are as if already dead."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
