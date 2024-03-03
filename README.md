@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reversing your treatment of the man you have wronged is better than asking his forgiveness."</i>
+<i>"I don't pretend to know everything; I just only speak on matters I know I'll win."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
