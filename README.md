@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The universe is transformation; our life is what our thoughts make it."</i>
+<i>"It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
