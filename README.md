@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we did all the things we are capable of, we would literally astound ourselves."</i>
+<i>"Friendship is the source of the greatest pleasures, and without friends even the most agreeable pursuits become tedious."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Thomas Aquinas</b>
 </blockquote>
 </p>
 
