@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are."</i>
+<i>"Changing minds is harder than finding people who already agree."</i>
 <br>
-<b>- Bernice Reagon</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
