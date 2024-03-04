@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who has overcome his fears will truly be free."</i>
+<i>"Love demands infinitely less than friendship."</i>
 <br>
-<b>- Aristotle</b>
+<b>- George Jean Nathan</b>
 </blockquote>
 </p>
 
