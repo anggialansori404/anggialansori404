@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is the source of the greatest pleasures, and without friends even the most agreeable pursuits become tedious."</i>
+<i>"Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are."</i>
 <br>
-<b>- Thomas Aquinas</b>
+<b>- Bernice Reagon</b>
 </blockquote>
 </p>
 
