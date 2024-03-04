@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I hope we shall crush in its birth the aristocracy of our monied corporations which dare already to challenge our government to a trial by strength, and bid defiance to the laws of our country."</i>
+<i>"He who has overcome his fears will truly be free."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
