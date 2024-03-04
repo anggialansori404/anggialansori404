@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is during our darkest moments that we must focus to see the light."</i>
+<i>"An ounce of emotion is equal to a ton of facts."</i>
 <br>
-<b>- Aristotle</b>
+<b>- John Junor</b>
 </blockquote>
 </p>
 
