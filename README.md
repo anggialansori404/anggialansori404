@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love demands infinitely less than friendship."</i>
+<i>"A friend is a gift you give yourself."</i>
 <br>
-<b>- George Jean Nathan</b>
+<b>- Robert Louis Stevenson</b>
 </blockquote>
 </p>
 
