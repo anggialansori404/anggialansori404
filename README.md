@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way out is always through."</i>
+<i>"I think somehow, we learn who we really are and then live with that decision."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
