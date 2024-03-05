@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People grow through experience if they meet life honestly and courageously. This is how character is built."</i>
+<i>"The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Booker T. Washington</b>
 </blockquote>
 </p>
 
