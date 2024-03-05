@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Things turn out best for those who make the best of the way things turn out."</i>
+<i>"Tragedy is a tool for the living to gain wisdom, not a guide by which to live."</i>
 <br>
-<b>- Jack Buck</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
