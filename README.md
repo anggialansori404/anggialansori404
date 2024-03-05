@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To lose your temper is only useful once a year."</i>
+<i>"To create more positive results in your life, replace 'if only' with 'next time'."</i>
 <br>
-<b>- Colin R. Davis</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
