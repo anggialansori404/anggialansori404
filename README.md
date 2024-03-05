@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To create more positive results in your life, replace 'if only' with 'next time'."</i>
+<i>"Things turn out best for those who make the best of the way things turn out."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Jack Buck</b>
 </blockquote>
 </p>
 
