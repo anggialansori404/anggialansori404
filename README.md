@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"But friendship is precious, not only in the shade, but in the sunshine of life, and thanks to a benevolent arrangement the greater part of life is sunshine."</i>
+<i>"Sometimes you put walls up not to keep people out, but to see who cares enough to break them down."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
