@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What we know is a drop, what we don't know is an ocean. "</i>
+<i>"To lead people walk behind them."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
