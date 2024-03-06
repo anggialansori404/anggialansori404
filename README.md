@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Attitude drives actions. Actions drive results. Results drive lifestyles."</i>
+<i>"On the other side of the clouds is a bright blue sky."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
