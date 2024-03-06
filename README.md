@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Excellence is not an exception, it is a prevailing attitude."</i>
+<i>"I have friends in overalls whose friendship I would not swap for the favor of the kings of the world."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
