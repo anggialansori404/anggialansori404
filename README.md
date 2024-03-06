@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wisdom of the wise, and the experience of ages, may be preserved by quotation."</i>
+<i>"The universe is made of stories, not atoms."</i>
 <br>
-<b>- Isaac D'Israeli</b>
+<b>- Muriel Rukeyser</b>
 </blockquote>
 </p>
 
