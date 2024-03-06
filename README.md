@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have friends in overalls whose friendship I would not swap for the favor of the kings of the world."</i>
+<i>"What we know is a drop, what we don't know is an ocean. "</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
