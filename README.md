@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"On the other side of the clouds is a bright blue sky."</i>
+<i>"Excellence is not an exception, it is a prevailing attitude."</i>
 <br>
-<b>- Unknown</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
