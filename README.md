@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I like the dreams of the future better than the history of the past."</i>
+<i>"The wisdom of the wise, and the experience of ages, may be preserved by quotation."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Isaac D'Israeli</b>
 </blockquote>
 </p>
 
