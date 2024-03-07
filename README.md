@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am not what happened to me, I am what I choose to become."</i>
+<i>"There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
