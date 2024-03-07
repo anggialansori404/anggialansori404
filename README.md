@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go to your bosom: Knock there and ask your heart what it doth know."</i>
+<i>"It's important to know that words don't move mountains. Work, exacting work moves mountains."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- Danilo Dolci</b>
 </blockquote>
 </p>
 
