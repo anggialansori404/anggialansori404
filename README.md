@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is one of the most tangible things in a world which offers fewer and fewer supports."</i>
+<i>"If you truly expect something to be difficult, it will be."</i>
 <br>
-<b>- Kenneth Branagh</b>
+<b>- Peter A. Cohen</b>
 </blockquote>
 </p>
 
