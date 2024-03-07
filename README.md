@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tragedy is a tool for the living to gain wisdom, not a guide by which to live."</i>
+<i>"If you are unable to find the truth right where you are, where else do you expect to find it?"</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
