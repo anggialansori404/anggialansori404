@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's important to know that words don't move mountains. Work, exacting work moves mountains."</i>
+<i>"Tragedy is a tool for the living to gain wisdom, not a guide by which to live."</i>
 <br>
-<b>- Danilo Dolci</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
