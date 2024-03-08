@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quality means doing it right when no one is looking."</i>
+<i>"Most people achieved their greatest success one step beyond what looked like their greatest failure."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
