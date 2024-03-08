@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge has three degrees: opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition."</i>
+<i>"Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth."</i>
 <br>
-<b>- Plotinus</b>
+<b>- Arthur Conan Doyle</b>
 </blockquote>
 </p>
 
