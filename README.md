@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When people are like each other they tend to like each other."</i>
+<i>"People who have goals succeed because they know where they're going. It's that simple."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
