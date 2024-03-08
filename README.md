@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people achieved their greatest success one step beyond what looked like their greatest failure."</i>
+<i>"No party has a monopoly on wisdom. No democracy works without compromise."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
