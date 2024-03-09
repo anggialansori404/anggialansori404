@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing will work unless you do."</i>
+<i>"Joy is the best makeup."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Anne Lamott</b>
 </blockquote>
 </p>
 
