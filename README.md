@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom is the oneness of mind that guides and permeates all things."</i>
+<i>"The quicker you let go of old cheese, the sooner you find new cheese."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
