@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher."</i>
+<i>"Life is divided into the horrible and the miserable."</i>
 <br>
-<b>- Pema Chödrön</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
