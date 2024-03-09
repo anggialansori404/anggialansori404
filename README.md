@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't have to control your thoughts; you just have to stop letting them control you."</i>
+<i>"Nothing will work unless you do."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
