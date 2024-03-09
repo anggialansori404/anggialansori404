@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Joy is the best makeup."</i>
+<i>"If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher."</i>
 <br>
-<b>- Anne Lamott</b>
+<b>- Pema Chödrön</b>
 </blockquote>
 </p>
 
