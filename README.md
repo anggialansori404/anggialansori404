@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is only the great hearted who can be true friends. The mean and cowardly, can never know what true friendship means."</i>
+<i>"The only limit to our realization of tomorrow will be our doubts of today."</i>
 <br>
-<b>- Charles Kingsley</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
