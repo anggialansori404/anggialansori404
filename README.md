@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind."</i>
+<i>"Determine never to be idle. No person will have occasion to complain of the want of time who never loses any."</i>
 <br>
-<b>- Paavo Nurmi</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
