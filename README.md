@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only limit to our realization of tomorrow will be our doubts of today."</i>
+<i>"No act of kindness, no matter how small, is ever wasted."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Aesop</b>
 </blockquote>
 </p>
 
