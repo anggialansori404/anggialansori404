@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No act of kindness, no matter how small, is ever wasted."</i>
+<i>"What you become is far more important than what you get."</i>
 <br>
-<b>- Aesop</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
