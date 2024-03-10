@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Originality is the fine art of remembering what you hear but forgetting where you heard it. "</i>
+<i>"Every moment of happiness requires a great amount of Ignorance"</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
