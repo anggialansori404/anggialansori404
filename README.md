@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quicker you let go of old cheese, the sooner you find new cheese."</i>
+<i>"It is only the great hearted who can be true friends. The mean and cowardly, can never know what true friendship means."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Charles Kingsley</b>
 </blockquote>
 </p>
 
