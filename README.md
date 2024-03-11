@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we are not fully ourselves, truly in the present moment, we miss everything."</i>
+<i>"The foolish man seeks happiness in the distance, the wise grows it under his feet."</i>
 <br>
-<b>- Thích Nhất Hạnh</b>
+<b>- James Oppenheim</b>
 </blockquote>
 </p>
 
