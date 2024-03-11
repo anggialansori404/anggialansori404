@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The golden opportunity you are seeking is within yourself."</i>
+<i>"All I required to be happy was friendship and people I could admire."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Christian Dior</b>
 </blockquote>
 </p>
 
