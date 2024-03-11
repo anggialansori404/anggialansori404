@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The foolish man seeks happiness in the distance, the wise grows it under his feet."</i>
+<i>"In seed time learn, in harvest teach, in winter enjoy."</i>
 <br>
-<b>- James Oppenheim</b>
+<b>- William Blake</b>
 </blockquote>
 </p>
 
