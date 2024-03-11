@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A mistake is only an error, it becomes a mistake when you fail to correct it."</i>
+<i>"Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict."</i>
 <br>
-<b>- John Lennon</b>
+<b>- William Ellery Channing</b>
 </blockquote>
 </p>
 
