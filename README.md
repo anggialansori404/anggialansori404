@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Does wisdom perhaps appear on the earth as a raven which is inspired by the smell of carrion?"</i>
+<i>"A mistake is only an error, it becomes a mistake when you fail to correct it."</i>
 <br>
-<b>- Friedrich Nietzsche</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
