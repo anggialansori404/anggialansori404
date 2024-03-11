@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I know where I'm going and I know the truth, and I don't have to be what you want me to be. I'm free to be what I want."</i>
+<i>"New opinions are always suspected, and usually opposed, without any other reason but because they are not common."</i>
 <br>
-<b>- Muhammad Ali</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
