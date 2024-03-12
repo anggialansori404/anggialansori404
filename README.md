@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let us always meet each other with smile, for the smile is the beginning of love."</i>
+<i>"Blessed is the man who expects nothing, for he shall never be disappointed."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
