@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams are the royal road to the unconscious. "</i>
+<i>"Elegance does not consist in putting on a new dress."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
