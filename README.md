@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest remedy for anger is delay."</i>
+<i>"They who have conquered doubt and fear have conquered failure."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
