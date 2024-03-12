@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict."</i>
+<i>"Let us always meet each other with smile, for the smile is the beginning of love."</i>
 <br>
-<b>- William Ellery Channing</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
