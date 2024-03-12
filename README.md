@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go for it now. The future is promised to no one."</i>
+<i>"The greatest remedy for anger is delay."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
