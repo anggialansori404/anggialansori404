@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Blessed is the man who expects nothing, for he shall never be disappointed."</i>
+<i>"The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
