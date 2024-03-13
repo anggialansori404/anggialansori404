@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"They who have conquered doubt and fear have conquered failure."</i>
+<i>"Sometimes a change of perspective is all it takes to see the light."</i>
 <br>
-<b>- James Allen</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
