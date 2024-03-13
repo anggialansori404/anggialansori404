@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Music is a higher revelation than all wisdom and philosophy."</i>
+<i>"The truest greatness lies in being kind, the truest wisdom in a happy mind."</i>
 <br>
-<b>- Ludwig van Beethoven</b>
+<b>- Ella Wheeler Wilcox</b>
 </blockquote>
 </p>
 
