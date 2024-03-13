@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do."</i>
+<i>"Yeah, we all shine on, like the moon, and the stars, and the sun."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
