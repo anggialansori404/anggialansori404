@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truest greatness lies in being kind, the truest wisdom in a happy mind."</i>
+<i>"Happiness is found in doing, not merely possessing."</i>
 <br>
-<b>- Ella Wheeler Wilcox</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
