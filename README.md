@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the depth of winter, I finally learned that there was within me an invincible summer."</i>
+<i>"All action results from thought, so it is thoughts that matter."</i>
 <br>
-<b>- Albert Camus</b>
+<b>- Sai Baba</b>
 </blockquote>
 </p>
 
