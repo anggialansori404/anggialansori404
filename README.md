@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is not just the passing of time. Life is the collection of experiences and their intensity."</i>
+<i>"In the depth of winter, I finally learned that there was within me an invincible summer."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Albert Camus</b>
 </blockquote>
 </p>
 
