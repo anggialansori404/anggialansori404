@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All I can say about life is, Oh God, enjoy it!"</i>
+<i>"Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do."</i>
 <br>
-<b>- Bob Newhart</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
