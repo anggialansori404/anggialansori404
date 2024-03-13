@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world is open for play, everything and everybody is mockable in a wonderful way."</i>
+<i>"If I can pay the bills, I'm happy."</i>
 <br>
-<b>- Robin Williams</b>
+<b>- Morgan Wootten</b>
 </blockquote>
 </p>
 
