@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom is always an overmatch for strength."</i>
+<i>"Gratitude is the fairest blossom which springs from the soul."</i>
 <br>
-<b>- Phil Jackson</b>
+<b>- Henry K. Beecher</b>
 </blockquote>
 </p>
 
