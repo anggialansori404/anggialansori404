@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away."</i>
+<i>"To be beautiful means to be yourself. You don't need to be accepted by others. You need to accept yourself."</i>
 <br>
-<b>- John Steinbeck</b>
+<b>- Thích Nhất Hạnh</b>
 </blockquote>
 </p>
 
