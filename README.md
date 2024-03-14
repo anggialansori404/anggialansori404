@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All action results from thought, so it is thoughts that matter."</i>
+<i>"There is no excuse for not trying."</i>
 <br>
-<b>- Sai Baba</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
