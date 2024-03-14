@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I cannot even imagine where I would be today were it not for that handful of friends who have given me a heart full of joy. Let's face it, friends make life a lot more fun."</i>
+<i>"If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away."</i>
 <br>
-<b>- Chuck Swindoll</b>
+<b>- John Steinbeck</b>
 </blockquote>
 </p>
 
