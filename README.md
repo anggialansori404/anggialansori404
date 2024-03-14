@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There can be no deep disappointment where there is not deep love."</i>
+<i>"The highest stage in moral culture at which we can arrive is when we recognize that we ought to control our thoughts."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
