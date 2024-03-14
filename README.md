@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The highest stage in moral culture at which we can arrive is when we recognize that we ought to control our thoughts."</i>
+<i>"Russia is a riddle wrapped in a mystery inside an enigma."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
