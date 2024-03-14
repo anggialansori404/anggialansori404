@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Russia is a riddle wrapped in a mystery inside an enigma."</i>
+<i>"Wisdom is always an overmatch for strength."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Phil Jackson</b>
 </blockquote>
 </p>
 
