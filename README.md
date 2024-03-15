@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"These days people seek knowledge, not wisdom. Knowledge is of the past; wisdom is of the future."</i>
+<i>"I cannot always control what goes on outside. But I can always control what goes on inside."</i>
 <br>
-<b>- Vernon Cooper</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
