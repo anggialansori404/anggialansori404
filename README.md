@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.  "</i>
+<i>"Happiness is the meaning and the purpose of life, the whole aim and end of human existence."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
