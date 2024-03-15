@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be beautiful means to be yourself. You don't need to be accepted by others. You need to accept yourself."</i>
+<i>"Coming together is a beginning; keeping together is progress; working together is success."</i>
 <br>
-<b>- Thích Nhất Hạnh</b>
+<b>- Edward Everett Hale</b>
 </blockquote>
 </p>
 
