@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I cannot always control what goes on outside. But I can always control what goes on inside."</i>
+<i>"If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
