@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rather than love, than money, than fame, give me truth."</i>
+<i>"Stop being tormented by everyone else's reaction to you."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
