@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In order to attain the impossible, one must attempt the absurd."</i>
+<i>"The truth is not for all men, but only for those who seek it."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
