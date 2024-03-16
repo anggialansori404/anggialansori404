@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whoever is happy will make others happy, too."</i>
+<i>"The best way to predict your future is to create it."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
