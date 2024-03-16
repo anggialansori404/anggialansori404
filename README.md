@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life."</i>
+<i>"In order to attain the impossible, one must attempt the absurd."</i>
 <br>
-<b>- Albert Camus</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
