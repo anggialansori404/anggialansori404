@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The person born with a talent they are meant to use will find their greatest happiness in using it."</i>
+<i>"One of the first signs of the beginning of understanding is the wish to die. "</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
