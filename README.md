@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunity is missed by most people because it is dressed in overalls and looks like work."</i>
+<i>"You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Albert Camus</b>
 </blockquote>
 </p>
 
