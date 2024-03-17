@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our greatness lies not so much in being able to remake the world as being able to remake ourselves."</i>
+<i>"To follow, without halt, one aim: There is the secret of success."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Anna Pavlova</b>
 </blockquote>
 </p>
 
