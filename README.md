@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not what happens to you, but how you react to it that matters."</i>
+<i>"Stop acting so small. You are the universe in ecstatic motion."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
