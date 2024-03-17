@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Experience is not what happens to a man. It is what a man does with what happens to him."</i>
+<i>"A man cannot be said to succeed in this life who does not satisfy one friend."</i>
 <br>
-<b>- Aldous Huxley</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
