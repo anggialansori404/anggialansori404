@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ask yourself the secret of your success. Listen to your answer and practice it."</i>
+<i>"Autumn is a second spring when every leaf is a flower."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Albert Camus</b>
 </blockquote>
 </p>
 
