@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sweet is the memory of distant friends! Like the mellow rays of the departing sun, it falls tenderly, yet sadly, on the heart."</i>
+<i>"Avoid having your ego so close to your position that when your position falls, your ego goes with it."</i>
 <br>
-<b>- Washington Irving</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
