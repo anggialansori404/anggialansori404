@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Avoid having your ego so close to your position that when your position falls, your ego goes with it."</i>
+<i>"Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- George S. Patton</b>
 </blockquote>
 </p>
 
