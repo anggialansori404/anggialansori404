@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ethical axioms are found and tested not very differently from the axioms of science. Truth is what stands the test of experience."</i>
+<i>"Sweet is the memory of distant friends! Like the mellow rays of the departing sun, it falls tenderly, yet sadly, on the heart."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Washington Irving</b>
 </blockquote>
 </p>
 
