@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard."</i>
+<i>"Respect should be earned by actions, and not acquired by years."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Frank Lloyd Wright</b>
 </blockquote>
 </p>
 
