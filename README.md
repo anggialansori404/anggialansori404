@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The chief cause of failure and unhappiness is trading what you want most for what you want right now."</i>
+<i>"The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
