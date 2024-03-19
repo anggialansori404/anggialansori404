@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life would be tragic if it weren't funny."</i>
+<i>"Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
