@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are."</i>
+<i>"By believing passionately in something that does not yet exist, we create it."</i>
 <br>
-<b>- Bernice Reagon</b>
+<b>- Nikos Kazantzakis</b>
 </blockquote>
 </p>
 
