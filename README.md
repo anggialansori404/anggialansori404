@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By believing passionately in something that does not yet exist, we create it."</i>
+<i>"May you live all the days of your life."</i>
 <br>
-<b>- Nikos Kazantzakis</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
