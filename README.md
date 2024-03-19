@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"May you live all the days of your life."</i>
+<i>"The only way to have a friend is to be one."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
