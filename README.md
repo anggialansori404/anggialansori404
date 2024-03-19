@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To perceive is to suffer."</i>
+<i>"Everyone thinks of changing the world, but no one thinks of changing himself."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
