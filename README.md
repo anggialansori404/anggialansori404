@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only way to have a friend is to be one."</i>
+<i>"You are the sky. Everything else - it's just the weather."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
