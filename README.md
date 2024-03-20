@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good luck is another name for tenacity of purpose."</i>
+<i>"Today you are you! That is truer than true! There is no one alive who is you-er than you!"</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
