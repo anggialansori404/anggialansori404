@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one."</i>
+<i>"In friendship as well as love, ignorance very often contributes more to our happiness than knowledge."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- François de La Rochefoucauld</b>
 </blockquote>
 </p>
 
