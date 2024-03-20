@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions."</i>
+<i>"Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one."</i>
 <br>
-<b>- Naguib Mahfouz</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
