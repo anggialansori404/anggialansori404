@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge."</i>
+<i>"The truest greatness lies in being kind, the truest wisdom in a happy mind."</i>
 <br>
-<b>- Daniel J. Boorstin</b>
+<b>- Ella Wheeler Wilcox</b>
 </blockquote>
 </p>
 
