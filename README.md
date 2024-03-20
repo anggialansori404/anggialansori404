@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truest greatness lies in being kind, the truest wisdom in a happy mind."</i>
+<i>"Good luck is another name for tenacity of purpose."</i>
 <br>
-<b>- Ella Wheeler Wilcox</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
