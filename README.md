@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Today you are you! That is truer than true! There is no one alive who is you-er than you!"</i>
+<i>"All power is from within and therefore under our control."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
