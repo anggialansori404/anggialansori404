@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are the sky. Everything else - it's just the weather."</i>
+<i>"The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Daniel J. Boorstin</b>
 </blockquote>
 </p>
 
