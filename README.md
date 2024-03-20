@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All power is from within and therefore under our control."</i>
+<i>"Your mind will make you rich or poor, depending on the use you put to it."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
