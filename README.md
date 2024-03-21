@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The heart that gives, gathers."</i>
+<i>"Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
