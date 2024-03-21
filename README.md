@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Chaos and Order are not enemies, only opposites."</i>
+<i>"Maxim for life: You get treated in life the way you teach people to treat you."</i>
 <br>
-<b>- Richard Garriott</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
