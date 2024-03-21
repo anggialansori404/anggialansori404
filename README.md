@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious."</i>
+<i>"A successful person is one who can lay a firm foundation with the bricks that others throw at him or her."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- David Brinkley</b>
 </blockquote>
 </p>
 
