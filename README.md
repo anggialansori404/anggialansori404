@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In wisdom gathered over time I have found that every experience is a form of exploration."</i>
+<i>"He who wishes to secure the good of others, has already secured his own."</i>
 <br>
-<b>- Ansel Adams</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
