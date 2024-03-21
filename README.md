@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who know, do. Those that understand, teach."</i>
+<i>"Live as if you were to die tomorrow. Learn as if you were to live forever."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
