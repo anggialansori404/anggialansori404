@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who wishes to secure the good of others, has already secured his own."</i>
+<i>"Misfortune shows those who are not really friends."</i>
 <br>
-<b>- Confucius</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
