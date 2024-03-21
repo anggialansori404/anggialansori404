@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learning never exhausts the mind."</i>
+<i>"In wisdom gathered over time I have found that every experience is a form of exploration."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Ansel Adams</b>
 </blockquote>
 </p>
 
