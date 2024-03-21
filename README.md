@@ -28,7 +28,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Misfortune shows those who are not really friends."</i>
+<i>"Those who know, do. Those that understand, teach."</i>
 <br>
 <b>- Aristotle</b>
 </blockquote>
