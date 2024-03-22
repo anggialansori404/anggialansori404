@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Problems are not stop signs, they are guidelines."</i>
+<i>"All religions, arts and sciences are branches of the same tree. "</i>
 <br>
-<b>- Robert Schuller</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
