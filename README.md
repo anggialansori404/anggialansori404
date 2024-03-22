@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to have enough ideas for some of them to be wrong, than to be always right by having no ideas at all."</i>
+<i>"You can stand tall without standing on someone. You can be a victor without having victims."</i>
 <br>
-<b>- Edward de Bono</b>
+<b>- Harriet Woods</b>
 </blockquote>
 </p>
 
