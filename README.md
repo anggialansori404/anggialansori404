@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who has imagination without learning has wings but no feet."</i>
+<i>"It is better to have enough ideas for some of them to be wrong, than to be always right by having no ideas at all."</i>
 <br>
-<b>- Joseph Joubert</b>
+<b>- Edward de Bono</b>
 </blockquote>
 </p>
 
