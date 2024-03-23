@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future doesn't belong to the faint-hearted; it belongs to the brave."</i>
+<i>"People ask me what I do in winter when there's no baseball. I'll tell you what I do. I stare out the window and wait for spring."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Rogers Hornsby</b>
 </blockquote>
 </p>
 
