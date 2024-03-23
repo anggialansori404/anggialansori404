@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good system shortens the road to the goal. "</i>
+<i>"They can do all because they think they can."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- Virgil</b>
 </blockquote>
 </p>
 
