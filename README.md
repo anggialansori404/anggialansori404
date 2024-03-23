@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People ask me what I do in winter when there's no baseball. I'll tell you what I do. I stare out the window and wait for spring."</i>
+<i>"A good system shortens the road to the goal. "</i>
 <br>
-<b>- Rogers Hornsby</b>
+<b>- Orison Swett Marden</b>
 </blockquote>
 </p>
 
