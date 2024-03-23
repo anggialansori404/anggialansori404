@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never feel shame for trying and failing, for he who has never failed is he who has never tried."</i>
+<i>"Success is not final; failure is not fatal: it is the courage to continue that counts."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
