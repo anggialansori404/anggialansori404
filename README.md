@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Eighty percent of success is showing up."</i>
+<i>"The secret of happiness is not in doing what you like but in liking what you have to do."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
