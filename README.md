@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not think you will necessarily be aware of your own enlightenment."</i>
+<i>"One fails forward toward success."</i>
 <br>
-<b>- Dogen</b>
+<b>- Charles F. Kettering</b>
 </blockquote>
 </p>
 
