@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe you can and you will be halfway there."</i>
+<i>"The future doesn't belong to the faint-hearted; it belongs to the brave."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
