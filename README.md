@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All great men are gifted with intuition. They know without reasoning or analysis, what they need to know."</i>
+<i>"Injuries may be forgiven, but not forgotten."</i>
 <br>
-<b>- Alexis Carrel</b>
+<b>- Aesop</b>
 </blockquote>
 </p>
 
