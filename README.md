@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You gain strength, courage and confidence by every experience in which you really stop to look fear in the face."</i>
+<i>"Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
