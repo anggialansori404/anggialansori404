@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ability is a poor man's wealth."</i>
+<i>"You gain strength, courage and confidence by every experience in which you really stop to look fear in the face."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
