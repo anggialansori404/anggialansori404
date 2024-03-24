@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"These days people seek knowledge, not wisdom. Knowledge is of the past; wisdom is of the future."</i>
+<i>"What is not started today is never finished tomorrow."</i>
 <br>
-<b>- Vernon Cooper</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
