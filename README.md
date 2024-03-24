@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Injuries may be forgiven, but not forgotten."</i>
+<i>"To follow, without halt, one aim: There is the secret of success."</i>
 <br>
-<b>- Aesop</b>
+<b>- Anna Pavlova</b>
 </blockquote>
 </p>
 
