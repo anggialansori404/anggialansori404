@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe in one thing too much and you have no room for new ideas.  "</i>
+<i>"There are no limitations to the mind except those we acknowledge..."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
