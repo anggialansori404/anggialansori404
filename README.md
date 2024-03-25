@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wrong turns are as important as right turns. More important, sometimes."</i>
+<i>"The truest greatness lies in being kind, the truest wisdom in a happy mind."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Ella Wheeler Wilcox</b>
 </blockquote>
 </p>
 
