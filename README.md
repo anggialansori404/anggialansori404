@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways."</i>
+<i>"Be the chief but never the lord."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
