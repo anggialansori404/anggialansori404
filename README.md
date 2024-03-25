@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sports do not build character. They reveal it."</i>
+<i>"Give me six hours to chop down a tree and I will spend the first four sharpening the axe."</i>
 <br>
-<b>- Heywood Broun</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
