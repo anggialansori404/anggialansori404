@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who lives in harmony with himself lives in harmony with the world."</i>
+<i>"One may say the eternal mystery of the world is its comprehensibility."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
