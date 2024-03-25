@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be the chief but never the lord."</i>
+<i>"Wrong turns are as important as right turns. More important, sometimes."</i>
 <br>
-<b>- Laozi</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
