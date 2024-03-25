@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?"</i>
+<i>"He who lives in harmony with himself lives in harmony with the world."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
