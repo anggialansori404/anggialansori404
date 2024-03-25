@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Patience is the companion of wisdom."</i>
+<i>"Man is affected not by events but by the view he takes of them.  "</i>
 <br>
-<b>- Augustine of Hippo</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
