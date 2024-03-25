@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nature gave us one tongue and two ears so we could hear twice as much as we speak."</i>
+<i>"Sports do not build character. They reveal it."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Heywood Broun</b>
 </blockquote>
 </p>
 
