@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who controls others may be powerful, but he who has mastered himself is mightier still."</i>
+<i>"Anyone who reads a book with a sense of obligation does not understand the art of reading."</i>
 <br>
-<b>- Laozi</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
