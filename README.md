@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Forgive those who have hurt you."</i>
+<i>"The world makes way for the man who knows where he is going."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
