@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You got to be careful if you don't know where you're going, because you might not get there."</i>
+<i>"It's better to be a lion for a day than a sheep all your life."</i>
 <br>
-<b>- Yogi Berra</b>
+<b>- Elizabeth Kenny</b>
 </blockquote>
 </p>
 
