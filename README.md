@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ability to observe without evaluating is the highest form of intelligence."</i>
+<i>"It's much better to do good in a way that no one knows anything about it."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
