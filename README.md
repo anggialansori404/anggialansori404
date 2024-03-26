@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you love life, don't waste time, for time is what life is made up of."</i>
+<i>"The ability to observe without evaluating is the highest form of intelligence."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
