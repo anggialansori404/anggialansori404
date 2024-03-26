@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let each man exercise the art he knows."</i>
+<i>"He who controls others may be powerful, but he who has mastered himself is mightier still."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
