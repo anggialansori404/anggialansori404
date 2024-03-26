@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world makes way for the man who knows where he is going."</i>
+<i>"It's not how much we give but how much love we put into giving."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
