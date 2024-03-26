@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who reads a book with a sense of obligation does not understand the art of reading."</i>
+<i>"You got to be careful if you don't know where you're going, because you might not get there."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Yogi Berra</b>
 </blockquote>
 </p>
 
