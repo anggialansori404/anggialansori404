@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's better to be a lion for a day than a sheep all your life."</i>
+<i>"For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour."</i>
 <br>
-<b>- Elizabeth Kenny</b>
+<b>- Mary Kay Ash</b>
 </blockquote>
 </p>
 
