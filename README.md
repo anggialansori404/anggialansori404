@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour."</i>
+<i>"It is a common experience that a problem difficult at night is resolved in the morning after the committee of sleep has worked on it."</i>
 <br>
-<b>- Mary Kay Ash</b>
+<b>- John Steinbeck</b>
 </blockquote>
 </p>
 
