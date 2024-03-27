@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"America's freedom of religion, and freedom from religion, offers every wisdom tradition an opportunity to address our soul-deep needs: Christianity, Judaism, Islam, Buddhism, Hinduism, secular humanism, agnosticism and atheism among others."</i>
+<i>"Life is not a problem to be solved, but a reality to be experienced."</i>
 <br>
-<b>- Parker Palmer</b>
+<b>- Søren Kierkegaard</b>
 </blockquote>
 </p>
 
