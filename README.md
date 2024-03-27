@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stop wasting time looking at someone else's reality while doing nothing about yours."</i>
+<i>"Just because something doesn't do what you planned it to do doesn't mean it's useless."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
