@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let yourself be silently drawn by the stronger pull of what you really love."</i>
+<i>"It's so simple to be wise. Just think of something stupid to say and then don't say it."</i>
 <br>
-<b>- Rumi</b>
+<b>- Sam Levenson</b>
 </blockquote>
 </p>
 
