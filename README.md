@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truth of the matter is that you always know the right thing to do. The hard part is doing it."</i>
+<i>"Before anything else, preparation is the key to success."</i>
 <br>
-<b>- Norman Schwarzkopf</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
