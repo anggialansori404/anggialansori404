@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's much better to do good in a way that no one knows anything about it."</i>
+<i>"The truth of the matter is that you always know the right thing to do. The hard part is doing it."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Norman Schwarzkopf</b>
 </blockquote>
 </p>
 
