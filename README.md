@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just as a mother would protect her only child with her life, even so let one cultivate a boundless love towards all beings."</i>
+<i>"You are that vast thing that you see far, far off with great telescopes."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
