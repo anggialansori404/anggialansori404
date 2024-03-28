@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It isn't what happens to us that causes us to suffer; it's what we say to ourselves about what happens."</i>
+<i>"Acquaintances we meet, enjoy, and can easily leave behind; but friendship grows deep roots."</i>
 <br>
-<b>- Pema Chödrön</b>
+<b>- H. Jackson Brown Jr.</b>
 </blockquote>
 </p>
 
