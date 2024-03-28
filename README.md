@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are stuck with technology when what we really want is just stuff that works."</i>
+<i>"Don't be pushed by your problems; be led by your dreams."</i>
 <br>
-<b>- Douglas Adams</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
