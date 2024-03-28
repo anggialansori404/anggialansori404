@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The outer conditions of a person's life will always be found to reflect their inner beliefs."</i>
+<i>"Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat."</i>
 <br>
-<b>- James Allen</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
