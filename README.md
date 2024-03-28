@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be pushed by your problems; be led by your dreams."</i>
+<i>"Cherish forever what makes you unique, cuz you're really a yawn if it goes."</i>
 <br>
-<b>- Unknown</b>
+<b>- Bette Midler</b>
 </blockquote>
 </p>
 
