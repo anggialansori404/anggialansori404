@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Decision is a risk rooted in the courage of being free."</i>
+<i>"It isn't what happens to us that causes us to suffer; it's what we say to ourselves about what happens."</i>
 <br>
-<b>- Paul Tillich</b>
+<b>- Pema Chödrön</b>
 </blockquote>
 </p>
 
