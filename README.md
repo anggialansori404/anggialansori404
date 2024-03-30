@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We learn to walk by falling down. If we never fell down, we would never walk."</i>
+<i>"The highest stage in moral culture at which we can arrive is when we recognize that we ought to control our thoughts."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
