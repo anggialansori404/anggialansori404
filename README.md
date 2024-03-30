@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything you look at can become a fairy tale and you can get a story from everything you touch."</i>
+<i>"Rest and be kind, you don't have to prove anything."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Jack Kerouac</b>
 </blockquote>
 </p>
 
