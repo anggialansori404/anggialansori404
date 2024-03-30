@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest part of our happiness depends on our dispositions, not our circumstances."</i>
+<i>"We learn to walk by falling down. If we never fell down, we would never walk."</i>
 <br>
-<b>- Martha Washington</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
