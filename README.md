@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Circumstances do not make the man, they reveal him."</i>
+<i>"The way to get started is to quit talking and begin doing."</i>
 <br>
-<b>- James Allen</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
