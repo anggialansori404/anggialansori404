@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way to get started is to quit talking and begin doing."</i>
+<i>"The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Isaac Asimov</b>
 </blockquote>
 </p>
 
