@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is softer or more flexible than water, yet nothing can resist it."</i>
+<i>"A leader is one who knows the way, goes the way, and shows the way."</i>
 <br>
-<b>- Laozi</b>
+<b>- John C. Maxwell</b>
 </blockquote>
 </p>
 
