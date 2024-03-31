@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A leader is one who knows the way, goes the way, and shows the way."</i>
+<i>"Our passion is our strength."</i>
 <br>
-<b>- John C. Maxwell</b>
+<b>- Billie Armstrong</b>
 </blockquote>
 </p>
 
