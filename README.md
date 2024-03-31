@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who will play with cats must expect to be scratched."</i>
+<i>"When you repeat a mistake, it is not a mistake anymore: it is a decision."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
