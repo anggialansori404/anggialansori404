@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I gave my life to become the person I am right now. Was it worth it?"</i>
+<i>"Be here now. Be someplace else later. Is that so complicated?"</i>
 <br>
-<b>- Richard Bach</b>
+<b>- David Bader</b>
 </blockquote>
 </p>
 
