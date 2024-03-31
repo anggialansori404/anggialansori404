@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our passion is our strength."</i>
+<i>"Circumstances do not make the man, they reveal him."</i>
 <br>
-<b>- Billie Armstrong</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
