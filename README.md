@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be here now. Be someplace else later. Is that so complicated?"</i>
+<i>"Those who will play with cats must expect to be scratched."</i>
 <br>
-<b>- David Bader</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
