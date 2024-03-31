@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom."</i>
+<i>"Talent is luck. The important thing in life is courage."</i>
 <br>
-<b>- Isaac Asimov</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
