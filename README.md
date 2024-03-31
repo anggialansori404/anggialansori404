@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rest and be kind, you don't have to prove anything."</i>
+<i>"Nothing is softer or more flexible than water, yet nothing can resist it."</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
