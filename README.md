@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are never too old to become younger."</i>
+<i>"Computers are like bikinis. They save people a lot of guesswork."</i>
 <br>
-<b>- Mae West</b>
+<b>- Sam Ewing</b>
 </blockquote>
 </p>
 
