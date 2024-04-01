@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no differences but differences of degree between different degrees of difference and no difference."</i>
+<i>"May you live all the days of your life."</i>
 <br>
-<b>- William James</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
