@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I believe that we are fundamentally the same and have the same basic potential."</i>
+<i>"The greatest deception men suffer is from their own opinions."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
