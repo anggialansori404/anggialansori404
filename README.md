@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Computers are like bikinis. They save people a lot of guesswork."</i>
+<i>"Things do not have meaning. We assign meaning to everything."</i>
 <br>
-<b>- Sam Ewing</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
