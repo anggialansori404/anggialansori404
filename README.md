@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe you can and you're halfway there."</i>
+<i>"Life and death are of supreme importance. Time swiftly passes by and opportunity is lost."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
