@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If only wed stop trying to be happy wed have a pretty good time."</i>
+<i>"What the mind can conceive and believe, and the heart desire, you can achieve."</i>
 <br>
-<b>- Edith Wharton</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
