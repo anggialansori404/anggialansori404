@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A memory is a beautiful thing, it's almost a desire that you miss."</i>
+<i>"Love never keeps a man from pursuing his destiny."</i>
 <br>
-<b>- Gustave Flaubert</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
