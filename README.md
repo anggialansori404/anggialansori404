@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard."</i>
+<i>"I decided that it was not wisdom that enabled poets to write their poetry, but a kind of instinct or inspiration, such as you find in seers and prophets who deliver all their sublime messages without knowing in the least what they mean."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Isocrates</b>
 </blockquote>
 </p>
 
