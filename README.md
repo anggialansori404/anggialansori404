@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I decided that it was not wisdom that enabled poets to write their poetry, but a kind of instinct or inspiration, such as you find in seers and prophets who deliver all their sublime messages without knowing in the least what they mean."</i>
+<i>"Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win."</i>
 <br>
-<b>- Isocrates</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
