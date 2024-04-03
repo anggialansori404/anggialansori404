@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our view of the world is truly shaped by what we decide to hear."</i>
+<i>"Others have seen what is and asked why. I have seen what could be and asked why not"</i>
 <br>
-<b>- William James</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
