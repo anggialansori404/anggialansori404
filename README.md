@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Others have seen what is and asked why. I have seen what could be and asked why not"</i>
+<i>"Excellence, then, is a state concerned with choice, lying in a mean, relative to us, this being determined by reason and in the way in which the man of practical wisdom would determine it."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
