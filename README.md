@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is the meaning and the purpose of life, the whole aim and end of human existence."</i>
+<i>"It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!"</i>
 <br>
-<b>- Aristotle</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
