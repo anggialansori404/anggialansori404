@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win."</i>
+<i>"A passion for politics stems usually from an insatiable need, either for power, or for friendship and adulation, or a combination of both."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Fawn M. Brodie</b>
 </blockquote>
 </p>
 
