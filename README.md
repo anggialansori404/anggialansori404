@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Instead of worrying about what you cannot control, shift your energy to what you can create."</i>
+<i>"Sometimes you have to travel a long way to find what is near."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
