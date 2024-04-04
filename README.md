@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always be a first-rate version of yourself, instead of a second-rate version of somebody else."</i>
+<i>"Human beings can alter their lives by altering their attitudes of mind."</i>
 <br>
-<b>- Judy Garland</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
