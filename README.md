@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity."</i>
+<i>"The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time."</i>
 <br>
-<b>- Louis Pasteur</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
