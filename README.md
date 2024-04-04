@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the most difficult things is not to change society - but to change yourself."</i>
+<i>"Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Louis Pasteur</b>
 </blockquote>
 </p>
 
