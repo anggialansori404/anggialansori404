@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Human beings can alter their lives by altering their attitudes of mind."</i>
+<i>"A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty."</i>
 <br>
-<b>- William James</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
