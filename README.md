@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do the one thing you think you cannot do. Fail at it. Try again. Do better the second time. The only people who never tumble are those who never mount the high wire. This is your moment. Own it."</i>
+<i>"Yesterday I dared to struggle. Today I dare to win."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Bernadette Devlin</b>
 </blockquote>
 </p>
 
