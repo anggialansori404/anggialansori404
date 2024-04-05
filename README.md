@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The mind unlearns with difficulty what it has long learned."</i>
+<i>"Thinking is the hardest work there is. That is why so few people engage in it."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
