@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Finding good players is easy. Getting them to play as a team is another story."</i>
+<i>"If I love myself I love you. If I love you I love myself."</i>
 <br>
-<b>- Casey Stengel</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
