@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success comes from knowing that you did your best to become the best that you are capable of becoming."</i>
+<i>"Finding good players is easy. Getting them to play as a team is another story."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Casey Stengel</b>
 </blockquote>
 </p>
 
