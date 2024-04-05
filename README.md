@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If one does not know to which port is sailing, no wind is favorable."</i>
+<i>"It is only when the mind and character slumber that the dress can be seen."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
