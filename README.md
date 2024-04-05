@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no failure except in no longer trying."</i>
+<i>"A monarchy conducted with infinite wisdom and infinite benevolence is the most perfect of all possible governments."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Ezra Stiles</b>
 </blockquote>
 </p>
 
