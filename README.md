@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We turn not older with years but newer every day."</i>
+<i>"Yesterday I dared to struggle. Today I dare to win."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Bernadette Devlin</b>
 </blockquote>
 </p>
 
