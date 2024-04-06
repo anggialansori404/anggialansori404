@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our intention creates our reality."</i>
+<i>"When you're at the end of your rope, tie a knot and hold on."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
