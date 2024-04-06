@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway."</i>
+<i>"A prudent question is one half of wisdom."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Francis Bacon</b>
 </blockquote>
 </p>
 
