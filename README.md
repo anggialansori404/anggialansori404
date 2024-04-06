@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Yesterday I dared to struggle. Today I dare to win."</i>
+<i>"You have as much laughter as you have faith."</i>
 <br>
-<b>- Bernadette Devlin</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
