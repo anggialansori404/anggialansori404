@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you're at the end of your rope, tie a knot and hold on."</i>
+<i>"Your heart is the size of an ocean. Go find yourself in its hidden depths."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
