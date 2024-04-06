@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thinking is the hardest work there is. That is why so few people engage in it."</i>
+<i>"Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Billie Jean King</b>
 </blockquote>
 </p>
 
