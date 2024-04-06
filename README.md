@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have learned that friendship isn't about who you've known the longest, it's about who came and never left your side."</i>
+<i>"We turn not older with years but newer every day."</i>
 <br>
-<b>- Yolanda Hadid</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
