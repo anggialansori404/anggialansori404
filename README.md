@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What is not started today is never finished tomorrow."</i>
+<i>"To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Muhammad Ali</b>
 </blockquote>
 </p>
 
