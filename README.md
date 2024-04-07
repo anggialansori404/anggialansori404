@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich."</i>
+<i>"People ask me what I do in winter when there's no baseball. I'll tell you what I do. I stare out the window and wait for spring."</i>
 <br>
-<b>- Muhammad Ali</b>
+<b>- Rogers Hornsby</b>
 </blockquote>
 </p>
 
