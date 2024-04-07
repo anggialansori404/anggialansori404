@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As an organizer I start from where the world is, as it is, not as I would like it to be."</i>
+<i>"You cannot find yourself by going into the past. You can find yourself by coming into the present."</i>
 <br>
-<b>- Saul Alinsky</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
