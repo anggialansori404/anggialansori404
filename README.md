@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'm not afraid of death, but I'm in no hurry to die."</i>
+<i>"Know, first, who you are, and then adorn yourself accordingly."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
