@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot find yourself by going into the past. You can find yourself by coming into the present."</i>
+<i>"Death walks faster than the wind and never returns what he has taken."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
