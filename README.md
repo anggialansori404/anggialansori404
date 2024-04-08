@@ -28,7 +28,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before God we are all equally wise - and equally foolish."</i>
+<i>"All religions, arts and sciences are branches of the same tree. "</i>
 <br>
 <b>- Albert Einstein</b>
 </blockquote>
