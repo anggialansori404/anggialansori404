@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom often times consists of knowing what to do next."</i>
+<i>"The greatest of all mistakes is to do nothing because you think you can only do a little.  "</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
