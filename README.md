@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Absurdity is the ecstasy of intellectualism."</i>
+<i>"Wisdom often times consists of knowing what to do next."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
