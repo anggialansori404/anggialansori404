@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you discover your mission, you will feel its demand. It will fill you with enthusiasm and a burning desire to get to work on it."</i>
+<i>"Before God we are all equally wise - and equally foolish."</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
