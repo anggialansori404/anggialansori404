@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't know, the thing to do is not to get scared, but to learn."</i>
+<i>"The past has no power to stop you from being present now. Only your grievance about the past can do that."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
