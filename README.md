@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What's right is what's left if you do everything else wrong."</i>
+<i>"No enterprise is more likely to succeed than one concealed from the enemy until it is ripe for execution."</i>
 <br>
-<b>- Robin Williams</b>
+<b>- Niccolò Machiavelli</b>
 </blockquote>
 </p>
 
