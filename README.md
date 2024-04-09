@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The poor man is not he who is without a cent, but he who is without a dream."</i>
+<i>"There can be no deep disappointment where there is not deep love."</i>
 <br>
-<b>- Harry Kemp</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
