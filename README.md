@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There can be no deep disappointment where there is not deep love."</i>
+<i>"True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- William Penn</b>
 </blockquote>
 </p>
 
