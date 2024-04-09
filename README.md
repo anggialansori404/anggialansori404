@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more people you help become successful the more successful you become."</i>
+<i>"We do not quit playing because we grow old, we grow old because we quit playing."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Oliver Wendell Holmes Jr.</b>
 </blockquote>
 </p>
 
