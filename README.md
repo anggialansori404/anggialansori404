@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way."</i>
+<i>"Do not fight with pigs - you will be smeared in mud but the pig will like it."</i>
 <br>
-<b>- Osho</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
