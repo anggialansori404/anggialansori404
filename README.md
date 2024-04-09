@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Two persons cannot long be friends if they cannot forgive each other's little failings."</i>
+<i>"Learning is a weightless treasure you can always carry easily."</i>
 <br>
-<b>- Jean de La Bruyère</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
