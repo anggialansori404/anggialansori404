@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We do not quit playing because we grow old, we grow old because we quit playing."</i>
+<i>"The poor man is not he who is without a cent, but he who is without a dream."</i>
 <br>
-<b>- Oliver Wendell Holmes Jr.</b>
+<b>- Harry Kemp</b>
 </blockquote>
 </p>
 
