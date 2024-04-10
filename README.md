@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"So long as a person is capable of self-renewal they are a living being."</i>
+<i>"Difficulties increase the nearer we get to the goal."</i>
 <br>
-<b>- Henri-Frédéric Amiel</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
