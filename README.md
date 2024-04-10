@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's your life-but only if you make it so."</i>
+<i>"We cannot be more sensitive to pleasure without being more sensitive to pain."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
