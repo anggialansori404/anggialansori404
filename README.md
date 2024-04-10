@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not."</i>
+<i>"So long as a person is capable of self-renewal they are a living being."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Henri-Frédéric Amiel</b>
 </blockquote>
 </p>
 
