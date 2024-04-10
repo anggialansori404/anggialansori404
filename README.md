@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People grow through experience if they meet life honestly and courageously. This is how character is built."</i>
+<i>"Once we accept our limits, we go beyond them."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
