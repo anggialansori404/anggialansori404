@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success."</i>
+<i>"If you don't like something change it. If you can't change it, change your attitude about it. Don't complain."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
