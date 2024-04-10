@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't like something change it. If you can't change it, change your attitude about it. Don't complain."</i>
+<i>"How you think is as important as as what you think."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
