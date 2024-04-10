@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound."</i>
+<i>"A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success."</i>
 <br>
-<b>- James Allen</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
