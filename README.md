@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no limit to the amount of good you can do if you don't care who gets the credit."</i>
+<i>"Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- William Saroyan</b>
 </blockquote>
 </p>
 
