@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace if possible, truth at all costs."</i>
+<i>"A prudent question is one half of wisdom."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Francis Bacon</b>
 </blockquote>
 </p>
 
