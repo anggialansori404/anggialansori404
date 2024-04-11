@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Computers are useless. They can only give you answers."</i>
+<i>"The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
