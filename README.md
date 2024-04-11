@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'd rather welcome change than cling to the past."</i>
+<i>"The great use of life is to spend it for something that will outlast it."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
