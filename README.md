@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Often we pass beside happiness without seeing it, without looking at it, or even if we have seen and looked at it, without recognizing it."</i>
+<i>"Computers are useless. They can only give you answers."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
