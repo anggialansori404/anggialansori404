@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Silence is sometimes the best answer."</i>
+<i>"The purpose of life is to contribute in some way to making things better."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
