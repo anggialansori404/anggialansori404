@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in."</i>
+<i>"Silence is sometimes the best answer."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
