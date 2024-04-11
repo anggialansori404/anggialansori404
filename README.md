@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The attempt to escape from pain, is what creates more pain."</i>
+<i>"I'd rather welcome change than cling to the past."</i>
 <br>
-<b>- Gabor Mate</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
