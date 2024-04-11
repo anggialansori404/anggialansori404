@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The great use of life is to spend it for something that will outlast it."</i>
+<i>"There is no limit to the amount of good you can do if you don't care who gets the credit."</i>
 <br>
-<b>- William James</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
