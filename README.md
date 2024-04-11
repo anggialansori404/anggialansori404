@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know."</i>
+<i>"Often we pass beside happiness without seeing it, without looking at it, or even if we have seen and looked at it, without recognizing it."</i>
 <br>
-<b>- William Saroyan</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
