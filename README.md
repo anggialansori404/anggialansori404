@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Follow the man who seeks the truth; run from the man who has found it."</i>
+<i>"Weeds are flowers too, once you get to know them."</i>
 <br>
-<b>- Vaclav Havel</b>
+<b>- A.A. Milne</b>
 </blockquote>
 </p>
 
