@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the province of knowledge to speak, and it is the privilege of wisdom to listen."</i>
+<i>"It is our choices that show what we truly are, far more than our abilities."</i>
 <br>
-<b>- Oliver Wendell Holmes Jr.</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
