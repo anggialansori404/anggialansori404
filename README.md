@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The friend who can be silent with us in a moment of despair or confusion, who can stay with us in an hour of grief and bereavement, who can tolerate not knowing... not healing, not curing... that is a friend who cares."</i>
+<i>"It is the province of knowledge to speak, and it is the privilege of wisdom to listen."</i>
 <br>
-<b>- Henri Nouwen</b>
+<b>- Oliver Wendell Holmes Jr.</b>
 </blockquote>
 </p>
 
