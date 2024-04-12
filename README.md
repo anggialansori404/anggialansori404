@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions."</i>
+<i>"Experts on romance say for a happy marriage there has to be more than a passionate love. For a lasting union, they insist, there must be a genuine liking for each other. Which, in my book, is a good definition for friendship."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Marilyn Monroe</b>
 </blockquote>
 </p>
 
