@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change happens when the pain of holding on becomes greater than the fear of letting go."</i>
+<i>"Turn the pain into power."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
