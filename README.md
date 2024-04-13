@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The doctor of the future will give no medicine, but will interest her or his patients in the care of the human frame, in a proper diet, and in the cause and prevention of disease."</i>
+<i>"By believing passionately in something that does not yet exist, we create it."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Nikos Kazantzakis</b>
 </blockquote>
 </p>
 
