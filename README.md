@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is not how high you have climbed, but how you make a positive difference to the world."</i>
+<i>"I know not age, nor weariness nor defeat."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Rose Kennedy</b>
 </blockquote>
 </p>
 
