@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future doesn't belong to the faint-hearted; it belongs to the brave."</i>
+<i>"Good advice is always certain to be ignored, but that's no reason not to give it."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Agatha Christie</b>
 </blockquote>
 </p>
 
