@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your success and happiness lie in you."</i>
+<i>"Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Anaïs Nin</b>
 </blockquote>
 </p>
 
