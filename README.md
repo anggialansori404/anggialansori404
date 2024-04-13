@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I were two-faced, would I be wearing this one?"</i>
+<i>"Your success and happiness lie in you."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
