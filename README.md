@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By believing passionately in something that does not yet exist, we create it."</i>
+<i>"If you only have a hammer, you tend to see every problem as a nail."</i>
 <br>
-<b>- Nikos Kazantzakis</b>
+<b>- Abraham Maslow</b>
 </blockquote>
 </p>
 
