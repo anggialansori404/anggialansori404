@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you only have a hammer, you tend to see every problem as a nail."</i>
+<i>"Each time we don't say what we wanna say, we're dying."</i>
 <br>
-<b>- Abraham Maslow</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
