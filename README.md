@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can do nothing to change the past, and the future will never come exactly as you plan or hope for."</i>
+<i>"Forgiveness is that subtle thread that binds both love and friendship. Without forgiveness, you may not even have a child one day."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- George Foreman</b>
 </blockquote>
 </p>
 
