@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence."</i>
+<i>"You have to keep breaking your heart until it opens."</i>
 <br>
-<b>- George Washington</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
