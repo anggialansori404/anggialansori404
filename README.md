@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have to keep breaking your heart until it opens."</i>
+<i>"Most people get ahead during the time that others waste."</i>
 <br>
-<b>- Rumi</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
