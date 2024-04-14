@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every artist dips his brush in his own soul, and paints his own nature into his pictures."</i>
+<i>"Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
