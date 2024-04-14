@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Share your smile with the world. It's a symbol of friendship and peace."</i>
+<i>"You can do nothing to change the past, and the future will never come exactly as you plan or hope for."</i>
 <br>
-<b>- Christie Brinkley</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
