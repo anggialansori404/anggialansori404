@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Marriage is the highest state of friendship. If happy, it lessens our cares by dividing them, at the same time that it doubles our pleasures by mutual participation."</i>
+<i>"Everyone thinks of changing the world, but no one thinks of changing himself."</i>
 <br>
-<b>- Samuel Richardson</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
