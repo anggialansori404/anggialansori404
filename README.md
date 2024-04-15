@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never promise more than you can perform."</i>
+<i>"Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Anaïs Nin</b>
 </blockquote>
 </p>
 
