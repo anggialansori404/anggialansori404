@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are content to be simply yourself and don't compare or compete, everybody will respect you."</i>
+<i>"There are three methods to gaining wisdom. The first is reflection, which is the highest. The second is limitation, which is the easiest. The third is experience, which is the bitterest."</i>
 <br>
-<b>- Laozi</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
