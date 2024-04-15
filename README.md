@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not the love you make. It's the love you give. "</i>
+<i>"Marriage is the highest state of friendship. If happy, it lessens our cares by dividing them, at the same time that it doubles our pleasures by mutual participation."</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- Samuel Richardson</b>
 </blockquote>
 </p>
 
