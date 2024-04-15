@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember, hope is a good thing, maybe the best of things."</i>
+<i>"If you want peace, accept. If you want suffering, expect."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
