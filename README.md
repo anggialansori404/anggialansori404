@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Inner peace is when you realize that, in the end, nothing matters."</i>
+<i>"Never promise more than you can perform."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
