@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Presents are made for the pleasure of who gives them, not the merits of who receives them."</i>
+<i>"This is the most simple and basic component of life: our struggles determine our successes."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
