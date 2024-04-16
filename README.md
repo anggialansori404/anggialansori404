@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary."</i>
+<i>"Keep your eyes on the stars, but remember to keep your feet on the ground."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
