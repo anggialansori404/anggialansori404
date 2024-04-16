@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Self-trust is the first secret of success."</i>
+<i>"If I know what love is, it is because of you."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Hermann Hesse</b>
 </blockquote>
 </p>
 
