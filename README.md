@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By believing passionately in something that does not yet exist, we create it."</i>
+<i>"True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment."</i>
 <br>
-<b>- Nikos Kazantzakis</b>
+<b>- William Penn</b>
 </blockquote>
 </p>
 
