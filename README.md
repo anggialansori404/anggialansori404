@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living."</i>
+<i>"One is never afraid of the unknown; one is afraid of the known coming to an end."</i>
 <br>
-<b>- Anaïs Nin</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
