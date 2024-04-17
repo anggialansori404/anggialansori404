@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigor of the mind."</i>
+<i>"In three words I can sum up everything I've learned about life: it goes on."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
