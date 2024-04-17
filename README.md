@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who is contented is rich."</i>
+<i>"Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigor of the mind."</i>
 <br>
-<b>- Laozi</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
