@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In three words I can sum up everything I've learned about life: it goes on."</i>
+<i>"False friendship, like the ivy, decays and ruins the walls it embraces; but true friendship gives new life and animation to the object it supports."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Richard Burton</b>
 </blockquote>
 </p>
 
