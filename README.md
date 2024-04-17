@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tall oaks grow from little acorns."</i>
+<i>"As you think, so shall you become. "</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
