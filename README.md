@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A warrior does not give up what he loves, he finds the love in what he does."</i>
+<i>"The minute you settle for less than you deserve, you get even less than you settled for."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Maureen Dowd</b>
 </blockquote>
 </p>
 
