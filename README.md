@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The minute you settle for less than you deserve, you get even less than you settled for."</i>
+<i>"Tall oaks grow from little acorns."</i>
 <br>
-<b>- Maureen Dowd</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
