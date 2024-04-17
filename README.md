@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I know what love is, it is because of you."</i>
+<i>"In order to carry a positive action, we must develop here a positive vision."</i>
 <br>
-<b>- Hermann Hesse</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
