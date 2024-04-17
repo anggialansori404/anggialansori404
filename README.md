@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be pushed around by the fears in your mind. Be led by the dreams in your heart."</i>
+<i>"A warrior does not give up what he loves, he finds the love in what he does."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
