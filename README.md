@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time."</i>
+<i>"Most great people have attained their greatest success just one step beyond their greatest failure."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
