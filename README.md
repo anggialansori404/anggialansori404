@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. "</i>
+<i>"The soul without imagination is what an observatory would be without a telescope."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
