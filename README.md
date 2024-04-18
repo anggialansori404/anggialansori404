@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We know the truth, not only by the reason, but by the heart."</i>
+<i>"We have to live life with a sense of urgency so not a minute is wasted."</i>
 <br>
-<b>- Blaise Pascal</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
