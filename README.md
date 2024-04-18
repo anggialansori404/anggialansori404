@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most great people have attained their greatest success just one step beyond their greatest failure."</i>
+<i>"You don't know who is important to you until you actually lose them."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
