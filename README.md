@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can handle rejection, you'll learn to get everything you want."</i>
+<i>"Rare as is true love, true friendship is rarer."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Jean de La Fontaine</b>
 </blockquote>
 </p>
 
