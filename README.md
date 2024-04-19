@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must welcome change as the rule but not as your ruler. "</i>
+<i>"Our lives are the only meaningful expression of what we believe and in Whom we believe. And the only real wealth, for any of us, lies in our faith."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Gordon Hinckley</b>
 </blockquote>
 </p>
 
