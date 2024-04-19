@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rare as is true love, true friendship is rarer."</i>
+<i>"Happiness is an effect of doing what you love, not an end goal to be achieved."</i>
 <br>
-<b>- Jean de La Fontaine</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
