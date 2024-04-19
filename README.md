@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"an action committed in anger is an action doomed to failure. "</i>
+<i>"You must welcome change as the rule but not as your ruler. "</i>
 <br>
-<b>- Genghis Khan</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
