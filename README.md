@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our lives are the only meaningful expression of what we believe and in Whom we believe. And the only real wealth, for any of us, lies in our faith."</i>
+<i>"It's the possibility of having a dream come true that makes life interesting."</i>
 <br>
-<b>- Gordon Hinckley</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
