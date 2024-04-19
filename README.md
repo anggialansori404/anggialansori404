@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where there is charity and wisdom, there is neither fear nor ignorance."</i>
+<i>"To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich."</i>
 <br>
-<b>- Francis of Assisi</b>
+<b>- Muhammad Ali</b>
 </blockquote>
 </p>
 
