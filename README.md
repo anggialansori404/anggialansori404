@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't spend time beating on a wall, hoping to transform it into a door."</i>
+<i>"Only when one allows themself the right to die, do they then give yourself the permission to live."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- C. Sean McGee</b>
 </blockquote>
 </p>
 
