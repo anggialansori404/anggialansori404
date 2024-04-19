@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can dream it, you can do it."</i>
+<i>"Where there is charity and wisdom, there is neither fear nor ignorance."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Francis of Assisi</b>
 </blockquote>
 </p>
 
