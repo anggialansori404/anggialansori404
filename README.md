@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only when one allows themself the right to die, do they then give yourself the permission to live."</i>
+<i>"If you can dream it, you can do it."</i>
 <br>
-<b>- C. Sean McGee</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
