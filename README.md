@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have learned that friendship isn't about who you've known the longest, it's about who came and never left your side."</i>
+<i>"If you break your neck, if you have nothing to eat, if your house is on fire, then you got a problem. Everything else is inconvenience."</i>
 <br>
-<b>- Yolanda Hadid</b>
+<b>- Robert Fulghum</b>
 </blockquote>
 </p>
 
