@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Gold medals aren't really made of gold. They're made of sweat, determination, and a hard-to-find alloy called guts."</i>
+<i>"The price of inaction is far greater than the cost of making a mistake."</i>
 <br>
-<b>- Dan Gable</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
