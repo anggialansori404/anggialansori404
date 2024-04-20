@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness."</i>
+<i>"Life is a travelling to the edge of knowledge, then a leap taken."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
