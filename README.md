@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All leaders are readers."</i>
+<i>"It is not uncommon for people to spend their whole life waiting to start living."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
