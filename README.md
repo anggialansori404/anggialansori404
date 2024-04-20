@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hell, there are no rules here-- we're trying to accomplish something."</i>
+<i>"All leaders are readers."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
