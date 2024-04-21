@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people."</i>
+<i>"Thinking is difficult, that's why most people judge."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
