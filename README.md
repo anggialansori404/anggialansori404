@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thinking is difficult, that's why most people judge."</i>
+<i>"Set your goals high, and don't stop till you get there."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Bo Jackson</b>
 </blockquote>
 </p>
 
