@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stay committed to your decisions, but stay flexible in your approach."</i>
+<i>"Knowledge is a treasure, but practice is the key to it."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
