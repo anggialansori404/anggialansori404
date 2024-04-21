@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Smell the cheese often so you know when it is getting old."</i>
+<i>"Your mind will answer most questions if you learn to relax and wait for the answer."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- William Burroughs</b>
 </blockquote>
 </p>
 
