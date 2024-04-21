@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Set your goals high, and don't stop till you get there."</i>
+<i>"You already have every characteristic necessary for success if you recognize, claim, develop and use them."</i>
 <br>
-<b>- Bo Jackson</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
