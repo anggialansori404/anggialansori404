@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Technology… is a queer thing. It brings you great gifts with one hand, and it stabs you in the back with the other."</i>
+<i>"Stay committed to your decisions, but stay flexible in your approach."</i>
 <br>
-<b>- Carrie Snow</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
