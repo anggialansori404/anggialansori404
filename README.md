@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your mind will answer most questions if you learn to relax and wait for the answer."</i>
+<i>"The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers."</i>
 <br>
-<b>- William Burroughs</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
