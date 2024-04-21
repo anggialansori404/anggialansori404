@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you break your neck, if you have nothing to eat, if your house is on fire, then you got a problem. Everything else is inconvenience."</i>
+<i>"Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort."</i>
 <br>
-<b>- Robert Fulghum</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
