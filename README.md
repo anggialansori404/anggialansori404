@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort."</i>
+<i>"Smell the cheese often so you know when it is getting old."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
