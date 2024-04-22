@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To do two things at once is to do neither."</i>
+<i>"Friendship is Love without his wings!"</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Lord Byron</b>
 </blockquote>
 </p>
 
