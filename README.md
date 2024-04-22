@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where the willingness is great, the difficulties cannot be great."</i>
+<i>"To do two things at once is to do neither."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
