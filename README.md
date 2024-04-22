@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our view of the world is truly shaped by what we decide to hear."</i>
+<i>"I have no methods; all I do is accept people as they are."</i>
 <br>
-<b>- William James</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
