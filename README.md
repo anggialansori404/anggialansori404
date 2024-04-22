@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is a great teacher. If you're open to it every mistake has a lesson to offer."</i>
+<i>"The real measure of your wealth is how much you'd be worth if you lost all your money."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
