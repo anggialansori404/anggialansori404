@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You already have every characteristic necessary for success if you recognize, claim, develop and use them."</i>
+<i>"The poor man is not he who is without a cent, but he who is without a dream."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Harry Kemp</b>
 </blockquote>
 </p>
 
