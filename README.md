@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best mind-altering drug is the truth."</i>
+<i>"Be slow in choosing a friend, slower in changing."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
