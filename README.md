@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Without the rain there would be no rainbow."</i>
+<i>"However rare true love may be, it is less so than true friendship."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- François de La Rochefoucauld</b>
 </blockquote>
 </p>
 
