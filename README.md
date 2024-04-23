@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be slow in choosing a friend, slower in changing."</i>
+<i>"I am a firm believer in the people. If given the truth, they can be depended upon to meet any national crisis. The great point is to bring them the real facts."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
