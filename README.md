@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never regret your past. Rather, embrace it as the teacher that it is."</i>
+<i>"I am a man of fixed and unbending principles, the first of which is to be flexible at all times."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Everett Dirksen</b>
 </blockquote>
 </p>
 
