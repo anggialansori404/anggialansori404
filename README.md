@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am a firm believer in the people. If given the truth, they can be depended upon to meet any national crisis. The great point is to bring them the real facts."</i>
+<i>"Never regret your past. Rather, embrace it as the teacher that it is."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
