@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. "</i>
+<i>"Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
