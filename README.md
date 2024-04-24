@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. "</i>
+<i>"Do not scorn what you have received, nor envy the gains of others. He who envies others does not obtain peace of mind."</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
