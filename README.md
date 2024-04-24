@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort."</i>
+<i>"Sometimes a change of perspective is all it takes to see the light."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
