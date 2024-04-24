@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is great by deeds, not by birth."</i>
+<i>"Who sows virtue reaps honor."</i>
 <br>
-<b>- Chanakya</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
