@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not scorn what you have received, nor envy the gains of others. He who envies others does not obtain peace of mind."</i>
+<i>"A man is great by deeds, not by birth."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Chanakya</b>
 </blockquote>
 </p>
 
