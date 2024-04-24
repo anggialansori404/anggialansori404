@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truth is not for all men, but for those who seek it."</i>
+<i>"I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
