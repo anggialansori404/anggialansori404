@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must reach out our hand in friendship and dignity both to those who would befriend us and those who would be our enemy."</i>
+<i>"I have no special talent. I am only passionately curious."</i>
 <br>
-<b>- Arthur Ashe</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
