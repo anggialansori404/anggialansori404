@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There's more to life than being a passenger."</i>
+<i>"I have no special talent. I am only passionately curious."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
