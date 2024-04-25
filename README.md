@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich."</i>
+<i>"The only limit to your impact is your imagination and commitment."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
