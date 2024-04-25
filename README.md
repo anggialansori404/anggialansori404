@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have no special talent. I am only passionately curious."</i>
+<i>"God has given you one face, and you make yourself another."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
