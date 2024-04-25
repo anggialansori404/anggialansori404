@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only limit to your impact is your imagination and commitment."</i>
+<i>"It's better to dance than to march through life."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
