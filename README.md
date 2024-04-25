@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's better to dance than to march through life."</i>
+<i>"The only person who never makes mistakes is the person who never does anything."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
