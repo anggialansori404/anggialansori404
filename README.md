@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Commitment is an act, not a word."</i>
+<i>"The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it."</i>
 <br>
-<b>- Jean-Paul Sartre</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
