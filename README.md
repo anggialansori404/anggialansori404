@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have no special talent. I am only passionately curious."</i>
+<i>"Commitment is an act, not a word."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Jean-Paul Sartre</b>
 </blockquote>
 </p>
 
