@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain."</i>
+<i>"Some people are born on third base and go through life thinking they hit a triple."</i>
 <br>
-<b>- Plato</b>
+<b>- Barry Switzer</b>
 </blockquote>
 </p>
 
