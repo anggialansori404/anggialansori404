@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Think big thoughts but relish small pleasures."</i>
+<i>"Trusting our intuition often saves us from disaster. "</i>
 <br>
-<b>- H. Jackson Brown Jr.</b>
+<b>- Anne Wilson Schaef</b>
 </blockquote>
 </p>
 
