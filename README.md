@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trusting our intuition often saves us from disaster. "</i>
+<i>"Our lives are the only meaningful expression of what we believe and in Whom we believe. And the only real wealth, for any of us, lies in our faith."</i>
 <br>
-<b>- Anne Wilson Schaef</b>
+<b>- Gordon Hinckley</b>
 </blockquote>
 </p>
 
