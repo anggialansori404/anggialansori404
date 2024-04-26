@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear is a natural reaction to moving closer to the truth."</i>
+<i>"I'd rather regret the things I've done than regret the things I haven't done."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Lucille Ball</b>
 </blockquote>
 </p>
 
