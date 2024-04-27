@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Without the confidence, nothing can be accomplished."</i>
+<i>"The less effort, the faster and more powerful you will be."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
