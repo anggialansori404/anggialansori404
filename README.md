@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Instead of being intimidated by the limitations, be inspired to find new ways around them."</i>
+<i>"If you want work well done, select a busy man; the other kind has no time."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
