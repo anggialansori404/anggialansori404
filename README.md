@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Within every desire is the mechanics of its fulfillment."</i>
+<i>"Life is what happens while you are making other plans."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
