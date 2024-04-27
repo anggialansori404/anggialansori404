@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The less effort, the faster and more powerful you will be."</i>
+<i>"You never know when a moment and a few sincere words can have an impact on a life.  "</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
