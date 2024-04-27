@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane."</i>
+<i>"If you want something then you lose everything. If you don't want anything then you already have everything."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Seungsahn</b>
 </blockquote>
 </p>
 
