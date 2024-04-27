@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want something then you lose everything. If you don't want anything then you already have everything."</i>
+<i>"Within every desire is the mechanics of its fulfillment."</i>
 <br>
-<b>- Seungsahn</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
