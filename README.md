@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"History will be kind to me for I intend to write it."</i>
+<i>"Do good by stealth, and blush to find it fame."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
