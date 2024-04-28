@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do good by stealth, and blush to find it fame."</i>
+<i>"Compassion and happiness are not a sign of weakness but a sign of strength."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
