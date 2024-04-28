@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you win, say nothing, when you lose say less."</i>
+<i>"A loving heart is the truest wisdom."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
