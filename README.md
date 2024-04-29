@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wherever you are is the entry point."</i>
+<i>"To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless."</i>
 <br>
-<b>- Kabir</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
