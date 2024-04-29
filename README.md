@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To plant a garden is to believe in tomorrow.  "</i>
+<i>"A friend is one who knows you and loves you just the same."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
