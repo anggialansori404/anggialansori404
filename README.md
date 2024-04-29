@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who is fixed to a star does not change his mind."</i>
+<i>"We must not allow ourselves to become like the system we oppose."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Desmond Tutu</b>
 </blockquote>
 </p>
 
