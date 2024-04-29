@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is when what you think, what you say, and what you do are in harmony."</i>
+<i>"He who is fixed to a star does not change his mind."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
