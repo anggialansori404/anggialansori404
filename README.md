@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who leaves the game wins it."</i>
+<i>"Short words are best and the old words when short are best of all."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
