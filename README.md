@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I don't believe you have to be better than everybody else. I believe you have to be better than you ever thought you could be."</i>
+<i>"Wherever you are is the entry point."</i>
 <br>
-<b>- Ken Venturi</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
