@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is an arrangement by which we undertake to exchange small favors for big ones."</i>
+<i>"Problems remain as problems because people are busy defending them rather than finding solutions."</i>
 <br>
-<b>- Montesquieu</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
