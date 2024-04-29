@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A friend is one who knows you and loves you just the same."</i>
+<i>"He who leaves the game wins it."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
