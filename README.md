@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world has the habit of making room for the man whose actions show that he knows where he is going."</i>
+<i>"Just living is not enough... one must have sunshine, freedom, and a little flower. "</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
