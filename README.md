@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never apologize for showing feeling. When you do so, you apologize for truth."</i>
+<i>"If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you."</i>
 <br>
-<b>- Benjamin Disraeli</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
