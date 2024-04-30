@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Use what talents you possess; the woods would be very silent if no birds sang there except those that sang best."</i>
+<i>"You'll see it when you believe it. "</i>
 <br>
-<b>- Henry van Dyke Jr.</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
