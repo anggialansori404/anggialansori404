@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Meditate … do not delay, lest you later regret it."</i>
+<i>"Never apologize for showing feeling. When you do so, you apologize for truth."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Benjamin Disraeli</b>
 </blockquote>
 </p>
 
