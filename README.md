@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the world is so complicated, the simple gift of friendship is within all of our hands."</i>
+<i>"The calmed say that what is well-spoken is best; second, that one should say what is right, not unrighteous; third, what's pleasing, not displeasing; fourth, what is true, not false."</i>
 <br>
-<b>- Maria Shriver</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
