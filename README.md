@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You'll see it when you believe it. "</i>
+<i>"The world has the habit of making room for the man whose actions show that he knows where he is going."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
