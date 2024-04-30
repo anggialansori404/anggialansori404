@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness depends upon ourselves."</i>
+<i>"The older you get, the more you understand how your conscience works."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
