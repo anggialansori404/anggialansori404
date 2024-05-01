@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Empty your mind, be formless, shapeless, like water."</i>
+<i>"The Superior Man is aware of Righteousness, the inferior man is aware of advantage."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
