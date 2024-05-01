@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future is not a gift. It is an achievement."</i>
+<i>"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. "</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
