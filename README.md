@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The calmed say that what is well-spoken is best; second, that one should say what is right, not unrighteous; third, what's pleasing, not displeasing; fourth, what is true, not false."</i>
+<i>"We can only be said to be alive in those moments when our hearts are conscious of our treasures."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Thornton Wilder</b>
 </blockquote>
 </p>
 
