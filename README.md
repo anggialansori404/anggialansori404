@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The Superior Man is aware of Righteousness, the inferior man is aware of advantage."</i>
+<i>"The future is not a gift. It is an achievement."</i>
 <br>
-<b>- Confucius</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
