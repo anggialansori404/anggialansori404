@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have no methods; all I do is accept people as they are."</i>
+<i>"Not until we are lost do we begin to understand ourselves."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
