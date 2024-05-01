@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can only be said to be alive in those moments when our hearts are conscious of our treasures."</i>
+<i>"You are a product of your environment. So choose the environment that will best develop you toward your objective. Analyze your life in terms of its environment. Are the things around you helping you toward success - or are they holding you back?"</i>
 <br>
-<b>- Thornton Wilder</b>
+<b>- W. Clement Stone</b>
 </blockquote>
 </p>
 
