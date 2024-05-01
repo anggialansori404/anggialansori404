@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. "</i>
+<i>"I have no methods; all I do is accept people as they are."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
