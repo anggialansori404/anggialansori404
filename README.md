@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enjoy when you can, and endure when you must."</i>
+<i>"Anxiety is the dizziness of freedom."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Soren Kierkegaard</b>
 </blockquote>
 </p>
 
