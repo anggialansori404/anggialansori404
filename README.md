@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words are the clothes thoughts wear."</i>
+<i>"The pain of parting is nothing to the joy of meeting again."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
