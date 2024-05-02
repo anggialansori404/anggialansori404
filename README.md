@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quality of your commitments will determine the course of your life."</i>
+<i>"The art of being wise is knowing what to overlook."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
