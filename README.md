@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no charm equal to tenderness of heart."</i>
+<i>"You just can't beat the person who never gives up. "</i>
 <br>
-<b>- Jane Austen</b>
+<b>- Babe Ruth</b>
 </blockquote>
 </p>
 
