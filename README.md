@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The art of being wise is knowing what to overlook."</i>
+<i>"We can only be said to be alive in those moments when our hearts are conscious of our treasures."</i>
 <br>
-<b>- William James</b>
+<b>- Thornton Wilder</b>
 </blockquote>
 </p>
 
