@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is great not because he hasn't failed; a man is great because failure hasn't stopped him."</i>
+<i>"I believe that every person is born with talent."</i>
 <br>
-<b>- Confucius</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
