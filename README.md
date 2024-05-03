@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man was ever wise by chance."</i>
+<i>"I have often regretted my speech, never my silence."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
