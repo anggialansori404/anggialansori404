@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have often regretted my speech, never my silence."</i>
+<i>"Education breeds confidence. Confidence breeds hope. Hope breeds peace."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
