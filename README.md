@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever happens, take responsibility."</i>
+<i>"No act of kindness, no matter how small, is ever wasted."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Aesop</b>
 </blockquote>
 </p>
 
