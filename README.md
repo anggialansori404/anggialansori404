@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Education breeds confidence. Confidence breeds hope. Hope breeds peace."</i>
+<i>"Whatever happens, take responsibility."</i>
 <br>
-<b>- Confucius</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
