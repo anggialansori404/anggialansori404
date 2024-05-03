@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What keeps life fascinating is the constant creativity of the soul."</i>
+<i>"The best thing about the future is that it only comes one day at a time."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
