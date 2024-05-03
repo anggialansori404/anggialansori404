@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best thing about the future is that it only comes one day at a time."</i>
+<i>"Many sophisticated, intelligent people lack wisdom and common sense."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
