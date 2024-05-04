@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is one of the blessings of old friends that you can afford to be stupid with them."</i>
+<i>"The greatest step towards a life of simplicity is to learn to let go."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
