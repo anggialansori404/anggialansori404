@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness resides not in possessions, and not in gold, happiness dwells in the soul."</i>
+<i>"It is one of the blessings of old friends that you can afford to be stupid with them."</i>
 <br>
-<b>- Democritus</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
