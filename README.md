@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I believe that every person is born with talent."</i>
+<i>"Our distrust is very expensive."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
