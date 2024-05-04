@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish."</i>
+<i>"Happiness resides not in possessions, and not in gold, happiness dwells in the soul."</i>
 <br>
-<b>- John Adams</b>
+<b>- Democritus</b>
 </blockquote>
 </p>
 
