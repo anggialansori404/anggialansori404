@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is easier to live through someone else than to become complete yourself."</i>
+<i>"Life a culmination of the past, an awareness of the present, an indication of the future beyond knowledge, the quality that gives a touch of divinity to matter."</i>
 <br>
-<b>- Betty Friedan</b>
+<b>- Charles Lindbergh</b>
 </blockquote>
 </p>
 
