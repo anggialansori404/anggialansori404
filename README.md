@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The path to success is to take massive, determined action."</i>
+<i>"Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- John Adams</b>
 </blockquote>
 </p>
 
