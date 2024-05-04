@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is an essence of when you are fearless, you become more creative."</i>
+<i>"If we all did the things we are capable of doing, we would literally astound ourselves."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
