@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are."</i>
+<i>"Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him."</i>
 <br>
-<b>- Bernice Reagon</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
