@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we all did the things we are capable of doing, we would literally astound ourselves."</i>
+<i>"Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Bernice Reagon</b>
 </blockquote>
 </p>
 
