@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest step towards a life of simplicity is to learn to let go."</i>
+<i>"Growth comes at the point of resistance."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
