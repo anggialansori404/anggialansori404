@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently."</i>
+<i>"Friendship without self-interest is one of the rare and beautiful things of life."</i>
 <br>
-<b>- William Arthur Ward</b>
+<b>- James F. Byrnes</b>
 </blockquote>
 </p>
 
