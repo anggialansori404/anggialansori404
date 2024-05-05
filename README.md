@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship without self-interest is one of the rare and beautiful things of life."</i>
+<i>"A man sooner or later discovers that he is the master-gardener of his soul, the director of his life."</i>
 <br>
-<b>- James F. Byrnes</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
