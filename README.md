@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's necessary to get the losers out of your life if you want to live your dream."</i>
+<i>"Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
