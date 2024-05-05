@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice."</i>
+<i>"Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigor of the mind."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
