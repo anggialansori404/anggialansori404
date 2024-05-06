@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Passion creates, addiction consumes."</i>
+<i>"You are always free to change your mind and choose a different future, or a different past."</i>
 <br>
-<b>- Gabor Mate</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
