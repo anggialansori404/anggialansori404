@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are not stuck where you are unless you decide to be.  "</i>
+<i>"If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
