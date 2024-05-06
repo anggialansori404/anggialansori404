@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can dream it, you can do it."</i>
+<i>"The scariest monsters are the ones that lurk within our souls."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
