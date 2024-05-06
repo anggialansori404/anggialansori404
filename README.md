@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give more than you think you can, trusting that you are richer than you think."</i>
+<i>"Passion creates, addiction consumes."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Gabor Mate</b>
 </blockquote>
 </p>
 
