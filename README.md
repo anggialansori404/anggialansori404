@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice."</i>
+<i>"If a man knows not to which port he sails, no wind is favorable.  "</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
