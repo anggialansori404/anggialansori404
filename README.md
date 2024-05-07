@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it."</i>
+<i>"Don't listen to the person who has the answers; listen to the person who has the questions."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
