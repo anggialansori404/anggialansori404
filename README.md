@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is the sum of small efforts, repeated day in and day out."</i>
+<i>"Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
