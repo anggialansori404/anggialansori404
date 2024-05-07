@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anybody can make history. Only a great man can write it."</i>
+<i>"Act as if what you do makes a difference. It does."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
