@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to fail in originality than to succeed in imitation."</i>
+<i>"Read as you taste fruit or savor wine, or enjoy friendship, love or life."</i>
 <br>
-<b>- Herman Melville</b>
+<b>- George Herbert</b>
 </blockquote>
 </p>
 
