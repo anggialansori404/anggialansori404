@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you."</i>
+<i>"What other people may find in poetry or art museums, I find in the flight of a good drive."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Arnold Palmer</b>
 </blockquote>
 </p>
 
