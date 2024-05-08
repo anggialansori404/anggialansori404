@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Judgments prevent us from seeing the good that lies beyond appearances.  "</i>
+<i>"We cannot expect to be happy always... by experiencing evil as well as good we become wise."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
