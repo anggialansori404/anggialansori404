@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Read as you taste fruit or savor wine, or enjoy friendship, love or life."</i>
+<i>"Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward."</i>
 <br>
-<b>- George Herbert</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
