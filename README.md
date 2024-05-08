@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man sooner or later discovers that he is the master-gardener of his soul, the director of his life."</i>
+<i>"Genuine sincerity opens people's hearts, while manipulation causes them to close."</i>
 <br>
-<b>- James Allen</b>
+<b>- Daisaku Ikeda</b>
 </blockquote>
 </p>
 
