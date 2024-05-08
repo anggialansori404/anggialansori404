@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man should look for what is, and not for what he thinks should be."</i>
+<i>"A man sooner or later discovers that he is the master-gardener of his soul, the director of his life."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
