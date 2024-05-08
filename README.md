@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The differences between friends cannot but reinforce their friendship."</i>
+<i>"There is nothing in a caterpillar that tells you it's going to be a butterfly."</i>
 <br>
-<b>- Mao Zedong</b>
+<b>- Buckminster Fuller</b>
 </blockquote>
 </p>
 
