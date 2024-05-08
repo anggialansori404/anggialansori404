@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing in a caterpillar that tells you it's going to be a butterfly."</i>
+<i>"It is better to fail in originality than to succeed in imitation."</i>
 <br>
-<b>- Buckminster Fuller</b>
+<b>- Herman Melville</b>
 </blockquote>
 </p>
 
