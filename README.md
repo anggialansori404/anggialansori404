@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What other people may find in poetry or art museums, I find in the flight of a good drive."</i>
+<i>"Judgments prevent us from seeing the good that lies beyond appearances.  "</i>
 <br>
-<b>- Arnold Palmer</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
