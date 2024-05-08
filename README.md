@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The worst part of success is trying to find someone who is happy for you."</i>
+<i>"The differences between friends cannot but reinforce their friendship."</i>
 <br>
-<b>- Bette Midler</b>
+<b>- Mao Zedong</b>
 </blockquote>
 </p>
 
