@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured."</i>
+<i>"Live life as though nobody is watching, and express yourself as though everyone is listening."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
