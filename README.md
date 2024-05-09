@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Look to the beauty of this day, miracles are all around you."</i>
+<i>"To be great is to be misunderstood."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
