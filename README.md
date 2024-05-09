@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is much more successfully looked at from a single window."</i>
+<i>"Technology is destructive only in the hands of people who do not realize that they are one and the same process as the universe."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
