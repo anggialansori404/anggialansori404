@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is when what you think, what you say, and what you do are in harmony."</i>
+<i>"Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
