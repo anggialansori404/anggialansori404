@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always seek out the seed of triumph in every adversity."</i>
+<i>"Habit, if not resisted, soon becomes necessity."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Augustine of Hippo</b>
 </blockquote>
 </p>
 
