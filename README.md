@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What lies behind us and what lies before us are tiny matters compared to what lies within us."</i>
+<i>"Always seek out the seed of triumph in every adversity."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
