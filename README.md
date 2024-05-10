@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The fox has many tricks. The hedgehog has but one. But that is the best of all."</i>
+<i>"Knowing others is wisdom, knowing yourself is Enlightenment."</i>
 <br>
-<b>- Erasmus</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
