@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances."</i>
+<i>"The hard path is often the right one. The river teaches more than the shore."</i>
 <br>
-<b>- Daisaku Ikeda</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
