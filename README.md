@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Lose an hour in the morning, and you will spend all day looking for it."</i>
+<i>"True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances."</i>
 <br>
-<b>- Richard Whately</b>
+<b>- Daisaku Ikeda</b>
 </blockquote>
 </p>
 
