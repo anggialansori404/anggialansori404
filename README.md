@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We never know the love of a parent till we become parents ourselves."</i>
+<i>"The fox has many tricks. The hedgehog has but one. But that is the best of all."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Erasmus</b>
 </blockquote>
 </p>
 
