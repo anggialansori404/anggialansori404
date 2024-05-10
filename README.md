@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Appear weak when you are strong, and strong when you are weak."</i>
+<i>"We make a living by what we get, but we make a life by what we give."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
