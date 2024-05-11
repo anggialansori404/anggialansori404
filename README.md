@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wealth is the product of man's capacity to think."</i>
+<i>"The three great essentials to achieve anything worthwhile are: Hard work, Stick-to-itiveness, and Common sense."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
