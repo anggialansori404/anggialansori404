@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run."</i>
+<i>"Stop acting so small. You are the universe in ecstatic motion."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
