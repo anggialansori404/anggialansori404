@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No work or love will flourish out of guilt, fear, or hollowness of heart, just as no valid plans for the future can be made by those who have no capacity for living now."</i>
+<i>"Wealth is the product of man's capacity to think."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
