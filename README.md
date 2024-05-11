@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the middle of chaos lies opportunity.  "</i>
+<i>"Your success and happiness lie in you."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
