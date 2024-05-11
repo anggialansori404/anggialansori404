@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am always doing that which I cannot do, in order that I may learn how to do it."</i>
+<i>"In the middle of chaos lies opportunity.  "</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
