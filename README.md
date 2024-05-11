@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Habit, if not resisted, soon becomes necessity."</i>
+<i>"No work or love will flourish out of guilt, fear, or hollowness of heart, just as no valid plans for the future can be made by those who have no capacity for living now."</i>
 <br>
-<b>- Augustine of Hippo</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
