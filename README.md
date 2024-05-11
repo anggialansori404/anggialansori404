@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stop acting so small. You are the universe in ecstatic motion."</i>
+<i>"There is no friendship, no love, like that of the parent for the child."</i>
 <br>
-<b>- Rumi</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
