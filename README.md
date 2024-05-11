@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The three great essentials to achieve anything worthwhile are: Hard work, Stick-to-itiveness, and Common sense."</i>
+<i>"I am always doing that which I cannot do, in order that I may learn how to do it."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
