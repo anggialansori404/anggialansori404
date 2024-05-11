@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart."</i>
+<i>"When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
