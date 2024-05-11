@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no friendship, no love, like that of the parent for the child."</i>
+<i>"Quality is never an accident; it is always the result of intelligent effort."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- John Ruskin</b>
 </blockquote>
 </p>
 
