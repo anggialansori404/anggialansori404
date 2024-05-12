@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A day of worry is more exhausting than a day of work."</i>
+<i>"It is the quality of our work which will please God, not the quantity."</i>
 <br>
-<b>- John Lubbock</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
