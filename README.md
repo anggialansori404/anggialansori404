@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I never think of the future. It comes soon enough."</i>
+<i>"Wisdom is the supreme part of happiness."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Sophocles</b>
 </blockquote>
 </p>
 
