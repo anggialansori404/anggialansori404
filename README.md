@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let us sacrifice our today so that our children can have a better tomorrow."</i>
+<i>"Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to."</i>
 <br>
-<b>- A. P. J. Abdul Kalam</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
