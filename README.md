@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wisdom of the wise, and the experience of ages, may be preserved by quotation."</i>
+<i>"Let us sacrifice our today so that our children can have a better tomorrow."</i>
 <br>
-<b>- Isaac D'Israeli</b>
+<b>- A. P. J. Abdul Kalam</b>
 </blockquote>
 </p>
 
