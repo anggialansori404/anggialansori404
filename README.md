@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ladder of success is best climbed by stepping on the rungs of opportunity."</i>
+<i>"I never think of the future. It comes soon enough."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
