@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Understanding that rests in what it does not understand is the finest."</i>
+<i>"Persuasion is often more effectual than force."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Aesop</b>
 </blockquote>
 </p>
 
