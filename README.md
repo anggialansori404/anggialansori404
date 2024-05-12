@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind."</i>
+<i>"Understanding that rests in what it does not understand is the finest."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
