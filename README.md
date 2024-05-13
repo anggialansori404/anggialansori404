@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life has no blessing like a prudent friend."</i>
+<i>"'As I am, so are these. As are these, so am I.' Drawing the parallel to yourself, neither kill nor get others to kill."</i>
 <br>
-<b>- Euripides</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
