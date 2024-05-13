@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The person who lives life fully, glowing with life's energy, is the person who lives a successful life."</i>
+<i>"To me, it doesn't matter how good you are. Sport is all about playing and competing. Whatever you do in cricket and in sport, enjoy it, be positive and try to win."</i>
 <br>
-<b>- Daisaku Ikeda</b>
+<b>- Ian Botham</b>
 </blockquote>
 </p>
 
