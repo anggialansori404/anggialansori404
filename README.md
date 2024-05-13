@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man is a volume if you know how to read him."</i>
+<i>"Inspiration exists, but it has to find us working."</i>
 <br>
-<b>- William Ellery Channing</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
