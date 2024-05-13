@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"'As I am, so are these. As are these, so am I.' Drawing the parallel to yourself, neither kill nor get others to kill."</i>
+<i>"Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
