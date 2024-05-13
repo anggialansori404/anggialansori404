@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey."</i>
+<i>"The person who lives life fully, glowing with life's energy, is the person who lives a successful life."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Daisaku Ikeda</b>
 </blockquote>
 </p>
 
