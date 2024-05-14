@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mediocrity knows nothing higher than itself, but talent instantly recognizes genius."</i>
+<i>"Who you are is always right."</i>
 <br>
-<b>- Arthur Conan Doyle</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
