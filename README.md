@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Who you are is always right."</i>
+<i>"One may say the eternal mystery of the world is its comprehensibility."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
