@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What gets measured gets improved."</i>
+<i>"Step with care and great tact and remember that Life's a Great Balancing Act."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
