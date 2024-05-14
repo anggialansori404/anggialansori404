@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never make friends with people who are above or below you in status. Such friendships will never give you any happiness."</i>
+<i>"Mediocrity knows nothing higher than itself, but talent instantly recognizes genius."</i>
 <br>
-<b>- Chanakya</b>
+<b>- Arthur Conan Doyle</b>
 </blockquote>
 </p>
 
