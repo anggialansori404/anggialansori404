@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all faced with a series of great opportunities brilliantly disguised as impossible situations."</i>
+<i>"What gets measured gets improved."</i>
 <br>
-<b>- Chuck Swindoll</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
