@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no way to prosperity, prosperity is the way."</i>
+<i>"Only put off until tomorrow what you are willing to die having left undone."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
