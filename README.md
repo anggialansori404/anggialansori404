@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life would be tragic if it weren't funny."</i>
+<i>"There is no way to prosperity, prosperity is the way."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
