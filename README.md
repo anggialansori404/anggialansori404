@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never interrupt your enemy when he is making a mistake."</i>
+<i>"I know not age, nor weariness nor defeat."</i>
 <br>
-<b>- Napoleon</b>
+<b>- Rose Kennedy</b>
 </blockquote>
 </p>
 
