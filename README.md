@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Freedom is the right to live as we wish."</i>
+<i>"The more acquaintances you have, the less you know them."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
