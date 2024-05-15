@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Science gives us knowledge, but only philosophy can give us wisdom."</i>
+<i>"Getting lost along your path is a part of finding the path you are meant to be on."</i>
 <br>
-<b>- Will Durant</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
