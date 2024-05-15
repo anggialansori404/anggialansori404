@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns."</i>
+<i>"Freedom is the right to live as we wish."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
