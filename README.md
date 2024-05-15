@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I know not age, nor weariness nor defeat."</i>
+<i>"The winner ain't the one with the fastest car it's the one who refuses to lose."</i>
 <br>
-<b>- Rose Kennedy</b>
+<b>- Dale Earnhardt</b>
 </blockquote>
 </p>
 
