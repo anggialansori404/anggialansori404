@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest obstacle to being heroic is the doubt whether one may not be going to prove oneself a fool; the truest heroism is to resist the doubt; and the profoundest wisdom, to know when it ought to be resisted, and when it be obeyed."</i>
+<i>"There never was a good knife made of bad steel."</i>
 <br>
-<b>- Nathaniel Hawthorne</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
