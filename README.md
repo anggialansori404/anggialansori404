@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you only have a hammer, you tend to see every problem as a nail."</i>
+<i>"FOCUS - Follow One Course Until Successful"</i>
 <br>
-<b>- Abraham Maslow</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
