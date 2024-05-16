@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"FOCUS - Follow One Course Until Successful"</i>
+<i>"Life is not meant to be easy my child, but take courage: it can be delightful."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
