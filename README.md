@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something."</i>
+<i>"In three words I can sum up everything I've learned about life: it goes on."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
