@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace."</i>
+<i>"Thought is the blossom; language the bud; action the fruit behind it."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
