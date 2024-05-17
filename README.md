@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"None but ourselves can free our minds."</i>
+<i>"Never say there is nothing beautiful in the world anymore. There is always something to make you wonder in the shape of a tree, the trembling of a leaf."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Albert Schweitzer</b>
 </blockquote>
 </p>
 
