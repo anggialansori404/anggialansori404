@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing on this earth more to be prized than true friendship."</i>
+<i>"You cannot have what you do not want."</i>
 <br>
-<b>- Thomas Aquinas</b>
+<b>- John Acosta</b>
 </blockquote>
 </p>
 
