@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot have what you do not want."</i>
+<i>"I am always doing that which I cannot do, in order that I may learn how to do it."</i>
 <br>
-<b>- John Acosta</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
