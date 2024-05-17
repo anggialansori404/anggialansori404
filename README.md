@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The thing about smart people is that they seem like crazy people to dumb people."</i>
+<i>"The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
