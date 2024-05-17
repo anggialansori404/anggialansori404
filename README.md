@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only journey is the one within."</i>
+<i>"None but ourselves can free our minds."</i>
 <br>
-<b>- Rainer Maria Rilke</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
