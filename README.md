@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greater danger for most of us lies not in setting our aim too high and falling short; but in setting our aim too low and achieving our mark."</i>
+<i>"To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace."</i>
 <br>
-<b>- Michelangelo</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
