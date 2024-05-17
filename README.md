@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never say there is nothing beautiful in the world anymore. There is always something to make you wonder in the shape of a tree, the trembling of a leaf."</i>
+<i>"It is impossible to love and to be wise."</i>
 <br>
-<b>- Albert Schweitzer</b>
+<b>- Francis Bacon</b>
 </blockquote>
 </p>
 
