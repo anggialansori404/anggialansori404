@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is impossible to love and to be wise."</i>
+<i>"There is nothing on this earth more to be prized than true friendship."</i>
 <br>
-<b>- Francis Bacon</b>
+<b>- Thomas Aquinas</b>
 </blockquote>
 </p>
 
