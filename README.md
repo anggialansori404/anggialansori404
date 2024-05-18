@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"With every experience, you alone are painting your own canvas, thought by thought, choice by choice."</i>
+<i>"Gold medals aren't really made of gold. They're made of sweat, determination, and a hard-to-find alloy called guts."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Dan Gable</b>
 </blockquote>
 </p>
 
