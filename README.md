@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's easier to go down a hill than up it but the view is much better at the top."</i>
+<i>"There are things so deep and complex that only intuition can reach it in our stage of development as human beings."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- John Astin</b>
 </blockquote>
 </p>
 
