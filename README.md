@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't choose up sides on a round world."</i>
+<i>"One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
