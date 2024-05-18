@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Gold medals aren't really made of gold. They're made of sweat, determination, and a hard-to-find alloy called guts."</i>
+<i>"If you want to know what God thinks about money just look at the people He gives it to."</i>
 <br>
-<b>- Dan Gable</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
