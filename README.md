@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your time is limited, so don't waste it living someone elses. life."</i>
+<i>"Formula for success: under promise and over deliver."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Tom Peters</b>
 </blockquote>
 </p>
 
