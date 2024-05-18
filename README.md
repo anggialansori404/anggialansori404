@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to know what God thinks about money just look at the people He gives it to."</i>
+<i>"Stay away from people who makes you feel like you are wasting their time."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
