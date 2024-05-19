@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the end we retain from our studies only that which we practically apply."</i>
+<i>"True friendship ought never to conceal what it thinks."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Jerome</b>
 </blockquote>
 </p>
 
