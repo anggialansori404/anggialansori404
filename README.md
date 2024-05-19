@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The superior man understands what is right; the inferior man understands what will sell."</i>
+<i>"You can't tell big dreams to small minded people."</i>
 <br>
-<b>- Confucius</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
