@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where all think alike, no one thinks very much."</i>
+<i>"A friend is, as it were, a second self."</i>
 <br>
-<b>- Walter Lippmann</b>
+<b>- Cicero</b>
 </blockquote>
 </p>
 
