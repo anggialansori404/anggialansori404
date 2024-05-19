@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're brave enough to say goodbye, life will reward you with a new hello."</i>
+<i>"Where all think alike, no one thinks very much."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Walter Lippmann</b>
 </blockquote>
 </p>
 
