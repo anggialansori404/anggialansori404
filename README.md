@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody."</i>
+<i>"People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine."</i>
 <br>
-<b>- Henry Wadsworth Longfellow</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
