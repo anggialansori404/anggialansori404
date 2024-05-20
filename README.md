@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be fully alive, fully human, and completely awake is to be continually thrown out of the nest."</i>
+<i>"Whenever you find yourself on the side of the majority, it is time to reform."</i>
 <br>
-<b>- Pema Chödrön</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
