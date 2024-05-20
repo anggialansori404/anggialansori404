@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice."</i>
+<i>"Only I can change my life. No one can do it for me."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
