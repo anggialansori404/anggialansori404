@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are going to achieve excellence in big things, you develop the habit in little matters."</i>
+<i>"Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
