@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship... is not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything."</i>
+<i>"Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody."</i>
 <br>
-<b>- Muhammad Ali</b>
+<b>- Henry Wadsworth Longfellow</b>
 </blockquote>
 </p>
 
