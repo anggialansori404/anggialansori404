@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want."</i>
+<i>"We don't stop playing because we grow old; we grow old because we stop playing."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
