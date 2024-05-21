@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is what you make of it. Always has been, always will be."</i>
+<i>"Ponder and deliberate before you make a move."</i>
 <br>
-<b>- Grandma Moses</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
