@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I look forward to a great future for America - a future in which our country will match its military strength with our moral restraint, its wealth with our wisdom, its power with our purpose."</i>
+<i>"Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose."</i>
 <br>
-<b>- John F. Kennedy</b>
+<b>- Eknath Easwaran</b>
 </blockquote>
 </p>
 
