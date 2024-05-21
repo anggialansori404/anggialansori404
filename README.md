@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be - don't try to become "</i>
+<i>"Follow your instincts. That is where true wisdom manifests itself."</i>
 <br>
-<b>- Osho</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
