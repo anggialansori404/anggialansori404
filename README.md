@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing permanent except change."</i>
+<i>"Life is what you make of it. Always has been, always will be."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Grandma Moses</b>
 </blockquote>
 </p>
 
