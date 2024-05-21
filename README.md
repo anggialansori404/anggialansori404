@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"This is the final test of a gentleman: his respect for those who can be of no possible value to him."</i>
+<i>"There is nothing permanent except change."</i>
 <br>
-<b>- William Lyon Phelps</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
