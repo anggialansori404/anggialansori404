@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"'All conditioned things are impermanent' — when one sees this with wisdom, one turns away from suffering."</i>
+<i>"What worries you masters you."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Haddon Robinson</b>
 </blockquote>
 </p>
 
