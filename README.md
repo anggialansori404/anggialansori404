@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A change is brought about because ordinary people do extraordinary things."</i>
+<i>"Results! Why, man, I have gotten a lot of results. I know several thousand things that won't work."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
