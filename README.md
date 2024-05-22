@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What worries you masters you."</i>
+<i>"A change is brought about because ordinary people do extraordinary things."</i>
 <br>
-<b>- Haddon Robinson</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
