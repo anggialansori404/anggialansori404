@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Results! Why, man, I have gotten a lot of results. I know several thousand things that won't work."</i>
+<i>"Happiness is the spiritual experience of living every minute with love, grace and gratitude."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
