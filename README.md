@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on."</i>
+<i>"'All conditioned things are impermanent' — when one sees this with wisdom, one turns away from suffering."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
