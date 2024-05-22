@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The things that one most wants to do are the things that are probably most worth doing."</i>
+<i>"It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on."</i>
 <br>
-<b>- Winifred Holtby</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
