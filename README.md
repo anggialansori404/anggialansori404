@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I allow my intuition to lead my path."</i>
+<i>"Do not pray for an easy life, pray for the strength to endure a difficult one.  "</i>
 <br>
-<b>- Manuel Puig</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
