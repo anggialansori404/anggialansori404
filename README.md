@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He is no fool who gives what he cannot keep to gain what he cannot lose."</i>
+<i>"You can start changing our world for the better daily, no matter how small the action."</i>
 <br>
-<b>- Jim Elliot</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
