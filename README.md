@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Humanity is acquiring all the right technology for all the wrong reasons."</i>
+<i>"He is no fool who gives what he cannot keep to gain what he cannot lose."</i>
 <br>
-<b>- Buckminster Fuller</b>
+<b>- Jim Elliot</b>
 </blockquote>
 </p>
 
