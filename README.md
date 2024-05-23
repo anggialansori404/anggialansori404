@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"But man is not made for defeat. A man can be destroyed but not defeated."</i>
+<i>"Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition."</i>
 <br>
-<b>- Ernest Hemingway</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
