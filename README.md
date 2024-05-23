@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where all think alike, no one thinks very much."</i>
+<i>"Humanity is acquiring all the right technology for all the wrong reasons."</i>
 <br>
-<b>- Walter Lippmann</b>
+<b>- Buckminster Fuller</b>
 </blockquote>
 </p>
 
