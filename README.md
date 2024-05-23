@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition."</i>
+<i>"Where all think alike, no one thinks very much."</i>
 <br>
-<b>- Honoré de Balzac</b>
+<b>- Walter Lippmann</b>
 </blockquote>
 </p>
 
