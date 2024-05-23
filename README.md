@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not pray for an easy life, pray for the strength to endure a difficult one.  "</i>
+<i>"The friend who can be silent with us in a moment of despair or confusion, who can stay with us in an hour of grief and bereavement, who can tolerate not knowing... not healing, not curing... that is a friend who cares."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Henri Nouwen</b>
 </blockquote>
 </p>
 
