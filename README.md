@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not fair to ask of others what you are not willing to do yourself."</i>
+<i>"Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Wolfgang Amadeus Mozart</b>
 </blockquote>
 </p>
 
