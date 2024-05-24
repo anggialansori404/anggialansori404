@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius."</i>
+<i>"I believe that one of life's greatest risks is never daring to risk."</i>
 <br>
-<b>- Wolfgang Amadeus Mozart</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
