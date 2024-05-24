@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My sun sets to rise again."</i>
+<i>"The future belongs to those who believe in the beauty of their dreams."</i>
 <br>
-<b>- Robert Browning</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
