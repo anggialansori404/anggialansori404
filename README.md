@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're not obligated to win. You're obligated to keep trying to do the best you can every day."</i>
+<i>"My sun sets to rise again."</i>
 <br>
-<b>- Marian Wright Edelman</b>
+<b>- Robert Browning</b>
 </blockquote>
 </p>
 
