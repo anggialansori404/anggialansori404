@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go confidently in the direction of your dreams. Live the life you've imagined."</i>
+<i>"Ignorant men raise questions that wise men answered a thousand years ago."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
