@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition."</i>
+<i>"Go confidently in the direction of your dreams. Live the life you've imagined."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
