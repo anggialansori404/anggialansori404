@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pain passes, but the beauty remains."</i>
+<i>"He can who thinks he can, and he can't who thinks he can't. This is an inexorable, indisputable law."</i>
 <br>
-<b>- Pierre-Auguste Renoir</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
