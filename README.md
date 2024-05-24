@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ignorant men raise questions that wise men answered a thousand years ago."</i>
+<i>"It is not fair to ask of others what you are not willing to do yourself."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
