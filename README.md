@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you must tell me your opinions, tell me what you believe in. I have plenty of doubts of my own."</i>
+<i>"You're not obligated to win. You're obligated to keep trying to do the best you can every day."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Marian Wright Edelman</b>
 </blockquote>
 </p>
 
