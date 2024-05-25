@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is in the heart that makes a man rich. He is rich according to what he is, not according to what he has."</i>
+<i>"Much though he recites the sacred texts, but acts not accordingly, that heedless man is like a cowherd who only counts the cows of others"</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
