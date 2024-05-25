@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Cunning... is but the low mimic of wisdom."</i>
+<i>"Nine-tenths of wisdom is being wise in time."</i>
 <br>
-<b>- Plato</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
