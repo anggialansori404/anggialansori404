@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What one does is what counts. Not what one had the intention of doing."</i>
+<i>"Cunning... is but the low mimic of wisdom."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
