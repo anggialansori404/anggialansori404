@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The beginning is always today."</i>
+<i>"My sun sets to rise again."</i>
 <br>
-<b>- Mary Wollstonecraft</b>
+<b>- Robert Browning</b>
 </blockquote>
 </p>
 
