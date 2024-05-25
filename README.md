@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Much though he recites the sacred texts, but acts not accordingly, that heedless man is like a cowherd who only counts the cows of others"</i>
+<i>"Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  "</i>
 <br>
-<b>- The Buddha</b>
+<b>- Jack Kerouac</b>
 </blockquote>
 </p>
 
