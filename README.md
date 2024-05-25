@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results."</i>
+<i>"A tree is known by its fruit; a man by his deeds. A good deed is never lost; he who sows courtesy reaps friendship, and he who plants kindness gathers love."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Basil of Caesarea</b>
 </blockquote>
 </p>
 
