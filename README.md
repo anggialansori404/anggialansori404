@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My sun sets to rise again."</i>
+<i>"What one does is what counts. Not what one had the intention of doing."</i>
 <br>
-<b>- Robert Browning</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
