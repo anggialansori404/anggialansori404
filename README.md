@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great indeed is the sublimity of the Creative, to which all beings owe their beginning, and which permeates all heaven."</i>
+<i>"He is not a lover who does not love forever."</i>
 <br>
-<b>- Laozi</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
