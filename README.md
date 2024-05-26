@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship, like love, is destroyed by long absence, though it may be increased by short intermissions."</i>
+<i>"The idea of ourselves is our escape from the fact of what we really are."</i>
 <br>
-<b>- Samuel Johnson</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
