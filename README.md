@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People grow through experience if they meet life honestly and courageously. This is how character is built."</i>
+<i>"Great indeed is the sublimity of the Creative, to which all beings owe their beginning, and which permeates all heaven."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
