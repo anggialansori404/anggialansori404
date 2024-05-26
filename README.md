@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We cannot do everything at once, but we can do something at once."</i>
+<i>"Do not wait for leaders; do it alone, person to person."</i>
 <br>
-<b>- Calvin Coolidge</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
