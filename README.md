@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not wait for leaders; do it alone, person to person."</i>
+<i>"Wherever a man may happen to turn, whatever a man may undertake, he will always end up by returning to the path which nature has marked out for him."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
