@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is contagious. So is lack of confidence."</i>
+<i>"We cannot do everything at once, but we can do something at once."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Calvin Coolidge</b>
 </blockquote>
 </p>
 
