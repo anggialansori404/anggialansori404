@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The idea of ourselves is our escape from the fact of what we really are."</i>
+<i>"Learn only how to avoid seeking for and attaching yourselves to anything."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
