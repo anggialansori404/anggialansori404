@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window."</i>
+<i>"Never let the fear of striking out keep you from playing the game."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Babe Ruth</b>
 </blockquote>
 </p>
 
