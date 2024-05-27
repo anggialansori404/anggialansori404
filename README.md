@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I persist long enough I will win."</i>
+<i>"Every problem has a gift for you in its hands."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
