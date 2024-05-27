@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never let the fear of striking out keep you from playing the game."</i>
+<i>"The best dreams happen when you're awake."</i>
 <br>
-<b>- Babe Ruth</b>
+<b>- Cherie Gilderbloom</b>
 </blockquote>
 </p>
 
