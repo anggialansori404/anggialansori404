@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure will never overtake me if my determination to succeed is strong enough."</i>
+<i>"Everyone has an invisible sign hanging from their neck saying, 'Make me feel important.' Never forget this message when working with people."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Mary Kay Ash</b>
 </blockquote>
 </p>
 
