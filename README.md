@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the middle of every difficulty lies opportunity."</i>
+<i>"When you are totally at peace with yourself, nothing can shake you."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Deepam Chaterjee</b>
 </blockquote>
 </p>
 
