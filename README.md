@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'm not in this world to live up to your expectations and you're not in this world to live up to mine."</i>
+<i>"Heroes don't need to talk about what they did."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- W.P. Kinsella</b>
 </blockquote>
 </p>
 
