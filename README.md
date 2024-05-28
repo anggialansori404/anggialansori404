@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Judge a man by his questions rather than his answers."</i>
+<i>"Everything you are against weakens you. Everything you are for empowers you."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
