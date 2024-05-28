@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A successful person is one who can lay a firm foundation with the bricks that others throw at him or her."</i>
+<i>"In the middle of every difficulty lies opportunity."</i>
 <br>
-<b>- David Brinkley</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
