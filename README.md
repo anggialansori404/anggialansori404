@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything you are against weakens you. Everything you are for empowers you."</i>
+<i>"I'm not in this world to live up to your expectations and you're not in this world to live up to mine."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
