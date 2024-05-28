@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone has an invisible sign hanging from their neck saying, 'Make me feel important.' Never forget this message when working with people."</i>
+<i>"Life can be wonderful if you're not afraid of it."</i>
 <br>
-<b>- Mary Kay Ash</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
