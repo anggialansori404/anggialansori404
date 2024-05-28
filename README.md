@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work."</i>
+<i>"Champions keep playing until they get it right."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Billie Jean King</b>
 </blockquote>
 </p>
 
