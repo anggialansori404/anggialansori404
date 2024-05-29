@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What matters is the value we've created in our lives, the people we've made happy and how much we've grown as people."</i>
+<i>"The man who trusts men will make fewer mistakes than he who distrusts them."</i>
 <br>
-<b>- Daisaku Ikeda</b>
+<b>- Camillo Benso, Count of Cavour</b>
 </blockquote>
 </p>
 
