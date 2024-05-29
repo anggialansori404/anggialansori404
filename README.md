@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a succession of moments. To live each one is to succeed."</i>
+<i>"Faith in oneself is the best and safest course."</i>
 <br>
-<b>- Corita Kent</b>
+<b>- Michelangelo</b>
 </blockquote>
 </p>
 
