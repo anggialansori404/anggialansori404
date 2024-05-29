@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be glad of life because it gives you the chance to love, to work, to play, and to look up at the stars."</i>
+<i>"I have never been hurt by anything I didn't say."</i>
 <br>
-<b>- Henry van Dyke Jr.</b>
+<b>- Calvin Coolidge</b>
 </blockquote>
 </p>
 
