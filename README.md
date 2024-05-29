@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything has beauty but not everyone sees it."</i>
+<i>"Be glad of life because it gives you the chance to love, to work, to play, and to look up at the stars."</i>
 <br>
-<b>- Confucius</b>
+<b>- Henry van Dyke Jr.</b>
 </blockquote>
 </p>
 
