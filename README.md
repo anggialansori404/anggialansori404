@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The man who trusts men will make fewer mistakes than he who distrusts them."</i>
+<i>"Why change? Everyone has his own style. When you have found it, you should stick to it."</i>
 <br>
-<b>- Camillo Benso, Count of Cavour</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
