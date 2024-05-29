@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have never been hurt by anything I didn't say."</i>
+<i>"What matters is the value we've created in our lives, the people we've made happy and how much we've grown as people."</i>
 <br>
-<b>- Calvin Coolidge</b>
+<b>- Daisaku Ikeda</b>
 </blockquote>
 </p>
 
