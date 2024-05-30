@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Swim upstream. Go the other way. Ignore the conventional wisdom."</i>
+<i>"There are two ways of spreading light: to be the candle or the mirror that reflects it."</i>
 <br>
-<b>- Sam Walton</b>
+<b>- Edith Wharton</b>
 </blockquote>
 </p>
 
