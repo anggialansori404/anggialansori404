@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of success lies not in doing your own work, but in recognizing the right man to do it."</i>
+<i>"Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
