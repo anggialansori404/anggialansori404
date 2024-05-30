@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why change? Everyone has his own style. When you have found it, you should stick to it."</i>
+<i>"Appear weak when you are strong, and strong when you are weak."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
