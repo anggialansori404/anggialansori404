@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is a difference between giving directions and giving direction."</i>
+<i>"The differences between friends cannot but reinforce their friendship."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Mao Zedong</b>
 </blockquote>
 </p>
 
