@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Appear weak when you are strong, and strong when you are weak."</i>
+<i>"The secret of success lies not in doing your own work, but in recognizing the right man to do it."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
