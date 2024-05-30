@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given."</i>
+<i>"I'm astounded by people who want to 'know' the universe when it's hard enough to find your way around Chinatown."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
