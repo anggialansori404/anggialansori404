@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Technology is nothing. What's important is that you have a faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them."</i>
+<i>"There are no limitations to the mind except those we acknowledge."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
