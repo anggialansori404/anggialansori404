@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must not say every mistake is a foolish one."</i>
+<i>"The most important thing is to enjoy your life, to be happy, it's all that matters."</i>
 <br>
-<b>- Cicero</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
