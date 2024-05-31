@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you judge another, you do not define them, you define yourself."</i>
+<i>"Nothing is easier than fault finding."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
