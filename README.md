@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never interrupt someone doing what you said couldn't be done."</i>
+<i>"Meaning is not what you start with but what you end up with."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Peter Elbow</b>
 </blockquote>
 </p>
 
