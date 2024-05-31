@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People who have goals succeed because they know where they're going. It's that simple."</i>
+<i>"Knowledge comes, but wisdom lingers. It may not be difficult to store up in the mind a vast quantity of facts within a comparatively short time, but the ability to form judgments requires the severe discipline of hard work and the tempering heat of experience and maturity."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Calvin Coolidge</b>
 </blockquote>
 </p>
 
