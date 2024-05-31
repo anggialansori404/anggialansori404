@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't build a reputation on what you are going to do. "</i>
+<i>"A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
