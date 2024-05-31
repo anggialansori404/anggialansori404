@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd."</i>
+<i>"It always seems impossible until it's done."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
