@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge comes, but wisdom lingers. It may not be difficult to store up in the mind a vast quantity of facts within a comparatively short time, but the ability to form judgments requires the severe discipline of hard work and the tempering heat of experience and maturity."</i>
+<i>"When you judge another, you do not define them, you define yourself."</i>
 <br>
-<b>- Calvin Coolidge</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
