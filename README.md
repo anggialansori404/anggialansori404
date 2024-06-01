@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not what you've got; it's what you do that makes the difference."</i>
+<i>"The fact is, with every friendship you make, and every bond of trust you establish, you are shaping the image of America projected to the rest of the world. That is so important. So when you study abroad, you're actually helping to make America stronger."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Michelle Obama</b>
 </blockquote>
 </p>
 
