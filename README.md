@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Meaning is not what you start with but what you end up with."</i>
+<i>"Reviewing what you have learned and learning anew, you are fit to be a teacher."</i>
 <br>
-<b>- Peter Elbow</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
