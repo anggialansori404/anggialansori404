@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The fact is, with every friendship you make, and every bond of trust you establish, you are shaping the image of America projected to the rest of the world. That is so important. So when you study abroad, you're actually helping to make America stronger."</i>
+<i>"Keep your eyes on the stars and your feet on the ground."</i>
 <br>
-<b>- Michelle Obama</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
