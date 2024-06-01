@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep your eyes on the stars and your feet on the ground."</i>
+<i>"Things are as they are. Looking out into it the universe at night, we make no comparisons between right and wrong stars, nor between well and badly arranged constellations."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
