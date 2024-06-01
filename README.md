@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Things are as they are. Looking out into it the universe at night, we make no comparisons between right and wrong stars, nor between well and badly arranged constellations."</i>
+<i>"The superior man is satisfied and composed; the mean man is always full of distress."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
