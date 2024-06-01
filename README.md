@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reviewing what you have learned and learning anew, you are fit to be a teacher."</i>
+<i>"The chief danger in life is that you may take too many precautions."</i>
 <br>
-<b>- Confucius</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
