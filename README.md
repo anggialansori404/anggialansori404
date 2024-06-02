@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not fair to ask of others what you are not willing to do yourself."</i>
+<i>"You know you're in love when you can't fall asleep because reality is finally better than your dreams."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
