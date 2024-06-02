@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The impossible can always be broken down into possibilities."</i>
+<i>"Never reach out your hand unless you're willing to extend an arm."</i>
 <br>
-<b>- Unknown</b>
+<b>- Pope Paul VI</b>
 </blockquote>
 </p>
 
