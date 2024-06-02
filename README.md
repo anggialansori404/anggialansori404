@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The superior man is satisfied and composed; the mean man is always full of distress."</i>
+<i>"Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer."</i>
 <br>
-<b>- Confucius</b>
+<b>- Robert Graves</b>
 </blockquote>
 </p>
 
