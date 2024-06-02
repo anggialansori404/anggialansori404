@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer."</i>
+<i>"Here is one quality that one must possess to win, and that is definiteness of purpose, the knowledge of what one wants, and a burning desire to possess it."</i>
 <br>
-<b>- Robert Graves</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
