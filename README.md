@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Here is one quality that one must possess to win, and that is definiteness of purpose, the knowledge of what one wants, and a burning desire to possess it."</i>
+<i>"Life is really simple, but men insist on making it complicated. "</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
