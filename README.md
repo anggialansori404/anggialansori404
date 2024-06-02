@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You know you're in love when you can't fall asleep because reality is finally better than your dreams."</i>
+<i>"What is not started today is never finished tomorrow."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
