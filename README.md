@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never reach out your hand unless you're willing to extend an arm."</i>
+<i>"Every moment is a fresh beginning."</i>
 <br>
-<b>- Pope Paul VI</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
