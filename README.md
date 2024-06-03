@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To forget the whole world is easy; to make the whole world forget you is hard."</i>
+<i>"It's always to soon to quit!"</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
