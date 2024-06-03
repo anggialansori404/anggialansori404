@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Experience keeps a dear school, but fools will learn in no other."</i>
+<i>"Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
