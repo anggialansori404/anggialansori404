@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The salvation of the world lies in the human heart."</i>
+<i>"Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind."</i>
 <br>
-<b>- Vaclav Havel</b>
+<b>- Henry James</b>
 </blockquote>
 </p>
 
