@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's much better to do good in a way that no one knows anything about it."</i>
+<i>"The salvation of the world lies in the human heart."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
