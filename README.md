@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot find peace avoiding life."</i>
+<i>"Happiness is a perfume you cannot pour on others without getting a few drops on yourself."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
