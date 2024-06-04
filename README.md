@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By oneself is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one made pure."</i>
+<i>"Change is the law of life. And those who look only to the past or present are certain to miss the future."</i>
 <br>
-<b>- The Buddha</b>
+<b>- John F. Kennedy</b>
 </blockquote>
 </p>
 
