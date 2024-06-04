@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!"</i>
+<i>"By oneself is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one made pure."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
