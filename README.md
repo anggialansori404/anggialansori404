@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind."</i>
+<i>"If you are going to achieve excellence in big things, you develop the habit in little matters. Excellence is not an exception; it is a prevailing attitude."</i>
 <br>
-<b>- Henry James</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
