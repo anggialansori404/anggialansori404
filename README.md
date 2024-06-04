@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We build too many walls and not enough bridges."</i>
+<i>"Knowledge has three degrees: opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Plotinus</b>
 </blockquote>
 </p>
 
