@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are going to achieve excellence in big things, you develop the habit in little matters. Excellence is not an exception; it is a prevailing attitude."</i>
+<i>"Either you choose to stay in the shallow end of the pool or you go out into the ocean."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
