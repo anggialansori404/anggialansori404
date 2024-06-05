@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A house divided against itself cannot stand."</i>
+<i>"Love is a serious mental disease."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
