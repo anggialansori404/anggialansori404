@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Conquer anger with non-anger. Conquer badness with goodness. Conquer meanness with generosity. Conquer dishonesty with truth."</i>
+<i>"A house divided against itself cannot stand."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
