@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let each man exercise the art he knows."</i>
+<i>"It's very strange that the people you love are often the people you're most cruel to."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Kenneth Branagh</b>
 </blockquote>
 </p>
 
