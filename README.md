@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want a thing done well, do it yourself."</i>
+<i>"When your desires are strong enough you will appear to possess superhuman powers to achieve."</i>
 <br>
-<b>- Napoleon</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
