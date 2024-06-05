@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge is of no value unless you put it into practice."</i>
+<i>"If you want a thing done well, do it yourself."</i>
 <br>
-<b>- Anton Chekhov</b>
+<b>- Napoleon</b>
 </blockquote>
 </p>
 
