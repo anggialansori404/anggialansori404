@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When your desires are strong enough you will appear to possess superhuman powers to achieve."</i>
+<i>"If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
