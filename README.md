@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle."</i>
+<i>"We lie the loudest when we lie to ourselves."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
