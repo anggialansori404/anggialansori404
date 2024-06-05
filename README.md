@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is a serious mental disease."</i>
+<i>"Be slow of tongue and quick of eye."</i>
 <br>
-<b>- Plato</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
