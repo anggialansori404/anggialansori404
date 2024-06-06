@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be happy is to be able to become aware of oneself without fright."</i>
+<i>"The wisest men follow their own direction."</i>
 <br>
-<b>- Walter Benjamin</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
