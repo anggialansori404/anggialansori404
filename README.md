@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wisest men follow their own direction."</i>
+<i>"Guilt is perhaps the most painful companion of death."</i>
 <br>
-<b>- Euripides</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
