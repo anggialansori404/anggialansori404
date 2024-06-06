@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not wisdom but Authority that makes a law."</i>
+<i>"Only those who dare to fail greatly can ever achieve greatly."</i>
 <br>
-<b>- Thomas Hobbes</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
