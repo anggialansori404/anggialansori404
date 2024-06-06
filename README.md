@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Guilt is perhaps the most painful companion of death."</i>
+<i>"It is not wisdom but Authority that makes a law."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Thomas Hobbes</b>
 </blockquote>
 </p>
 
