@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams."</i>
+<i>"Imagination is the living power and prime agent of all human perception."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Samuel Taylor Coleridge</b>
 </blockquote>
 </p>
 
