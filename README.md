@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only those who dare to fail greatly can ever achieve greatly."</i>
+<i>"I know where I'm going and I know the truth, and I don't have to be what you want me to be. I'm free to be what I want."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Muhammad Ali</b>
 </blockquote>
 </p>
 
