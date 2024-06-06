@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Focus on how far you have come in life rather than looking at the accomplishments of others."</i>
+<i>"Faith means believing the unbelievable."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
