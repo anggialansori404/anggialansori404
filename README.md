@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars."</i>
+<i>"Our truest life is when we are in dreams awake."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
