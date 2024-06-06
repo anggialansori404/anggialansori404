@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our truest life is when we are in dreams awake."</i>
+<i>"To be happy is to be able to become aware of oneself without fright."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Walter Benjamin</b>
 </blockquote>
 </p>
 
