@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One must be fond of people and trust them if one is not to make a mess of life."</i>
+<i>"You are today where your thoughts have brought you."</i>
 <br>
-<b>- E. M. Forster</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
