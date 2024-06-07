@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Build a better mousetrap and the world will beat a path to your door."</i>
+<i>"Rejoicing in our joy, not suffering over our suffering, makes someone a friend."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Friedrich Nietzsche</b>
 </blockquote>
 </p>
 
