@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rejoicing in our joy, not suffering over our suffering, makes someone a friend."</i>
+<i>"Life is a long lesson in humility. "</i>
 <br>
-<b>- Friedrich Nietzsche</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
