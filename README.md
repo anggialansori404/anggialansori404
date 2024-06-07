@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be true to yourself, help others, make each day your masterpiece"</i>
+<i>"It's what you do in the present that will redeem the past and thereby change the future."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
