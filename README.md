@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Freedom from desire leads to inner peace."</i>
+<i>"Only I can change my life. No one can do it for me."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
