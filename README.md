@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are today where your thoughts have brought you."</i>
+<i>"Pleasure is always derived from something outside you, whereas joy arises from within. "</i>
 <br>
-<b>- James Allen</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
