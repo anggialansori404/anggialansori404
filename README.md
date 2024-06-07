@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only I can change my life. No one can do it for me."</i>
+<i>"Build a better mousetrap and the world will beat a path to your door."</i>
 <br>
-<b>- Carol Burnett</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
