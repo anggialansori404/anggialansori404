@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Muddy water is best cleared by leaving it alone."</i>
+<i>"One of the keys to happiness is a bad memory."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
