@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you're curious, you find lots of interesting things to do."</i>
+<i>"Our lives are a sum total of the choices we have made."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
