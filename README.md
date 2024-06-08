@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Accept the challenges so that you can feel the exhilaration of victory."</i>
+<i>"Focused, hard work is the real key to success."</i>
 <br>
-<b>- George S. Patton</b>
+<b>- John Carmack</b>
 </blockquote>
 </p>
 
