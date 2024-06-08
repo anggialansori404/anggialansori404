@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rewards and punishment is the lowest form of education."</i>
+<i>"Muddy water is best cleared by leaving it alone."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
