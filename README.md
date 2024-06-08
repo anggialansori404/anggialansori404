@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wealth consists not in having great possessions, but in having few wants."</i>
+<i>"When you make a choice, you change the future."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
