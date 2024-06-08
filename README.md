@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the keys to happiness is a bad memory."</i>
+<i>"Accept the challenges so that you can feel the exhilaration of victory."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- George S. Patton</b>
 </blockquote>
 </p>
 
