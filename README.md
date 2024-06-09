@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone has been made for some particular work, and the desire for that work has been put in every heart."</i>
+<i>"Ideas are the beginning points of all fortunes."</i>
 <br>
-<b>- Rumi</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
