@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ideas are the beginning points of all fortunes."</i>
+<i>"People who have goals succeed because they know where they're going. It's that simple."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
