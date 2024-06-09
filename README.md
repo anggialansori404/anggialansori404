@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People who have goals succeed because they know where they're going. It's that simple."</i>
+<i>"Do not wait for leaders; do it alone, person to person."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
