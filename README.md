@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else."</i>
+<i>"Everyone has been made for some particular work, and the desire for that work has been put in every heart."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
