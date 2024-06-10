@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be angry is to revenge the faults of others on ourselves."</i>
+<i>"Make your life a mission - not an intermission."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
