@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Begin, be bold, and venture to be wise."</i>
+<i>"What are we doing here, that is the question."</i>
 <br>
-<b>- Horace</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
