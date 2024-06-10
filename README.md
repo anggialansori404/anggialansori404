@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Eternal nothingness is fine if you happen to be dressed for it."</i>
+<i>"Be yourself; everyone else is already taken "</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
