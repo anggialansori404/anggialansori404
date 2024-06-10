@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We may encounter many defeats, but we must not be defeated."</i>
+<i>"Never idealize others. They will never live up to your expectations."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Leo Buscaglia</b>
 </blockquote>
 </p>
 
