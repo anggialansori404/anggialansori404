@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be yourself; everyone else is already taken "</i>
+<i>"How many cares one loses when one decides not to be something but to be someone."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
