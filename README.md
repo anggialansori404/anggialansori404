@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There surely is in human nature an inherent propensity to extract all the good out of all the evil."</i>
+<i>"The poor man is not he who is without a cent, but he who is without a dream."</i>
 <br>
-<b>- Benjamin Haydon</b>
+<b>- Harry Kemp</b>
 </blockquote>
 </p>
 
