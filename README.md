@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a quality of the soul...not a function of one's material circumstances."</i>
+<i>"Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
