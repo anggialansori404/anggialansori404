@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people are born on third base and go through life thinking they hit a triple."</i>
+<i>"Be like the flower, turn your face to the sun."</i>
 <br>
-<b>- Barry Switzer</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
