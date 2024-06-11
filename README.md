@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who wishes to be obeyed must know how to command."</i>
+<i>"Conditions fall apart. Persist with diligence."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
