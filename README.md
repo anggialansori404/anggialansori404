@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be like the flower, turn your face to the sun."</i>
+<i>"When you reach the end of your rope, tie a knot in it and hang on."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
