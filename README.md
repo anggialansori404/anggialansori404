@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step."</i>
+<i>"Difficulties are things that show a person what they are."</i>
 <br>
-<b>- Laozi</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
