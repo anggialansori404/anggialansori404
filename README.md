@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A garden is always a series of losses set against a few triumphs, like life itself."</i>
+<i>"When you judge another, you do not define them, you define yourself"</i>
 <br>
-<b>- May Sarton</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
