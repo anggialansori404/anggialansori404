@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Education breeds confidence. Confidence breeds hope. Hope breeds peace."</i>
+<i>"Some people are born on third base and go through life thinking they hit a triple."</i>
 <br>
-<b>- Confucius</b>
+<b>- Barry Switzer</b>
 </blockquote>
 </p>
 
