@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most tragic thing in the world is a man of genius who is not a man of honor."</i>
+<i>"Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!"</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
