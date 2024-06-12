@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rare as is true love, true friendship is rarer."</i>
+<i>"Time stays long enough for anyone who will use it."</i>
 <br>
-<b>- Jean de La Fontaine</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
