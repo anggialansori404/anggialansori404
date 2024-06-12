@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Conditions fall apart. Persist with diligence."</i>
+<i>"We could never learn to be brave and patient if there were only joy in the world."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
