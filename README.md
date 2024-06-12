@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today."</i>
+<i>"Use what talents you possess; the woods would be very silent if no birds sang there except those that sang best."</i>
 <br>
-<b>- Tryon Edwards</b>
+<b>- Henry van Dyke Jr.</b>
 </blockquote>
 </p>
 
