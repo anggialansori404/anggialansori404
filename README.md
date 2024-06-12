@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Use what talents you possess; the woods would be very silent if no birds sang there except those that sang best."</i>
+<i>"Your imagination is your preview of life's coming attractions."</i>
 <br>
-<b>- Henry van Dyke Jr.</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
