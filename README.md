@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time stays long enough for anyone who will use it."</i>
+<i>"You cannot push anyone up a ladder unless he is willing to climb a little himself."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
