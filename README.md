@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The grand essentials of happiness are: something to do, something to love, and something to hope for."</i>
+<i>"To get angry is like to revenge yourself for the guilt of others."</i>
 <br>
-<b>- Alexander Chalmers</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
