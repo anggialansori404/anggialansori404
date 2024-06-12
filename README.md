@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To get angry is like to revenge yourself for the guilt of others."</i>
+<i>"Happiness resides not in possessions, and not in gold, happiness dwells in the soul."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Democritus</b>
 </blockquote>
 </p>
 
