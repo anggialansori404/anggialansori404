@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We could never learn to be brave and patient if there were only joy in the world."</i>
+<i>"He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Tryon Edwards</b>
 </blockquote>
 </p>
 
