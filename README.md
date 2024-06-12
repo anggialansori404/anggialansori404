@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!"</i>
+<i>"The grand essentials of happiness are: something to do, something to love, and something to hope for."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Alexander Chalmers</b>
 </blockquote>
 </p>
 
