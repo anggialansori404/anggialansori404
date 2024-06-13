@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The beginning of knowledge is the discovery of something we do not understand."</i>
+<i>"If you're walking down the right path and you're willing to keep walking, eventually you'll make progress."</i>
 <br>
-<b>- Frank Herbert</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
