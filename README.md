@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we are not fully ourselves, truly in the present moment, we miss everything."</i>
+<i>"Go as far as you can see and you will see further.  "</i>
 <br>
-<b>- Thích Nhất Hạnh</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
