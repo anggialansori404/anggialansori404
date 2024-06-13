@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fools read fast. Geniuses reread."</i>
+<i>"One loyal friend is worth ten thousand relatives."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
