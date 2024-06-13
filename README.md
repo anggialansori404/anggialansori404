@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't feed a hundred people, then feed just one."</i>
+<i>"Don't gain the world and lose your soul. Wisdom is better than silver and gold."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
