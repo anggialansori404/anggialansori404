@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness resides not in possessions, and not in gold, happiness dwells in the soul."</i>
+<i>"Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver."</i>
 <br>
-<b>- Democritus</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
