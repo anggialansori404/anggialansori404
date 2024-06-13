@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future doesn't belong to the faint-hearted; it belongs to the brave."</i>
+<i>"If you can't feed a hundred people, then feed just one."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
