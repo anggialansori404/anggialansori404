@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No great discovery was ever made without a bold guess. "</i>
+<i>"The future doesn't belong to the faint-hearted; it belongs to the brave."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
