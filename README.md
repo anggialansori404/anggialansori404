@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're walking down the right path and you're willing to keep walking, eventually you'll make progress."</i>
+<i>"If we are not fully ourselves, truly in the present moment, we miss everything."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Thích Nhất Hạnh</b>
 </blockquote>
 </p>
 
