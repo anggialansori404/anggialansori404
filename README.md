@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better."</i>
+<i>"Being a good example is the best form of service."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
