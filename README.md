@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only way to 'find out if it will work out' is to do it."</i>
+<i>"Wisdom consists of the anticipation of consequences."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Norman Cousins</b>
 </blockquote>
 </p>
 
