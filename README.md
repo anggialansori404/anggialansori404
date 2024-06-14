@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. "</i>
+<i>"The only way to 'find out if it will work out' is to do it."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
