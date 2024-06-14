@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our view of the world is truly shaped by what we decide to hear."</i>
+<i>"Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. "</i>
 <br>
-<b>- William James</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
