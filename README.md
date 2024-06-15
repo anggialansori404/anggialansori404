@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are born from a quiet sleep, and we die to a calm awakening"</i>
+<i>"No matter how carefully you plan your goals they will never be more than pipe dreams unless you pursue them with gusto."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- W. Clement Stone</b>
 </blockquote>
 </p>
 
