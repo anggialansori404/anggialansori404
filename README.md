@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who knows, does not speak. He who speaks, does not know."</i>
+<i>"I am not the outcome. I am never the result. I am only the effort."</i>
 <br>
-<b>- Laozi</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
