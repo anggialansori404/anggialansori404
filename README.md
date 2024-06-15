@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do the work you get rewarded. There are no shortcuts in life."</i>
+<i>"You have the potential for greatness."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
