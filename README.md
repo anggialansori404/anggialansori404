@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Pure, holy simplicity confounds all the wisdom of this world and the wisdom of the flesh."</i>
+<i>"We are born from a quiet sleep, and we die to a calm awakening"</i>
 <br>
-<b>- Francis of Assisi</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
