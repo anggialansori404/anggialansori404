@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We the people are the rightful masters of both Congress and the courts, not to overthrow the Constitution but to overthrow the men who pervert the Constitution."</i>
+<i>"I'd rather regret the things I've done than regret the things I haven't done."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Lucille Ball</b>
 </blockquote>
 </p>
 
