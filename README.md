@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Art, like morality, consists of drawing the line somewhere."</i>
+<i>"If you do the work you get rewarded. There are no shortcuts in life."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
