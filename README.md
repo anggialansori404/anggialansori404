@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have the potential for greatness."</i>
+<i>"We the people are the rightful masters of both Congress and the courts, not to overthrow the Constitution but to overthrow the men who pervert the Constitution."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
