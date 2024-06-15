@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am not the outcome. I am never the result. I am only the effort."</i>
+<i>"He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Tryon Edwards</b>
 </blockquote>
 </p>
 
