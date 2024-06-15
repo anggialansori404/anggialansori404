@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Smell the cheese often so you know when it is getting old."</i>
+<i>"He is a wise man who does not grieve for the things which he has not but rejoices for those which he has."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
