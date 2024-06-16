@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love never keeps a man from pursuing his destiny."</i>
+<i>"How to get more opportunity: Create more opportunity for others."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
