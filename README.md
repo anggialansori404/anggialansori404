@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A quarrel between friends, when made up, adds a new tie to friendship."</i>
+<i>"People should pursue what they're passionate about. That will make them happier than pretty much anything else."</i>
 <br>
-<b>- Francis de Sales</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
