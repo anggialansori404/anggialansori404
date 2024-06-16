@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe that life is worth living and your belief will help create the fact."</i>
+<i>"When you lose your desire for things that do not matter, you will be free."</i>
 <br>
-<b>- William James</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
