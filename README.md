@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not fair to ask of others what you are unwilling to do yourself."</i>
+<i>"It may happen sometimes that a long debate becomes the cause of a longer friendship. Commonly, those who dispute with one another at last agree."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
