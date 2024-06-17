@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do."</i>
+<i>"Life should be touched, not strangled.  "</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
