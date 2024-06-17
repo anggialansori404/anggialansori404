@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Things turn out best for those who make the best of the way things turn out."</i>
+<i>"All the great performers I have worked with are fueled by a personal dream."</i>
 <br>
-<b>- Jack Buck</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
