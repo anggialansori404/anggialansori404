@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We choose our joys and sorrows long before we experience them."</i>
+<i>"Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
