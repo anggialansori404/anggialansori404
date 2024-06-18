@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever."</i>
+<i>"All men who have achieved great things have been great dreamers. "</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Orison Swett Marden</b>
 </blockquote>
 </p>
 
