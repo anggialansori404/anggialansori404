@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Art is the signature of civilizations. "</i>
+<i>"Nothing can survive without food. Everything we consume acts either to heal us or to poison us."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
