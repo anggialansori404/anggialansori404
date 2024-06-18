@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not how much we give but how much love we put into giving."</i>
+<i>"Of all the things which wisdom provides to make us entirely happy, much the greatest is the possession of friendship."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Epicurus</b>
 </blockquote>
 </p>
 
