@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Changing minds is harder than finding people who already agree."</i>
+<i>"We choose our joys and sorrows long before we experience them."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
