@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge isn't power until it is applied."</i>
+<i>"A moving door hinge never corrodes. Flowing water never grows stagnant."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
