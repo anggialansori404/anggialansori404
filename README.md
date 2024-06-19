@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greater the impact you want to make, the greater your influence needs to be."</i>
+<i>"From wonder into wonder existence opens."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
