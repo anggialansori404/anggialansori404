@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only Zen you find on the tops of mountains is the Zen you bring up there."</i>
+<i>"Don't let the noise of others' opinions drown out your own inner voice."</i>
 <br>
-<b>- Robert M. Pirsig</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
