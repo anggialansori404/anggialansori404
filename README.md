@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All men who have achieved great things have been great dreamers. "</i>
+<i>"If you owe the bank $100 that's your problem. If you owe the bank $100 million, that's the bank's problem."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- J. Paul Getty</b>
 </blockquote>
 </p>
 
