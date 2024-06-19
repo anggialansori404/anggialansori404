@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do."</i>
+<i>"Happiness is not something ready made. It comes from your own actions."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
