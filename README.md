@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How to get more opportunity: Create more opportunity for others."</i>
+<i>"Sooner or later, those who win are those who think they can."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
