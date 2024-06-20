@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"From wonder into wonder existence opens."</i>
+<i>"Go for it now. The future is promised to no one."</i>
 <br>
-<b>- Laozi</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
