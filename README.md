@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sooner or later, those who win are those who think they can."</i>
+<i>"The most complicated achievements of thought are possible without the assistance of consciousness."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
