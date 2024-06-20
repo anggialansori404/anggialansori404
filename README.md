@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most complicated achievements of thought are possible without the assistance of consciousness."</i>
+<i>"I live by letting things happen."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
