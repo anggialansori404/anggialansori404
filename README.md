@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People seldom do what they believe in. They do what is convenient, then repent."</i>
+<i>"When in doubt, don't."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
