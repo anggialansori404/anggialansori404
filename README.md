@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When in doubt, don't."</i>
+<i>"How to get more opportunity: Create more opportunity for others."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
