@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To climb steep hills requires a slow pace at first."</i>
+<i>"The secret of life isn't what happens to you, but what you do with what happens to you."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
