@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before you can see the Light, you have to deal with the darkness."</i>
+<i>"Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
