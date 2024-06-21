@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In order to carry a positive action, we must develop here a positive vision."</i>
+<i>"Argue for your limitations, and sure enough they're yours."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
