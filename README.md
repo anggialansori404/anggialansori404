@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever is not yours: let go of it. Your letting go of it will be for your long-term happiness & benefit."</i>
+<i>"It is the power of the mind to be unconquerable."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
