@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I endeavor to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress."</i>
+<i>"Before you can see the Light, you have to deal with the darkness."</i>
 <br>
-<b>- Elizabeth Montagu</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
