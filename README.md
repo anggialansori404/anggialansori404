@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Argue for your limitations, and sure enough they're yours."</i>
+<i>"Whatever is not yours: let go of it. Your letting go of it will be for your long-term happiness & benefit."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
