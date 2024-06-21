@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference."</i>
+<i>"Wrong turns are as important as right turns. More important, sometimes."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
