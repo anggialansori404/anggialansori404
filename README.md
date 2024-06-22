@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving."</i>
+<i>"Life is so constructed that an event does not, cannot, will not, match the expectation."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Charlotte Brontë</b>
 </blockquote>
 </p>
 
