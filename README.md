@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Inner peace is when you realize that, in the end, nothing matters."</i>
+<i>"As one grows weaker one is less susceptible to suffering. There is less hurt because there is less to hurt."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
