@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As one grows weaker one is less susceptible to suffering. There is less hurt because there is less to hurt."</i>
+<i>"When something comes from within, when it is a part of you, you have no choice but to live it, to express it."</i>
 <br>
-<b>- Jack London</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
