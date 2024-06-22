@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the middle of chaos lies opportunity.  "</i>
+<i>"Without the rain there would be no rainbow."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
