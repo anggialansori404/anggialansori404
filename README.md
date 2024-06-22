@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Motivation is the art of getting people to do what you want them to do because they want to do it."</i>
+<i>"All this modern technology just makes people try to do everything at once."</i>
 <br>
-<b>- Dwight D. Eisenhower</b>
+<b>- Bill Watterson</b>
 </blockquote>
 </p>
 
