@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One fails forward toward success."</i>
+<i>"In the middle of chaos lies opportunity.  "</i>
 <br>
-<b>- Charles F. Kettering</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
