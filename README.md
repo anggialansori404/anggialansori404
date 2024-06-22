@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is so constructed that an event does not, cannot, will not, match the expectation."</i>
+<i>"One fails forward toward success."</i>
 <br>
-<b>- Charlotte Brontë</b>
+<b>- Charles F. Kettering</b>
 </blockquote>
 </p>
 
