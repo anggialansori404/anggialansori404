@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Yesterday is gone. Tomorrow has not yet come. We have only today."</i>
+<i>"A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Jawaharlal Nehru</b>
 </blockquote>
 </p>
 
