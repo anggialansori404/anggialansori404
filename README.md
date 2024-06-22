@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When something comes from within, when it is a part of you, you have no choice but to live it, to express it."</i>
+<i>"Motivation is the art of getting people to do what you want them to do because they want to do it."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Dwight D. Eisenhower</b>
 </blockquote>
 </p>
 
