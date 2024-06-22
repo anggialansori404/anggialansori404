@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All this modern technology just makes people try to do everything at once."</i>
+<i>"If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving."</i>
 <br>
-<b>- Bill Watterson</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
