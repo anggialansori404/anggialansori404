@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep others in suspense, cultivate an air of unpredictability."</i>
+<i>"That's the risk you take if you change: that people you've been involved with won't like the new you. But other people who do will come along."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Lisa Alther</b>
 </blockquote>
 </p>
 
