@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"That's the risk you take if you change: that people you've been involved with won't like the new you. But other people who do will come along."</i>
+<i>"It is far easier to start something than it is to finish it."</i>
 <br>
-<b>- Lisa Alther</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
