@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Darkness is the absence of light."</i>
+<i>"Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Eustace Budgell</b>
 </blockquote>
 </p>
 
