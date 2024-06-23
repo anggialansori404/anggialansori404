@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is far easier to start something than it is to finish it."</i>
+<i>"Let there be no purpose in friendship save the deepening of the spirit."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
