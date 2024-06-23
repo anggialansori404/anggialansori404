@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another."</i>
+<i>"When you discover your mission, you will feel its demand. It will fill you with enthusiasm and a burning desire to get to work on it."</i>
 <br>
-<b>- Eustace Budgell</b>
+<b>- W. Clement Stone</b>
 </blockquote>
 </p>
 
