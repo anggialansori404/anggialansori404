@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A day wasted on others is not wasted on one's self."</i>
+<i>"Lost Time is never found again."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
