@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let there be no purpose in friendship save the deepening of the spirit."</i>
+<i>"Darkness is the absence of light."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
