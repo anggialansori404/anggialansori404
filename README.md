@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Value your friendship. Value your relationships."</i>
+<i>"Freedom is not worth having if it does not connote freedom to err."</i>
 <br>
-<b>- Barbara Bush</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
