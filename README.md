@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you."</i>
+<i>"It is with words as with sunbeams. The more they are condensed, the deeper they burn."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Robert Southey</b>
 </blockquote>
 </p>
 
