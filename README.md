@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make each day your masterpiece."</i>
+<i>"The root of suffering is attachment."</i>
 <br>
-<b>- John Wooden</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
