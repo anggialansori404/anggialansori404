@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The highest level of wisdom is when you not only accept but love adversity."</i>
+<i>"Cleverness is not wisdom."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
