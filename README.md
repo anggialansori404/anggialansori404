@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now."</i>
+<i>"To accomplish great things, we must dream as well as act."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Anatole France</b>
 </blockquote>
 </p>
 
