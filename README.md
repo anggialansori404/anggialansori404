@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity."</i>
+<i>"The world would go on even without you. Don't take yourself so seriously."</i>
 <br>
-<b>- George S. Patton</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
