@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All I can say about life is, Oh God, enjoy it!"</i>
+<i>"Minds are like parachutes. They only function when open."</i>
 <br>
-<b>- Bob Newhart</b>
+<b>- Thomas Dewar</b>
 </blockquote>
 </p>
 
