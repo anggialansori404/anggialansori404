@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world would go on even without you. Don't take yourself so seriously."</i>
+<i>"All I can say about life is, Oh God, enjoy it!"</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Bob Newhart</b>
 </blockquote>
 </p>
 
