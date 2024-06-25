@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Freedom is not worth having if it does not connote freedom to err."</i>
+<i>"Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- George S. Patton</b>
 </blockquote>
 </p>
 
