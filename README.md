@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good judgment comes from experience, and a lot of that comes from bad judgment."</i>
+<i>"Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
