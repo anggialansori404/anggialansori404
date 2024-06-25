@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is essentially a partnership."</i>
+<i>"The real problem is not whether machines think but whether men do."</i>
 <br>
-<b>- Aristotle</b>
+<b>- B. F. Skinner</b>
 </blockquote>
 </p>
 
