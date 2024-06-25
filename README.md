@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is certainly the finest balm for the pangs of disappointed love."</i>
+<i>"The only time you run out of chances is when you stop taking them."</i>
 <br>
-<b>- Jane Austen</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
