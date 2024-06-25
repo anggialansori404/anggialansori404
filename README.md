@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only time you run out of chances is when you stop taking them."</i>
+<i>"Action is the foundational key to all success."</i>
 <br>
-<b>- Unknown</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
