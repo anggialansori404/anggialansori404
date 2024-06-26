@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest weariness comes from work not done."</i>
+<i>"One of the most difficult things is not to change society - but to change yourself."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
