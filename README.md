@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A goal without a plan is just a wish."</i>
+<i>"Each day your life grows a day shorter. Make every move count."</i>
 <br>
-<b>- Larry Elder</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
