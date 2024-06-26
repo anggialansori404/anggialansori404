@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the most difficult things is not to change society - but to change yourself."</i>
+<i>"Surround yourself only with people who are going to take you higher."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
