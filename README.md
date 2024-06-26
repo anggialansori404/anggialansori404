@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you."</i>
+<i>"There is no fear for one whose mind is not filled with desires."</i>
 <br>
-<b>- Jeffrey Gitomer</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
