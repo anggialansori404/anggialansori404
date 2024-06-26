@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even if you're sure you can win, be careful that you can live with what you lose."</i>
+<i>"Important principles may, and must, be inflexible."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
