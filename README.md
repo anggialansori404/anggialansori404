@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Important principles may, and must, be inflexible."</i>
+<i>"The greatest weariness comes from work not done."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
