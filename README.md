@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Logic is the beginning of wisdom, not the end."</i>
+<i>"Even if you're sure you can win, be careful that you can live with what you lose."</i>
 <br>
-<b>- Leonard Nimoy</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
