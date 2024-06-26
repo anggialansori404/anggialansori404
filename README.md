@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The real problem is not whether machines think but whether men do."</i>
+<i>"Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you."</i>
 <br>
-<b>- B. F. Skinner</b>
+<b>- Jeffrey Gitomer</b>
 </blockquote>
 </p>
 
