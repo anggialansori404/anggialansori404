@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live, travel, adventure, bless, and don't be sorry.  "</i>
+<i>"It's better to dance than to march through life."</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
