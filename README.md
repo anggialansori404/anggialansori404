@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths."</i>
+<i>"A single rose can be my garden... a single friend, my world."</i>
 <br>
-<b>- Charles Spurgeon</b>
+<b>- Leo Buscaglia</b>
 </blockquote>
 </p>
 
