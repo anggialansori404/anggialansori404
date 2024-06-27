@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To become what you are not, behave as you do not."</i>
+<i>"Live, travel, adventure, bless, and don't be sorry.  "</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Jack Kerouac</b>
 </blockquote>
 </p>
 
