@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise."</i>
+<i>"In all chaos there is a cosmos, in all disorder a secret order."</i>
 <br>
-<b>- Anne Brontë</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
