@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A single rose can be my garden... a single friend, my world."</i>
+<i>"To profit from good advice requires more wisdom than to give it."</i>
 <br>
-<b>- Leo Buscaglia</b>
+<b>- Wilson Mizner</b>
 </blockquote>
 </p>
 
