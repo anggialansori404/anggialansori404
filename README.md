@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To profit from good advice requires more wisdom than to give it."</i>
+<i>"Truth is like most opinions - best unexpressed."</i>
 <br>
-<b>- Wilson Mizner</b>
+<b>- Kenneth Branagh</b>
 </blockquote>
 </p>
 
