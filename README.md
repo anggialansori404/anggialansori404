@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It always seems impossible until it's done."</i>
+<i>"Shoot for the moon. Even if you miss, you'll land among the stars."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
