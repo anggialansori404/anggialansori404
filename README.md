@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is the absence of the striving for happiness."</i>
+<i>"It has been my experience that folks who have no vices have very few virtues."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
