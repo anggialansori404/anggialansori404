@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man has a good enough memory to be a successful liar."</i>
+<i>"It always seems impossible until it's done."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
