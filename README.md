@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It has been my experience that folks who have no vices have very few virtues."</i>
+<i>"Nature takes away any faculty that is not used."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- William Inge</b>
 </blockquote>
 </p>
 
