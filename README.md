@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom is always an overmatch for strength."</i>
+<i>"No man has a good enough memory to be a successful liar."</i>
 <br>
-<b>- Phil Jackson</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
