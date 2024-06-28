@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nature takes away any faculty that is not used."</i>
+<i>"Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigor of the mind."</i>
 <br>
-<b>- William Inge</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
