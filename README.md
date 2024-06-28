@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work."</i>
+<i>"Do something to move yourself toward your major goal every day."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
