@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is impossible to experience one's death objectively and still carry a tune."</i>
+<i>"Happiness is the absence of the striving for happiness."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
