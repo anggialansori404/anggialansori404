@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one has ever become poor by giving."</i>
+<i>"The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
