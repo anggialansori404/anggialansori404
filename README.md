@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Autumn is a second spring when every leaf is a flower."</i>
+<i>"A monarchy conducted with infinite wisdom and infinite benevolence is the most perfect of all possible governments."</i>
 <br>
-<b>- Albert Camus</b>
+<b>- Ezra Stiles</b>
 </blockquote>
 </p>
 
