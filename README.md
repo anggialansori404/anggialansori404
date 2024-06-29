@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to pay for a lovely moment is to enjoy it."</i>
+<i>"This is why I loved technology: if you used it right, it could give you power and privacy."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Cory Doctorow</b>
 </blockquote>
 </p>
 
