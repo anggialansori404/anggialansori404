@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want peace, you won't get it with violence."</i>
+<i>"Watch the little things; a small leak will sink a great ship."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
