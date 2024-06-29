@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Argue for your limitations, and sure enough they're yours."</i>
+<i>"Children are our greatest natural resource."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
