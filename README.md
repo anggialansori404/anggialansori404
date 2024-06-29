@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Children are our greatest natural resource."</i>
+<i>"Genuine sincerity opens people's hearts, while manipulation causes them to close."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Daisaku Ikeda</b>
 </blockquote>
 </p>
 
