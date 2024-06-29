@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't waste your energy on being angry at something that somebody did six months ago or a year ago. It's over."</i>
+<i>"The best way to pay for a lovely moment is to enjoy it."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
