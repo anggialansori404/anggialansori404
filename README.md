@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Watch the little things; a small leak will sink a great ship."</i>
+<i>"Autumn is a second spring when every leaf is a flower."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Albert Camus</b>
 </blockquote>
 </p>
 
