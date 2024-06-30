@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Genuine sincerity opens people's hearts, while manipulation causes them to close."</i>
+<i>"To be totally at leisure for one day is to be immortal for one day. "</i>
 <br>
-<b>- Daisaku Ikeda</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
