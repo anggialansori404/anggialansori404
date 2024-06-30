@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be totally at leisure for one day is to be immortal for one day. "</i>
+<i>"For fast-acting relief try slowing down."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
