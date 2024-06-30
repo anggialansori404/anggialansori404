@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Liberty, taking the word in its concrete sense, consists in the ability to choose."</i>
+<i>"No man is free who is not master of himself."</i>
 <br>
-<b>- Simone Weil</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
