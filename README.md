@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The virtue of justice consists in moderation, as regulated by wisdom."</i>
+<i>"Liberty, taking the word in its concrete sense, consists in the ability to choose."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Simone Weil</b>
 </blockquote>
 </p>
 
