@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing permanent except change."</i>
+<i>"He that can have patience can have what he will."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
