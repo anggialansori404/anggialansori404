@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have a brain and mind of your own. Use it, and reach your own decisions."</i>
+<i>"In the end, it's not the years in your life that count. It's the life in your years."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
