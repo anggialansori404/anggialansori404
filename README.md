@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds."</i>
+<i>"Wisdom is always an overmatch for strength."</i>
 <br>
-<b>- Will Durant</b>
+<b>- Phil Jackson</b>
 </blockquote>
 </p>
 
