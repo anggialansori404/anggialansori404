@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted."</i>
+<i>"There is always room in your life for thinking bigger, pushing limits and imagining the impossible."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
