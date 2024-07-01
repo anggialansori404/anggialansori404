@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life belongs to the living, and he who lives must be prepared for changes."</i>
+<i>"The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Will Durant</b>
 </blockquote>
 </p>
 
