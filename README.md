@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I believe that we are solely responsible for our choices, and we have to accept the consequences of every deed, word, and thought throughout our lifetime."</i>
+<i>"Life belongs to the living, and he who lives must be prepared for changes."</i>
 <br>
-<b>- Elisabeth Kübler-Ross</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
