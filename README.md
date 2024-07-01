@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated."</i>
+<i>"There is nothing permanent except change."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
