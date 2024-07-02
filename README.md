@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you spend too much time thinking about a thing, you'll never get it done."</i>
+<i>"Sometimes I am happy and sometimes not. I am, after all, a human being, you know. And I am glad that we are sometimes happy and sometimes not. You get your wisdom working by having different emotions."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
