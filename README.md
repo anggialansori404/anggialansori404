@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is always room in your life for thinking bigger, pushing limits and imagining the impossible."</i>
+<i>"We don't receive wisdom; we must discover it for ourselves after a journey that no one can take for us or spare us."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Marcel Proust</b>
 </blockquote>
 </p>
 
