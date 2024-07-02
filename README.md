@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Exceptional thinkers ignore their critics and go about their business making history."</i>
+<i>"You're on earth. There's no cure for that."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
