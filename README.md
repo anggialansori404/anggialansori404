@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quick decisions are unsafe decisions."</i>
+<i>"Before you can see the Light, you have to deal with the darkness."</i>
 <br>
-<b>- Sophocles</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
