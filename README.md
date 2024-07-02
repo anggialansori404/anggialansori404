@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain."</i>
+<i>"Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less."</i>
 <br>
-<b>- Plato</b>
+<b>- Marie Curie</b>
 </blockquote>
 </p>
 
