@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before you can see the Light, you have to deal with the darkness."</i>
+<i>"Belief consists in accepting the affirmations of the soul; Unbelief, in denying them."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
