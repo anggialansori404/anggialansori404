@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We don't receive wisdom; we must discover it for ourselves after a journey that no one can take for us or spare us."</i>
+<i>"If I had only known, I would have been a locksmith."</i>
 <br>
-<b>- Marcel Proust</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
