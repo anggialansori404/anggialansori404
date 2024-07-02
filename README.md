@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're on earth. There's no cure for that."</i>
+<i>"If you spend too much time thinking about a thing, you'll never get it done."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
