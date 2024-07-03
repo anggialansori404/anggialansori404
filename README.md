@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The single most powerful asset we all have is our mind."</i>
+<i>"There is only one boss. The customer. And he can fire everybody in the company from the chairman on down, simply by spending his money somewhere else."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Sam Walton</b>
 </blockquote>
 </p>
 
