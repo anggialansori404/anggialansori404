@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is only one boss. The customer. And he can fire everybody in the company from the chairman on down, simply by spending his money somewhere else."</i>
+<i>"Don't talk about what you have done or what you are going to do."</i>
 <br>
-<b>- Sam Walton</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
