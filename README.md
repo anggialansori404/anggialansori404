@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is not something ready made. It comes from your own actions."</i>
+<i>"The single most powerful asset we all have is our mind."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
