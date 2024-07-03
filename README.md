@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"God has given you one face, and you make yourself another."</i>
+<i>"Care about what other people think and you will always be their prisoner."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
