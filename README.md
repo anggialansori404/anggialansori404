@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided."</i>
+<i>"God has given you one face, and you make yourself another."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
