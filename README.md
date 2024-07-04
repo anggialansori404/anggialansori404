@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We learn to walk by falling down. If we never fell down, we would never walk."</i>
+<i>"Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
