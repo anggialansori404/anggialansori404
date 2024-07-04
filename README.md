@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved."</i>
+<i>"There are two kinds of perfect people: those who are dead, and those who have not been born yet."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
