@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Talent is God given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful."</i>
+<i>"What worries you masters you."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Haddon Robinson</b>
 </blockquote>
 </p>
 
