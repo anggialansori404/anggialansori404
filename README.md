@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot change anything in your life with intention alone, which can become a watered-down, occasional hope that you'll get to tomorrow. Intention without action is useless."</i>
+<i>"Talent is God given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful."</i>
 <br>
-<b>- Caroline Myss</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
