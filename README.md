@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I love my past. I love my present. I'm not ashamed of what I've had, and I'm not sad because I have it no longer."</i>
+<i>"Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved."</i>
 <br>
-<b>- Colette</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
