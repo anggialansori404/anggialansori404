@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences "</i>
+<i>"If you only have a hammer, you tend to see every problem as a nail."</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- Abraham Maslow</b>
 </blockquote>
 </p>
 
