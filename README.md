@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth."</i>
+<i>"I love my past. I love my present. I'm not ashamed of what I've had, and I'm not sad because I have it no longer."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Colette</b>
 </blockquote>
 </p>
 
