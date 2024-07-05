@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for."</i>
+<i>"If you have only one smile in you give it to the people you love."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
