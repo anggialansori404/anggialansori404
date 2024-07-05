@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The cause is hidden. The effect is visible to all."</i>
+<i>"Intuition will tell the thinking mind where to look next."</i>
 <br>
-<b>- Ovid</b>
+<b>- Jonas Salk</b>
 </blockquote>
 </p>
 
