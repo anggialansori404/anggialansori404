@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant."</i>
+<i>"I define friendship as a bond that transcends all barriers. When you are ready to expect anything and everything from friends, good, bad or ugly... that's what I call true friendship."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Harbhajan Singh</b>
 </blockquote>
 </p>
 
