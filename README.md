@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't earn loyalty in a day. You earn loyalty day-by-day."</i>
+<i>"Stop being a prisoner of your past. Become the architect of your future."</i>
 <br>
-<b>- Jeffrey Gitomer</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
