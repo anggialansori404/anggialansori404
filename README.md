@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunities multiply as they are seized."</i>
+<i>"Nothing ever goes away until it has taught us what we need to know."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
