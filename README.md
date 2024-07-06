@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only Zen you find on the tops of mountains is the Zen you bring up there."</i>
+<i>"Either get busy living or get busy dying."</i>
 <br>
-<b>- Robert M. Pirsig</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
