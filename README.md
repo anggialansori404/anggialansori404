@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today."</i>
+<i>"The only Zen you find on the tops of mountains is the Zen you bring up there."</i>
 <br>
-<b>- Tryon Edwards</b>
+<b>- Robert M. Pirsig</b>
 </blockquote>
 </p>
 
