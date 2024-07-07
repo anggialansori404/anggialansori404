@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A day of worry is more exhausting than a day of work."</i>
+<i>"My best friend is the one who brings out the best in me."</i>
 <br>
-<b>- John Lubbock</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
