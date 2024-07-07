@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the province of knowledge to speak, and it is the privilege of wisdom to listen."</i>
+<i>"Wise kings generally have wise counselors; and he must be a wise man himself who is capable of distinguishing one."</i>
 <br>
-<b>- Oliver Wendell Holmes Jr.</b>
+<b>- Diogenes</b>
 </blockquote>
 </p>
 
