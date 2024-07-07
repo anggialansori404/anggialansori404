@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you begin to touch your heart or let your heart be touched, you begin to discover that it's bottomless."</i>
+<i>"A day of worry is more exhausting than a day of work."</i>
 <br>
-<b>- Pema Chödrön</b>
+<b>- John Lubbock</b>
 </blockquote>
 </p>
 
