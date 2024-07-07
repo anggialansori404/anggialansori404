@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The merit of all things lies in their difficulty."</i>
+<i>"When you begin to touch your heart or let your heart be touched, you begin to discover that it's bottomless."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Pema Chödrön</b>
 </blockquote>
 </p>
 
