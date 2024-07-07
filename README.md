@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truth is not for all men, but for those who seek it."</i>
+<i>"It is the province of knowledge to speak, and it is the privilege of wisdom to listen."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Oliver Wendell Holmes Jr.</b>
 </blockquote>
 </p>
 
