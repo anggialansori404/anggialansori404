@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There's more to life than being a passenger."</i>
+<i>"The merit of all things lies in their difficulty."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
