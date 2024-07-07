@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My best friend is the one who brings out the best in me."</i>
+<i>"A man is not old as long as he is seeking something."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Edmond Rostand</b>
 </blockquote>
 </p>
 
