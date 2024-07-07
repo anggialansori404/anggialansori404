@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is not old as long as he is seeking something."</i>
+<i>"Go confidently in the direction of your dreams! Live the life you've imagined."</i>
 <br>
-<b>- Edmond Rostand</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
