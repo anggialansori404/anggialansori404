@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die."</i>
+<i>"No great discovery was ever made without a bold guess. "</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
