@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The person who says something is impossible should not interrupt the person who is doing it."</i>
+<i>"Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
