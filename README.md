@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Any fool can turn a blind eye but who knows what the ostrich sees in the sand."</i>
+<i>"It takes a very long time to become young."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
