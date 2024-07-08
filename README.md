@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No great discovery was ever made without a bold guess. "</i>
+<i>"Love is rarer than genius itself. And friendship is rarer than love."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Charles Péguy</b>
 </blockquote>
 </p>
 
