@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Obstacles don't block the path, they are the path."</i>
+<i>"To be in harmony with the wholeness of things is not to have anxiety over imperfections."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
