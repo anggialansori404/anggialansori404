@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Leaders aren't born they are made. And they are made just like anything else, through hard work. And that's the price we'll have to pay to achieve that goal, or any goal."</i>
+<i>"The only way to have a friend is to be one."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
