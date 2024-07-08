@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wise kings generally have wise counselors; and he must be a wise man himself who is capable of distinguishing one."</i>
+<i>"Time stays long enough for anyone who will use it."</i>
 <br>
-<b>- Diogenes</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
