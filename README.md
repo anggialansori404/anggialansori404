@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is rarer than genius itself. And friendship is rarer than love."</i>
+<i>"Obstacles don't block the path, they are the path."</i>
 <br>
-<b>- Charles Péguy</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
