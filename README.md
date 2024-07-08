@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be in harmony with the wholeness of things is not to have anxiety over imperfections."</i>
+<i>"Any fool can turn a blind eye but who knows what the ostrich sees in the sand."</i>
 <br>
-<b>- Dogen</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
