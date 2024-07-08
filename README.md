@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It takes a very long time to become young."</i>
+<i>"The man who trusts men will make fewer mistakes than he who distrusts them."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Camillo Benso, Count of Cavour</b>
 </blockquote>
 </p>
 
