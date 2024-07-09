@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Adventure is not outside man; it is within."</i>
+<i>"When your desires are strong enough you will appear to possess superhuman powers to achieve."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
