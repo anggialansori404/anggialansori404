@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The man who trusts men will make fewer mistakes than he who distrusts them."</i>
+<i>"Don't let the past steal your present."</i>
 <br>
-<b>- Camillo Benso, Count of Cavour</b>
+<b>- Cherralea Morgen</b>
 </blockquote>
 </p>
 
