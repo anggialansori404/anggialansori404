@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace."</i>
+<i>"Wisdom alone is the science of other sciences."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
