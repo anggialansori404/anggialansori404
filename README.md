@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let the past steal your present."</i>
+<i>"Adventure is not outside man; it is within."</i>
 <br>
-<b>- Cherralea Morgen</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
