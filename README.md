@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When your desires are strong enough you will appear to possess superhuman powers to achieve."</i>
+<i>"The best thing to hold onto in life is each other."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
