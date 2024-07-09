@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is certainly the finest balm for the pangs of disappointed love."</i>
+<i>"Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey."</i>
 <br>
-<b>- Jane Austen</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
