@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram them down people's throats."</i>
+<i>"Faith, as well intentioned as it may be, must be built on facts, not fiction--faith in fiction is a damnable false hope."</i>
 <br>
-<b>- Howard H. Aiken</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
