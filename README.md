@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom alone is the science of other sciences."</i>
+<i>"The only limits in your life are those that you set yourself."</i>
 <br>
-<b>- Plato</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
