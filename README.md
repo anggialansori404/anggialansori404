@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thought is the blossom; language the bud; action the fruit behind it."</i>
+<i>"Wise men speak because they have something to say; Fools because they have to say something."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
