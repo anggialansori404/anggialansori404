@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not go where the path may lead, go instead where there is no path and leave a trail."</i>
+<i>"The more sand that has escaped from the hourglass of our life, the clearer we should see through it."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Jean-Paul Sartre</b>
 </blockquote>
 </p>
 
