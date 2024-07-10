@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Faith, as well intentioned as it may be, must be built on facts, not fiction--faith in fiction is a damnable false hope."</i>
+<i>"Do you want to know who you are? Don't ask. Act! Action will delineate and define you."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
