@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only limits in your life are those that you set yourself."</i>
+<i>"Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram them down people's throats."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Howard H. Aiken</b>
 </blockquote>
 </p>
 
