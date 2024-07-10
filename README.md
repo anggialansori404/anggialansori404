@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever is begun in anger, ends in shame."</i>
+<i>"Thought is the blossom; language the bud; action the fruit behind it."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
