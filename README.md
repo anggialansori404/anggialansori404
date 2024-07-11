@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'm not afraid of death, but I'm in no hurry to die."</i>
+<i>"An organization, no matter how well designed, is only as good as the people who live and work in it."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Dee Hock</b>
 </blockquote>
 </p>
 
