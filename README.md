@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An organization, no matter how well designed, is only as good as the people who live and work in it."</i>
+<i>"All things come into being by conflict of opposites."</i>
 <br>
-<b>- Dee Hock</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
