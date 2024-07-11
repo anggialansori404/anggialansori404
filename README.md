@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hope and fear come from feeling that we lack something; they come from a sense of poverty."</i>
+<i>"If you think you can, you can. And if you think you can't, you're right."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
