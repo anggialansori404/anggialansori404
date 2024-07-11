@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember that the most valuable antiques are dear old friends."</i>
+<i>"It is the power of the mind to be unconquerable."</i>
 <br>
-<b>- H. Jackson Brown Jr.</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
