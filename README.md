@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you think you can, you can. And if you think you can't, you're right."</i>
+<i>"Remember that the most valuable antiques are dear old friends."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- H. Jackson Brown Jr.</b>
 </blockquote>
 </p>
 
