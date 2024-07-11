@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the power of the mind to be unconquerable."</i>
+<i>"Wise people, even though all laws were abolished, would still lead the same life."</i>
 <br>
-<b>- Seneca</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
