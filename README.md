@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wise people, even though all laws were abolished, would still lead the same life."</i>
+<i>"Do the hard jobs first. The easy jobs will take care of themselves."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
