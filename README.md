@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can do no great things, only small things with great love."</i>
+<i>"The universe is full of magical things, patiently waiting for our wits to grow sharper."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Eden Phillpotts</b>
 </blockquote>
 </p>
 
