@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Adversity causes some men to break, others to break records."</i>
+<i>"Before we acquire great power, we must acquire wisdom to use it well."</i>
 <br>
-<b>- William Arthur Ward</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
