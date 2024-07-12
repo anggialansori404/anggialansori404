@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A lot of times people look at the negative side of what they feel they can't do. I always look on the positive side of what I can do."</i>
+<i>"Nothing is too high for a man to reach, but he must climb with care and confidence"</i>
 <br>
-<b>- Chuck Norris</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
