@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest healing therapy is friendship and love."</i>
+<i>"The man who makes everything that leads to happiness depends upon himself, and not upon other men, has adopted the very best plan for living happily. This is the man of moderation, the man of manly character and of wisdom."</i>
 <br>
-<b>- Hubert Humphrey</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
