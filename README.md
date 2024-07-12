@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The universe is full of magical things, patiently waiting for our wits to grow sharper."</i>
+<i>"Life would be tragic if it weren't funny."</i>
 <br>
-<b>- Eden Phillpotts</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
