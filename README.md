@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is too high for a man to reach, but he must climb with care and confidence"</i>
+<i>"The greatest healing therapy is friendship and love."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Hubert Humphrey</b>
 </blockquote>
 </p>
 
