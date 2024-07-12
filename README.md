@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Beauty is not in the face; beauty is a light in the heart."</i>
+<i>"We can do no great things, only small things with great love."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
