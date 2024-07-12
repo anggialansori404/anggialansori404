@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The man who makes everything that leads to happiness depends upon himself, and not upon other men, has adopted the very best plan for living happily. This is the man of moderation, the man of manly character and of wisdom."</i>
+<i>"This is why I loved technology: if you used it right, it could give you power and privacy."</i>
 <br>
-<b>- Plato</b>
+<b>- Cory Doctorow</b>
 </blockquote>
 </p>
 
