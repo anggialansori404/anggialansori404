@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do the hard jobs first. The easy jobs will take care of themselves."</i>
+<i>"Beauty is not in the face; beauty is a light in the heart."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
