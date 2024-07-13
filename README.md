@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom."</i>
+<i>"Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.  "</i>
 <br>
-<b>- Theodore Isaac Rubin</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
