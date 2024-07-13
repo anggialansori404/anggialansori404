@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long."</i>
+<i>"Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Theodore Isaac Rubin</b>
 </blockquote>
 </p>
 
