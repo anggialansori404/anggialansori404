@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Without education, we are in a horrible and deadly danger of taking educated people seriously."</i>
+<i>"Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Paavo Nurmi</b>
 </blockquote>
 </p>
 
