@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"This is why I loved technology: if you used it right, it could give you power and privacy."</i>
+<i>"Without education, we are in a horrible and deadly danger of taking educated people seriously."</i>
 <br>
-<b>- Cory Doctorow</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
