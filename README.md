@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on man unless they act."</i>
+<i>"Technology made large populations possible; large populations now make technology indispensable."</i>
 <br>
-<b>- G. K. Chesterton</b>
+<b>- Joseph Wood Krutch</b>
 </blockquote>
 </p>
 
