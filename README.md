@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Technology made large populations possible; large populations now make technology indispensable."</i>
+<i>"There is no limitations except those we create for ourselves."</i>
 <br>
-<b>- Joseph Wood Krutch</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
