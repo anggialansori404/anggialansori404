@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I prefer the folly of enthusiasm to the indifference of wisdom."</i>
+<i>"There is no great genius without some touch of madness."</i>
 <br>
-<b>- Anatole France</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
