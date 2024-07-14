@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be slow of tongue and quick of eye."</i>
+<i>"Love is the energy of life."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Robert Browning</b>
 </blockquote>
 </p>
 
