@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The mind unlearns with difficulty what it has long learned."</i>
+<i>"What you resist, persists."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
