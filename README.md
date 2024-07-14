@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you resist, persists."</i>
+<i>"We are made wise not by the recollection of our past, but by the responsibility for our future."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Bernard Shaw</b>
 </blockquote>
 </p>
 
