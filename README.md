@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trying to sneak a fastball past Hank Aaron is like trying to sneak the sunrise past a rooster."</i>
+<i>"Work harder on yourself than you do on your job."</i>
 <br>
-<b>- Joe Adcock</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
