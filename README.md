@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are stuck with technology when what we really want is just stuff that works."</i>
+<i>"The mind unlearns with difficulty what it has long learned."</i>
 <br>
-<b>- Douglas Adams</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
