@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you let your head get too big, it'll break your neck."</i>
+<i>"Patience is the companion of wisdom."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Augustine of Hippo</b>
 </blockquote>
 </p>
 
