@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Chaos and Order are not enemies, only opposites."</i>
+<i>"Adversity causes some men to break, others to break records."</i>
 <br>
-<b>- Richard Garriott</b>
+<b>- William Arthur Ward</b>
 </blockquote>
 </p>
 
