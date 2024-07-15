@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Smile, breathe and go slowly."</i>
+<i>"Give a girl the right shoes, and she can conquer the world."</i>
 <br>
-<b>- Thích Nhất Hạnh</b>
+<b>- Bette Midler</b>
 </blockquote>
 </p>
 
