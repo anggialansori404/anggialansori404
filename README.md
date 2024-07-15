@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Longevity is a fleeting moment that lasts forever."</i>
+<i>"Smile, breathe and go slowly."</i>
 <br>
-<b>- Vidal Sassoon</b>
+<b>- Thích Nhất Hạnh</b>
 </blockquote>
 </p>
 
