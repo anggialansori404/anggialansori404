@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most important things are the hardest to say."</i>
+<i>"Half the lies they tell about me aren't true."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Yogi Berra</b>
 </blockquote>
 </p>
 
