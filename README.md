@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do the hard jobs first. The easy jobs will take care of themselves."</i>
+<i>"If you let your head get too big, it'll break your neck."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
