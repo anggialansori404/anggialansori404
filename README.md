@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't play against opponents, you play against the game of basketball."</i>
+<i>"Do not turn back when you are just at the goal."</i>
 <br>
-<b>- Bob Knight</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
