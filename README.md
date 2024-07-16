@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who cannot change their minds cannot change anything."</i>
+<i>"You don't play against opponents, you play against the game of basketball."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Bob Knight</b>
 </blockquote>
 </p>
 
