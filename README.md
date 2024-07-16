@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All tremble at violence; all fear death. Putting oneself in the place of another, one should not kill nor cause another to kill."</i>
+<i>"Sometimes you put walls up not to keep people out, but to see who cares enough to break them down."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
