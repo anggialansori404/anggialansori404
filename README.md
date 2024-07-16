@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom is nothing but a preparation of the soul, a capacity, a secret art of thinking, feeling and breathing thoughts of unity at every moment of life."</i>
+<i>"Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference."</i>
 <br>
-<b>- Hermann Hesse</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
