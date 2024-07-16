@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Half the lies they tell about me aren't true."</i>
+<i>"The only place where success comes before work is in the dictionary."</i>
 <br>
-<b>- Yogi Berra</b>
+<b>- Vidal Sassoon</b>
 </blockquote>
 </p>
 
