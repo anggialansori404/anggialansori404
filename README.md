@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is getting what you want. Happiness is wanting what you get."</i>
+<i>"We don't stop playing because we grow old; we grow old because we stop playing."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Bernard Shaw</b>
 </blockquote>
 </p>
 
