@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All that we see or seem is but a dream within a dream."</i>
+<i>"Imagination is not a talent of some men but is the health of every man."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
