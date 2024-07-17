@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We don't stop playing because we grow old; we grow old because we stop playing."</i>
+<i>"If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose."</i>
 <br>
-<b>- Bernard Shaw</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
