@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Technology has to be invented or adopted."</i>
+<i>"Cease striving. Then there will be transformation."</i>
 <br>
-<b>- Jared Diamond</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
