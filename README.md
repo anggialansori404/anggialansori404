@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is not a talent of some men but is the health of every man."</i>
+<i>"You've got to go out on a limb sometimes because that's where the fruit is."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
