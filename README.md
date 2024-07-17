@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wise learn many things from their enemies."</i>
+<i>"A friend is, as it were, a second self."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Cicero</b>
 </blockquote>
 </p>
 
