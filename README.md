@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You've got to go out on a limb sometimes because that's where the fruit is."</i>
+<i>"Wisdom is the power to put our time and our knowledge to the proper use."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Thomas J. Watson</b>
 </blockquote>
 </p>
 
