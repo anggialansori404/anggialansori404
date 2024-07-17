@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom is the power to put our time and our knowledge to the proper use."</i>
+<i>"Technology has to be invented or adopted."</i>
 <br>
-<b>- Thomas J. Watson</b>
+<b>- Jared Diamond</b>
 </blockquote>
 </p>
 
