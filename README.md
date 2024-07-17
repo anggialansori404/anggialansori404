@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Cease striving. Then there will be transformation."</i>
+<i>"The wise learn many things from their enemies."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
