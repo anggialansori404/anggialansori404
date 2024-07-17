@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose."</i>
+<i>"Repetition does not transform a lie into a truth."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
