@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is as a butterfly which, when pursued, is always beyond our grasp, but which if you will sit down quietly, may alight upon you."</i>
+<i>"One fails forward toward success."</i>
 <br>
-<b>- Nathaniel Hawthorne</b>
+<b>- Charles F. Kettering</b>
 </blockquote>
 </p>
 
