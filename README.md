@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is important to our friends to believe that we are unreservedly frank with them, and important to friendship that we are not."</i>
+<i>"Happiness is as a butterfly which, when pursued, is always beyond our grasp, but which if you will sit down quietly, may alight upon you."</i>
 <br>
-<b>- Mignon McLaughlin</b>
+<b>- Nathaniel Hawthorne</b>
 </blockquote>
 </p>
 
