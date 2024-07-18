@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I find hope in the darkest of days, and focus in the brightest. I do not judge the universe."</i>
+<i>"Your neighbor is the man who needs you."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
