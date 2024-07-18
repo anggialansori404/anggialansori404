@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure means you've now learned another valuable lesson that pushes you one step closer to success."</i>
+<i>"By perseverance the snail reached the ark."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Charles Spurgeon</b>
 </blockquote>
 </p>
 
