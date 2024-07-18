@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One's life has value so long as one attributes value to the life of others, by means of love, friendship, indignation and compassion."</i>
+<i>"Life a culmination of the past, an awareness of the present, an indication of the future beyond knowledge, the quality that gives a touch of divinity to matter."</i>
 <br>
-<b>- Simone de Beauvoir</b>
+<b>- Charles Lindbergh</b>
 </blockquote>
 </p>
 
