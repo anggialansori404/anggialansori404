@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By perseverance the snail reached the ark."</i>
+<i>"Better to light a candle than to curse the darkness. "</i>
 <br>
-<b>- Charles Spurgeon</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
