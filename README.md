@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You really can change the world if you care enough."</i>
+<i>"There is no greatness where there is not simplicity, goodness, and truth."</i>
 <br>
-<b>- Marian Wright Edelman</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
