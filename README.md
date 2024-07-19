@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Singleness of purpose is one of the chief essentials for success in life, no matter what may be one's aim."</i>
+<i>"Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases."</i>
 <br>
-<b>- John D. Rockefeller</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
