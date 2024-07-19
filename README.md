@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"They say that time changes things, but you actually have to change them yourself."</i>
+<i>"To seek is to suffer. To seek nothing is bliss."</i>
 <br>
-<b>- Andy Warhol</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
