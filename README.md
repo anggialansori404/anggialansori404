@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid to see what you see."</i>
+<i>"They say that time changes things, but you actually have to change them yourself."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Andy Warhol</b>
 </blockquote>
 </p>
 
