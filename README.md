@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness depends upon ourselves."</i>
+<i>"Without courage, wisdom bears no fruit."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Baltasar Gracián</b>
 </blockquote>
 </p>
 
