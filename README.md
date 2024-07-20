@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All know the way; few actually walk it."</i>
+<i>"There is no expedient to which a man will not go to avoid the labor of thinking."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
