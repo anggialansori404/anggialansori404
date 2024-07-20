@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is getting what you want. Happiness is wanting what you get."</i>
+<i>"It's not whether you get knocked down, its whether you get back up."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
