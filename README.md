@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise."</i>
+<i>"Ignorance never settles a question."</i>
 <br>
-<b>- Anne Brontë</b>
+<b>- Benjamin Disraeli</b>
 </blockquote>
 </p>
 
