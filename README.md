@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Accept challenges, so that you may feel the exhilaration of victory."</i>
+<i>"The moment you doubt whether you can fly, you cease for ever to be able to do it."</i>
 <br>
-<b>- George S. Patton</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
