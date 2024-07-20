@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who can curb his wrath as soon as it arises, as a timely antidote will check snake's venom that so quickly spreads, — such a monk gives up the here and the beyond, just as a serpent sheds its worn-out skin."</i>
+<i>"Accept challenges, so that you may feel the exhilaration of victory."</i>
 <br>
-<b>- The Buddha</b>
+<b>- George S. Patton</b>
 </blockquote>
 </p>
 
