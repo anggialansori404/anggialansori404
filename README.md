@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ignorance never settles a question."</i>
+<i>"If you don't like something, change it. If you can't change it, change your attitude."</i>
 <br>
-<b>- Benjamin Disraeli</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
