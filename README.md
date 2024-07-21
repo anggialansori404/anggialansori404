@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned."</i>
+<i>"Blessed is the man who expects nothing, for he shall never be disappointed."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
