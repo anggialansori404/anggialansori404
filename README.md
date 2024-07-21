@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Appearances are often deceiving."</i>
+<i>"First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination."</i>
 <br>
-<b>- Aesop</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
