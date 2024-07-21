@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no expedient to which a man will not go to avoid the labor of thinking."</i>
+<i>"Appearances are often deceiving."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Aesop</b>
 </blockquote>
 </p>
 
