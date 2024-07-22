@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being entirely honest with oneself is a good exercise."</i>
+<i>"Courage is the price that life exacts for granting peace."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
