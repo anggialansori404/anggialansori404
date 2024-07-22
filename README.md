@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every great advance in science has issued from a new audacity of the imagination."</i>
+<i>"The key to growth is the introduction of higher dimensions of consciousness into our awareness."</i>
 <br>
-<b>- John Dewey</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
