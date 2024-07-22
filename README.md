@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The key to growth is the introduction of higher dimensions of consciousness into our awareness."</i>
+<i>"What people need and what they want may be very different."</i>
 <br>
-<b>- Laozi</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
