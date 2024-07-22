@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy."</i>
+<i>"A friend may well be reckoned the masterpiece of nature."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
