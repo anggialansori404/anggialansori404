@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"These days people seek knowledge, not wisdom. Knowledge is of the past; wisdom is of the future."</i>
+<i>"Creativity comes from trust. Trust your instincts. And never hope more than you work."</i>
 <br>
-<b>- Vernon Cooper</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
