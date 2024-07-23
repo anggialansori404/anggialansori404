@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tell me and I forget. Teach me and I remember. Involve me and I learn."</i>
+<i>"Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is a law eternal."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
