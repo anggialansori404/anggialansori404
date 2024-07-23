@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No snowflake in an avalanche ever feels responsible."</i>
+<i>"These days people seek knowledge, not wisdom. Knowledge is of the past; wisdom is of the future."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Vernon Cooper</b>
 </blockquote>
 </p>
 
