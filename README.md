@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love cures people - both the ones who give it and the ones who receive it."</i>
+<i>"Sometimes you have to lose all you have to find out who you truly are."</i>
 <br>
-<b>- Karl Menninger</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
