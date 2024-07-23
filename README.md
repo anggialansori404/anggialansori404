@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is a law eternal."</i>
+<i>"Love cures people - both the ones who give it and the ones who receive it."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Karl Menninger</b>
 </blockquote>
 </p>
 
