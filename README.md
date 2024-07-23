@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am who I am today because of the choices I made yesterday."</i>
+<i>"Tell me and I forget. Teach me and I remember. Involve me and I learn."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
