@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A strong man overcomes an obstacle, a wise man goes the whole way."</i>
+<i>"A man should do his job so well that the living, the dead, and the unborn could do it no better."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
