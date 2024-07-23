@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes you have to lose all you have to find out who you truly are."</i>
+<i>"A strong man overcomes an obstacle, a wise man goes the whole way."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
