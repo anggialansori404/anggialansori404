@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back."</i>
+<i>"Positive thinking will let you do everything better than negative thinking will."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
