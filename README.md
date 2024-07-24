@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To know your Enemy, you must become your Enemy."</i>
+<i>"To affect the quality of the day, that is the highest of arts."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
