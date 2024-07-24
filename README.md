@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way to love anything is to realize that it may be lost."</i>
+<i>"It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
