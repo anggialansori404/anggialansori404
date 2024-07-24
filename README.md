@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Creativity comes from trust. Trust your instincts. And never hope more than you work."</i>
+<i>"True friends stab you in the front."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
