@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True friends stab you in the front."</i>
+<i>"Today is the oldest you've ever been, and the youngest you'll ever be again."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
