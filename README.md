@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Positive thinking will let you do everything better than negative thinking will."</i>
+<i>"The way to love anything is to realize that it may be lost."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
