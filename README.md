@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others."</i>
+<i>"To know your Enemy, you must become your Enemy."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
