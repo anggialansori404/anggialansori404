@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery."</i>
+<i>"The mark of your ignorance is the depth of your belief in injustice and tragedy. What the caterpillar calls the end of the world, the Master calls the butterfly."</i>
 <br>
-<b>- Anaïs Nin</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
