@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Price is what you pay. Value is what you get."</i>
+<i>"Of all possessions a friend is the most precious."</i>
 <br>
-<b>- Warren Buffett</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
