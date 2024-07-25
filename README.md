@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only real mistake is the one from which we learn nothing."</i>
+<i>"Only in the agony of parting do we look into the depths of love."</i>
 <br>
-<b>- John Powell</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
