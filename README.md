@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Logic is the beginning of wisdom, not the end."</i>
+<i>"Price is what you pay. Value is what you get."</i>
 <br>
-<b>- Leonard Nimoy</b>
+<b>- Warren Buffett</b>
 </blockquote>
 </p>
 
