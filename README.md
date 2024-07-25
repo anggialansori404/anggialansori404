@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is a difference between happiness and wisdom: he that thinks himself the happiest man is really so; but he that thinks himself the wisest is generally the greatest fool."</i>
+<i>"Logic is the beginning of wisdom, not the end."</i>
 <br>
-<b>- Francis Bacon</b>
+<b>- Leonard Nimoy</b>
 </blockquote>
 </p>
 
