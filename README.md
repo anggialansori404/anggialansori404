@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't argue both sides, you can't argue."</i>
+<i>"The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Anaïs Nin</b>
 </blockquote>
 </p>
 
