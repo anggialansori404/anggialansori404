@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Of all possessions a friend is the most precious."</i>
+<i>"The only real mistake is the one from which we learn nothing."</i>
 <br>
-<b>- Herodotus</b>
+<b>- John Powell</b>
 </blockquote>
 </p>
 
