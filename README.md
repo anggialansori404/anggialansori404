@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Excellence, then, is a state concerned with choice, lying in a mean, relative to us, this being determined by reason and in the way in which the man of practical wisdom would determine it."</i>
+<i>"Listen to the secret sound, the real sound, which is inside you."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
