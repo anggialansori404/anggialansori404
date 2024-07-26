@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is through science that we prove, but through intuition that we discover."</i>
+<i>"When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid."</i>
 <br>
-<b>- Henri Poincaré</b>
+<b>- Audre Lorde</b>
 </blockquote>
 </p>
 
