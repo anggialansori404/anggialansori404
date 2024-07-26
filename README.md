@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't just sit there. Do something. The answers will follow."</i>
+<i>"It is through science that we prove, but through intuition that we discover."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Henri Poincaré</b>
 </blockquote>
 </p>
 
