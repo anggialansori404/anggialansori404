@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't believe what your eyes are telling you. All they show is limitation. Look with your understanding, find out what you already know, and you'll see the way to fly."</i>
+<i>"A friend is a gift you give yourself."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Robert Louis Stevenson</b>
 </blockquote>
 </p>
 
