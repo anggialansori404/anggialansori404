@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only in the agony of parting do we look into the depths of love."</i>
+<i>"It's the little details that are vital. Little things make big things happen."</i>
 <br>
-<b>- George Eliot</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
