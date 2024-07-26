@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's the little details that are vital. Little things make big things happen."</i>
+<i>"The world makes way for the man who knows where he is going."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
