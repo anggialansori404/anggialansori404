@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid."</i>
+<i>"Life's most persistent and urgent question is, 'What are you doing for others?'"</i>
 <br>
-<b>- Audre Lorde</b>
+<b>- Martin Luther King Jr.</b>
 </blockquote>
 </p>
 
