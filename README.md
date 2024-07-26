@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life's most persistent and urgent question is, 'What are you doing for others?'"</i>
+<i>"Don't believe what your eyes are telling you. All they show is limitation. Look with your understanding, find out what you already know, and you'll see the way to fly."</i>
 <br>
-<b>- Martin Luther King Jr.</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
