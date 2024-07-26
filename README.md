@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A friend is a gift you give yourself."</i>
+<i>"The exercise of an extraordinary gift is the supremist pleasure in life."</i>
 <br>
-<b>- Robert Louis Stevenson</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
