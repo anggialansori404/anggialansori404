@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You do not read a book for the book's sake, but for your own."</i>
+<i>"However difficult life may seem, there is always something you can do and succeed at."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
