@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing is not enough; we must apply. Willing is not enough; we must do."</i>
+<i>"For everything that lives is holy, life delights in life."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- William Blake</b>
 </blockquote>
 </p>
 
