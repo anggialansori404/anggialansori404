@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never confuse a single defeat with a final defeat."</i>
+<i>"By oneself is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one made pure."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
