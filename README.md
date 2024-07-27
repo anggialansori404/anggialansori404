@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For everything that lives is holy, life delights in life."</i>
+<i>"Friendship is like money, easier made than kept."</i>
 <br>
-<b>- William Blake</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
