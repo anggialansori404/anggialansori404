@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By oneself is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one made pure."</i>
+<i>"Truth, and goodness, and beauty are but different faces of the same all."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
