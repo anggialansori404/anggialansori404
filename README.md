@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth, and goodness, and beauty are but different faces of the same all."</i>
+<i>"Being wrong opens us up to the possibility of change."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
