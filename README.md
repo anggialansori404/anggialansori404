@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being wrong opens us up to the possibility of change."</i>
+<i>"Peace begins with a smile."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
