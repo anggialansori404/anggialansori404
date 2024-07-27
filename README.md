@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who violates another's honor loses his own."</i>
+<i>"There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Alfred Korzybski</b>
 </blockquote>
 </p>
 
