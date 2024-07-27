@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is like money, easier made than kept."</i>
+<i>"You do not read a book for the book's sake, but for your own."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
