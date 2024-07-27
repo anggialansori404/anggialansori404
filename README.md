@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace begins with a smile."</i>
+<i>"Knowing is not enough; we must apply. Willing is not enough; we must do."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
