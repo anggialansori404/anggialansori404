@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Genuine sincerity opens people's hearts, while manipulation causes them to close."</i>
+<i>"Unless one is able to live fully in the present, the future is a hoax."</i>
 <br>
-<b>- Daisaku Ikeda</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
