@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Victory belongs to the most persevering."</i>
+<i>"Genuine sincerity opens people's hearts, while manipulation causes them to close."</i>
 <br>
-<b>- Napoleon</b>
+<b>- Daisaku Ikeda</b>
 </blockquote>
 </p>
 
