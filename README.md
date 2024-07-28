@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace is not the absence of conflict, but the ability to cope with it."</i>
+<i>"Wise men speak because they have something to say; Fools because they have to say something."</i>
 <br>
-<b>- Unknown</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
