@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When I do good I feel good, when I do bad I feel bad, and that's my religion."</i>
+<i>"To be able to forget means sanity."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
