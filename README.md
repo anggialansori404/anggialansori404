@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unless one is able to live fully in the present, the future is a hoax."</i>
+<i>"There is nothing more truly artistic than to love people."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
