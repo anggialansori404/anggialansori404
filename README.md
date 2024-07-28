@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing more truly artistic than to love people."</i>
+<i>"Peace is not the absence of conflict, but the ability to cope with it."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
