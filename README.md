@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be able to forget means sanity."</i>
+<i>"Know yourself and you will win all battles."</i>
 <br>
-<b>- Jack London</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
