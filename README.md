@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The beautiful journey of today can only begin when we learn to let go of yesterday."</i>
+<i>"I am always doing that which I cannot do, in order that I may learn how to do it."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
