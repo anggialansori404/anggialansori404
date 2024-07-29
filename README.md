@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given."</i>
+<i>"I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
