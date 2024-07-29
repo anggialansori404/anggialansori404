@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be mindful. Be grateful. Be positive. Be true. Be kind."</i>
+<i>"Without some goals and some efforts to reach it, no man can live."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- John Dewey</b>
 </blockquote>
 </p>
 
