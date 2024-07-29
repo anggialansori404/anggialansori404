@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones."</i>
+<i>"Life is not a problem to be solved, but a reality to be experienced."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Soren Kierkegaard</b>
 </blockquote>
 </p>
 
