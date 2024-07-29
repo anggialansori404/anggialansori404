@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is one of the severest tests of friendship to tell your friend his faults. So to love a man that you cannot bear to see a stain upon him, and to speak painful truth through loving words, that is friendship."</i>
+<i>"If there is a book that you want to read, but it hasn't been written yet, then you must write it."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Toni Morrison</b>
 </blockquote>
 </p>
 
