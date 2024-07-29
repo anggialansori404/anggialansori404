@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is not a problem to be solved, but a reality to be experienced."</i>
+<i>"Faith in oneself is the best and safest course."</i>
 <br>
-<b>- Soren Kierkegaard</b>
+<b>- Michelangelo</b>
 </blockquote>
 </p>
 
