@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Without some goals and some efforts to reach it, no man can live."</i>
+<i>"Vanity can easily overtake wisdom. It usually overtakes common sense."</i>
 <br>
-<b>- John Dewey</b>
+<b>- Julian Casablancas</b>
 </blockquote>
 </p>
 
