@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Faith in oneself is the best and safest course."</i>
+<i>"Greatness comes from living with purpose and passion."</i>
 <br>
-<b>- Michelangelo</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
