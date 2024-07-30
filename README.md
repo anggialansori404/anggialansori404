@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't know where you are going, any road will get you there."</i>
+<i>"We can have more than we've got because we can become more than we are."</i>
 <br>
-<b>- Lewis Carroll</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
