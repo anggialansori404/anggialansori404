@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good, better, best. Never let it rest. ‘Til your good is better and your better is best."</i>
+<i>"If you can't feed a hundred people, then feed just one."</i>
 <br>
-<b>- Jerome</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
