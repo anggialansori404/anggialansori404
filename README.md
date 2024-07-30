@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He that respects himself is safe from others; he wears a coat of mail that none can pierce."</i>
+<i>"If I have seen further than others, it is by standing upon the shoulders of giants."</i>
 <br>
-<b>- Henry Wadsworth Longfellow</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
