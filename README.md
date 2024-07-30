@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Instead of thinking outside the box, get rid of the box."</i>
+<i>"If you don't know where you are going, any road will get you there."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Lewis Carroll</b>
 </blockquote>
 </p>
 
