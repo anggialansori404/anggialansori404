@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new."</i>
+<i>"You are important enough to ask and you are blessed enough to receive back."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
