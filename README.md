@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are important enough to ask and you are blessed enough to receive back."</i>
+<i>"The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Henry Miller</b>
 </blockquote>
 </p>
 
