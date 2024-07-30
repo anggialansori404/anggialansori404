@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We may not be able to stop evil in the world, but how we treat one another is entirely up to us."</i>
+<i>"Good, better, best. Never let it rest. ‘Til your good is better and your better is best."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Jerome</b>
 </blockquote>
 </p>
 
