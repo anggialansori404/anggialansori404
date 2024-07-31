@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True happiness arises, in the first place, from the enjoyment of oneself, and in the next, from the friendship and conversation of a few select companions."</i>
+<i>"If you can't imagine it, you can't have it."</i>
 <br>
-<b>- Joseph Addison</b>
+<b>- Toni Morrison</b>
 </blockquote>
 </p>
 
