@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In wisdom gathered over time I have found that every experience is a form of exploration."</i>
+<i>"A good stance and posture reflect a proper state of mind."</i>
 <br>
-<b>- Ansel Adams</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
