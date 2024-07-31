@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My motto was always to keep swinging. Whether I was in a slump or feeling badly or having trouble off the field, the only thing to do was keep swinging."</i>
+<i>"In wisdom gathered over time I have found that every experience is a form of exploration."</i>
 <br>
-<b>- Hank Aaron</b>
+<b>- Ansel Adams</b>
 </blockquote>
 </p>
 
