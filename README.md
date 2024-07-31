@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid to stand for what you believe in, even if that means standing alone."</i>
+<i>"If you're changing the world, you're working on important things. You're excited to get up in the morning."</i>
 <br>
-<b>- Unknown</b>
+<b>- Larry Page</b>
 </blockquote>
 </p>
 
