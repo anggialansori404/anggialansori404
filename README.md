@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't imagine it, you can't have it."</i>
+<i>"Science gives us knowledge, but only philosophy can give us wisdom."</i>
 <br>
-<b>- Toni Morrison</b>
+<b>- Will Durant</b>
 </blockquote>
 </p>
 
