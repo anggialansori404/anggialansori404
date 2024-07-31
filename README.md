@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Science gives us knowledge, but only philosophy can give us wisdom."</i>
+<i>"My motto was always to keep swinging. Whether I was in a slump or feeling badly or having trouble off the field, the only thing to do was keep swinging."</i>
 <br>
-<b>- Will Durant</b>
+<b>- Hank Aaron</b>
 </blockquote>
 </p>
 
