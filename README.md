@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're changing the world, you're working on important things. You're excited to get up in the morning."</i>
+<i>"The first duty of a human being is to assume the right functional relationship to society - more briefly, to find your real job, and do it."</i>
 <br>
-<b>- Larry Page</b>
+<b>- Charlotte Perkins Gilman</b>
 </blockquote>
 </p>
 
