@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark."</i>
+<i>"The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life."</i>
 <br>
-<b>- Whoopi Goldberg</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
