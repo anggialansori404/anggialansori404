@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'd rather regret the things I've done than regret the things I haven't done."</i>
+<i>"Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark."</i>
 <br>
-<b>- Lucille Ball</b>
+<b>- Whoopi Goldberg</b>
 </blockquote>
 </p>
 
