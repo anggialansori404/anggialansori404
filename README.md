@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always be a first-rate version of yourself, instead of a second-rate version of somebody else."</i>
+<i>"It always seems impossible until it's done."</i>
 <br>
-<b>- Judy Garland</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
