@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is certainly the finest balm for the pangs of disappointed love."</i>
+<i>"Lose an hour in the morning, and you will spend all day looking for it."</i>
 <br>
-<b>- Jane Austen</b>
+<b>- Richard Whately</b>
 </blockquote>
 </p>
 
