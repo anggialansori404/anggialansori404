@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It always seems impossible until it's done."</i>
+<i>"The road of excess leads to the palace of wisdom."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- William Blake</b>
 </blockquote>
 </p>
 
