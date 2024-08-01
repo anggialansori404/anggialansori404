@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Should you find a wise critic to point out your faults, follow him as you would a guide to hidden treasure."</i>
+<i>"Always be a first-rate version of yourself, instead of a second-rate version of somebody else."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
