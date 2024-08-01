@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life."</i>
+<i>"Should you find a wise critic to point out your faults, follow him as you would a guide to hidden treasure."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
