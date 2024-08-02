@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ego is nothing other than the focus of conscious attention."</i>
+<i>"All this worldly wisdom was once the unamiable heresy of some wise man."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
