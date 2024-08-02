@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A heart well prepared for adversity in bad times hopes, and in good times fears for a change in fortune."</i>
+<i>"The ego is nothing other than the focus of conscious attention."</i>
 <br>
-<b>- Horace</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
