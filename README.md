@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I never did a day's work in my life.  It was all fun."</i>
+<i>"Be yourself; everyone else is already taken."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
