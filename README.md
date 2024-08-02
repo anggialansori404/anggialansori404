@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Until we can manage time, we can manage nothing else."</i>
+<i>"A heart well prepared for adversity in bad times hopes, and in good times fears for a change in fortune."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Horace</b>
 </blockquote>
 </p>
 
