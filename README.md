@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Creativity comes from trust. Trust your instincts. And never hope more than you work."</i>
+<i>"I never did a day's work in my life.  It was all fun."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
