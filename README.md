@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The road of excess leads to the palace of wisdom."</i>
+<i>"You do not become good by trying to be good, but by finding the goodness that is already within you."</i>
 <br>
-<b>- William Blake</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
