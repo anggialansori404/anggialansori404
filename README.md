@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Know yourself and you will win all battles."</i>
+<i>"Fears are nothing more than a state of mind."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
