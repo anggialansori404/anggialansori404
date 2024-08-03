@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Character develops itself in the stream of life."</i>
+<i>"Conflict is the gadfly of thought. It stirs us to observation and memory. It instigates to invention. It shocks us out of sheeplike passivity, and sets us at noting and contriving."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- John Dewey</b>
 </blockquote>
 </p>
 
