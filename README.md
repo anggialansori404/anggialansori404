@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We may encounter many defeats, but we must not be defeated."</i>
+<i>"I dream my painting and I paint my dream."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
