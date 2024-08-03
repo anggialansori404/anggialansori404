@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where there is love there is life."</i>
+<i>"We may encounter many defeats, but we must not be defeated."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
