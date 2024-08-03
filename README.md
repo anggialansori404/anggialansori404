@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Conflict is the gadfly of thought. It stirs us to observation and memory. It instigates to invention. It shocks us out of sheeplike passivity, and sets us at noting and contriving."</i>
+<i>"We must not say every mistake is a foolish one."</i>
 <br>
-<b>- John Dewey</b>
+<b>- Cicero</b>
 </blockquote>
 </p>
 
