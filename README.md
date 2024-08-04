@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I dream my painting and I paint my dream."</i>
+<i>"Nothing could be worse than the fear that one had given up too soon and left one unexpended effort that might have saved the world."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Jane Addams</b>
 </blockquote>
 </p>
 
