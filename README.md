@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing could be worse than the fear that one had given up too soon and left one unexpended effort that might have saved the world."</i>
+<i>"Whatever you do in life, surround yourself with smart people who'll argue with you."</i>
 <br>
-<b>- Jane Addams</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
