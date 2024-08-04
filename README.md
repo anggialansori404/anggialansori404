@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hope is not a strategy. Luck is not a factor. Fear is not an option."</i>
+<i>"Observe things as they are and don't pay attention to other people."</i>
 <br>
-<b>- James Cameron</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
