@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Can you imagine what I would do if I could do all I can?"</i>
+<i>"We would accomplish many more things if we did not think of them as impossible."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
