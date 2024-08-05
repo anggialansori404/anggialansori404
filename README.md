@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a succession of lessons, which must be lived to be understood."</i>
+<i>"There are two primary choices in life: to accept conditions as they exist or accept responsibility for changing them."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
