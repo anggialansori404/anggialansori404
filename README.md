@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better be wise by the misfortunes of others than by your own."</i>
+<i>"Friendship without self-interest is one of the rare and beautiful things of life."</i>
 <br>
-<b>- Aesop</b>
+<b>- James F. Byrnes</b>
 </blockquote>
 </p>
 
