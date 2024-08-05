@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Observe things as they are and don't pay attention to other people."</i>
+<i>"It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
