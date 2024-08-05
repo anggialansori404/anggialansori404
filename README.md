@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things."</i>
+<i>"The ballot is stronger than the bullet."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
