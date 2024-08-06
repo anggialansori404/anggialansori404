@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything that irritates us about others can lead us to an understanding of ourselves."</i>
+<i>"Do you know what my favorite part of the game is? The opportunity to play."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Mike Singletary (basketball)</b>
 </blockquote>
 </p>
 
