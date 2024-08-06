@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do anything, but let it produce joy."</i>
+<i>"Failure is feedback. Learn from it and move on."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
