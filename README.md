@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A business that makes nothing but money is a poor business."</i>
+<i>"Everything that irritates us about others can lead us to an understanding of ourselves."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
