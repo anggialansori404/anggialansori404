@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never let your memories be greater than your dreams."</i>
+<i>"I find hope in the darkest of days, and focus in the brightest. I do not judge the universe."</i>
 <br>
-<b>- Doug Ivester</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
