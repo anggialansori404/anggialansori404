@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I find hope in the darkest of days, and focus in the brightest. I do not judge the universe."</i>
+<i>"Do anything, but let it produce joy."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
