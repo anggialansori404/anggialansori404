@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reality does not conform to the ideal but confirms it."</i>
+<i>"Greatness lies not in being strong, but in the right use of strength."</i>
 <br>
-<b>- Gustave Flaubert</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
