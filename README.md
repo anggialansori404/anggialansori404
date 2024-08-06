@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You teach best what you most need to learn."</i>
+<i>"Reality does not conform to the ideal but confirms it."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Gustave Flaubert</b>
 </blockquote>
 </p>
 
