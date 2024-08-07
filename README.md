@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship always benefits; love sometimes injures."</i>
+<i>"I can't believe that God put us on this earth to be ordinary."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Lou Holtz</b>
 </blockquote>
 </p>
 
