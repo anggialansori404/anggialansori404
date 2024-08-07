@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Doing what you love is the cornerstone of having abundance in your life. "</i>
+<i>"To know oneself is to study oneself in action with another person."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
