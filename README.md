@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When one door closes another door opens. "</i>
+<i>"It is important to our friends to believe that we are unreservedly frank with them, and important to friendship that we are not."</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Mignon McLaughlin</b>
 </blockquote>
 </p>
 
