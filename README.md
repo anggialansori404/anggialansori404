@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I can't believe that God put us on this earth to be ordinary."</i>
+<i>"Doing what you love is the cornerstone of having abundance in your life. "</i>
 <br>
-<b>- Lou Holtz</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
