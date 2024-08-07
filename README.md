@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do you know what my favorite part of the game is? The opportunity to play."</i>
+<i>"Fortune favors the brave."</i>
 <br>
-<b>- Mike Singletary (basketball)</b>
+<b>- Virgil</b>
 </blockquote>
 </p>
 
