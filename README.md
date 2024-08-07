@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To know oneself is to study oneself in action with another person."</i>
+<i>"When one door closes another door opens. "</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
