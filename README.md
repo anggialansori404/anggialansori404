@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't wait. The time will never be just right."</i>
+<i>"Friendship is Love without his wings!"</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Lord Byron</b>
 </blockquote>
 </p>
 
