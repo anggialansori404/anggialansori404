@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is within the reach of just about everyone."</i>
+<i>"Don't wait. The time will never be just right."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
