@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is Love without his wings!"</i>
+<i>"The best way to pay for a lovely moment is to enjoy it."</i>
 <br>
-<b>- Lord Byron</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
