@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You just can't beat the person who never gives up. "</i>
+<i>"Success is within the reach of just about everyone."</i>
 <br>
-<b>- Babe Ruth</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
