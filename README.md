@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Goodness is the only investment that never fails."</i>
+<i>"Many a man has failed because he had his wishbone where his backbone should have been."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
