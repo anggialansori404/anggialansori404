@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the middle of every difficulty lies opportunity."</i>
+<i>"Remember that a gesture of friendship, no matter how small, is always appreciated."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- H. Jackson Brown Jr.</b>
 </blockquote>
 </p>
 
