@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to pay for a lovely moment is to enjoy it."</i>
+<i>"Goodness is the only investment that never fails."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
