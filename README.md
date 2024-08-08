@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember that a gesture of friendship, no matter how small, is always appreciated."</i>
+<i>"Believe in your infinite potential. Your only limitations are those you set upon yourself."</i>
 <br>
-<b>- H. Jackson Brown Jr.</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
