@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He can who thinks he can, and he can't who thinks he can't. This is an inexorable, indisputable law."</i>
+<i>"False friendship, like the ivy, decays and ruins the walls it embraces; but true friendship gives new life and animation to the object it supports."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Richard Burton</b>
 </blockquote>
 </p>
 
