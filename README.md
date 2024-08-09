@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A gentleman accepts the responsibility of his actions and bears the burden of their consequences."</i>
+<i>"This is the final test of a gentleman: his respect for those who can be of no possible value to him."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- William Lyon Phelps</b>
 </blockquote>
 </p>
 
