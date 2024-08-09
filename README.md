@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"This is the final test of a gentleman: his respect for those who can be of no possible value to him."</i>
+<i>"Be not angry that you cannot make others as you wish them to be, since you cannot make yourself as you wish to be."</i>
 <br>
-<b>- William Lyon Phelps</b>
+<b>- Thomas à Kempis</b>
 </blockquote>
 </p>
 
