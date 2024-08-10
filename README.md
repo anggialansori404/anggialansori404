@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men trust their ears less than their eyes."</i>
+<i>"The man who moved the mountain was the one who began carrying away the smallest stones."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
