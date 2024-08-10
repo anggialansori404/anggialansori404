@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you truly love Nature, you will find beauty everywhere. "</i>
+<i>"You cannot find yourself by going into the past. You can find yourself by coming into the present."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
