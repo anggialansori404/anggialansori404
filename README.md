@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To find a man's true character, play golf with him."</i>
+<i>"Action is eloquence."</i>
 <br>
-<b>- P. G. Wodehouse</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
