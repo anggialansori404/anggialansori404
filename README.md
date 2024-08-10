@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Action is eloquence."</i>
+<i>"One secret of success in life is for a man to be ready for his opportunity when it comes."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- Benjamin Disraeli</b>
 </blockquote>
 </p>
 
