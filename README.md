@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone you admire was once a beginner."</i>
+<i>"To acquire knowledge, one must study; but to acquire wisdom, one must observe."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Marilyn vos Savant</b>
 </blockquote>
 </p>
 
