@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is an essence of when you are fearless, you become more creative."</i>
+<i>"A clear conscience is the sure sign of a bad memory."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
