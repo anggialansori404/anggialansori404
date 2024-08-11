@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't go forward and backwards at the same time."</i>
+<i>"Everyone you admire was once a beginner."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
