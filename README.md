@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace begins with a smile."</i>
+<i>"Two persons cannot long be friends if they cannot forgive each other's little failings."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Jean de La Bruyère</b>
 </blockquote>
 </p>
 
