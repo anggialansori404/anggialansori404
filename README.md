@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never pretend to a love which you do not actually feel, for love is not ours to command."</i>
+<i>"If you only have a hammer, you tend to see every problem as a nail."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Abraham Maslow</b>
 </blockquote>
 </p>
 
