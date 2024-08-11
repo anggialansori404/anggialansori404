@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Embody what you teach, and teach only what you have embodied."</i>
+<i>"Time changes everything except something within us which is always surprised by change."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Thomas Hardy</b>
 </blockquote>
 </p>
 
