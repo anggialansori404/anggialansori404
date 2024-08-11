@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time changes everything except something within us which is always surprised by change."</i>
+<i>"Peace begins with a smile."</i>
 <br>
-<b>- Thomas Hardy</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
