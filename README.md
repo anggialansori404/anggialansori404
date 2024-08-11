@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To acquire knowledge, one must study; but to acquire wisdom, one must observe."</i>
+<i>"Embody what you teach, and teach only what you have embodied."</i>
 <br>
-<b>- Marilyn vos Savant</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
