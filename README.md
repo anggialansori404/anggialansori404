@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition."</i>
+<i>"The moment one gives close attention to anything, it becomes a mysterious, awesome, indescribably magnificent world in itself."</i>
 <br>
-<b>- Honoré de Balzac</b>
+<b>- Henry Miller</b>
 </blockquote>
 </p>
 
