@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom consists of the anticipation of consequences."</i>
+<i>"Change will not come if we wait for some other person or some other time. We are the ones we've been waiting for. We are the change that we seek."</i>
 <br>
-<b>- Norman Cousins</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
