@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our character is what we do when we think no one is looking."</i>
+<i>"Those who attain the middle Dominate the whole."</i>
 <br>
-<b>- H. Jackson Brown Jr.</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
