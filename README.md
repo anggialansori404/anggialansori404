@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't cross the sea merely by standing and staring at the water."</i>
+<i>"People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents."</i>
 <br>
-<b>- Rabindranath Tagore</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
