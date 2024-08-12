@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Best be yourself, imperial, plain, and true."</i>
+<i>"Our character is what we do when we think no one is looking."</i>
 <br>
-<b>- Robert Browning</b>
+<b>- H. Jackson Brown Jr.</b>
 </blockquote>
 </p>
 
