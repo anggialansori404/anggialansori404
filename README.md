@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change will not come if we wait for some other person or some other time. We are the ones we've been waiting for. We are the change that we seek."</i>
+<i>"You can't cross the sea merely by standing and staring at the water."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Rabindranath Tagore</b>
 </blockquote>
 </p>
 
