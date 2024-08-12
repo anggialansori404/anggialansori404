@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never settle for the crumbs of life."</i>
+<i>"Problems remain as problems because people are busy defending them rather than finding solutions."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
