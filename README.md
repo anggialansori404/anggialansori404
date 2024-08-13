@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wit is educated insolence."</i>
+<i>"Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it."</i>
 <br>
-<b>- Aristotle</b>
+<b>- M. Scott Peck</b>
 </blockquote>
 </p>
 
