@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever."</i>
+<i>"Love the life you live, live the life you love."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
