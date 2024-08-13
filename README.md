@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't ever be afraid to put yourself in a lesser position so that you can learn something from someone who knows more."</i>
+<i>"The person who cannot control his words shows that he cannot control himself."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
