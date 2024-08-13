@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who is contented is rich."</i>
+<i>"Live the moment for the moment."</i>
 <br>
-<b>- Laozi</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
