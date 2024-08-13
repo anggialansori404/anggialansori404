@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learning without reflection is a waste, reflection without learning is dangerous."</i>
+<i>"Peace is letting it be. Letting life flow, letting emotions flow through you."</i>
 <br>
-<b>- Confucius</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
