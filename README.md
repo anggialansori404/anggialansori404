@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Through selfless service, you will always be fruitful and find the fulfillment of your desires."</i>
+<i>"Sadness is but a wall between two gardens."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
