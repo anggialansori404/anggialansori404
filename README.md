@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world."</i>
+<i>"Sometimes, the only way to evolve is to open ourselves fully."</i>
 <br>
-<b>- Blaise Pascal</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
