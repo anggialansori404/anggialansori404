@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before you can inspire with emotion, you must be swamped with it yourself. Before you can move their tears, your own must flow. To convince them, you must yourself believe."</i>
+<i>"In the practice of tolerance, one's enemy is the best teacher."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
