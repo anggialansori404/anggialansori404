@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A dream is your creative vision for your life in the future. You must break out of your current comfort zone and become comfortable with the unfamiliar and the unknown."</i>
+<i>"If you seek truth, you will not seek victory by dishonorable means, and if you find truth you will become invincible."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
