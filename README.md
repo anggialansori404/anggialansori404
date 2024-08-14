@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Darkness is the absence of light."</i>
+<i>"All problems are illusions of the mind."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
