@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is a difference between happiness and wisdom: he that thinks himself the happiest man is really so; but he that thinks himself the wisest is generally the greatest fool."</i>
+<i>"The exercise of an extraordinary gift is the supremist pleasure in life."</i>
 <br>
-<b>- Francis Bacon</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
