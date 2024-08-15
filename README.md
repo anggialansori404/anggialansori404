@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is not something ready made. It comes from your own actions."</i>
+<i>"Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Theodore Isaac Rubin</b>
 </blockquote>
 </p>
 
