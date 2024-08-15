@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The exercise of an extraordinary gift is the supremist pleasure in life."</i>
+<i>"It's not what you've got; it's what you do that makes the difference."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
