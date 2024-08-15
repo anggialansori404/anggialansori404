@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you seek truth, you will not seek victory by dishonorable means, and if you find truth you will become invincible."</i>
+<i>"Don't listen to the person who has the answers; listen to the person who has the questions."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
