@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't listen to the person who has the answers; listen to the person who has the questions."</i>
+<i>"Peace begins with a smile."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
