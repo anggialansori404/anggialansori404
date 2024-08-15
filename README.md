@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace begins with a smile."</i>
+<i>"The wise warrior avoids the battle."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
