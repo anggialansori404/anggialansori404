@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In every walk with nature, one receives far more than he seeks."</i>
+<i>"Happiness is not something ready made. It comes from your own actions."</i>
 <br>
-<b>- John Muir</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
