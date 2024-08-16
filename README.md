@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is more shameful to distrust our friends than to be deceived by them."</i>
+<i>"Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity."</i>
 <br>
-<b>- Confucius</b>
+<b>- William C. Menninger</b>
 </blockquote>
 </p>
 
