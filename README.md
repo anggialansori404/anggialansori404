@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love and compassion open our own inner life, reducing stress, distrust and loneliness."</i>
+<i>"There's more to life than being a passenger."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
