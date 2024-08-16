@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For changes to be of any true value, they've got to be lasting and consistent."</i>
+<i>"Love and compassion open our own inner life, reducing stress, distrust and loneliness."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
