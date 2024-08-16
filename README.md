@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity."</i>
+<i>"For changes to be of any true value, they've got to be lasting and consistent."</i>
 <br>
-<b>- William C. Menninger</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
