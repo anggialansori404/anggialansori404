@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day."</i>
+<i>"What the caterpillar calls the end of the world, the master calls a butterfly."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
