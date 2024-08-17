@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All great truths begin as blasphemies."</i>
+<i>"Maybe you are searching among the branches, for what only appears in the roots."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
