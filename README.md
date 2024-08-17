@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wishing to be friends is quick work, but friendship is a slow ripening fruit."</i>
+<i>"Either you choose to stay in the shallow end of the pool or you go out into the ocean."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
