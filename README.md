@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Science is organized knowledge. Wisdom is organized life."</i>
+<i>"What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be."</i>
 <br>
-<b>- Immanuel Kant</b>
+<b>- Sai Baba</b>
 </blockquote>
 </p>
 
