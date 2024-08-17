@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Faith means believing the unbelievable."</i>
+<i>"Science is organized knowledge. Wisdom is organized life."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Immanuel Kant</b>
 </blockquote>
 </p>
 
