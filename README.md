@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Maybe you are searching among the branches, for what only appears in the roots."</i>
+<i>"Faith means believing the unbelievable."</i>
 <br>
-<b>- Rumi</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
