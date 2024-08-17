@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing."</i>
+<i>"Much though he recites the sacred texts, but acts not accordingly, that heedless man is like a cowherd who only counts the cows of others"</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
