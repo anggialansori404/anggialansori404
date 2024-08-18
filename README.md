@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you have to be in a soap opera try not to be cast in the worst role."</i>
+<i>"With pride, there are many curses. With humility, there come many blessings."</i>
 <br>
-<b>- Judy Garland</b>
+<b>- Ezra Taft Benson</b>
 </blockquote>
 </p>
 
