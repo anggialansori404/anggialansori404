@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't look out there for God, something in the sky, you look in you."</i>
+<i>"A friend to all is a friend to none."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
