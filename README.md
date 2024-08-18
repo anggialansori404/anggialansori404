@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Allow the world to live as it chooses, and allow yourself to live as you choose."</i>
+<i>"Our lives are the only meaningful expression of what we believe and in Whom we believe. And the only real wealth, for any of us, lies in our faith."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Gordon Hinckley</b>
 </blockquote>
 </p>
 
