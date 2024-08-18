@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our lives are the only meaningful expression of what we believe and in Whom we believe. And the only real wealth, for any of us, lies in our faith."</i>
+<i>"Those who dare to fail miserably can achieve greatly."</i>
 <br>
-<b>- Gordon Hinckley</b>
+<b>- John F. Kennedy</b>
 </blockquote>
 </p>
 
