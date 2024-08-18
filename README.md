@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A single rose can be my garden... a single friend, my world."</i>
+<i>"Allow the world to live as it chooses, and allow yourself to live as you choose."</i>
 <br>
-<b>- Leo Buscaglia</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
