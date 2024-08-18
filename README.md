@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who dare to fail miserably can achieve greatly."</i>
+<i>"Technology has to be invented or adopted."</i>
 <br>
-<b>- John F. Kennedy</b>
+<b>- Jared Diamond</b>
 </blockquote>
 </p>
 
