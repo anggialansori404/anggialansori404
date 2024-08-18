@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence."</i>
+<i>"What you get by achieving your goals is not as important as what you become by achieving your goals."</i>
 <br>
-<b>- Confucius</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
