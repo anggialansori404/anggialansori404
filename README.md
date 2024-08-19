@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change is the law of life. And those who look only to the past or present are certain to miss the future."</i>
+<i>"He that is giddy thinks the world turns round."</i>
 <br>
-<b>- John F. Kennedy</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
