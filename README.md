@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge is going to make you stronger. Knowledge is going to let you control your life. Knowledge is going to give you the wisdom to teach their children. Knowledge is the thing that makes you smile in the face of disaster."</i>
+<i>"A man has to learn that he cannot command things but that he can command himself; that he cannot coerce the wills of others but that he can mold and master his own will."</i>
 <br>
-<b>- Avery Brooks</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
