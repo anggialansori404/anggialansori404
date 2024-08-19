@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good entrepreneurs don't fail because they stay at it."</i>
+<i>"Change is the law of life. And those who look only to the past or present are certain to miss the future."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- John F. Kennedy</b>
 </blockquote>
 </p>
 
