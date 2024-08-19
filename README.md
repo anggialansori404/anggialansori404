@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you get by achieving your goals is not as important as what you become by achieving your goals."</i>
+<i>"The man of knowledge must be able not only to love his enemies but also to hate his friends."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Friedrich Nietzsche</b>
 </blockquote>
 </p>
 
