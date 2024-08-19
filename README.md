@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one."</i>
+<i>"Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
