@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The man of knowledge must be able not only to love his enemies but also to hate his friends."</i>
+<i>"People rarely succeed unless they have fun in what they are doing."</i>
 <br>
-<b>- Friedrich Nietzsche</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
