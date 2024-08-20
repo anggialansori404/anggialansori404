@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the oldest human needs is having someone to wonder where you are when you don't come home at night. "</i>
+<i>"Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
