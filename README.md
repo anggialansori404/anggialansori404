@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well."</i>
+<i>"Don't waste your energy on being angry at something that somebody did six months ago or a year ago. It's over."</i>
 <br>
-<b>- Jeff Bezos</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
