@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He that is giddy thinks the world turns round."</i>
+<i>"Fortune favors the brave."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- Virgil</b>
 </blockquote>
 </p>
 
