@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There surely is in human nature an inherent propensity to extract all the good out of all the evil."</i>
+<i>"Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary."</i>
 <br>
-<b>- Benjamin Haydon</b>
+<b>- Margaret Cousins</b>
 </blockquote>
 </p>
 
