@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness."</i>
+<i>"A man sees in the world what he carries in his heart."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
