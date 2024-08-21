@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never reach out your hand unless you're willing to extend an arm."</i>
+<i>"Belief creates the actual fact."</i>
 <br>
-<b>- Pope Paul VI</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
