@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My definition of success is control."</i>
+<i>"Show me a hero, and I'll write you a tragedy."</i>
 <br>
-<b>- Kenneth Branagh</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
