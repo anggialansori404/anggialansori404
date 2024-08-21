@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be as fluid as water, do not give your enemies anything solid to attack."</i>
+<i>"On every thorn, delightful wisdom grows, in every rill a sweet instruction flows."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Edward Young</b>
 </blockquote>
 </p>
 
