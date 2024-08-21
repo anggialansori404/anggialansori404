@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To enjoy life, we must touch much of it lightly."</i>
+<i>"Never reach out your hand unless you're willing to extend an arm."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Pope Paul VI</b>
 </blockquote>
 </p>
 
