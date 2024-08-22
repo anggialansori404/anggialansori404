@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Patience expands your options. If you insist on immediate gratification, your choices are severely limited."</i>
+<i>"Stay away from what might have been and look at what will be."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Marsha Petrie Sue</b>
 </blockquote>
 </p>
 
