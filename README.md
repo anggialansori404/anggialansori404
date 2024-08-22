@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness can exist only in acceptance."</i>
+<i>"Great ideas often receive violent opposition from mediocre minds."</i>
 <br>
-<b>- George Orwell</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
