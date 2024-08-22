@@ -28,7 +28,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only way it gets better for you is when you get better. Better is not something you wish, it's something you become."</i>
+<i>"Life does not get better by chance, it gets better by change."</i>
 <br>
 <b>- Jim Rohn</b>
 </blockquote>
