@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We become brave by doing brave acts."</i>
+<i>"If you only have a hammer, you tend to see every problem as a nail."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Abraham Maslow</b>
 </blockquote>
 </p>
 
