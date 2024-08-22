@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take rest; a field that has rested gives a bountiful crop."</i>
+<i>"The traveler sees what he sees. The tourist sees what he has come to see."</i>
 <br>
-<b>- Ovid</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
