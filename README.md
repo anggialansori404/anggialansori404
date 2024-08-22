@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great ideas often receive violent opposition from mediocre minds."</i>
+<i>"In the midst of chaos, there is also opportunity."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
