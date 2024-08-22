@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you only have a hammer, you tend to see every problem as a nail."</i>
+<i>"Fear grows in darkness; if you think there's a bogeyman around, turn on the light."</i>
 <br>
-<b>- Abraham Maslow</b>
+<b>- Dorothy Thompson</b>
 </blockquote>
 </p>
 
