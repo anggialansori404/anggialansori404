@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I want you to be everything that's you, deep at the center of your being."</i>
+<i>"Get busy living, or get busy dying."</i>
 <br>
-<b>- Confucius</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
