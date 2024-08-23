@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Get busy living, or get busy dying."</i>
+<i>"Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Charles Spurgeon</b>
 </blockquote>
 </p>
 
