@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Can you imagine what I would do if I could do all I can?"</i>
+<i>"If you don't go after what you want, you'll never have it. If you don't ask, the answer is always no. If you don't step forward, you're always in the same place."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Nora Roberts</b>
 </blockquote>
 </p>
 
