@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one."</i>
+<i>"Men of perverse opinion do not know the excellence of what is in their hands, till someone dash it from them."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Sophocles</b>
 </blockquote>
 </p>
 
