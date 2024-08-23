@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men of perverse opinion do not know the excellence of what is in their hands, till someone dash it from them."</i>
+<i>"Heedfulness is the path to the Deathless. Heedlessness is the path to death. The heedful die not. The heedless are as if already dead."</i>
 <br>
-<b>- Sophocles</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
