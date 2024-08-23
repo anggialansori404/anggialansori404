@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't go after what you want, you'll never have it. If you don't ask, the answer is always no. If you don't step forward, you're always in the same place."</i>
+<i>"It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime."</i>
 <br>
-<b>- Nora Roberts</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
