@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Heedfulness is the path to the Deathless. Heedlessness is the path to death. The heedful die not. The heedless are as if already dead."</i>
+<i>"If I have seen further than others, it is by standing upon the shoulders of giants."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
