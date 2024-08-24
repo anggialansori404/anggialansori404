@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do I speak at the right time, or not? Do I speak of facts, or not? Do I speak gently or harshly? Do I speak profitable words or not? Do I speak with a kindly heart, or inwardly malicious?"</i>
+<i>"Rest and be kind, you don't have to prove anything."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Jack Kerouac</b>
 </blockquote>
 </p>
 
