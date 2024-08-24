@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Here is the test to find whether your mission on earth is finished. If you're alive, it isn't."</i>
+<i>"Go to your bosom: Knock there and ask your heart what it doth know."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
