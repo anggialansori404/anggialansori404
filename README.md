@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Formal education will make you a living, self-education will make you a fortune."</i>
+<i>"You must do the things you think you cannot do."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
