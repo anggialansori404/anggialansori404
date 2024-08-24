@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go to your bosom: Knock there and ask your heart what it doth know."</i>
+<i>"Raise your words, not voice. It is rain that grows flowers, not thunder."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
