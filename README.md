@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Setting an example is not the main means of influencing another, it is the only means."</i>
+<i>"The people who succeed are irrationally passionate about something."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
