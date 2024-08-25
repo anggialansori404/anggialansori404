@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where there is no struggle, there is no strength. "</i>
+<i>"You cannot have what you do not want."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- John Acosta</b>
 </blockquote>
 </p>
 
