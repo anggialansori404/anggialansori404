@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot have what you do not want."</i>
+<i>"If you don't know where you are going, you will probably end up somewhere else."</i>
 <br>
-<b>- John Acosta</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
