@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance."</i>
+<i>"Every traveler has a home of his own, and he learns to appreciate it the more from his wandering."</i>
 <br>
-<b>- Thomas Carlyle</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
