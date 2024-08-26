@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As a water bead on a lotus leaf, as water on a red lily, does not adhere, so the sage does not adhere to the seen, the heard, or the sensed."</i>
+<i>"The only way round is through."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
