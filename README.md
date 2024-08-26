@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't explain it simply, you don't understand it well enough."</i>
+<i>"There are no limitations to the mind except those we acknowledge."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
