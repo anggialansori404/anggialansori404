@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If facts are the seeds that later produce knowledge and wisdom, then the emotions and the impressions of the senses are the fertile soil in which the seeds must grow."</i>
+<i>"You must welcome change as the rule but not as your ruler. "</i>
 <br>
-<b>- Rachel Carson</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
