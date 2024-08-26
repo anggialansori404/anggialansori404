@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no limitations to the mind except those we acknowledge."</i>
+<i>"To acquire knowledge, one must study; but to acquire wisdom, one must observe."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Marilyn vos Savant</b>
 </blockquote>
 </p>
 
