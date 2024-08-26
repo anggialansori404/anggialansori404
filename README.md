@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To acquire knowledge, one must study; but to acquire wisdom, one must observe."</i>
+<i>"The meaning of life is to find your gift. The purpose of life is to give it away."</i>
 <br>
-<b>- Marilyn vos Savant</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
