@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is only one corner of the universe you can be certain of improving, and that's your own self."</i>
+<i>"Every man takes the limits of his own field of vision for the limits of the world."</i>
 <br>
-<b>- Aldous Huxley</b>
+<b>- Arthur Schopenhauer</b>
 </blockquote>
 </p>
 
