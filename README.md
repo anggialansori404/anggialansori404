@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our strength grows out of our weaknesses."</i>
+<i>"If facts are the seeds that later produce knowledge and wisdom, then the emotions and the impressions of the senses are the fertile soil in which the seeds must grow."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Rachel Carson</b>
 </blockquote>
 </p>
 
