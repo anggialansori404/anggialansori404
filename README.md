@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The language of friendship is not words but meanings."</i>
+<i>"Try not to become a man of success, but rather try to become a man of value."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
