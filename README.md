@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The grass is greener where you water it."</i>
+<i>"We know what we are but know not what we may be."</i>
 <br>
-<b>- Neil Barringham</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
