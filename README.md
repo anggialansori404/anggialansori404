@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time stays long enough for anyone who will use it."</i>
+<i>"The most important battle is one to conquer yourself."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
