@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Gratitude is not only the greatest of virtues, but the parent of all the others."</i>
+<i>"The grass is greener where you water it."</i>
 <br>
-<b>- Cicero</b>
+<b>- Neil Barringham</b>
 </blockquote>
 </p>
 
