@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We know what we are but know not what we may be."</i>
+<i>"The language of friendship is not words but meanings."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
