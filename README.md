@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most important battle is one to conquer yourself."</i>
+<i>"Some of your greatest lessons come from your darkest moments."</i>
 <br>
-<b>- Yanni</b>
+<b>- Roger Lee</b>
 </blockquote>
 </p>
 
