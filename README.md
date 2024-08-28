@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you."</i>
+<i>"Good timber does not grow with ease; the stronger the wind, the stronger the trees."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- J. Willard Marriott</b>
 </blockquote>
 </p>
 
