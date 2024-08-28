@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Vanity can easily overtake wisdom. It usually overtakes common sense."</i>
+<i>"Without the confidence, nothing can be accomplished."</i>
 <br>
-<b>- Julian Casablancas</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
