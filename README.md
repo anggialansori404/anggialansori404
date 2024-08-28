@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good timber does not grow with ease; the stronger the wind, the stronger the trees."</i>
+<i>"The man who asks a question is a fool for a minute, the man who does not ask is a fool for life."</i>
 <br>
-<b>- J. Willard Marriott</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
