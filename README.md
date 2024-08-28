@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Watch the little things; a small leak will sink a great ship."</i>
+<i>"Those who cannot change their minds cannot change anything."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
