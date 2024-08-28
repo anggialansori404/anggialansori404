@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who cannot change their minds cannot change anything."</i>
+<i>"If you think adventure is dangerous, try routine; it is lethal."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
