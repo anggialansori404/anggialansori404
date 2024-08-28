@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe and you're halfway there."</i>
+<i>"Watch the little things; a small leak will sink a great ship."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
