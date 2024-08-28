@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A true friend is someone who is there for you when he'd rather be anywhere else."</i>
+<i>"Believe and you're halfway there."</i>
 <br>
-<b>- Len Wein</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
