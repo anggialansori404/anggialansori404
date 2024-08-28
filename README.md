@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some of your greatest lessons come from your darkest moments."</i>
+<i>"Vanity can easily overtake wisdom. It usually overtakes common sense."</i>
 <br>
-<b>- Roger Lee</b>
+<b>- Julian Casablancas</b>
 </blockquote>
 </p>
 
