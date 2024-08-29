@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We ordinary people must forge our own beauty."</i>
+<i>"Cleverness is not wisdom."</i>
 <br>
-<b>- Kenji Miyazawa</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
