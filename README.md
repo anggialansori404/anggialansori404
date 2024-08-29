@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The destiny of man is in his own soul. "</i>
+<i>"Experience keeps a dear school, but fools will learn in no other."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
