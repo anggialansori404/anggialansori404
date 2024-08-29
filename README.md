@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are two ways of spreading light: to be the candle or the mirror that reflects it."</i>
+<i>"It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love."</i>
 <br>
-<b>- Edith Wharton</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
