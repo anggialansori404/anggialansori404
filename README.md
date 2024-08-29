@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The path to success is to take massive, determined action."</i>
+<i>"The destiny of man is in his own soul. "</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
