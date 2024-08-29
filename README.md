@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Experience keeps a dear school, but fools will learn in no other."</i>
+<i>"You can observe a lot just by watching."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Yogi Berra</b>
 </blockquote>
 </p>
 
