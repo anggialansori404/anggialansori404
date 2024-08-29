@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The man who asks a question is a fool for a minute, the man who does not ask is a fool for life."</i>
+<i>"There are two ways of spreading light: to be the candle or the mirror that reflects it."</i>
 <br>
-<b>- Confucius</b>
+<b>- Edith Wharton</b>
 </blockquote>
 </p>
 
