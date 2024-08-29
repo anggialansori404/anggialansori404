@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't judge each day by the harvest you reap but by the seeds that you plant."</i>
+<i>"We gain the strength of the temptation we resist."</i>
 <br>
-<b>- Robert Louis Stevenson</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
