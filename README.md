@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enthusiasm is a vital element toward the individual success of every man or woman."</i>
+<i>"Lots of people want to ride with you in the limo, but what you want is someone who will take the bus with you when the limo breaks down."</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
