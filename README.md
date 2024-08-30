@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good luck is another name for tenacity of purpose."</i>
+<i>"We may encounter many defeats, but we must not be defeated."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
