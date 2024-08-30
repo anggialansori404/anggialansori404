@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each path to knowledge involves different rules and these rules are not interchangeable."</i>
+<i>"Pleasure is always derived from something outside you, whereas joy arises from within. "</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
