@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Continuous effort - not strength or intelligence - is the key to unlocking our potential."</i>
+<i>"If you need inspiration, don't do it."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
