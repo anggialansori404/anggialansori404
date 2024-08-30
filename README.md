@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is only when the mind and character slumber that the dress can be seen."</i>
+<i>"To conquer fear is the beginning of wisdom."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Bertrand Russell</b>
 </blockquote>
 </p>
 
