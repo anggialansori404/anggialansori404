@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you need inspiration, don't do it."</i>
+<i>"Good luck is another name for tenacity of purpose."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
