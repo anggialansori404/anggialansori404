@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To conquer fear is the beginning of wisdom."</i>
+<i>"Each path to knowledge involves different rules and these rules are not interchangeable."</i>
 <br>
-<b>- Bertrand Russell</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
