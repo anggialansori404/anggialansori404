@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We may encounter many defeats, but we must not be defeated."</i>
+<i>"Enthusiasm is a vital element toward the individual success of every man or woman."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Conrad Hilton</b>
 </blockquote>
 </p>
 
