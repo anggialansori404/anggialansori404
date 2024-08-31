@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"an action committed in anger is an action doomed to failure. "</i>
+<i>"There's a very deep connection among human beings. All we have to do is open our minds to it."</i>
 <br>
-<b>- Genghis Khan</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
