@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are three classes of people: those who see. Those who see when they are shown. Those who do not see."</i>
+<i>"Consider that not only do negative thoughts and emotions destroy our experience of peace, but they also undermine our health."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
