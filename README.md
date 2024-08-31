@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"They say that time changes things, but you actually have to change them yourself."</i>
+<i>"One of the first signs of the beginning of understanding is the wish to die. "</i>
 <br>
-<b>- Andy Warhol</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
