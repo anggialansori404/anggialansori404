@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One's life has value so long as one attributes value to the life of others, by means of love, friendship, indignation and compassion."</i>
+<i>"Play your part in life, but never forget that it is only a role."</i>
 <br>
-<b>- Simone de Beauvoir</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
