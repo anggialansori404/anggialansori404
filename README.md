@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is a common experience that a problem difficult at night is resolved in the morning after the committee of sleep has worked on it."</i>
+<i>"One's life has value so long as one attributes value to the life of others, by means of love, friendship, indignation and compassion."</i>
 <br>
-<b>- John Steinbeck</b>
+<b>- Simone de Beauvoir</b>
 </blockquote>
 </p>
 
