@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There's a very deep connection among human beings. All we have to do is open our minds to it."</i>
+<i>"It's not what happens to you, but how you react to it that matters."</i>
 <br>
-<b>- Yanni</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
