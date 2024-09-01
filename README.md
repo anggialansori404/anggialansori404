@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The positive thinker sees the invisible, feels the intangible, and achieves the impossible."</i>
+<i>"The future doesn't belong to the faint-hearted; it belongs to the brave."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
