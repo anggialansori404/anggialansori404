@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The person who is his own master cannot tolerate another boss. "</i>
+<i>"Conditions fall apart. Persist with diligence."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
