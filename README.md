@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future doesn't belong to the faint-hearted; it belongs to the brave."</i>
+<i>"What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
