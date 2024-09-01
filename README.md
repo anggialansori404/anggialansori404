@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds."</i>
+<i>"The invariable mark of wisdom is to see the miraculous in the common."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
