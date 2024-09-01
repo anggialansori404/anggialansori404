@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The invariable mark of wisdom is to see the miraculous in the common."</i>
+<i>"Happiness is when what you think, what you say, and what you do are in harmony."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
