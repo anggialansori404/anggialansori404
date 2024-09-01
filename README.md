@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wishing to be friends is quick work, but friendship is a slow ripening fruit."</i>
+<i>"When you can't make them see the light, make them feel the heat."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
