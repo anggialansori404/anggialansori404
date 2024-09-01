@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the first signs of the beginning of understanding is the wish to die. "</i>
+<i>"It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
