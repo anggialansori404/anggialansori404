@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never interrupt your enemy when he is making a mistake."</i>
+<i>"When I let go of what I am, I become what I might be."</i>
 <br>
-<b>- Napoleon</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
