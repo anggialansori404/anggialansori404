@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Conditions fall apart. Persist with diligence."</i>
+<i>"Fear grows in darkness; if you think there's a bogeyman around, turn on the light."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Dorothy Thompson</b>
 </blockquote>
 </p>
 
