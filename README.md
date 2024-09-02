@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We cannot do everything at once, but we can do something at once."</i>
+<i>"Let the beauty of what you love be what you do."</i>
 <br>
-<b>- Calvin Coolidge</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
