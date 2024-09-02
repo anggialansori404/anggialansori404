@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What we see depends mainly on what we look for."</i>
+<i>"When we have our body and mind in order, everything else will exist in the right place, in the right way."</i>
 <br>
-<b>- John Lubbock</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
