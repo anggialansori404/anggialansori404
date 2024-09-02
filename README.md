@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear grows in darkness; if you think there's a bogeyman around, turn on the light."</i>
+<i>"Those who are easily shocked should be shocked more often."</i>
 <br>
-<b>- Dorothy Thompson</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
