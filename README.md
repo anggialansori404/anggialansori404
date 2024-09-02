@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who are easily shocked should be shocked more often."</i>
+<i>"What we see depends mainly on what we look for."</i>
 <br>
-<b>- Mae West</b>
+<b>- John Lubbock</b>
 </blockquote>
 </p>
 
