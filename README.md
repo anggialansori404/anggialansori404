@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'm not afraid of death, but I'm in no hurry to die."</i>
+<i>"It is time to remember that old wisdom our soldiers will never forget: that whether we are black or brown or white, we all bleed the same red blood of patriots, we all enjoy the same glorious freedoms, and we all salute the same great American Flag."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Donald Trump</b>
 </blockquote>
 </p>
 
