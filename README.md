@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When I let go of what I am, I become what I might be."</i>
+<i>"I'm not afraid of death, but I'm in no hurry to die."</i>
 <br>
-<b>- Laozi</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
