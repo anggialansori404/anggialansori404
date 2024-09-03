@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is going from failure to failure without losing your enthusiasm"</i>
+<i>"We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
