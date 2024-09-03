@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love yourself first and everything else falls into line. You really have to love yourself to get anything done in this world."</i>
+<i>"Success is going from failure to failure without losing your enthusiasm"</i>
 <br>
-<b>- Lucille Ball</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
