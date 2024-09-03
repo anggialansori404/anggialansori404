@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not so much our friends' help that helps us, as the confidence of their help."</i>
+<i>"Love yourself first and everything else falls into line. You really have to love yourself to get anything done in this world."</i>
 <br>
-<b>- Epicurus</b>
+<b>- Lucille Ball</b>
 </blockquote>
 </p>
 
