@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A life without a cause is a life without effect."</i>
+<i>"All I can say about life is, Oh God, enjoy it!"</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Bob Newhart</b>
 </blockquote>
 </p>
 
