@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A wise man can learn more from a foolish question than a fool can learn from a wise answer."</i>
+<i>"To fly as fast as thought, you must begin by knowing that you have already arrived."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
