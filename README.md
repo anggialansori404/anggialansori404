@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All I can say about life is, Oh God, enjoy it!"</i>
+<i>"Do not fear failure but rather fear not trying."</i>
 <br>
-<b>- Bob Newhart</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
