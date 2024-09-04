@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never whine, never complain, never try to justify yourself."</i>
+<i>"A wise man can learn more from a foolish question than a fool can learn from a wise answer."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
