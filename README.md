@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life may be full of pain but that's not an excuse to give up."</i>
+<i>"Everyone has been made for some particular work, and the desire for that work has been put in every heart."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
