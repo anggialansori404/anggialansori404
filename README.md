@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not fear failure but rather fear not trying."</i>
+<i>"Never whine, never complain, never try to justify yourself."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
