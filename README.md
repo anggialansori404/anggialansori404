@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot always control what goes on outside. But you can always control what goes on inside. "</i>
+<i>"If you focus on results, you will never change. If you focus on change, you will get results."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Jack Dixon</b>
 </blockquote>
 </p>
 
