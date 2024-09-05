@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is not having the strength to go on; it is going on when you don't have the strength."</i>
+<i>"You can't wait for inspiration. You have to go after it with a club. "</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
