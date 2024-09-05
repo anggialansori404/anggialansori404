@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you focus on results, you will never change. If you focus on change, you will get results."</i>
+<i>"Even if you're on the right track, you'll get run over if you just sit there."</i>
 <br>
-<b>- Jack Dixon</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
