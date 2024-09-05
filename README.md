@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Because of your smile, you make life more beautiful."</i>
+<i>"It is literally true that you can succeed best and quickest by helping others succeed."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
