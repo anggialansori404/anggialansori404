@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To fly as fast as thought, you must begin by knowing that you have already arrived."</i>
+<i>"Because of your smile, you make life more beautiful."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
