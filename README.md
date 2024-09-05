@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Excellence is not a skill. It is an attitude. "</i>
+<i>"The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
