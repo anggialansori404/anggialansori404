@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing in life is to be feared. It is only to be understood."</i>
+<i>"Life is too important to be taken seriously."</i>
 <br>
-<b>- Marie Curie</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
