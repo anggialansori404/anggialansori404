@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our joy does not have to be based on our circumstances."</i>
+<i>"Nothing in life is to be feared. It is only to be understood."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Marie Curie</b>
 </blockquote>
 </p>
 
