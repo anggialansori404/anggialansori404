@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do every act of your life as if it were your last."</i>
+<i>"I have learned that to be with those I like is enough."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
