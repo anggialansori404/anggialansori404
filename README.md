@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Today you are you, that is truer than true. There is no one alive who is you-er than you."</i>
+<i>"I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
