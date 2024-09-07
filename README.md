@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain."</i>
+<i>"It's what you do in the present that will redeem the past and thereby change the future."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
