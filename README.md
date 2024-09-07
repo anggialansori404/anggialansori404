@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your chances of success in any undertaking can always be measured by your belief in yourself."</i>
+<i>"There's no scarcity of opportunity to make a living at what you love. There is only a scarcity of resolve to make it happen."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
