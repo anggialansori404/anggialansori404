@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"May all beings have happy minds."</i>
+<i>"We love the things we love for what they are."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
