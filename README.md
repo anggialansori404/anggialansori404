@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life and the simple beauty of it is too good to pass up."</i>
+<i>"The self is not something ready-made, but something in continuous formation through choice of action."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- John Dewey</b>
 </blockquote>
 </p>
 
