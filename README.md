@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Associate with people who are likely to improve you.  "</i>
+<i>"Success is not final; failure is not fatal: it is the courage to continue that counts."</i>
 <br>
-<b>- Seneca</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
