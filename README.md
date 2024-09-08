@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is not final; failure is not fatal: it is the courage to continue that counts."</i>
+<i>"Friendship is one mind in two bodies."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Mencius</b>
 </blockquote>
 </p>
 
