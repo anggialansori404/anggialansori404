@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The self is not something ready-made, but something in continuous formation through choice of action."</i>
+<i>"When the root is strong, the fruit is sweet."</i>
 <br>
-<b>- John Dewey</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
