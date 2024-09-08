@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the root is strong, the fruit is sweet."</i>
+<i>"Each day provides it's own gifts."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
