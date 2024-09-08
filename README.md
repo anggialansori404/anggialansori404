@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before you put on a frown, make absolutely sure there are no smiles available."</i>
+<i>"The ideals which have lighted my way, and time after time have given me new courage to face life cheerfully, have been Kindness, Beauty, and Truth. The trite subjects of human efforts, possessions, outward success, luxury have always seemed to me contemptible."</i>
 <br>
-<b>- James M. Beggs</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
