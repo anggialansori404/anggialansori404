@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you find yourself in a hole, the first thing to do is stop digging."</i>
+<i>"If you chase two rabbits, you catch none."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
