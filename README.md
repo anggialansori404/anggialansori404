@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Relax. Nothing is under control."</i>
+<i>"The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. "</i>
 <br>
-<b>- Adi Da Samraj</b>
+<b>- St. Jerome</b>
 </blockquote>
 </p>
 
