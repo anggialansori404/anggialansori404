@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each day provides it's own gifts."</i>
+<i>"Ignorant men don't know what good they hold in their hands until they've flung it away."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Sophocles</b>
 </blockquote>
 </p>
 
