@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not the knowing that is difficult, but the doing. "</i>
+<i>"Not what we have but what we enjoy constitutes our abundance."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Jean Antoine Petit-Senn</b>
 </blockquote>
 </p>
 
