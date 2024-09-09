@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest mistake you can make in life is to be continually fearing you will make one."</i>
+<i>"If you find yourself in a hole, the first thing to do is stop digging."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
