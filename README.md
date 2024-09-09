@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ignorant men don't know what good they hold in their hands until they've flung it away."</i>
+<i>"The greatest mistake you can make in life is to be continually fearing you will make one."</i>
 <br>
-<b>- Sophocles</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
