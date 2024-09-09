@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good stance and posture reflect a proper state of mind."</i>
+<i>"It is not the knowing that is difficult, but the doing. "</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
