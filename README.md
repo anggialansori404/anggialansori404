@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When it is dark enough, you can see the stars."</i>
+<i>"The only normal people are the ones you don't know very well."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
