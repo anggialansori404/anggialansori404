@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you fell down yesterday, stand up today."</i>
+<i>"Our greatest glory is not in never falling but in rising every time we fall."</i>
 <br>
-<b>- H. G. Wells</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
