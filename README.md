@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict."</i>
+<i>"If you fell down yesterday, stand up today."</i>
 <br>
-<b>- William Ellery Channing</b>
+<b>- H. G. Wells</b>
 </blockquote>
 </p>
 
