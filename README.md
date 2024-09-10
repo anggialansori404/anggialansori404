@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not what we have but what we enjoy constitutes our abundance."</i>
+<i>"You don't look out there for God, something in the sky, you look in you."</i>
 <br>
-<b>- Jean Antoine Petit-Senn</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
