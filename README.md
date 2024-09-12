@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Embrace the life you have and stop wishing that you could be someone else."</i>
+<i>"Nature is pleased with simplicity. And nature is no dummy."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
