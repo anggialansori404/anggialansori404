@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only those who dare to fail greatly can ever achieve greatly."</i>
+<i>"Only when you can be extremely pliable and soft can you be extremely hard and strong."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
