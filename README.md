@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only when you can be extremely pliable and soft can you be extremely hard and strong."</i>
+<i>"Do not think you will necessarily be aware of your own enlightenment."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
