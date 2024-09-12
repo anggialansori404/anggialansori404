@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember that the best relationship is one in which your love for each other exceeds your need for each other."</i>
+<i>"Embrace the life you have and stop wishing that you could be someone else."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
