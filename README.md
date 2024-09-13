@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not think you will necessarily be aware of your own enlightenment."</i>
+<i>"Every moment you get is a gift. Spend it on things that matter. Don't spend it by dwelling on unhappy things."</i>
 <br>
-<b>- Dogen</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
