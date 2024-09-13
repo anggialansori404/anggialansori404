@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best of us sometimes eat our words.  "</i>
+<i>"We cannot expect to be happy always... by experiencing evil as well as good we become wise."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
