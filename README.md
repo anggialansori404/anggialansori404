@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every moment you get is a gift. Spend it on things that matter. Don't spend it by dwelling on unhappy things."</i>
+<i>"Make your stand today. On this spot. On this day."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
