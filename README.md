@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Science can flourish only in an atmosphere of free speech. "</i>
+<i>"Life has no limitations except the ones you make."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
