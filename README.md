@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change your thoughts and you change your world."</i>
+<i>"The danger of an adventure is worth a thousand days of ease and comfort."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
