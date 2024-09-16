@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let your learning lead to knowledge. Let your learning lead to action."</i>
+<i>"Heart is what separates the good from the great."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
