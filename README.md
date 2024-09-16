@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Heart is what separates the good from the great."</i>
+<i>"Science can flourish only in an atmosphere of free speech. "</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
