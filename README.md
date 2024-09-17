@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You may be disappointed if you fail, but you are doomed if you don't try. "</i>
+<i>"I have never let my schooling interfere with my education."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
