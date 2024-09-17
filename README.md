@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have never let my schooling interfere with my education."</i>
+<i>"What one does is what counts. Not what one had the intention of doing."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
