@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing."</i>
+<i>"Stress happens when the mind resists what is."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
