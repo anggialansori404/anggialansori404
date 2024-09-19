@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just try to be the best you can be; never cease trying to be the best you can be. That's in your power."</i>
+<i>"Life is too short to waste your time on people who don't respect, appreciate, and value you."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
