@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want."</i>
+<i>"You cannot always control what goes on outside. But you can always control what goes on inside. "</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
