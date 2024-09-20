@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time you enjoy wasting, was not wasted."</i>
+<i>"Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
