@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A gentleman is one who puts more into the world than he takes out."</i>
+<i>"When you're curious, you find lots of interesting things to do."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
