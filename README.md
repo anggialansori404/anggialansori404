@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Associate with people who are likely to improve you.  "</i>
+<i>"A gentleman is one who puts more into the world than he takes out."</i>
 <br>
-<b>- Seneca</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
