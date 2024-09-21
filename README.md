@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no accidents... there is only some purpose that we haven't yet understood."</i>
+<i>"A lot of people have gone further than they thought they could because someone else thought they could."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
