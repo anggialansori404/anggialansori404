@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep away from people who try to belittle your ambitions."</i>
+<i>"To know your Enemy, you must become your Enemy."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
