@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn from the rejection and turn it into an opportunity!"</i>
+<i>"I like the dreams of the future better than the history of the past."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
