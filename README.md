@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only put off until tomorrow what you are willing to die having left undone."</i>
+<i>"Silence is sometimes the best answer."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
