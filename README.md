@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Silence is sometimes the best answer."</i>
+<i>"Success is about creating value."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Candice Carpenter</b>
 </blockquote>
 </p>
 
