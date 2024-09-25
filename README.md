@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you consider things like the stars, our affairs don't seem to matter very much, do they?"</i>
+<i>"If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
