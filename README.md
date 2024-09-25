@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A single dream is more powerful than a thousand realities."</i>
+<i>"Never be bored, and you will never be boring."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
