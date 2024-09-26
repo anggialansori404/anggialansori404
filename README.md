@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In youth we run into difficulties. In old age difficulties run into us. "</i>
+<i>"A loving heart is the truest wisdom."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
