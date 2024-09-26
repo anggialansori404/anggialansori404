@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be pushed by your problems; be led by your dreams."</i>
+<i>"Make each day a new horizon."</i>
 <br>
-<b>- Unknown</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
