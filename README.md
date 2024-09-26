@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A loving heart is the truest wisdom."</i>
+<i>"Don't be pushed by your problems; be led by your dreams."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
