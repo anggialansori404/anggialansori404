@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The smallest act of kindness is worth more than the greatest intention.  "</i>
+<i>"Your purpose will be clear only when you listen to your heart."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
