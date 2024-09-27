@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make each day a new horizon."</i>
+<i>"Goodness is the only investment that never fails."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
