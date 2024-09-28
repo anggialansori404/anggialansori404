@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One small positive thought can change your whole day."</i>
+<i>"When you can't make them see the light, make them feel the heat."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
