@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go confidently in the direction of your dreams! Live the life you've imagined."</i>
+<i>"Remember we're all in this alone."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
