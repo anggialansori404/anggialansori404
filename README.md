@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The highest level of wisdom is when you not only accept but love adversity."</i>
+<i>"Happiness can be found, even in the darkest of times, if one only remembers to turn on the light."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
