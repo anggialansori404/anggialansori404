@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is the spiritual experience of living every minute with love, grace and gratitude."</i>
+<i>"Behind every cloud is another cloud."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
