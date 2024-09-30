@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An intelligence test sometimes shows a man how smart he would have been not to have taken it."</i>
+<i>"The more you give, the more comes back to you."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
