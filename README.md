@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the practice of tolerance, one's enemy is the best teacher."</i>
+<i>"Unhappiness enters through a door that has been left open."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
