@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey."</i>
+<i>"an action committed in anger is an action doomed to failure. "</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Genghis Khan</b>
 </blockquote>
 </p>
 
