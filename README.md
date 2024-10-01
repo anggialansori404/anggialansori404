@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make failure your teacher, not your undertaker.  "</i>
+<i>"No matter how qualified or deserving we are, we will never reach a better life until we can imagine it for ourselves and allow ourselves to have it."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
