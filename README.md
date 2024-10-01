@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unhappiness enters through a door that has been left open."</i>
+<i>"Do what you feel in your heart to be right - for you'll be criticized anyway."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
