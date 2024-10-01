@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter how qualified or deserving we are, we will never reach a better life until we can imagine it for ourselves and allow ourselves to have it."</i>
+<i>"Hold yourself responsible for a higher standard than anybody else expects of you."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
