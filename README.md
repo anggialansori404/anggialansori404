@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Health is the greatest of all possessions."</i>
+<i>"Make failure your teacher, not your undertaker.  "</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
