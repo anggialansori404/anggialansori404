@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are more people who wish to be loved than there are who are willing to love. "</i>
+<i>"Shoot for the moon, because even if you miss, you'll land among the stars."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
