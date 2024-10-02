@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long."</i>
+<i>"The best time to plant a tree was 20 years ago. The second best time is now."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
