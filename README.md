@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best time to plant a tree was 20 years ago. The second best time is now."</i>
+<i>"Those who cannot change their minds cannot change anything."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
