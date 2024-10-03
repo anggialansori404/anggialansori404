@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Shoot for the moon, because even if you miss, you'll land among the stars."</i>
+<i>"Everything is in your own heart."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
