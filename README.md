@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing that results in human progress is achieved with unanimous consent."</i>
+<i>"To improve is to change, so to be perfect is to change often."</i>
 <br>
-<b>- Christopher Columbus</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
