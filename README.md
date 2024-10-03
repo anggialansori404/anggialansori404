@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're braver than you believe, and stronger than you seem, and smarter than you think."</i>
+<i>"Ideas do not reach perfection in a day, no matter how much study is put upon them."</i>
 <br>
-<b>- A.A. Milne</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
