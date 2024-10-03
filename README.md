@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To improve is to change, so to be perfect is to change often."</i>
+<i>"Go for it now. The future is promised to no one. "</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
