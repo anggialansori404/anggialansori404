@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot teach a crab to walk straight."</i>
+<i>"To every action there is always opposed an equal reaction."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
