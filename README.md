@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Presents are made for the pleasure of who gives them, not the merits of who receives them."</i>
+<i>"You must find the place inside yourself where nothing is impossible."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
