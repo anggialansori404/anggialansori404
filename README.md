@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To every action there is always opposed an equal reaction."</i>
+<i>"Do anything, but let it produce joy."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
