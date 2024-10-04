@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must find the place inside yourself where nothing is impossible."</i>
+<i>"You cannot teach a crab to walk straight."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
