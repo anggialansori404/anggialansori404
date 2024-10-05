@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is merely the name for the desire and pursuit of the whole."</i>
+<i>"Where there is anger, there is always pain underneath."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
