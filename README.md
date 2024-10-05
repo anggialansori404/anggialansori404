@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A Penny Saved is a Penny Earned"</i>
+<i>"Love is merely the name for the desire and pursuit of the whole."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
