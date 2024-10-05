@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The key to success is failure."</i>
+<i>"A Penny Saved is a Penny Earned"</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
