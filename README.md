@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love."</i>
+<i>"Through selfless service, you will always be fruitful and find the fulfillment of your desires."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
