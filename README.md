@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Concentrated power has always been the enemy of liberty."</i>
+<i>"People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
