@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I admire those who do good and expect nothing in return."</i>
+<i>"There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
