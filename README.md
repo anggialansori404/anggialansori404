@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted."</i>
+<i>"You change the world by being yourself."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
