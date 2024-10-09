@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stop being tormented by everyone else's reaction to you."</i>
+<i>"When it hurts - observe. Life is trying to teach you something."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Anita Krizzan</b>
 </blockquote>
 </p>
 
