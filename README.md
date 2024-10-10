@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no mistakes in life, only lessons."</i>
+<i>"You'll see it when you believe it. "</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
