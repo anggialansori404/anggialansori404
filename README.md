@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are far from the enemy, make him believe you are near."</i>
+<i>"He who violates another's honor loses his own."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
