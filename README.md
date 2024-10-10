@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who violates another's honor loses his own."</i>
+<i>"If you're walking down the right path and you're willing to keep walking, eventually you'll make progress."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
