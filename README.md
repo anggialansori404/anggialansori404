@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're walking down the right path and you're willing to keep walking, eventually you'll make progress."</i>
+<i>"Don't let your mind stop you."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
