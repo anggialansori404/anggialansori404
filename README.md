@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry."</i>
+<i>"There is no path to Love. Love is the path."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
