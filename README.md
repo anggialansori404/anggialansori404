@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One always begins to forgive a place as soon as it's left behind."</i>
+<i>"If you can see it in your mind, you can hold it in your mind."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
