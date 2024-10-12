@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you've made a mistake, it's better just to laugh at it."</i>
+<i>"One day, in retrospect, the years of struggle will strike you as the most beautiful."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
