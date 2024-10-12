@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Duty makes us do things well, but love makes us do them beautifully.  "</i>
+<i>"A self that goes on changing is a self that goes on living."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
