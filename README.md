@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Because of your smile, you make life more beautiful."</i>
+<i>"If you've made a mistake, it's better just to laugh at it."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
