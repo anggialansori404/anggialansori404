@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no path to Love. Love is the path."</i>
+<i>"Because of your smile, you make life more beautiful."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
