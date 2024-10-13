@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Loving thoughts and actions are clearly beneficial for our physical and mental health."</i>
+<i>"Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. "</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
