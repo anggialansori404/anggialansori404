@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are most nearly ourselves when we achieve the seriousness of the child at play."</i>
+<i>"We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
