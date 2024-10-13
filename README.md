@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A self that goes on changing is a self that goes on living."</i>
+<i>"Absence makes the heart grow fonder."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
