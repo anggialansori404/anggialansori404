@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take interest and even delight in doing the small things well."</i>
+<i>"A gentleman accepts the responsibility of his actions and bears the burden of their consequences."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
