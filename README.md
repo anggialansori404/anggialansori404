@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do anything, but let it produce joy."</i>
+<i>"Get busy living, or get busy dying."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
