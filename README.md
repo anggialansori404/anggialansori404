@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Things may come to those who wait, but only the things left by those who hustle."</i>
+<i>"If your mind is empty, it is always ready for anything, it is open to everything."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
