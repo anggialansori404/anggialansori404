@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work."</i>
+<i>"A clever person turns great troubles into little ones, and little ones into none at all. "</i>
 <br>
-<b>- John Eliot</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
