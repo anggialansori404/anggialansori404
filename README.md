@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If your mind is empty, it is always ready for anything, it is open to everything."</i>
+<i>"The future is not a gift. It is an achievement."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
