@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is a poor teacher."</i>
+<i>"Zen insists that the whole trouble is just our failure to realize that there is no problem."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
