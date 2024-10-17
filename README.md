@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Zen insists that the whole trouble is just our failure to realize that there is no problem."</i>
+<i>"The future is the worst thing about the present."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Gustave Flaubert</b>
 </blockquote>
 </p>
 
