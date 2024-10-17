@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Character is doing what you don't want to do but know you should do."</i>
+<i>"Success is a poor teacher."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
