@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're afraid - don't do it, - if you're doing it - don't be afraid! "</i>
+<i>"Desire for the fruits of work must never be your motive in working."</i>
 <br>
-<b>- Genghis Khan</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
