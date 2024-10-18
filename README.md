@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We build too many walls and not enough bridges."</i>
+<i>"Definitions belong to the definers, not the defined."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Toni Morrison</b>
 </blockquote>
 </p>
 
