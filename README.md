@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it!"</i>
+<i>"A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
