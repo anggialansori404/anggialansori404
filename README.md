@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The very essence of instinct is that it's followed independently of reason."</i>
+<i>"There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
