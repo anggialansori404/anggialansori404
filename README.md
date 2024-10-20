@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world doesn't always give you want, but it often gives you what you need."</i>
+<i>"Care about what other people think and you will always be their prisoner."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
