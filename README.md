@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were."</i>
+<i>"Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
