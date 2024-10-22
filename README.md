@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't bother people for help without first trying to solve the problem yourself."</i>
+<i>"The people who are crazy enough to think they can change the world are the ones who do."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
