@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are content to be simply yourself and don't compare or compete, everybody will respect you. "</i>
+<i>"FOCUS - Follow One Course Until Successful"</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
