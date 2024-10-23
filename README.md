@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not ignore the passion that burns in you. Spend time to discover your gift."</i>
+<i>"Discipline is the mark of intelligent living."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
