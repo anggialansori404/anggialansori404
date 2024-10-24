@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man becomes rich unless he enriches others."</i>
+<i>"Absorb what is useful, discard what is useless and add what is specifically your own.  "</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
