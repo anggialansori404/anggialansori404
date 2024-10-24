@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Concentrated power has always been the enemy of liberty."</i>
+<i>"To love means loving the unlovable."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
