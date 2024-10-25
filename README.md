@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be royal in your own fashion: act like a king to be treated like one."</i>
+<i>"Nothing has any power over me other than that which I give it through my conscious thoughts."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
