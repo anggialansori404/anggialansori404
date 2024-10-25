@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Focused, hard work is the real key to success."</i>
+<i>"Forever is composed of now's."</i>
 <br>
-<b>- John Carmack</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
