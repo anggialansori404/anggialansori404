@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is just the same as learning to swim. Do not be afraid of making mistakes, for there is no other way of learning how to live!"</i>
+<i>"Vision is the art of seeing things invisible."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
