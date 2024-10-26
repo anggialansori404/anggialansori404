@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Misfortune shows those who are not really friends."</i>
+<i>"The greatest work that kindness does to others is that it makes them kind themselves."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
