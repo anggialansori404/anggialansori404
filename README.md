@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When we think about our strengths, we are strong. When we think about our weaknesses, we are weak."</i>
+<i>"I am not absentminded. It is the presence of mind that makes me unaware of everything else."</i>
 <br>
-<b>- Peter A. Cohen</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
