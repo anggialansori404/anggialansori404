@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even though you are on the right track - you will get run over if you just sit there."</i>
+<i>"Misfortune shows those who are not really friends."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
