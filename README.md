@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change yourself - you are in control."</i>
+<i>"It is in your moments of decision that your destiny is shaped."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
