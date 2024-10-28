@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no path to Peace. Peace is the path."</i>
+<i>"You are not the drop in the ocean, but the ocean in the drop."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
