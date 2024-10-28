@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What are we doing here, that is the question."</i>
+<i>"Today I begin a new life. I will greet this day with love in my heart."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
