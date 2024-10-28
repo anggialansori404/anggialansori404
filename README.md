@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is not final, failure is not fatal: it is the courage to continue that counts."</i>
+<i>"There is no path to Peace. Peace is the path."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
