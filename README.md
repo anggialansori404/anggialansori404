@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment."</i>
+<i>"It is not what we get. But who we become, what we contribute... that gives meaning to our lives."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
