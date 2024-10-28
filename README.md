@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Today I begin a new life. I will greet this day with love in my heart."</i>
+<i>"Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
