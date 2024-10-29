@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be strong. Be confident. Be the star of your own life."</i>
+<i>"The temptation to give up is strongest just before victory."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
