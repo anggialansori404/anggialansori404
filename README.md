@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must learn to let go. Release the stress. You were never in control anyway."</i>
+<i>"Be strong. Be confident. Be the star of your own life."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
