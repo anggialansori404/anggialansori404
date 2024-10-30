@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours. "</i>
+<i>"The only place success comes before work is in the dictionary."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
