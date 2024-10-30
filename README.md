@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The temptation to give up is strongest just before victory."</i>
+<i>"Identify your problems, but give your power and energy to solutions."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
