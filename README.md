@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will."</i>
+<i>"If you don't like something change it; if you can't change it, change the way you think about it."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
