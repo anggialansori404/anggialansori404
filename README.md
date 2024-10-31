@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the most difficult things is not to change society - but to change yourself."</i>
+<i>"As mortals, we're ruled by conditions, not by ourselves."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
