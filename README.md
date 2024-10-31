@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only by acceptance of the past, can you alter it."</i>
+<i>"There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
