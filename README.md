@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't like something change it; if you can't change it, change the way you think about it."</i>
+<i>"Greatest success comes just one step beyond the point at which defeat overtakes you."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
