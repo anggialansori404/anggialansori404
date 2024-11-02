@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go for it now. The future is promised to no one."</i>
+<i>"It is well known that those who do not trust themselves never trust others."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
