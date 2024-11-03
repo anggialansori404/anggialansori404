@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't try to steer the river."</i>
+<i>"If you're not failing every now and again, it's a sign you're not doing anything very innovative."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
