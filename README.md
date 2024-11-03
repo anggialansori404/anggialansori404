@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Educating the mind without educating the heart is no education at all."</i>
+<i>"No matter what happens in life, never lose sight of who you are."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
