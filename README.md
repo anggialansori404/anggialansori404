@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not believe that you will reach your destination without leaving the shore. "</i>
+<i>"It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
