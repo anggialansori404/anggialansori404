@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's what you do in the present that will redeem the past and thereby change the future."</i>
+<i>"Do not believe that you will reach your destination without leaving the shore. "</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
