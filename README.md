@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If fear is too strong, the genius is suppressed."</i>
+<i>"Circumstances rule men; men do not rule circumstances. "</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
