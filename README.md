@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to be successful, you have to jump, there's no way around it."</i>
+<i>"The enemy is a very good teacher."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
