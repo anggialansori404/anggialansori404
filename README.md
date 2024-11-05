@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. "</i>
+<i>"The less people know, the more stubbornly they know it."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
