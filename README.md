@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The less people know, the more stubbornly they know it."</i>
+<i>"Fear not the path of Truth for the lack of People walking on it."</i>
 <br>
-<b>- Osho</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
