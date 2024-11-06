@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who can, does."</i>
+<i>"If you can change your mind, you can change your life."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
