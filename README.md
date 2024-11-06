@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're waiting until you feel talented enough to make it, you'll never make it."</i>
+<i>"Always render more and better service than is expected of you, no matter what your task may be."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
