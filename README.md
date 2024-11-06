@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear not the path of Truth for the lack of People walking on it."</i>
+<i>"He who can, does."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
