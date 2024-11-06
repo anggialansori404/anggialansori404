@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest miracle is to be alive."</i>
+<i>"If you're waiting until you feel talented enough to make it, you'll never make it."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
