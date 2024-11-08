@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Winners never quit and quitters never win."</i>
+<i>"A good stance and posture reflect a proper state of mind."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
