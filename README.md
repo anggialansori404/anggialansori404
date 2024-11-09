@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more one judges, the less one loves."</i>
+<i>"The meaning of life is that it stops."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
