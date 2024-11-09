@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mistakes are always forgivable, if one has the courage to admit them. "</i>
+<i>"The more one judges, the less one loves."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
