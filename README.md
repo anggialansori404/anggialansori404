@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunities multiply as they are seized."</i>
+<i>"Mistakes are always forgivable, if one has the courage to admit them. "</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
