@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The meaning of life is that it stops."</i>
+<i>"Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
