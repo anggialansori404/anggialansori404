@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become."</i>
+<i>"Opportunity comes when you continually push forward."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Sonia Ricotti</b>
 </blockquote>
 </p>
 
