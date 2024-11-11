@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is not how high you have climbed, but how you make a positive difference to the world."</i>
+<i>"It matters not what someone is born, but what they grow to be."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
