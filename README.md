@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our life is what our thoughts make it. A man will find that as he alters his thoughts toward things and other people, things and other people will alter towards him."</i>
+<i>"Happiness is the spiritual experience of living every minute with love, grace and gratitude."</i>
 <br>
-<b>- James Allen</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
