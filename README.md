@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The traveler sees what he sees. The tourist sees what he has come to see."</i>
+<i>"Failure is just information and an opportunity to change your course."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
