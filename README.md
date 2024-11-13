@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A strong man overcomes an obstacle, a wise man goes the whole way."</i>
+<i>"When it comes to mastering a skill, time is the magic ingredient."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
