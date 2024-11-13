@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have to live life with a sense of urgency so not a minute is wasted."</i>
+<i>"A strong man overcomes an obstacle, a wise man goes the whole way."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
