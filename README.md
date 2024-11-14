@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are lucky enough to find love, remember it is there and don't throw it away."</i>
+<i>"All power is from within and therefore under our control."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
