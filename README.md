@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Know yourself and you will win all battles."</i>
+<i>"If you are lucky enough to find love, remember it is there and don't throw it away."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
