@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The hardest arithmetic to master is that which enables us to count our blessings."</i>
+<i>"He who cannot be a good follower cannot be a good leader."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
