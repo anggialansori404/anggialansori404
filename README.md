@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Giving back involves a certain amount of giving up."</i>
+<i>"Don't let the behavior of others destroy your inner peace."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
