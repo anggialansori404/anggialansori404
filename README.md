@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is really work unless you would rather be doing something else. "</i>
+<i>"Those who attain the middle Dominate the whole."</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
