@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe."</i>
+<i>"Our joy does not have to be based on our circumstances."</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
