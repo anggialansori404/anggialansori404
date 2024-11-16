@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In matters of style, swim with the current; in matters of principle, stand like a rock."</i>
+<i>"If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Nikola Tesla</b>
 </blockquote>
 </p>
 
