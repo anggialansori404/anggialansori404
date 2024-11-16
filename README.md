@@ -28,7 +28,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do you want to know who you are? Don't ask. Act! Action will delineate and define you."</i>
+<i>"In matters of style, swim with the current; in matters of principle, stand like a rock."</i>
 <br>
 <b>- Thomas Jefferson</b>
 </blockquote>
