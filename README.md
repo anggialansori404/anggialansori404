@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility."</i>
+<i>"You are not the drop in the ocean, but the ocean in the drop."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
