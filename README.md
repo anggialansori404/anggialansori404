@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The fastest way to change is to laugh at your own folly."</i>
+<i>"All has not been said and never will be."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
