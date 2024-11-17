@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only time you run out of chances is when you stop taking them."</i>
+<i>"Everything starts with a dream. A particle of our imagination that teases us of what the future could be like, as long as we fight for it."</i>
 <br>
-<b>- Unknown</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
