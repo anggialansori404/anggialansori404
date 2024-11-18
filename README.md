@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pen is the tongue of the mind. "</i>
+<i>"Time goes from present to past."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
