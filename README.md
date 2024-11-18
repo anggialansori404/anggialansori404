@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must cultivate our garden. "</i>
+<i>"Respect was invented to cover the empty place where love should be."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
