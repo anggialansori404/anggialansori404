@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot swim for new horizons until you have courage to lose sight of the shore."</i>
+<i>"The pen is the tongue of the mind. "</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
