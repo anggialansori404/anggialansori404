@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest gift that you can give to others is the gift of unconditional love and acceptance. "</i>
+<i>"Turn your face to the sun, as flowers know how to do."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
