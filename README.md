@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Short cuts make long delays."</i>
+<i>"A golden cage is still just a cage."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Anita Krizzan</b>
 </blockquote>
 </p>
 
