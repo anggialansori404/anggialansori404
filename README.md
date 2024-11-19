@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where you are right now doesn't have to determine where you'll end up."</i>
+<i>"If we are not able to smile, then the world will not have peace."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
