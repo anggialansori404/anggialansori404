@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man is affected not by events but by the view he takes of them.  "</i>
+<i>"Observe things as they are and don't pay attention to other people."</i>
 <br>
-<b>- Seneca</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
