@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Observe things as they are and don't pay attention to other people."</i>
+<i>"You will not do incredible things without an incredible dream."</i>
 <br>
-<b>- Huang Po</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
