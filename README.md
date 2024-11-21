@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more we have the less we own."</i>
+<i>"Keep your eyes on the stars, but remember to keep your feet on the ground."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
