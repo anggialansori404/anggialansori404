@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It doesn't matter what you do, only how well you do it."</i>
+<i>"Mistakes are always forgivable, if one has the courage to admit them. "</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
