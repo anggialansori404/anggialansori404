@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The moment you stop to think about whether you love someone, you've already stopped loving that person forever."</i>
+<i>"Life is growth. If we stop growing, technically and spiritually, we are as good as dead."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
