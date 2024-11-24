@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you repeat a mistake, it is not a mistake anymore: it is a decision."</i>
+<i>"There's no scarcity of opportunity to make a living at what you love. There is only a scarcity of resolve to make it happen."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
