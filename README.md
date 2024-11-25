@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing."</i>
+<i>"It is the greatest of all mistakes to do nothing because you can only do little; do something."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Sydney Smith</b>
 </blockquote>
 </p>
 
