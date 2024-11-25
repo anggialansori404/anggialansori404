@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can either add to our character each day, or we can fritter away our energies in distractions."</i>
+<i>"A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
