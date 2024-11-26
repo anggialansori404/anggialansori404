@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change yourself and you have done your part in changing the world."</i>
+<i>"A needle is not sharp at both ends. "</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
