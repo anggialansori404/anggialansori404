@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy."</i>
+<i>"Change yourself and you have done your part in changing the world."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
