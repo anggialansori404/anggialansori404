@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Instead of worrying about what you cannot control, shift your energy to what you can create."</i>
+<i>"I know of only one duty, and that is to love."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
