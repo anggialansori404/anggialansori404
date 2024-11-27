@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you."</i>
+<i>"The way to get started is to quit talking and begin doing."</i>
 <br>
-<b>- Sonia Ricotti</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
