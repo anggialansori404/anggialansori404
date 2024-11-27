@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no limitations to the mind except those we acknowledge..."</i>
+<i>"Either you choose to stay in the shallow end of the pool or you go out into the ocean."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
