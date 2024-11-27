@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Either you choose to stay in the shallow end of the pool or you go out into the ocean."</i>
+<i>"Make peace within, and there will be no one who can overcome you. And no one you will wish to overcome."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
