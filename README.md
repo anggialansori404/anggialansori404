@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To perceive is to suffer."</i>
+<i>"There are no limitations to the mind except those we acknowledge..."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
