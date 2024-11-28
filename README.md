@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most important battle is one to conquer yourself."</i>
+<i>"A man who dares to waste one hour of time has not discovered the value of life."</i>
 <br>
-<b>- Yanni</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
