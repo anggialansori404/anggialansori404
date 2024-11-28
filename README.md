@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man gotta right to decide his own destiny."</i>
+<i>"You are the average of the five people you spend the most time with."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
