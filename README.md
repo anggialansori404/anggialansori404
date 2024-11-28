@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Bloom where you are planted!"</i>
+<i>"People who bite the hand that feeds them usually lick the boot that kicks them."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
