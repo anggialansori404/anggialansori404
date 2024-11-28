@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly."</i>
+<i>"Every man gotta right to decide his own destiny."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
