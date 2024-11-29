@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't go forward and backwards at the same time."</i>
+<i>"Just do the best you can. No one can do more than that."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
