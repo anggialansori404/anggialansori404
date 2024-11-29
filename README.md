@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You play the hand you're dealt. I think the game's worthwhile.  "</i>
+<i>"You can't go forward and backwards at the same time."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
