@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Difficult and meaningful will always bring more satisfaction than easy and meaningless."</i>
+<i>"You play the hand you're dealt. I think the game's worthwhile.  "</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
