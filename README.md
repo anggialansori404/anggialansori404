@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All you need is the plan, the road map, and the courage to press on to your destination."</i>
+<i>"There is no sadder sight than a young pessimist."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
