@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't bother people for help without first trying to solve the problem yourself."</i>
+<i>"The secret of change is to focus all your energy not on fighting the old, but on building the new."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
