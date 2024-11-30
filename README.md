@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you're at the end of your rope, tie a knot and hold on."</i>
+<i>"All you need is the plan, the road map, and the courage to press on to your destination."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
