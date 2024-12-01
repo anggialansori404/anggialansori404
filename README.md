@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enlightenment is intimacy with all things."</i>
+<i>"Do what you can, with what you have, where you are."</i>
 <br>
-<b>- Dogen</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
