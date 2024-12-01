@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even in the grave, all is not lost."</i>
+<i>"Enlightenment is intimacy with all things."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
