@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reality is the leading cause of stress among those in touch with it."</i>
+<i>"The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. "</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- St. Jerome</b>
 </blockquote>
 </p>
 
