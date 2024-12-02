@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never give way to laziness."</i>
+<i>"Walk with those seeking truth... RUN FROM THOSE WHO THINK THEY'VE FOUND IT."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
