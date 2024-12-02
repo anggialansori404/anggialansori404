@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Walk with those seeking truth... RUN FROM THOSE WHO THINK THEY'VE FOUND IT."</i>
+<i>"It is the greatest of all mistakes to do nothing because you can only do little; do something."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Sydney Smith</b>
 </blockquote>
 </p>
 
