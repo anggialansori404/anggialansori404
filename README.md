@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What the eye doesn't see and the mind doesn't know, doesn't exist."</i>
+<i>"Better to live until you die."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
