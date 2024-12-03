@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It does not matter how slowly you go so long as you do not stop."</i>
+<i>"There are no mistakes in life, only lessons."</i>
 <br>
-<b>- Confucius</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
