@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no mistakes in life, only lessons."</i>
+<i>"Create each day anew."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
