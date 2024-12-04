@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose."</i>
+<i>"Only those who dare to fail greatly can ever achieve greatly."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
