@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In youth we run into difficulties. In old age difficulties run into us. "</i>
+<i>"It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
