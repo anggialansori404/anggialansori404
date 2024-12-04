@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed."</i>
+<i>"If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Nikola Tesla</b>
 </blockquote>
 </p>
 
