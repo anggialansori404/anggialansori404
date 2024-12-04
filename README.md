@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only those who dare to fail greatly can ever achieve greatly."</i>
+<i>"Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
