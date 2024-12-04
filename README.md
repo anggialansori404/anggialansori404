@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't get in life what you want; you get in life what you are."</i>
+<i>"Life is a series of choices and all we can do is make them."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
