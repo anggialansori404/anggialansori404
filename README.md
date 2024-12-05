@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Awakening is possible only for those who seek it and want it."</i>
+<i>"Quality is not an act, it is a habit."</i>
 <br>
-<b>- G.I. Gurdjieff</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
