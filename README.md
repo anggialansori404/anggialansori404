@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is merely the name for the desire and pursuit of the whole."</i>
+<i>"When you judge another, you do not define them, you define yourself"</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
