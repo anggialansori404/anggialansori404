@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quality is not an act, it is a habit."</i>
+<i>"Optimism, when applied to your life, develops strength and peace within you."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
