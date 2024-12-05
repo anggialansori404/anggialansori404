@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Optimism, when applied to your life, develops strength and peace within you."</i>
+<i>"Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- John D. Rockefeller</b>
 </blockquote>
 </p>
 
