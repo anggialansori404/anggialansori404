@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People do not decide their futures, they decide their habits and their habits decide their futures."</i>
+<i>"The more you praise and celebrate your life, the more there is in life to celebrate. "</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
