@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding."</i>
+<i>"People do not decide their futures, they decide their habits and their habits decide their futures."</i>
 <br>
-<b>- John D. Rockefeller</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
