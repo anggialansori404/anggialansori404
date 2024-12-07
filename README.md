@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't spend major time on minor things."</i>
+<i>"The merit of all things lies in their difficulty."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
