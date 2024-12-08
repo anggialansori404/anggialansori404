@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I was wise enough to never grow up while fooling most people into believing I had. "</i>
+<i>"Elegance does not consist in putting on a new dress."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
