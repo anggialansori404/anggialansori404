@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of happiness is not in doing what you like but in liking what you have to do."</i>
+<i>"The idea of ourselves is our escape from the fact of what we really are."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
