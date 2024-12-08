@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do it with passion, or not at all."</i>
+<i>"I was wise enough to never grow up while fooling most people into believing I had. "</i>
 <br>
-<b>- Rosa Nouchette Carey</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
