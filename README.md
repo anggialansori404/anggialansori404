@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you need inspiration, don't do it."</i>
+<i>"When the root is strong, the fruit is sweet."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
