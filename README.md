@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who knows best knows how little he knows."</i>
+<i>"We can either add to our character each day, or we can fritter away our energies in distractions."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
