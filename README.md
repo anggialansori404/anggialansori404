@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not the knowing that is difficult, but the doing. "</i>
+<i>"If you need inspiration, don't do it."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
