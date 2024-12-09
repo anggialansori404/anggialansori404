@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can either add to our character each day, or we can fritter away our energies in distractions."</i>
+<i>"Courage is resistance to fear, mastery of fear - not absence of fear."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
