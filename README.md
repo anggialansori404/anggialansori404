@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A hero is an ordinary person doing things in an extra ordinary way."</i>
+<i>"It is not the knowing that is difficult, but the doing. "</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
