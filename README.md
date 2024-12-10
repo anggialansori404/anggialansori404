@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success does not consist in never making mistakes but in never making the same one a second time."</i>
+<i>"No need to hurry. No need to sparkle. No need to be anybody but oneself."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
