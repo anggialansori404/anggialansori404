@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the root is strong, the fruit is sweet."</i>
+<i>"If you are patient in one moment of anger, you will escape a hundred days of sorrow. "</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
