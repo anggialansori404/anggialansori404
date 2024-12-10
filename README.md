@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A day without laughter is a day wasted."</i>
+<i>"It is best to begin at the beginning."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
