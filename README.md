@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Either you choose to stay in the shallow end of the pool or you go out into the ocean."</i>
+<i>"I am who I am today because of the choices I made yesterday."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
