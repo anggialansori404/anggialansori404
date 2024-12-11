@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The number one cause of failure is the fear of failure."</i>
+<i>"Successful people tend to become more successful because they are always thinking about their successes."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
