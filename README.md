@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only lost cause is one we give up on before we enter the struggle."</i>
+<i>"Happiness is only real, when shared."</i>
 <br>
-<b>- Vaclav Havel</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
