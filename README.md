@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anything becomes interesting if you look at it long enough.."</i>
+<i>"None of us can change our yesterdays but all of us can change our tomorrows."</i>
 <br>
-<b>- Gustave Flaubert</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
