@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The Truth is realized in an instant; the Act is practiced step by step."</i>
+<i>"Always do your best. What you plant now, you will harvest later."</i>
 <br>
-<b>- Seungsahn</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
