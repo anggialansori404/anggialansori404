@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We take care of the future best by taking care of the present now."</i>
+<i>"Anything becomes interesting if you look at it long enough.."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Gustave Flaubert</b>
 </blockquote>
 </p>
 
