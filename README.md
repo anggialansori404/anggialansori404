@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always do your best. What you plant now, you will harvest later."</i>
+<i>"We take care of the future best by taking care of the present now."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
