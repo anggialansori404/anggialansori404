@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Would you rather live your life according to the approval of others or aligned with your truth and your dreams?"</i>
+<i>"When one door closes another door opens. "</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
