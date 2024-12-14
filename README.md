@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"None of us can change our yesterdays but all of us can change our tomorrows."</i>
+<i>"A single act of kindness throws out roots in all directions, and the roots spring up and make new trees."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
