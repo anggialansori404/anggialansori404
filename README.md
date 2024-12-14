@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A single act of kindness throws out roots in all directions, and the roots spring up and make new trees."</i>
+<i>"No one can confidently say that he will still be living tomorrow."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
