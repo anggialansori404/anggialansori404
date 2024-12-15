@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Riches don't make a man rich, they only make him busier."</i>
+<i>"Life is about choice. You can choose to be a victim or anything else you like to be."</i>
 <br>
-<b>- Christopher Columbus</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
