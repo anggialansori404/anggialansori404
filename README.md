@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I would rather be a little nobody, then to be an evil somebody."</i>
+<i>"A man sooner or later discovers that he is the master-gardener of his soul, the director of his life."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
