@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The meaning of life is to find your gift. The purpose of life is to give it away."</i>
+<i>"Your work is to discover your work and then, with all your heart, to give yourself to it."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
