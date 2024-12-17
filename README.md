@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you move beyond your fear, you feel free."</i>
+<i>"Others can stop you temporarily - you are the only one who can do it permanently."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
