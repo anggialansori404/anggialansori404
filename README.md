@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One's best success comes after their greatest disappointments."</i>
+<i>"When you move beyond your fear, you feel free."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
