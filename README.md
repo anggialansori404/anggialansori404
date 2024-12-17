@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people do what unsuccessful people are not willing to do."</i>
+<i>"Forgive yourself for your faults and your mistakes and move on."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
