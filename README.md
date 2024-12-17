@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The measure of wisdom is how calm you are when facing any given situation."</i>
+<i>"The merit of all things lies in their difficulty."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
