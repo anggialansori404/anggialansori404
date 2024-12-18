@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good entrepreneurs don't fail because they stay at it."</i>
+<i>"Don't let the silly little dramas of each day get you down. For you are here to do great things."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
