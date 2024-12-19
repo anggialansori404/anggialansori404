@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A Penny Saved is a Penny Earned"</i>
+<i>"A little progress each day adds up to big results."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
