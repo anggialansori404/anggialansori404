@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Inspire yourself to be great. Being good isn't good enough."</i>
+<i>"Happiness depends on your mindset and attitude."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
