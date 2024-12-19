@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given."</i>
+<i>"To improve is to change, so to be perfect is to change often."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
