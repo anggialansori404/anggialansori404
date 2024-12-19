@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I skate to where the puck is going to be, not where it has been."</i>
+<i>"A Penny Saved is a Penny Earned"</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
