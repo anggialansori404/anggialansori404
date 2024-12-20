@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If the only prayer you ever say in your entire life is thank you, it will be enough."</i>
+<i>"It's possible in ways both large or small to make a difference in someone's life."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
