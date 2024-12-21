@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest gift that you can give to others is the gift of unconditional love and acceptance. "</i>
+<i>"Discipline is the mark of intelligent living."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
