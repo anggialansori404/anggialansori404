@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most creative act you will ever undertake is the act of creating yourself."</i>
+<i>"The greatest gift that you can give to others is the gift of unconditional love and acceptance. "</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
