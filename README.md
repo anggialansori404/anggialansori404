@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All men are equal before fish."</i>
+<i>"Do what is right, not what is easy, nor what is popular."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
