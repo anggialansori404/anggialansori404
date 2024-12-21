@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's possible in ways both large or small to make a difference in someone's life."</i>
+<i>"All men are equal before fish."</i>
 <br>
-<b>- Yanni</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
