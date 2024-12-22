@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never say never, because limits, like fears, are often just an illusion."</i>
+<i>"Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
