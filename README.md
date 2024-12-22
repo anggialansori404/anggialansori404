@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Poverty and hardship are created by false thinking."</i>
+<i>"The purpose of life is the life of purpose."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
