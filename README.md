@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I cannot do great things. I can do small things in a great way."</i>
+<i>"Listen to what you know instead of what you fear."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
