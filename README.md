@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The purpose of life is the life of purpose."</i>
+<i>"If I cannot do great things. I can do small things in a great way."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
