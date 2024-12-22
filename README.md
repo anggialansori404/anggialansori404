@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more knowledge you have, the more you're free to rely on your instincts."</i>
+<i>"Never say never, because limits, like fears, are often just an illusion."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
