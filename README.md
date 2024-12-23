@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a constant series of opportunities."</i>
+<i>"The act of taking the first step is what separates the winners from the losers."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
