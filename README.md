@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only limits in our life are those we impose on ourselves."</i>
+<i>"He that can have patience can have what he will."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
