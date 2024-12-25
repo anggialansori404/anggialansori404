@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are going to achieve excellence in big things, you develop the habit in little matters."</i>
+<i>"Success is never final, failure is never fatal. It's courage that counts."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
