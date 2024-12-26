@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Science can flourish only in an atmosphere of free speech. "</i>
+<i>"The roots of education are bitter, but the fruit is sweet."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
