@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is dangerous to be right in matters on which the established authorities are wrong."</i>
+<i>"You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Anita Krizzan</b>
 </blockquote>
 </p>
 
