@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not look upon this world with fear and loathing. Bravely face whatever the gods offer."</i>
+<i>"If you read a lot of books, you're considered well-read. But if you watch a lot of TV, you're not considered well-viewed."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
