@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do your duty and a little more and the future will take care of itself."</i>
+<i>"Do not look upon this world with fear and loathing. Bravely face whatever the gods offer."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
