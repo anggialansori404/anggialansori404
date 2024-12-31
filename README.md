@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"While some of us act without thinking, too many of us think without acting."</i>
+<i>"Muddy water is best cleared by leaving it alone."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
