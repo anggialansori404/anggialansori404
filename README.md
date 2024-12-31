@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never trust he who trusts everyone."</i>
+<i>"Most of the evil in this world is done by people with good intentions."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
