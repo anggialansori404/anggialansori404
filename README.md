@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most of the evil in this world is done by people with good intentions."</i>
+<i>"While some of us act without thinking, too many of us think without acting."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
