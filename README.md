@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must live in the present, launch yourself on every wave, find your eternity in each moment. Fools stand on their island of opportunities and look toward another land. There is no other land; there is no other life but this."</i>
+<i>"None of us can change our yesterdays but all of us can change our tomorrows."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
