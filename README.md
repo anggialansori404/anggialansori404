@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you truly love Nature, you will find beauty everywhere. "</i>
+<i>"Life is love and love is life."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
