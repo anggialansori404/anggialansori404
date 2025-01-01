@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man who dares to waste one hour of time has not discovered the value of life."</i>
+<i>"Take time like the river that never grows stale. Keep going and steady. No hurry, no rush."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
