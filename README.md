@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take away love and our earth is a tomb."</i>
+<i>"Excellence is not an exception, it is a prevailing attitude."</i>
 <br>
-<b>- Robert Browning</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
