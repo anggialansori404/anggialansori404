@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to predict the future is to create it."</i>
+<i>"Wisdom is doing now what you are going to be happy with later on."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
