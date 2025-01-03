@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are what you do, not what you say you'll do."</i>
+<i>"The best way to predict the future is to create it."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
