@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change."</i>
+<i>"Never let your memories be greater than your dreams."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Doug Ivester</b>
 </blockquote>
 </p>
 
