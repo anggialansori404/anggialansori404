@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have lost friends, some by death...others by sheer inability to cross the street."</i>
+<i>"In the midst of movement and chaos, keep stillness inside of you."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
