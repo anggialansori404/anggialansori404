@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the midst of movement and chaos, keep stillness inside of you."</i>
+<i>"He that can have patience can have what he will."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
