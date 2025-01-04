@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom is doing now what you are going to be happy with later on."</i>
+<i>"If you have only one smile in you give it to the people you love."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
