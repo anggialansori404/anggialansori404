@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing can bring you peace but yourself."</i>
+<i>"A leader is one who knows the way, goes the way, and shows the way."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
