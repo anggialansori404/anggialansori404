@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Heart is what separates the good from the great."</i>
+<i>"Only the educated are free."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
