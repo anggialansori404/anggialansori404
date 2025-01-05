@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you."</i>
+<i>"A man is but a product of his thoughts. What he thinks he becomes."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
