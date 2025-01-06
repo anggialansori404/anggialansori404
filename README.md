@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing has more strength than dire necessity."</i>
+<i>"We know nothing of tomorrow, our business is to be good and happy today."</i>
 <br>
-<b>- Euripides</b>
+<b>- Sydney Smith</b>
 </blockquote>
 </p>
 
