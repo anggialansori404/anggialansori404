@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are not the drop in the ocean, but the ocean in the drop."</i>
+<i>"There are no mistakes in life, only lessons."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
