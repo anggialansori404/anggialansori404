@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life belongs to the living, and he who lives must be prepared for changes."</i>
+<i>"Go for it now. The future is promised to no one. "</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
