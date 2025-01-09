@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go for it now. The future is promised to no one. "</i>
+<i>"A life without a cause is a life without effect."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
