@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Duty makes us do things well, but love makes us do them beautifully.  "</i>
+<i>"Do not follow the ideas of others, but learn to listen to the voice within yourself."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
