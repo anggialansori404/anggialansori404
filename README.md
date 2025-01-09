@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it."</i>
+<i>"We've got to live, no matter how many skies have fallen."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
