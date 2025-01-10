@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace of mind is that mental condition in which you have accepted the worst."</i>
+<i>"Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
