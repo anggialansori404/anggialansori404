@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Maybe you are searching among the branches, for what only appears in the roots."</i>
+<i>"Weeds are flowers too, once you get to know them."</i>
 <br>
-<b>- Rumi</b>
+<b>- A.A. Milne</b>
 </blockquote>
 </p>
 
