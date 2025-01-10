@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound."</i>
+<i>"Everything you've ever wanted is on the other side of fear."</i>
 <br>
-<b>- James Allen</b>
+<b>- George Addair</b>
 </blockquote>
 </p>
 
