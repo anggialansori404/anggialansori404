@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Who wishes to fight must first count the cost."</i>
+<i>"If you see yourself as prosperous, you will be."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
