@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people ask better questions, and as a result, they get better answers."</i>
+<i>"You may delay, but time will not."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
