@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wisest men follow their own direction."</i>
+<i>"Who wishes to fight must first count the cost."</i>
 <br>
-<b>- Euripides</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
