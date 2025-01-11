@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never allow a person to tell you no who doesn't have the power to say yes."</i>
+<i>"The quality of your commitments will determine the course of your life."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
