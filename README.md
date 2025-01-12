@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Little minds have little worries, big minds have no time for worries."</i>
+<i>"A moving door hinge never corrodes. Flowing water never grows stagnant."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
