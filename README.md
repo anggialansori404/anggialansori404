@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better to die fighting for freedom than be a prisoner all the days of your life."</i>
+<i>"It's always to soon to quit!"</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
