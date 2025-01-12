@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you see yourself as prosperous, you will be."</i>
+<i>"Don't change your mind just because people are offended; change your mind if you're wrong."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
