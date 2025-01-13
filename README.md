@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything eaten is killed. Every meal is a sacrifice."</i>
+<i>"Honor is the foundation of courage."</i>
 <br>
-<b>- Adi Da Samraj</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
