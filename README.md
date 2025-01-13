@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Maybe you are searching among the branches, for what only appears in the roots."</i>
+<i>"Realize deeply that the present moment is all you ever have. "</i>
 <br>
-<b>- Rumi</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
