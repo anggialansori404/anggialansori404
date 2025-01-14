@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ripe fruit falls by itself - but it doesn't fall in your mouth. "</i>
+<i>"Don't give up on your dreams, or your dreams will give up on you."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
