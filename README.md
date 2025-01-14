@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't give up on your dreams, or your dreams will give up on you."</i>
+<i>"Life is essentially an endless series of problems. The solution to one problem is merely the creation of another."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
