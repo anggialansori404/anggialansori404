@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is essentially an endless series of problems. The solution to one problem is merely the creation of another."</i>
+<i>"Find the game where you can win, and then commit your life to playing it; and play to win."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
