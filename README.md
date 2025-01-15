@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A fall into a ditch makes you wiser."</i>
+<i>"I know of only one duty, and that is to love."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
