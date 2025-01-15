@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for."</i>
+<i>"A fall into a ditch makes you wiser."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
