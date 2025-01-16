@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life itself is the most wonderful fairy tale."</i>
+<i>"If I can stop one heart from breaking, I shall not live in vain."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
