@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Leaders think and talk about solutions. Followers think and talk about the problems."</i>
+<i>"Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
