@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I can stop one heart from breaking, I shall not live in vain."</i>
+<i>"Changing minds is harder than finding people who already agree."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
