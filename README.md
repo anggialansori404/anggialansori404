@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday."</i>
+<i>"Leaders think and talk about solutions. Followers think and talk about the problems."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
