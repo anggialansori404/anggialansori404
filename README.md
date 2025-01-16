@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff."</i>
+<i>"Life itself is the most wonderful fairy tale."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
