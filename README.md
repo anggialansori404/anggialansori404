@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to predict your future is to create it."</i>
+<i>"Mastering others is strength, mastering yourself is true power."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
