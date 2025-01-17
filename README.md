@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mastering others is strength, mastering yourself is true power."</i>
+<i>"Night is a more quiet time to work. It aids thought."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
