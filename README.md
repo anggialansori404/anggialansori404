@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To become what you are not, behave as you do not."</i>
+<i>"Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
