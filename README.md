@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never spend your money before you have earned it."</i>
+<i>"It is your attitude, not your aptitude, that determines your altitude."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
