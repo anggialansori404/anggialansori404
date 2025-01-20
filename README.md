@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Treat every moment as your last. It is not preparation for something else."</i>
+<i>"It is our choices that show what we truly are, far more than our abilities."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
