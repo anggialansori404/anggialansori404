@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better to live until you die."</i>
+<i>"Prefer to be defeated in the presence of the wise than to excel among fools."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
