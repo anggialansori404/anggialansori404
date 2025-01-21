@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are like islands in the sea, separate on the surface but connected in the deep."</i>
+<i>"Focused, hard work is the real key to success."</i>
 <br>
-<b>- William James</b>
+<b>- John Carmack</b>
 </blockquote>
 </p>
 
