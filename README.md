@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Prefer to be defeated in the presence of the wise than to excel among fools."</i>
+<i>"Through discipline comes freedom."</i>
 <br>
-<b>- Dogen</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
