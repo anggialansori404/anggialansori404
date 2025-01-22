@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Through discipline comes freedom."</i>
+<i>"Life is a constant series of opportunities."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
