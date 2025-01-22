@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future will be shaped by those willing to commit their minds and their bodies to the task."</i>
+<i>"You know you are on the road to success if you would do your job and not be paid for it."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
