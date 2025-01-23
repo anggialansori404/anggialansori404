@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A Quitter never wins - and - a Winner never quits."</i>
+<i>"Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
