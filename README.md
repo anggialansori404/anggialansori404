@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power."</i>
+<i>"Once you choose hope, anything's possible."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
