@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The outer conditions of a person's life will always be found to reflect their inner beliefs."</i>
+<i>"Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment."</i>
 <br>
-<b>- James Allen</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
