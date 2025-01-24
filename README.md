@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Character is destiny."</i>
+<i>"I was angered, for I had no shoes. Then I met a man who had no feet. "</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
