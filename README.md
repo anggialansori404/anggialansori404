@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let your mind stop you."</i>
+<i>"Tall oaks grow from little acorns."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
