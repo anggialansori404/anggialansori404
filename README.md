@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tall oaks grow from little acorns."</i>
+<i>"The most important battle is one to conquer yourself."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
