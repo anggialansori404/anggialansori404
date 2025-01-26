@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most important battle is one to conquer yourself."</i>
+<i>"Winners never quit and quitters never win."</i>
 <br>
-<b>- Yanni</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
