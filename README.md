@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot swim for new horizons until you have courage to lose sight of the shore."</i>
+<i>"An ounce of performance is worth pounds of promises."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
