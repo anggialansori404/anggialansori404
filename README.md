@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An ounce of performance is worth pounds of promises."</i>
+<i>"The degree of responsibility you take for your life determines how much change you can create in it."</i>
 <br>
-<b>- Mae West</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
