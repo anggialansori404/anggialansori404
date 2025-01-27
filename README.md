@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing others is wisdom, knowing yourself is enlightenment."</i>
+<i>"To become what you are not, behave as you do not."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
