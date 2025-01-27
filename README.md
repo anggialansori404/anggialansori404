@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The degree of responsibility you take for your life determines how much change you can create in it."</i>
+<i>"All wealth is the product of labor."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
