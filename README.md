@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friends ask you questions; enemies question you."</i>
+<i>"A self that goes on changing is a self that goes on living."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
