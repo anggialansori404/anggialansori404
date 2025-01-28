@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To accomplish big things, I am convinced you must first dream big dreams."</i>
+<i>"We may not be able to stop evil in the world, but how we treat one another is entirely up to us."</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
