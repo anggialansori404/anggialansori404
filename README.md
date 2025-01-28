@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Action is the foundational key to all success."</i>
+<i>"Discipline yourself, and others won't need to."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
