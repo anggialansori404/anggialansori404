@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man must use what he has, not hope for what is not."</i>
+<i>"Human behavior flows from three main sources: desire, emotion, and knowledge."</i>
 <br>
-<b>- G.I. Gurdjieff</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
