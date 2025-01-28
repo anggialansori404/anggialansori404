@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We may not be able to stop evil in the world, but how we treat one another is entirely up to us."</i>
+<i>"You are not the drop in the ocean, but the ocean in the drop."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
