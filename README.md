@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As a matter of fact is an expression that precedes many an expression that isn't."</i>
+<i>"There is peace even in the storm."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
