@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wise learn many things from their enemies."</i>
+<i>"Once a decision was made, I didn't worry about it afterward."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
