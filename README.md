@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do."</i>
+<i>"As a matter of fact is an expression that precedes many an expression that isn't."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
