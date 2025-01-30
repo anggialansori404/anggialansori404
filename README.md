@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams."</i>
+<i>"Life is the dancer and you are the dance."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
