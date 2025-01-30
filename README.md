@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is the dancer and you are the dance."</i>
+<i>"A leader leads by example, not by force."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
