@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is well known that those who do not trust themselves never trust others."</i>
+<i>"Anything you may hold firmly in your imagination can be yours."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
