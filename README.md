@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A leader leads by example, not by force."</i>
+<i>"It is well known that those who do not trust themselves never trust others."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
