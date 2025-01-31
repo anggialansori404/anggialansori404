@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Integrity is the ability to stand by an idea."</i>
+<i>"I can live without money, but I cannot live without love."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
