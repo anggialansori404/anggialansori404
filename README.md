@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anything you may hold firmly in your imagination can be yours."</i>
+<i>"Integrity is the ability to stand by an idea."</i>
 <br>
-<b>- William James</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
