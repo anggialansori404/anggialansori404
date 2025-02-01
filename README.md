@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just do the best you can. No one can do more than that."</i>
+<i>"When you stop questioning, you stop learning."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
