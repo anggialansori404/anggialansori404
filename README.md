@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I will not walk backward in life."</i>
+<i>"Those who realize their folly are not true fools."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
