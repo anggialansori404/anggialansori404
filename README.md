@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who realize their folly are not true fools."</i>
+<i>"Attitude is a little thing that makes a big difference."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
