@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The universe doesn't allow perfection."</i>
+<i>"I will not walk backward in life."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
