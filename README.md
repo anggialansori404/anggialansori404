@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Attitude is a little thing that makes a big difference."</i>
+<i>"What loneliness is more lonely than distrust?"</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
