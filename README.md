@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly."</i>
+<i>"Failure is the highway to success."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
