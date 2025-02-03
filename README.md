@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When it comes to mastering a skill, time is the magic ingredient."</i>
+<i>"Do what you feel in your heart to be right - for you'll be criticized anyway."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
