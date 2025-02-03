@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only by attracting the best people will you accomplish great deeds."</i>
+<i>"We have a choice everyday regarding the attitude we will embrace for that day."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Charles Swindoll</b>
 </blockquote>
 </p>
 
