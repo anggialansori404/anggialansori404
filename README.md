@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have a choice everyday regarding the attitude we will embrace for that day."</i>
+<i>"Muddy water is best cleared by leaving it alone."</i>
 <br>
-<b>- Charles Swindoll</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
