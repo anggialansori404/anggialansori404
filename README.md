@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Through selfless service, you will always be fruitful and find the fulfillment of your desires."</i>
+<i>"If I can stop one heart from breaking, I shall not live in vain."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
