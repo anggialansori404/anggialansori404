@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best fighter is never angry."</i>
+<i>"People become attached to their burdens sometimes more than the burdens are attached to them."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
