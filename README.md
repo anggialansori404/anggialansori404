@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Far more crucial than what we know or do not know is what we do not want to know."</i>
+<i>"You can, you should, and if you're brave enough to start, you will."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
