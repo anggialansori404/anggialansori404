@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The divine is not something high above us. It is in heaven, it is in earth, it is inside us."</i>
+<i>"Sometimes things become possible if we want them bad enough."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
