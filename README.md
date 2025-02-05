@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where words fail, music speaks."</i>
+<i>"The meaning of life is that it stops."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
