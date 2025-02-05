@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The meaning of life is that it stops."</i>
+<i>"Be curious, not judgmental."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
