@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid to go slowly. Be afraid of stopping."</i>
+<i>"In order for you to be the BEST you can be for others, first you must be BEST for yourself."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Jeffrey Gitomer</b>
 </blockquote>
 </p>
 
