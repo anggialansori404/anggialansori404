@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is literally true that you can succeed best and quickest by helping others succeed."</i>
+<i>"Be the silent watcher of your thoughts and behavior. You are beneath the thinker."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
