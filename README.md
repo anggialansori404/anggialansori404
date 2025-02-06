@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is the offspring of silence and meditation."</i>
+<i>"A good system shortens the road to the goal. "</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Orison Swett Marden</b>
 </blockquote>
 </p>
 
