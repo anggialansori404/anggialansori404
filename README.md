@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In order for you to be the BEST you can be for others, first you must be BEST for yourself."</i>
+<i>"Out of your vulnerabilities will come your strength."</i>
 <br>
-<b>- Jeffrey Gitomer</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
