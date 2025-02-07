@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Freeing oneself from words is liberation. "</i>
+<i>"A flower falls, even though we love it; and a weed grows, even though we do not love it."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
