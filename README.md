@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is just information and an opportunity to change your course."</i>
+<i>"If you don't like something, change it. If you can't change it, change your attitude."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
