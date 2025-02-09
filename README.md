@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All animals except man know that the principal business of life is to enjoy it."</i>
+<i>"To be truly ignorant, be content with your own knowledge."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
