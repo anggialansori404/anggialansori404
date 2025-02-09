@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't build a reputation on what you are going to do. "</i>
+<i>"Don't set your own goals by what other people make important."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
