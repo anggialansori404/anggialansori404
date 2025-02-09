@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be truly ignorant, be content with your own knowledge."</i>
+<i>"Originality is the fine art of remembering what you hear but forgetting where you heard it. "</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
