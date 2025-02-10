@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the world pushes you to your knees, you're in the perfect position to pray."</i>
+<i>"The only place success comes before work is in the dictionary."</i>
 <br>
-<b>- Rumi</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
