@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be angry is to revenge the faults of others on ourselves."</i>
+<i>"When you judge another, you do not define them, you define yourself"</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
