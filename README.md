@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men do not attract which they want but that which they are."</i>
+<i>"When the world pushes you to your knees, you're in the perfect position to pray."</i>
 <br>
-<b>- James Allen</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
