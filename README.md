@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you judge another, you do not define them, you define yourself"</i>
+<i>"Winning isn't everything, but wanting to win is."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
