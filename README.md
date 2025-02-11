@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't bother people for help without first trying to solve the problem yourself."</i>
+<i>"Happiness is the meaning and the purpose of life, the whole aim and end of human existence."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
