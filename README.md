@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He will win who knows when to fight and when not to fight."</i>
+<i>"An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
