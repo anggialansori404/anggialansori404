@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let making a living prevent you from making a life."</i>
+<i>"The source of a true smile is an awakened mind."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
