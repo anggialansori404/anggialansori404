@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The source of a true smile is an awakened mind."</i>
+<i>"The world doesn't owe you anything. It was here first."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
