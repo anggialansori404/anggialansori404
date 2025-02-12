@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind."</i>
+<i>"Don't let making a living prevent you from making a life."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
