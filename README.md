@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your only limitations are those you set up in your mind or permit others to set up for you."</i>
+<i>"Ask no questions, and you'll be told no lies."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
