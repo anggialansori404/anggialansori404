@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. "</i>
+<i>"Curiosity is the most powerful thing you own."</i>
 <br>
-<b>- Charles Swindoll</b>
+<b>- James Cameron</b>
 </blockquote>
 </p>
 
