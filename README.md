@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Expect the best, plan for the worst, and prepare to be surprised. "</i>
+<i>"We must create our own world or we will die from inaction."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
