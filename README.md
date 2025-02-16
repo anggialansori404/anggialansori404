@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Like it or not, this moment is all we really have to work with."</i>
+<i>"Out of your vulnerabilities will come your strength."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
