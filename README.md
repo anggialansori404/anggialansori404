@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice."</i>
+<i>"Like it or not, this moment is all we really have to work with."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
