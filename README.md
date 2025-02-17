@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated."</i>
+<i>"Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
