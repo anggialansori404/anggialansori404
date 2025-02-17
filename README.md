@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do one thing every day that scares you."</i>
+<i>"It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
