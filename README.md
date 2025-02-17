@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the midst of movement and chaos, keep stillness inside of you."</i>
+<i>"Do one thing every day that scares you."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
