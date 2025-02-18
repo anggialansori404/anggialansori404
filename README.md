@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't break your ropes while you're alive, do you think ghosts will do it after?"</i>
+<i>"There is no absolute success in the world, only constant progress."</i>
 <br>
-<b>- Kabir</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
