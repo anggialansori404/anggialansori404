@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A day wasted on others is not wasted on one's self."</i>
+<i>"Awakening is possible only for those who seek it and want it."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- G.I. Gurdjieff</b>
 </blockquote>
 </p>
 
