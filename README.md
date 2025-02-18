@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Awakening is possible only for those who seek it and want it."</i>
+<i>"A good stance and posture reflect a proper state of mind."</i>
 <br>
-<b>- G.I. Gurdjieff</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
