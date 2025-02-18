@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good stance and posture reflect a proper state of mind."</i>
+<i>"Every man gotta right to decide his own destiny."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
