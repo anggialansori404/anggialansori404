@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you have to be in a soap opera try not to be cast in the worst role."</i>
+<i>"It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.  "</i>
 <br>
-<b>- Judy Garland</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
