@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Educating the mind without educating the heart is no education at all."</i>
+<i>"Never let your memories be greater than your dreams."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Doug Ivester</b>
 </blockquote>
 </p>
 
