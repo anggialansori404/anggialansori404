@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no absolute success in the world, only constant progress."</i>
+<i>"I believe that potential is unlimited - success depends on daring to act on dreams.   "</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
