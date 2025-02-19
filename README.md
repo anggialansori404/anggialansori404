@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never let your memories be greater than your dreams."</i>
+<i>"Turn off your mind, relax, and float downstream."</i>
 <br>
-<b>- Doug Ivester</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
