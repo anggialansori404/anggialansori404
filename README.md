@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is growth. If we stop growing, technically and spiritually, we are as good as dead."</i>
+<i>"Smell the cheese often so you know when it is getting old."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
