@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all like the bright moon, we still have our darker side.  "</i>
+<i>"The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
