@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge."</i>
+<i>"You may think I'm small, but I have a universe inside my mind."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
