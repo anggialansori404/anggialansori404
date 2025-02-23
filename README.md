@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not use life to give life to death. Do not use death to bring death to life."</i>
+<i>"Without the rain there would be no rainbow."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
