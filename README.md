@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The eye with which I see God is the same eye with which God sees me."</i>
+<i>"If you run you stand a chance of losing, but if you don't run you've already lost."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
