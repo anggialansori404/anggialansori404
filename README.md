@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you run you stand a chance of losing, but if you don't run you've already lost."</i>
+<i>"It's not the men in your life that matters, it's the life in your men."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
