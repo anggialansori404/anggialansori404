@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you practiced for the day, then you have won. If you were lazy for the day, then you have lost."</i>
+<i>"It ain't where you start in life, it's where you end up, and what you did along the way."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
