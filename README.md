@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't listen to the person who has the answers; listen to the person who has the questions."</i>
+<i>"If you practiced for the day, then you have won. If you were lazy for the day, then you have lost."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
