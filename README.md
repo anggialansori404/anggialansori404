@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even when you think you have your life all mapped out, things happen that shape your destiny in ways you might never have imagined."</i>
+<i>"In nature there is no alienation. Everything belongs."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
