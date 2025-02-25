@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thought is so cunning, so clever, that it distorts everything for its own convenience."</i>
+<i>"If light is in your heart, you will find your way home.  "</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
