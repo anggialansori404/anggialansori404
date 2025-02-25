@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you become is far more important than what you get."</i>
+<i>"People should pursue what they're passionate about. That will make them happier than pretty much anything else."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
