@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In nature there is no alienation. Everything belongs."</i>
+<i>"What you become is far more important than what you get."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
