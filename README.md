@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's just a bad day, not a bad life."</i>
+<i>"You cannot have a positive life and a negative mind."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
