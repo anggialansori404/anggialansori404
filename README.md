@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment."</i>
+<i>"It's just a bad day, not a bad life."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
