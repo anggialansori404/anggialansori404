@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever."</i>
+<i>"Do what is right, not what is easy, nor what is popular."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
