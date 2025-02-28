@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you believe with feeling becomes your reality. "</i>
+<i>"Most people fail in life because they major in minor things."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
