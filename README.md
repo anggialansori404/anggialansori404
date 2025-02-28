@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the greatest of all mistakes to do nothing because you can only do little; do something."</i>
+<i>"In the beginner's mind there are many possibilities, but in the expert's mind there are few."</i>
 <br>
-<b>- Sydney Smith</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
