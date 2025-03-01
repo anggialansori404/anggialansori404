@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who bring sunshine into the lives of others cannot keep it from themselves."</i>
+<i>"You are the only problem you will ever have and you are the only solution."</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
