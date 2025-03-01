@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness cannot be traveled to, owned, earned, worn or consumed."</i>
+<i>"The people who are crazy enough to think they can change the world are the ones who do."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
