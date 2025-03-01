@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not what you pay a man, but what he costs you that counts."</i>
+<i>"Whatever you are, be a good one."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
