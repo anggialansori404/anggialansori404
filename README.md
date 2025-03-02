@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are the only problem you will ever have and you are the only solution."</i>
+<i>"The power of man has grown in every sphere, except over himself."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
