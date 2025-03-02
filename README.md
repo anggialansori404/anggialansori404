@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"From morning till night, we should never rely on a single thing."</i>
+<i>"Luck is a matter of preparation meeting opportunity."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
