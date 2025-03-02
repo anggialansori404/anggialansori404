@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The power of man has grown in every sphere, except over himself."</i>
+<i>"From morning till night, we should never rely on a single thing."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
