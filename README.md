@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Luck is a matter of preparation meeting opportunity."</i>
+<i>"Rudeness is the weak man's imitation of strength."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
