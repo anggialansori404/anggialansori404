@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rudeness is the weak man's imitation of strength."</i>
+<i>"It's not how much money you make, it's how much money you keep."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
