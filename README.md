@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Repetition does not transform a lie into a truth."</i>
+<i>"Pleasure can be supported by an illusion; but happiness rests upon truth. "</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
