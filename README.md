@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Pleasure can be supported by an illusion; but happiness rests upon truth. "</i>
+<i>"Inspire yourself to be great. Being good isn't good enough."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
