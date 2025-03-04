@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A strong man overcomes an obstacle, a wise man goes the whole way."</i>
+<i>"Never feel shame for trying and failing, for he who has never failed is he who has never tried."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
