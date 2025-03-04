@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all in the gutter, but some of us are looking at the stars. "</i>
+<i>"An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
