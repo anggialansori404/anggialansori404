@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a balance of holding on and letting go."</i>
+<i>"Always try to be a little kinder than necessary."</i>
 <br>
-<b>- Rumi</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
