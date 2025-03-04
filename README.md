@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Passion is energy. Feel the power that comes from focusing on what excites you. "</i>
+<i>"Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
