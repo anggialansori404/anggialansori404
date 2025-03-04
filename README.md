@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never feel shame for trying and failing, for he who has never failed is he who has never tried."</i>
+<i>"Life is a balance of holding on and letting go."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
