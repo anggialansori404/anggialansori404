@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our stories may be singular, but our destination is shared."</i>
+<i>"I want the fishing rod, not the fish."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
