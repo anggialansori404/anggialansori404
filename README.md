@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always try to be a little kinder than necessary."</i>
+<i>"Our stories may be singular, but our destination is shared."</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
