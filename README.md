@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I want the fishing rod, not the fish."</i>
+<i>"Judge a man by his questions rather than his answers."</i>
 <br>
-<b>- Yanni</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
