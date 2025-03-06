@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Try all things, hold fast that which is good."</i>
+<i>"Guilt is perhaps the most painful companion of death."</i>
 <br>
-<b>- John Locke</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
