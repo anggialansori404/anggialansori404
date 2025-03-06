@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In order to attain the impossible, one must attempt the absurd."</i>
+<i>"At the center of your being you have the answer; you know who you are and you know what you want."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
