@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't make someone feel good about themselves until you feel good about yourself."</i>
+<i>"The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
