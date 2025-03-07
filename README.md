@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let the fear of losing be greater than the excitement of winning."</i>
+<i>"You can't make someone feel good about themselves until you feel good about yourself."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
