@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is your attitude, not your aptitude, that determines your altitude."</i>
+<i>"Don't let the fear of losing be greater than the excitement of winning."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
