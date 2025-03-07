@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be."</i>
+<i>"Fear of death is fear of the Unknown."</i>
 <br>
-<b>- Yanni</b>
+<b>- Adi Da Samraj</b>
 </blockquote>
 </p>
 
