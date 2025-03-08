@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach."</i>
+<i>"If you've never eaten while crying you don t know what life tastes like."</i>
 <br>
-<b>- Benjamin Mays</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
