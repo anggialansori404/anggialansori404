@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe you can and you will be halfway there."</i>
+<i>"Adults are just children who earn money."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Kenneth Branagh</b>
 </blockquote>
 </p>
 
