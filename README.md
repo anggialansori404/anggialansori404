@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Adults are just children who earn money."</i>
+<i>"To be able to forget means sanity."</i>
 <br>
-<b>- Kenneth Branagh</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
