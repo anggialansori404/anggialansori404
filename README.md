@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be able to forget means sanity."</i>
+<i>"One must be deeply aware of the impermanence of the world."</i>
 <br>
-<b>- Jack London</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
