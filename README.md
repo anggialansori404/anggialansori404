@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream."</i>
+<i>"If you can see it in your mind, you can hold it in your mind."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
