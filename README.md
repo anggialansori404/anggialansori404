@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can see it in your mind, you can hold it in your mind."</i>
+<i>"Better the cottage where one is merry than the palace where one weeps."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
