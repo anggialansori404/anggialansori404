@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Persistence is very important. You should not give up unless you are forced to give up."</i>
+<i>"Words, once they are printed, have a life of their own."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
