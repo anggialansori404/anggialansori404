@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words, once they are printed, have a life of their own."</i>
+<i>"Where words fail, music speaks."</i>
 <br>
-<b>- Carol Burnett</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
