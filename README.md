@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What would life be if we had no courage to attempt anything? "</i>
+<i>"There are two kinds of perfect people: those who are dead, and those who have not been born yet."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
