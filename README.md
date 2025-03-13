@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All life is an experiment. The more experiments you make, the better."</i>
+<i>"The wise accomplish all that they want without arousing the envy or scorn of others."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
