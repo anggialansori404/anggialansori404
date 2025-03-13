@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are two kinds of perfect people: those who are dead, and those who have not been born yet."</i>
+<i>"Character is doing what you don't want to do but know you should do."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
