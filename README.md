@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems."</i>
+<i>"A good teacher opens the door for you, but you must enter the room by yourself."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
