@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is growth. If we stop growing, technically and spiritually, we are as good as dead."</i>
+<i>"Opportunity comes when you continually push forward."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Sonia Ricotti</b>
 </blockquote>
 </p>
 
