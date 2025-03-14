@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good teacher opens the door for you, but you must enter the room by yourself."</i>
+<i>"The attempt to escape from pain, is what creates more pain."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Gabor Mate</b>
 </blockquote>
 </p>
 
