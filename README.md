@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not the knowing that is difficult, but the doing. "</i>
+<i>"Don't just sit there. Do something. The answers will follow."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
