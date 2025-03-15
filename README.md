@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throughout this life, you can never be certain of living long enough to take another breath."</i>
+<i>"Pleasure is always derived from something outside you, whereas joy arises from within. "</i>
 <br>
-<b>- Huang Po</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
