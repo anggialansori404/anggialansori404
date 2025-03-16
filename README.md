@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love doesn't need reason. It speaks from the irrational wisdom of the heart."</i>
+<i>"In matters of style, swim with the current; in matters of principle, stand like a rock."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
