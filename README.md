@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I will not walk backward in life."</i>
+<i>"It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
