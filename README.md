@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. "</i>
+<i>"The biggest room in the world is the room for improvement."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
