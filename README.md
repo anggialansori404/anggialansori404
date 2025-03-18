@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It still holds true that man is most uniquely human when he turns obstacles into opportunities."</i>
+<i>"Success is not the result of making money; making money is the result of success - and success is in direct proportion to our service."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
