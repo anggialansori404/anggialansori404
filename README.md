@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of happiness is not in doing what you like but in liking what you have to do."</i>
+<i>"When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.  "</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
