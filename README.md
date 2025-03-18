@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is fear that has said its prayers and decided to go forward anyway."</i>
+<i>"One beam, no matter how big, cannot support an entire house on its own."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
