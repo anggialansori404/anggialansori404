@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone wants to go to Heaven, but no one wants to die."</i>
+<i>"Every defeat, every heartbreak every loss, contains its own seed, its own lesson on how to improve your performance the next time."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
