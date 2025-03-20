@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life. "</i>
+<i>"Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
