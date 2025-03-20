@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ability to hold two competing thoughts in one's mind and still be able to function is the mark of a superior mind."</i>
+<i>"Be who you are and say what you feel because those who mind don't matter and those who matter don't mind."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
