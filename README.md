@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you have a dream, you've got to grab it and never let go."</i>
+<i>"To arrive at the simplest truth requires years of contemplation."</i>
 <br>
-<b>- Carol Burnett</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
