@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why live an ordinary life, when you can live an extraordinary one."</i>
+<i>"Everything that is done in the world is done by hope."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
