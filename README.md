@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. "</i>
+<i>"One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
