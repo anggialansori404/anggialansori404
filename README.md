@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There's more to life than being a passenger."</i>
+<i>"One must be poor to know the luxury of giving."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
