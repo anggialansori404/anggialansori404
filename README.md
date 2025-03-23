@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a series of choices and all we can do is make them."</i>
+<i>"Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. "</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
