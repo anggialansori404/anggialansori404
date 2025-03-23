@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured."</i>
+<i>"Life is a series of choices and all we can do is make them."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
