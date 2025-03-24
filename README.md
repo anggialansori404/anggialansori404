@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One must be poor to know the luxury of giving."</i>
+<i>"If you've never eaten while crying you don t know what life tastes like."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
