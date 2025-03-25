@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a constant series of opportunities."</i>
+<i>"What keeps life fascinating is the constant creativity of the soul."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
