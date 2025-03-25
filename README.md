@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Appear weak when you are strong, and strong when you are weak."</i>
+<i>"The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
