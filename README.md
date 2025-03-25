@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What keeps life fascinating is the constant creativity of the soul."</i>
+<i>"It is never too late to be what you might have been."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
