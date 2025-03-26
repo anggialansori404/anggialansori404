@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is never too late to be what you might have been."</i>
+<i>"The businessman's tool is value."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
