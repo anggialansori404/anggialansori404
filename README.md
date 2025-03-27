@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you put water into a cup, it becomes the cup."</i>
+<i>"Life is a series of choices and all we can do is make them."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
