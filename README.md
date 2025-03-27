@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a series of choices and all we can do is make them."</i>
+<i>"Growth comes at the point of resistance."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
