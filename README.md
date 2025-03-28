@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men are disturbed not by things, but by the view which they take of them."</i>
+<i>"Every saint has a past, and every sinner has a future."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
