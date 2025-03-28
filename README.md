@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is the greatest friend."</i>
+<i>"Men are disturbed not by things, but by the view which they take of them."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
