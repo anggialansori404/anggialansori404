@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Growth comes at the point of resistance."</i>
+<i>"Confidence is the greatest friend."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
