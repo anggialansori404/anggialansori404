@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Admire as much as you can. Most people do not admire enough."</i>
+<i>"By seeking and blundering we learn."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
