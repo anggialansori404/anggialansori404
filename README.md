@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is little success where there is little laughter."</i>
+<i>"There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
