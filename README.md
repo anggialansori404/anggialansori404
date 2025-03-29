@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return."</i>
+<i>"When you're at the end of your rope, tie a knot and hold on."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
