@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No valid plans for the future can be made by those who have no capacity for living now."</i>
+<i>"Keep your face always toward the sunshine -  shadows will fall behind you."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
