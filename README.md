@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to keep your memories, you first have to live them."</i>
+<i>"We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
