@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves."</i>
+<i>"You have the potential for greatness."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
