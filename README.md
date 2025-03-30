@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams are the touchstones of our characters."</i>
+<i>"If you want to keep your memories, you first have to live them."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
