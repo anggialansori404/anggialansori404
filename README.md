@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Death walks faster than the wind and never returns what he has taken."</i>
+<i>"The highest form of ignorance is when you reject something you don't know anything about. "</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
