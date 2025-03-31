@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Either write something worth reading or do something worth writing."</i>
+<i>"To forgive means pardoning the unpardonable."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
