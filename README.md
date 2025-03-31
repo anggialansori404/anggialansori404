@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The highest form of ignorance is when you reject something you don't know anything about. "</i>
+<i>"You must find the place inside yourself where nothing is impossible."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
