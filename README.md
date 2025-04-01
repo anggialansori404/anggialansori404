@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One never does wrong by doing right."</i>
+<i>"The universe doesn't allow perfection."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
