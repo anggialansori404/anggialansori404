@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way."</i>
+<i>"No matter what happens, always be yourself."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
