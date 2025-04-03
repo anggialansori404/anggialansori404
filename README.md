@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor."</i>
+<i>"It's easy to be a critic, but being a doer requires effort, risk, and change.  "</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
