@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man is affected not by events but by the view he takes of them.  "</i>
+<i>"Force has no place where there is need of skill. "</i>
 <br>
-<b>- Seneca</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
