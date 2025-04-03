@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The hard path is often the right one. The river teaches more than the shore."</i>
+<i>"Real growth comes through intense, difficult, and challenging situations."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
