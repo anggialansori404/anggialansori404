@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your worth consists in what you are and not in what you have."</i>
+<i>"Vision is the art of seeing things invisible."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
