@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good judgment comes from experience, and experience comes from bad judgment."</i>
+<i>"Your worth consists in what you are and not in what you have."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
