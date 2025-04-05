@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The thing about smart people is that they seem like crazy people to dumb people."</i>
+<i>"A very little key will open a very heavy door."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
