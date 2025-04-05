@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are never too old to set another goal or to dream a new dream."</i>
+<i>"Quality is not an act, it is a habit."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
