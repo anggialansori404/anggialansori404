@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Without the rain there would be no rainbow."</i>
+<i>"I have never in my life learned anything from any man who agreed with me."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Dudley Field Malone</b>
 </blockquote>
 </p>
 
