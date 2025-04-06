@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have never in my life learned anything from any man who agreed with me."</i>
+<i>"Don't just sit there. Do something. The answers will follow."</i>
 <br>
-<b>- Dudley Field Malone</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
