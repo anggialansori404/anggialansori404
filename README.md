@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't just sit there. Do something. The answers will follow."</i>
+<i>"Inspire yourself to be great. Being good isn't good enough."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
