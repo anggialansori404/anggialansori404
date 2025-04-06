@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who knows, does not speak. He who speaks, does not know."</i>
+<i>"Nothing external to you has any power over you."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
