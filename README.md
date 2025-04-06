@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Inspire yourself to be great. Being good isn't good enough."</i>
+<i>"You're never too old for anything."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
