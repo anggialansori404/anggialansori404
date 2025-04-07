@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat."</i>
+<i>"If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
