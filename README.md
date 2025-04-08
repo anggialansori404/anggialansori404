@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your purpose will be clear only when you listen to your heart."</i>
+<i>"To love means loving the unlovable."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
