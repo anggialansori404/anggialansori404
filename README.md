@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let them drag you down by rumors. Just go with what you believe in."</i>
+<i>"Creativity is intelligence having fun."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
