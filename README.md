@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return."</i>
+<i>"Don't let them drag you down by rumors. Just go with what you believe in."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
