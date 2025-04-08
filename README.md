@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To love means loving the unlovable."</i>
+<i>"There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
