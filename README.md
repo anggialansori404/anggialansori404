@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I don't pretend to know everything; I just only speak on matters I know I'll win."</i>
+<i>"Looking after my health today gives me a better hope for tomorrow. "</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Anne Wilson Schaef</b>
 </blockquote>
 </p>
 
