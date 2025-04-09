@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life has the name of life, but in reality it is death."</i>
+<i>"Constantly think about how you could be doing things better."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
