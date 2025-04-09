@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Kind words can be short and easy to speak, but their echoes are truly endless."</i>
+<i>"Life has the name of life, but in reality it is death."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
