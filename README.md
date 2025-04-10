@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time."</i>
+<i>"To forgive means pardoning the unpardonable."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
