@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To forgive means pardoning the unpardonable."</i>
+<i>"No grand idea was ever born in a conference, but a lot of foolish ideas have died there."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
