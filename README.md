@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind."</i>
+<i>"Instead of worrying about what you cannot control, shift your energy to what you can create."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
