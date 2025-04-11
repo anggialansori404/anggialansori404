@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most of the important things in the world have been accompanied by people who have kept on trying when there seemed to be no hope at all."</i>
+<i>"We must be free not because we claim freedom, but because we practice it."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
