@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All men who have achieved great things have been great dreamers. "</i>
+<i>"You may think I'm small, but I have a universe inside my mind."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
