@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Treat everyone with politeness and kindness, not because they are nice, but because you are."</i>
+<i>"Don't shortchange yourself when it comes to investing in your own better future."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
