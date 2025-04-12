@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you tell the truth, you don't have to remember anything."</i>
+<i>"Treat everyone with politeness and kindness, not because they are nice, but because you are."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
