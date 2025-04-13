@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make your life a mission - not an intermission."</i>
+<i>"Some of your greatest lessons come from your darkest moments."</i>
 <br>
-<b>- Unknown</b>
+<b>- Roger Lee</b>
 </blockquote>
 </p>
 
