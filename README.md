@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people spend more time and energy going around problems than in trying to solve them. "</i>
+<i>"The ability to observe without evaluating is the highest form of intelligence."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
