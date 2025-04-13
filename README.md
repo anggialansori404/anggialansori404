@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some of your greatest lessons come from your darkest moments."</i>
+<i>"Most people spend more time and energy going around problems than in trying to solve them. "</i>
 <br>
-<b>- Roger Lee</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
