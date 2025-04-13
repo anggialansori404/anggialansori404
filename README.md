@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're only given a little spark of madness. You mustn't lose it."</i>
+<i>"Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life. "</i>
 <br>
-<b>- Robin Williams</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
