@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life. "</i>
+<i>"Make your life a mission - not an intermission."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
