@@ -28,7 +28,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people dream of success, while others wake up and work hard at it."</i>
+<i>"A goal is a dream with a deadline."</i>
 <br>
 <b>- Napoleon Hill</b>
 </blockquote>
