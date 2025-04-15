@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You know you are on the road to success if you would do your job and not be paid for it."</i>
+<i>"By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
