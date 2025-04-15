@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For all evils there are two remedies - time and silence."</i>
+<i>"Learning never exhausts the mind. "</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
