@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learning never exhausts the mind. "</i>
+<i>"There is a difference between giving directions and giving direction."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
