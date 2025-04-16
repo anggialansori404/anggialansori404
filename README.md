@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even if you're sure you can win, be careful that you can live with what you lose."</i>
+<i>"The less you respond to negative people, the more positive your life will become."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
