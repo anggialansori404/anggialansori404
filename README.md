@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never put off to tomorrow what you can do to-day."</i>
+<i>"Even if you're sure you can win, be careful that you can live with what you lose."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
