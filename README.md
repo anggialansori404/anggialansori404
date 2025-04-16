@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is a difference between giving directions and giving direction."</i>
+<i>"It is those who concentrate on but one thing at a time who advance in this world."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
