@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is more real than nothing."</i>
+<i>"Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
