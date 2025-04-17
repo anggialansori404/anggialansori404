@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How you think when you lose determines how long it will be until you win."</i>
+<i>"Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
