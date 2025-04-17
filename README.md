@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The less you respond to negative people, the more positive your life will become."</i>
+<i>"Walk slowly but never walk backward."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
