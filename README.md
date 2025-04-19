@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The divine is not something high above us. It is in heaven, it is in earth, it is inside us."</i>
+<i>"You may be disappointed if you fail, but you are doomed if you don't try. "</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
