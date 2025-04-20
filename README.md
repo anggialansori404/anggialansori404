@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do Something. If it works, do more of it. If it doesn't, do something else."</i>
+<i>"We live only now. Everything else is either passed or is unknown."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
