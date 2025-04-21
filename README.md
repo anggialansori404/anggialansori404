@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our joy does not have to be based on our circumstances."</i>
+<i>"Fear, uncertainty, and discomfort are your compasses toward growth."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
