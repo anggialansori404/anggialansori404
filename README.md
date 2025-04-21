@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't stumble over something that's behind you."</i>
+<i>"It is in your moments of decision that your destiny is shaped."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
