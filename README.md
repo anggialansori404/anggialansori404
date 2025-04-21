@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Progress is impossible without change, and those who cannot change their minds cannot change anything."</i>
+<i>"Our joy does not have to be based on our circumstances."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
