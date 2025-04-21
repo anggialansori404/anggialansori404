@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't have to control your thoughts; you just have to stop letting them control you."</i>
+<i>"He who has overcome his fears will truly be free."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
