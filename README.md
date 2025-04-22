@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One never does wrong by doing right."</i>
+<i>"The happiest people in the world are those who feel absolutely terrific about themselves."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
