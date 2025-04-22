@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A Rolling Stone Gathers No Moss."</i>
+<i>"One never does wrong by doing right."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
