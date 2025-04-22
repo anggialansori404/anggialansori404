@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The happiest people in the world are those who feel absolutely terrific about themselves."</i>
+<i>"There are few reasons for telling the truth, but for lying the number is infinite."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
