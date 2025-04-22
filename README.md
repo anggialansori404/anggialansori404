@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who has overcome his fears will truly be free."</i>
+<i>"You are now, and you do become, what you think about."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
