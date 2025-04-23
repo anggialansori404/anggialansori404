@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your heart is full of fertile seeds, waiting to sprout."</i>
+<i>"It's your life-but only if you make it so."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
