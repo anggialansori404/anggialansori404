@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win."</i>
+<i>"Management is doing things right; leadership is doing the right things."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
