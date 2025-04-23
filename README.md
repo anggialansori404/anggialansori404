@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Management is doing things right; leadership is doing the right things."</i>
+<i>"Your heart is full of fertile seeds, waiting to sprout."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
