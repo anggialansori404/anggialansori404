@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we did all the things we are capable of, we would literally astound ourselves."</i>
+<i>"Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
