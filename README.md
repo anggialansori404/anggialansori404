@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learning never exhausts the mind. "</i>
+<i>"A man is but a product of his thoughts. What he thinks he becomes."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
