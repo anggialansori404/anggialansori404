@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is but a product of his thoughts. What he thinks he becomes."</i>
+<i>"One must be deeply aware of the impermanence of the world."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
