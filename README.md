@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are what you believe in. You become that which you believe you can become."</i>
+<i>"If you don't have time to do it right, when will you have time to do it over?"</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
