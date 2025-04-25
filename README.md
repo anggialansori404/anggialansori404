@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present."</i>
+<i>"Learning never exhausts the mind. "</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
