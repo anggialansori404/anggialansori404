@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The harder the conflict, the greater the triumph. "</i>
+<i>"You are what you believe in. You become that which you believe you can become."</i>
 <br>
-<b>- George Washington</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
