@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The harder the conflict, the greater the triumph. "</i>
+<i>"Change yourself - you are in control."</i>
 <br>
-<b>- George Washington</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
