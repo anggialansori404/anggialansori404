@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our stories may be singular, but our destination is shared."</i>
+<i>"Hope means hoping when everything seems hopeless."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
