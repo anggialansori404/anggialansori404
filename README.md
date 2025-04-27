@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything you've ever wanted is on the other side of fear."</i>
+<i>"Why live an ordinary life, when you can live an extraordinary one."</i>
 <br>
-<b>- George Addair</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
