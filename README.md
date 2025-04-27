@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When we have our body and mind in order, everything else will exist in the right place, in the right way."</i>
+<i>"Make your stand today. On this spot. On this day."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
