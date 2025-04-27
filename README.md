@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from."</i>
+<i>"When we have our body and mind in order, everything else will exist in the right place, in the right way."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
