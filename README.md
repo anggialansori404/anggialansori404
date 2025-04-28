@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world is a puzzle; no need to make sense out of it."</i>
+<i>"When a man is penalized for honesty he learns to lie."</i>
 <br>
-<b>- Socrates</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
