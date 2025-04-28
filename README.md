@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your worth consists in what you are and not in what you have."</i>
+<i>"Everything eaten is killed. Every meal is a sacrifice."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Adi Da Samraj</b>
 </blockquote>
 </p>
 
