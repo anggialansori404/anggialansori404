@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When a man is penalized for honesty he learns to lie."</i>
+<i>"All life is an experiment. The more experiments you make, the better."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
