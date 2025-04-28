@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are like islands in the sea, separate on the surface but connected in the deep."</i>
+<i>"The world is a puzzle; no need to make sense out of it."</i>
 <br>
-<b>- William James</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
