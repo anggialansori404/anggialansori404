@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All life is an experiment. The more experiments you make, the better."</i>
+<i>"We need a backbone, not a wishbone."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
