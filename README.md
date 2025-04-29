@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Less is more."</i>
+<i>"I know not all that may be coming, but be it what it will, I'll go to it laughing."</i>
 <br>
-<b>- Robert Browning</b>
+<b>- Herman Melville</b>
 </blockquote>
 </p>
 
