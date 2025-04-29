@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I know not all that may be coming, but be it what it will, I'll go to it laughing."</i>
+<i>"The future is the worst thing about the present."</i>
 <br>
-<b>- Herman Melville</b>
+<b>- Gustave Flaubert</b>
 </blockquote>
 </p>
 
