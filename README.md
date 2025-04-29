@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We need a backbone, not a wishbone."</i>
+<i>"Less is more."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Robert Browning</b>
 </blockquote>
 </p>
 
