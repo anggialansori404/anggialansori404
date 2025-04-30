@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By failing to prepare, you are preparing to fail."</i>
+<i>"Whatever you do,strive to do it so well that no man living and no man dead and no man yet to be born could do it any better."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Benjamin Mays</b>
 </blockquote>
 </p>
 
