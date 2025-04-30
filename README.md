@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't have to control your thoughts; you just have to stop letting them control you."</i>
+<i>"A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
