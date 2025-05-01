@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go and do the things you can't. That is how you get to do them."</i>
+<i>"Everyone is a moon, and has a dark side which he never shows to anybody."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
