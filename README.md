@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone is a moon, and has a dark side which he never shows to anybody."</i>
+<i>"The best thing to hold onto in life is each other."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
