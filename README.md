@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can change our lives. We can do, have, and be exactly what we wish."</i>
+<i>"The ego wants to go fast. The soul needs to go slow."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
