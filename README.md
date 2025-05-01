@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The person who never made a mistake never tried anything new."</i>
+<i>"Everything great that has ever happened to humanity has begun as a single thought in someone's mind."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
