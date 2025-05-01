@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything great that has ever happened to humanity has begun as a single thought in someone's mind."</i>
+<i>"We can change our lives. We can do, have, and be exactly what we wish."</i>
 <br>
-<b>- Yanni</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
