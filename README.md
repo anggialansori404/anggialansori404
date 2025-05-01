@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is not final, failure is not fatal: it is the courage to continue that counts."</i>
+<i>"The person who never made a mistake never tried anything new."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
