@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing."</i>
+<i>"To be calm is the highest achievement of the self."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
