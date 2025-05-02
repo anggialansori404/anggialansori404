@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Honesty is the first chapter in the book of wisdom."</i>
+<i>"Who you are is always right."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
