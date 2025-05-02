@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Who you are is always right."</i>
+<i>"There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
