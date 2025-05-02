@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"May you find grace as you surrender to life. May you find happiness, as you stop seeking it."</i>
+<i>"To affect the quality of the day, that is the highest of arts."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
