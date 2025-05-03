@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit."</i>
+<i>"Identify your problems, but give your power and energy to solutions."</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
