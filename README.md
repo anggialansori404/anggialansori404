@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you truly expect something to be difficult, it will be."</i>
+<i>"Do not try to be on the side of the majority, but live according to your inner laws."</i>
 <br>
-<b>- Peter A. Cohen</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
