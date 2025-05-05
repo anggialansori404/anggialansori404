@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must embrace pain and burn it as fuel for our journey."</i>
+<i>"To handle yourself, use your head; to handle others, use your heart."</i>
 <br>
-<b>- Kenji Miyazawa</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
