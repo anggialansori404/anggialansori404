@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Blessed is he who expects nothing, for he shall never be disappointed."</i>
+<i>"If you want peace, accept. If you want suffering, expect."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
