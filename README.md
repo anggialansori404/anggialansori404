@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your conscience is the measure of the honesty of your selfishness. Listen to it carefully."</i>
+<i>"Empty yourself of everything - let the mind become still."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
