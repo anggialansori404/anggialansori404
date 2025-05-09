@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go as far as you can see and you will see further.  "</i>
+<i>"Fiction is the truth inside the lie."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
