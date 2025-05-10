@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The goal is not to be perfect by the end, the goal is to be better today."</i>
+<i>"Believe you can and you're halfway there."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
