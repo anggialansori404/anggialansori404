@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change."</i>
+<i>"The key to success is failure."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
