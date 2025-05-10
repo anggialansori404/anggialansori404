@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Many of life's failures are people who did not realize how close they were to success when they gave up."</i>
+<i>"We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
