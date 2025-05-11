@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is when what you think, what you say, and what you do are in harmony."</i>
+<i>"New opinions are always suspected, and usually opposed, without any other reason but because they are not common."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
