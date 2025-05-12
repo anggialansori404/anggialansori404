@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Difficult and meaningful will always bring more satisfaction than easy and meaningless."</i>
+<i>"A poet should be so crafty with words that he is envied even for his pains."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
