@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Problems remain as problems because people are busy defending them rather than finding solutions."</i>
+<i>"Difficult and meaningful will always bring more satisfaction than easy and meaningless."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
