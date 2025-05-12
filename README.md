@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fashion fades, only style remains the same."</i>
+<i>"Nothing like a health problem to turn up the contrast dial for the rest of life."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
