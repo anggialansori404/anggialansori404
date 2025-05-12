@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing like a health problem to turn up the contrast dial for the rest of life."</i>
+<i>"Before preparing to improve the world, first look around your own home three times. "</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
