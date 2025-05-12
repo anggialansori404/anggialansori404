@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before preparing to improve the world, first look around your own home three times. "</i>
+<i>"Night is a more quiet time to work. It aids thought."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
