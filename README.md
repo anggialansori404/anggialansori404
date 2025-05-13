@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all faced with a series of great opportunities brilliantly disguised as impossible situations. "</i>
+<i>"One small positive thought can change your whole day."</i>
 <br>
-<b>- Charles Swindoll</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
