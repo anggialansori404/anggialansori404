@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One small positive thought can change your whole day."</i>
+<i>"Don't just sit there. Do something. The answers will follow."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
