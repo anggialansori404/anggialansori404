@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change happens when the pain of holding on becomes greater than the fear of letting go."</i>
+<i>"People become attached to their burdens sometimes more than the burdens are attached to them."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
