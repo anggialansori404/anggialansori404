@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow. "</i>
+<i>"Happiness is the spiritual experience of living every minute with love, grace and gratitude."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
