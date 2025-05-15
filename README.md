@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The birth of the mind is the death of the senses."</i>
+<i>"You are your best thing."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Toni Morrison</b>
 </blockquote>
 </p>
 
