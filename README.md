@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The successful warrior is the average man, with laser-like focus."</i>
+<i>"Even when you think you have your life all mapped out, things happen that shape your destiny in ways you might never have imagined."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
