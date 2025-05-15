@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your gift is something that you can do innately better than anything else."</i>
+<i>"There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow. "</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Orison Swett Marden</b>
 </blockquote>
 </p>
 
