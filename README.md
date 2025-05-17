@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fallacies do not cease to be fallacies because they become fashions."</i>
+<i>"Life is about not knowing and then doing something anyway."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
