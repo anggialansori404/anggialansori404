@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember, today is the tomorrow you worried about yesterday."</i>
+<i>"Fallacies do not cease to be fallacies because they become fashions."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
