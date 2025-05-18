@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People think you're crazy if you talk about things they don't understand."</i>
+<i>"Always keep your eyes open. Keep watching. Because whatever you see can inspire you."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Grace Coddington</b>
 </blockquote>
 </p>
 
