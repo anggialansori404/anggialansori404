@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always keep your eyes open. Keep watching. Because whatever you see can inspire you."</i>
+<i>"I've always tried to go a step past wherever people expected me to end up."</i>
 <br>
-<b>- Grace Coddington</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
