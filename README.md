@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anxiety is the dizziness of freedom."</i>
+<i>"The best way to predict your future is to create it."</i>
 <br>
-<b>- Soren Kierkegaard</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
