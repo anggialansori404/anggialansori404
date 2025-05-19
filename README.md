@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you win, say nothing, when you lose say less."</i>
+<i>"A good character is the best tombstone. Carve your name on hearts, not on marble."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Charles Spurgeon</b>
 </blockquote>
 </p>
 
