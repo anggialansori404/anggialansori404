@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is too short to waste your time on people who don't respect, appreciate, and value you."</i>
+<i>"You are what you believe yourself to be."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
