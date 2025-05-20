@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"None are more hopelessly enslaved than those who falsely believe they are free."</i>
+<i>"You need a plan to build a house. To build a life, it is even more important to have a plan or goal."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
