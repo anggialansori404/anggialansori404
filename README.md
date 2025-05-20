@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are what you believe yourself to be."</i>
+<i>"You become a worrier by practicing worry. You become free of worry by practicing the opposite."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
