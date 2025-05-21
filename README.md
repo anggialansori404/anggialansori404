@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By the practice of meditation, you will find that you are carrying within your heart a portable paradise."</i>
+<i>"The purpose of life is the expansion of happiness."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
