@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every drop in the ocean counts. "</i>
+<i>"There are no ordinary moments."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
