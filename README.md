@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Surround yourself with only people who are going to lift you higher. "</i>
+<i>"Always be a first-rate version of yourself, instead of a second-rate version of someone else."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
