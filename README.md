@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truth is not for all men, but for those who seek it."</i>
+<i>"A vital part of the happiness formula is self-discipline. Whoever conquers himself knows deep happiness that fills the heart with joy."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
