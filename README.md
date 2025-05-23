@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I hear and I forget. I see and I remember. I do and I understand. "</i>
+<i>"Truth is such a rare thing, it is delighted to tell it."</i>
 <br>
-<b>- Confucius</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
