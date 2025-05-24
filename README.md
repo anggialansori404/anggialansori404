@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all self-made, but only the successful will admit it."</i>
+<i>"There is no path to Love. Love is the path."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
