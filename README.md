@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's easier to lose than to win.  "</i>
+<i>"We are all self-made, but only the successful will admit it."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
