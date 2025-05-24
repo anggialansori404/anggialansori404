@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where violence reigns, reason is weak."</i>
+<i>"Peace begins with a smile."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
