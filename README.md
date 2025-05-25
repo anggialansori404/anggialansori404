@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The joy of life comes from our encounters with new experiences."</i>
+<i>"Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
