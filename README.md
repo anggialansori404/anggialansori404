@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can only lose something that you have, but you cannot lose something that you are."</i>
+<i>"The best way out is always through."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
