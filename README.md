@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What one does is what counts. Not what one had the intention of doing."</i>
+<i>"We turn not older with years but newer every day."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
