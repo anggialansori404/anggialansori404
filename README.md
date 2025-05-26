@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest challenge after success is shutting up about it."</i>
+<i>"He who violates another's honor loses his own."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
