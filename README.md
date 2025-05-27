@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You Create Your Own Present By What You Give Your Attention To Today."</i>
+<i>"Better a diamond with a flaw than a pebble without one."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
