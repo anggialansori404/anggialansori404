@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We turn not older with years but newer every day."</i>
+<i>"You Create Your Own Present By What You Give Your Attention To Today."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
