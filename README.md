@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we have no peace, it is because we have forgotten that we belong to each other."</i>
+<i>"It is not uncommon for people to spend their whole life waiting to start living."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
