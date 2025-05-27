@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better a diamond with a flaw than a pebble without one."</i>
+<i>"The person who never made a mistake never tried anything new."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
