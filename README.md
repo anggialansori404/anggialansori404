@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not uncommon for people to spend their whole life waiting to start living."</i>
+<i>"The only way out is through."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
