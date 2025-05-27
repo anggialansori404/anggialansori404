@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only way out is through."</i>
+<i>"Do what is right, not what is easy, nor what is popular."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
