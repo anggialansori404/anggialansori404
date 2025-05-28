@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When we strive to become better than we are, everything around us becomes better, too."</i>
+<i>"The fear of death is more to be feared, than death itself."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
