@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By seeking and blundering we learn."</i>
+<i>"When reading, only read. When eating, only eat. When thinking, only think."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Seungsahn</b>
 </blockquote>
 </p>
 
