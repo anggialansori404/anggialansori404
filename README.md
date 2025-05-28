@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Constantly seek criticism. A well thought out critique of whatever you're doing is as valuable as gold."</i>
+<i>"Death is not an ending. It is a transformation."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
