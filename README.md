@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When reading, only read. When eating, only eat. When thinking, only think."</i>
+<i>"When we strive to become better than we are, everything around us becomes better, too."</i>
 <br>
-<b>- Seungsahn</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
