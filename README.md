@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Death is not an ending. It is a transformation."</i>
+<i>"You can't have anything worthwhile without difficulties."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
