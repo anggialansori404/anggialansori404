@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no self-discovery without pain and loss."</i>
+<i>"Happiness is an effect of doing what you love, not an end goal to be achieved."</i>
 <br>
-<b>- Anita Krizzan</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
