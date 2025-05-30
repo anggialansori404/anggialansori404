@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is in the darkness that one finds the light."</i>
+<i>"The dream is free, but the hustle is sold separately."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
