@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is an effect of doing what you love, not an end goal to be achieved."</i>
+<i>"It is in the darkness that one finds the light."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
