@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"While some of us act without thinking, too many of us think without acting."</i>
+<i>"In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
