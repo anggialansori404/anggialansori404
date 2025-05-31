@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better."</i>
+<i>"We shape clay into a pot, but it is the emptiness inside that holds whatever we want."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
