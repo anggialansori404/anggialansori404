@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Riches don't make a man rich, they only make him busier."</i>
+<i>"Always do your best. What you plant now, you will harvest later."</i>
 <br>
-<b>- Christopher Columbus</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
