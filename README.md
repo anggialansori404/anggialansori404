@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always do your best. What you plant now, you will harvest later."</i>
+<i>"Originality is the fine art of remembering what you hear but forgetting where you heard it. "</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
