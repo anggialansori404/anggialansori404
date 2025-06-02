@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am thankful to all those who said no. It's because of them, I did it myself.  "</i>
+<i>"Sometimes success isn't about making the right decision, it's more about making some decision."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
