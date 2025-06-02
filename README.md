@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The less you open your heart to others, the more your heart suffers."</i>
+<i>"Life is and will ever remain an equation incapable of solution, but it contains certain known factors. "</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Nikola Tesla</b>
 </blockquote>
 </p>
 
