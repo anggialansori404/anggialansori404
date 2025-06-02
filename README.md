@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't spend major time on minor things."</i>
+<i>"Your gift is something that you can do innately better than anything else."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
