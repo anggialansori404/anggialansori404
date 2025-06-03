@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man's character is his fate."</i>
+<i>"When you stop questioning, you stop learning."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
