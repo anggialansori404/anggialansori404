@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes success isn't about making the right decision, it's more about making some decision."</i>
+<i>"Live as if you were to die tomorrow. Learn as if you were to live forever."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
