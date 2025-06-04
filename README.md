@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Leadership starts at the top."</i>
+<i>"People think about what they don't want and attract more of the same."</i>
 <br>
-<b>- Morgan Wootten</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
