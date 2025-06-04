@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You only live once, but if you do it right, once is enough."</i>
+<i>"There is no absolute success in the world, only constant progress."</i>
 <br>
-<b>- Mae West</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
