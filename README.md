@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you stop questioning, you stop learning."</i>
+<i>"Always seek out the seed of triumph in every adversity."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
