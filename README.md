@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no absolute success in the world, only constant progress."</i>
+<i>"Whatever you do in life, surround yourself with smart people who'll argue with you."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
