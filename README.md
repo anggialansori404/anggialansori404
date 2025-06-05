@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Use your smile to change the world but don't let the world change your smile."</i>
+<i>"Everybody has talent, but ability takes hard work."</i>
 <br>
-<b>- Unknown</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
