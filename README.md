@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everybody has talent, but ability takes hard work."</i>
+<i>"We are born from a quiet sleep, and we die to a calm awakening"</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
