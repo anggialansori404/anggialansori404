@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do good, live in the most positive and joyful way possible every day."</i>
+<i>"The roots of education are bitter, but the fruit is sweet."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
