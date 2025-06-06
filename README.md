@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It doesn't matter what you do, only how well you do it."</i>
+<i>"By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
