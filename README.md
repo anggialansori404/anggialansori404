@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most of the evil in this world is done by people with good intentions."</i>
+<i>"It doesn't matter what you do, only how well you do it."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
