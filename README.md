@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul."</i>
+<i>"Argue for your limitations and sure enough, they're yours."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
