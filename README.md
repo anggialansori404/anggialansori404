@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is a consequence and must not be a goal."</i>
+<i>"Good, better, best. Never let it rest. 'Til your good is better and your better is best. "</i>
 <br>
-<b>- Gustave Flaubert</b>
+<b>- St. Jerome</b>
 </blockquote>
 </p>
 
