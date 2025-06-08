@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Try all things, hold fast that which is good."</i>
+<i>"The future will be shaped by those willing to commit their minds and their bodies to the task."</i>
 <br>
-<b>- John Locke</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
