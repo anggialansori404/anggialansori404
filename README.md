@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We've got to live, no matter how many skies have fallen."</i>
+<i>"Every poem should remind the reader that they are going to die."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
