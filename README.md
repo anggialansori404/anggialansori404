@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We live only now. Everything else is either passed or is unknown."</i>
+<i>"Try all things, hold fast that which is good."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
