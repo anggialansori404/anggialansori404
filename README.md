@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future will be shaped by those willing to commit their minds and their bodies to the task."</i>
+<i>"None of us can change our yesterdays but all of us can change our tomorrows."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
