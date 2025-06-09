@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be brave to stand for what you believe in even if you stand alone."</i>
+<i>"Like it or not, this moment is all we really have to work with."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
