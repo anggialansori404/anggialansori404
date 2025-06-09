@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"None of us can change our yesterdays but all of us can change our tomorrows."</i>
+<i>"What loneliness is more lonely than distrust?"</i>
 <br>
-<b>- Colin Powell</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
