@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean."</i>
+<i>"Sometimes good things fall apart so better things can fall together."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Marilyn Monroe</b>
 </blockquote>
 </p>
 
