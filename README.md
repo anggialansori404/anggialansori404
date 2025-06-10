@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest value of a picture is when it forces us to notice what we never expected to see."</i>
+<i>"Every great change is preceded by chaos."</i>
 <br>
-<b>- John Tukey</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
