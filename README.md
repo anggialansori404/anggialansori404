@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Become the kind of leader that people would follow voluntarily, even if you had no title or position."</i>
+<i>"What is a friend? A single soul dwelling in two bodies."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
