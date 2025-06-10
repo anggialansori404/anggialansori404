@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What is a friend? A single soul dwelling in two bodies."</i>
+<i>"Awaken. Take heed, do not squander your life."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
