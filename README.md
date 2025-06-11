@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the time is gone, you can never get it back."</i>
+<i>"The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
