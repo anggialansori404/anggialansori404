@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are not what you think you are, You are not what others think you are, You are what you think others think you are."</i>
+<i>"It's your life-but only if you make it so."</i>
 <br>
-<b>- Unknown</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
