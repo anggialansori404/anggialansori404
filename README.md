@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Without struggle, no progress and no result. Every breaking of habit produces a change in the machine."</i>
+<i>"You're never too old for anything."</i>
 <br>
-<b>- G.I. Gurdjieff</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
