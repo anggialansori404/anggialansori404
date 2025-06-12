@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Generosity is giving more than you can, and pride is taking less than you need."</i>
+<i>"One must be poor to know the luxury of giving."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
