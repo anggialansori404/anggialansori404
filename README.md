@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you see someone without a smile give them one of yours."</i>
+<i>"We are all different. Don't judge, understand instead."</i>
 <br>
-<b>- Unknown</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
