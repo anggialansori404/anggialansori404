@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing that results in human progress is achieved with unanimous consent."</i>
+<i>"There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever."</i>
 <br>
-<b>- Christopher Columbus</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
