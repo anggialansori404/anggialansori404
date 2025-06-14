@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whether you think you can or think you can't – you are right."</i>
+<i>"Circumstances rule men; men do not rule circumstances. "</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
