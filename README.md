@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change is not a four letter word...but often your reaction to it is!"</i>
+<i>"Take responsibility of your own happiness, never put it in other people's hands."</i>
 <br>
-<b>- Jeffrey Gitomer</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
