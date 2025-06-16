@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tall oaks grow from little acorns."</i>
+<i>"If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
