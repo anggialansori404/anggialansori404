@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You may think I'm small, but I have a universe inside my mind."</i>
+<i>"No great discovery was ever made without a bold guess. "</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
