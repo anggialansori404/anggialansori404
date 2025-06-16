@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just do the best you can. No one can do more than that."</i>
+<i>"Whenever you find yourself on the side of the majority, it is time to reform."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
