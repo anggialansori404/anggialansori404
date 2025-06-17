@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Making your mark on the world is hard. If it were easy, everybody would do it."</i>
+<i>"To be calm is the highest achievement of the self."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
