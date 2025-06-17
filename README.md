@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is the beginning of creation."</i>
+<i>"When you have a dream, you've got to grab it and never let go."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
