@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mistakes are always forgivable, if one has the courage to admit them. "</i>
+<i>"Every day do something that will inch you closer to a better tomorrow."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
