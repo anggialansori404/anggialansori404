@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be calm is the highest achievement of the self."</i>
+<i>"Mastering others is strength, mastering yourself is true power."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
