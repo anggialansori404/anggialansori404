@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mastering others is strength, mastering yourself is true power."</i>
+<i>"Mistakes are always forgivable, if one has the courage to admit them. "</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
