@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has."</i>
+<i>"Surround yourself only with people who are going to take you higher."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
