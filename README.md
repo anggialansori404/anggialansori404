@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take time like the river that never grows stale. Keep going and steady. No hurry, no rush."</i>
+<i>"True prayer has no set form."</i>
 <br>
-<b>- Rumi</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
