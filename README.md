@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life and death are of supreme importance. Time swiftly passes by and opportunity is lost."</i>
+<i>"Disobedience is the true foundation of liberty. The obedient must be slaves."</i>
 <br>
-<b>- Dogen</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
