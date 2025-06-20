@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quieter you become, the more you are able to hear."</i>
+<i>"Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it."</i>
 <br>
-<b>- Rumi</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
