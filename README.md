@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You do not read a book for the book's sake, but for your own."</i>
+<i>"Men trust their ears less than their eyes."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
