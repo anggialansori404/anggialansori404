@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men trust their ears less than their eyes."</i>
+<i>"The world would go on even without you. Don't take yourself so seriously."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
