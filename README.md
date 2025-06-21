@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Start each day with a positive thought and a grateful heart."</i>
+<i>"Creativity is the greatest rebellion in existence."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
