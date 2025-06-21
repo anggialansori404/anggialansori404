@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Creativity is the greatest rebellion in existence."</i>
+<i>"Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  "</i>
 <br>
-<b>- Osho</b>
+<b>- Jack Kerouac</b>
 </blockquote>
 </p>
 
