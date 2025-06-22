@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only thing more frustrating than slanderers is those foolish enough to listen to them."</i>
+<i>"No matter what happens in life, never lose sight of who you are."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
