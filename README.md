@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace is not absence of conflict, it is the ability to handle conflict by peaceful means."</i>
+<i>"To lead an orchestra, you must turn your back on the crowd."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
