@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A lot of people have gone further than they thought they could because someone else thought they could."</i>
+<i>"No man can get rich himself unless he enriches others."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
