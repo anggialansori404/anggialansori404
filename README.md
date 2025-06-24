@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man can get rich himself unless he enriches others."</i>
+<i>"Well done is better than well said."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
