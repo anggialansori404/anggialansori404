@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are what you believe yourself to be."</i>
+<i>"Sometimes you put walls up not to keep people out, but to see who cares enough to break them down."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
