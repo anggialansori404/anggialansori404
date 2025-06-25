@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The divine is not something high above us. It is in heaven, it is in earth, it is inside us."</i>
+<i>"Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.  "</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
