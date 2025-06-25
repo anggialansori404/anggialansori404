@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Well done is better than well said."</i>
+<i>"The divine is not something high above us. It is in heaven, it is in earth, it is inside us."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
