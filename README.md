@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enjoy when you can, and endure when you must."</i>
+<i>"There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
