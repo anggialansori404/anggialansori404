@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't climb the ladder of success with your hands in your pockets."</i>
+<i>"The person who never made a mistake never tried anything new."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
