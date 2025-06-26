@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing."</i>
+<i>"You can't climb the ladder of success with your hands in your pockets."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
