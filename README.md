@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Play your part in life, but never forget that it is only a role."</i>
+<i>"Successful people tend to become more successful because they are always thinking about their successes."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
