@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The person who never made a mistake never tried anything new."</i>
+<i>"Play your part in life, but never forget that it is only a role."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
