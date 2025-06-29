@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intelligence is the ability to adapt to change."</i>
+<i>"If a thing is worth doing, it is worth doing badly."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
