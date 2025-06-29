@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Against the assault of laughter nothing can stand."</i>
+<i>"All our dreams can come true, if we have the courage to pursue them."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
