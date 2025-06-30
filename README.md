@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Making your mark on the world is hard. If it were easy, everybody would do it."</i>
+<i>"The wisest men follow their own direction."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
