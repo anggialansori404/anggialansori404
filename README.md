@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The impossible can always be broken down into possibilities."</i>
+<i>"Making your mark on the world is hard. If it were easy, everybody would do it."</i>
 <br>
-<b>- Unknown</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
