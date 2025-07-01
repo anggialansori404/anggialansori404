@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Death is not an ending. It is a transformation."</i>
+<i>"Those who look for the bad in people will surely find it."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
