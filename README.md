@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you."</i>
+<i>"A dead thing can go with the stream, but only a living thing can go against it."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
