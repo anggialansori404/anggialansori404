@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man's character is his fate."</i>
+<i>"The more you know, the more you know you don't know."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
