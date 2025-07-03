@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is easy to discover what another has discovered before."</i>
+<i>"The world only exists in your eyes. You can make it as big or as small as you want."</i>
 <br>
-<b>- Christopher Columbus</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
