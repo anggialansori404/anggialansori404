@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The measure of wisdom is how calm you are when facing any given situation."</i>
+<i>"Awaken. Take heed, do not squander your life."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
