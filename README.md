@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new."</i>
+<i>"Nothing good ever comes of violence."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
