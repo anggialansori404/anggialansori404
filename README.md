@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence comes from crossing thresholds."</i>
+<i>"Give out what you most want to come back."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
