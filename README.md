@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Freeing oneself from words is liberation. "</i>
+<i>"Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Carl Bard</b>
 </blockquote>
 </p>
 
