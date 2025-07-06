@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's possible in ways both large or small to make a difference in someone's life."</i>
+<i>"Imagination is everything. It is the preview of life's coming attractions."</i>
 <br>
-<b>- Yanni</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
