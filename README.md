@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your setback is just a setup for a comeback."</i>
+<i>"Selfishness and greed, individual or national, cause most of our troubles."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
