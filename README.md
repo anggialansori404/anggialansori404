@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Selfishness and greed, individual or national, cause most of our troubles."</i>
+<i>"Success is getting what you want, happiness is wanting what you get."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- W.P. Kinsella</b>
 </blockquote>
 </p>
 
