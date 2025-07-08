@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love your enemies, for they tell you your faults."</i>
+<i>"A scientific man ought to have no wishes, no affections, - a mere heart of stone."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
