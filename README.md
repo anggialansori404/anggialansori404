@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All men are equal before fish."</i>
+<i>"Youth has no age."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
