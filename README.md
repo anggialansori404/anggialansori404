@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Youth has no age."</i>
+<i>"Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
