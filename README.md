@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is more important than knowledge."</i>
+<i>"Do not wait for leaders; do it alone, person to person."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
