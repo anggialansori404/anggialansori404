@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A scientific man ought to have no wishes, no affections, - a mere heart of stone."</i>
+<i>"Take away love and our earth is a tomb."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Robert Browning</b>
 </blockquote>
 </p>
 
