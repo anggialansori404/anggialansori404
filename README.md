@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you take responsibility for your past and present, the more you are able to create the future you seek."</i>
+<i>"As soon as you truly commit to making something happen, the 'how' will reveal itself."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
