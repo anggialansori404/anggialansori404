@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be patient and calm; no one can catch fish in anger."</i>
+<i>"People think you're crazy if you talk about things they don't understand."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
