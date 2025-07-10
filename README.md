@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As soon as you truly commit to making something happen, the 'how' will reveal itself."</i>
+<i>"Actions are the seeds of fate. Deeds grow into destiny."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
