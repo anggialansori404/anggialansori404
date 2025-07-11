@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking."</i>
+<i>"The privilege of a lifetime is to become who you truly are."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
