@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next."</i>
+<i>"The first rule of handling conflict is don't hang around people who are constantly engaging in conflict."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
