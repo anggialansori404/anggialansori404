@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Either you run the day or the day runs you."</i>
+<i>"Question everything. Learn something. Answer nothing."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
