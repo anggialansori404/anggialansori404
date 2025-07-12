@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Doing what you love is the cornerstone of having abundance in your life. "</i>
+<i>"A different result requires doing something different."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
