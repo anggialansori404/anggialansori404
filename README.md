@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Yesterday is but today's memory, tomorrow is today's dream."</i>
+<i>"Giving is living. If you stop wanting to give, there's nothing more to live for."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
