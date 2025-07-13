@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What's right is what's left if you do everything else wrong."</i>
+<i>"The glow of one warm thought is to me worth more than money."</i>
 <br>
-<b>- Robin Williams</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
