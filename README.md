@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The glow of one warm thought is to me worth more than money."</i>
+<i>"The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts.  Let it go. It is not serving you."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Sonia Ricotti</b>
 </blockquote>
 </p>
 
