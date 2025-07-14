@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rest in reason; move in passion."</i>
+<i>"Happiness is the absence of the striving for happiness."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
