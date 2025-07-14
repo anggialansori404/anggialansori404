@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who has ever made anything of importance was disciplined."</i>
+<i>"Rest in reason; move in passion."</i>
 <br>
-<b>- Andrew Hendrixson</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
