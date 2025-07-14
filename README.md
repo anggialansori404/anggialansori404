@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only way to 'find out if it will work out' is to do it."</i>
+<i>"He is not a lover who does not love forever."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
