@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is the absence of the striving for happiness."</i>
+<i>"Life is a traveling to the edge of knowledge, then a leap taken."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
