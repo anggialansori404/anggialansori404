@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people feel the rain. Others just get wet. "</i>
+<i>"Act the way you want to be and soon you'll be the way you act."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
