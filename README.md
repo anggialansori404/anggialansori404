@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a traveling to the edge of knowledge, then a leap taken."</i>
+<i>"Some people feel the rain. Others just get wet. "</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
