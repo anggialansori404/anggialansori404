@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always be a first rate version of yourself and not a second rate version of someone else."</i>
+<i>"Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'"</i>
 <br>
-<b>- Judy Garland</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
