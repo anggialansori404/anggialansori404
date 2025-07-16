@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never give up work. Work gives you meaning and purpose and life is empty without it."</i>
+<i>"Don't be afraid of missing opportunities. Behind every failure is an opportunity somebody wishes they had missed."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
