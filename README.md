@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'"</i>
+<i>"We are like islands in the sea, separate on the surface but connected in the deep."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
