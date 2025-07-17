@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Find the game where you can win, and then commit your life to playing it; and play to win."</i>
+<i>"One of the oldest human needs is having someone to wonder where you are when you don't come home at night. "</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
