@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stop being tormented by everyone else's reaction to you."</i>
+<i>"Faith means believing the unbelievable."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
