@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before you can see the Light, you have to deal with the darkness."</i>
+<i>"The scariest monsters are the ones that lurk within our souls."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
