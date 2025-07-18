@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the oldest human needs is having someone to wonder where you are when you don't come home at night. "</i>
+<i>"Before you can see the Light, you have to deal with the darkness."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
