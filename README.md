@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you win, say nothing, when you lose say less."</i>
+<i>"Failure is an option here. If things are not failing, you are not innovating enough."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
