@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams are for dreamers. Goals are for achievers."</i>
+<i>"When you win, say nothing, when you lose say less."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
