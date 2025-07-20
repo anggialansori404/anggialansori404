@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wiser you get, the less you care to look like a fool."</i>
+<i>"We have no more right to consume happiness without producing it than to consume wealth without producing it."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
