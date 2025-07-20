@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is trying things to see if they work."</i>
+<i>"The wiser you get, the less you care to look like a fool."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
