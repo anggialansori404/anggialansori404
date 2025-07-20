@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wisdom of life consists in the elimination of the nonessentials."</i>
+<i>"Life is trying things to see if they work."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
