@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Weeds are flowers too, once you get to know them."</i>
+<i>"Keep away from people who try to belittle your ambitions."</i>
 <br>
-<b>- A.A. Milne</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
