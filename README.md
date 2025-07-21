@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take away love and our earth is a tomb."</i>
+<i>"Weeds are flowers too, once you get to know them."</i>
 <br>
-<b>- Robert Browning</b>
+<b>- A.A. Milne</b>
 </blockquote>
 </p>
 
