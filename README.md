@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man sooner or later discovers that he is the master-gardener of his soul, the director of his life."</i>
+<i>"Take away love and our earth is a tomb."</i>
 <br>
-<b>- James Allen</b>
+<b>- Robert Browning</b>
 </blockquote>
 </p>
 
