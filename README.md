@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The true soldier fights not because he hates what is in front of him, but because he loves what is behind him."</i>
+<i>"Progress lies not in enhancing what is, but in advancing toward what will be."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
