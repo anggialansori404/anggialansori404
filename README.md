@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Progress lies not in enhancing what is, but in advancing toward what will be."</i>
+<i>"A man sooner or later discovers that he is the master-gardener of his soul, the director of his life."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
