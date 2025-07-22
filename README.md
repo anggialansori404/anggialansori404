@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't seek, don't search, don't ask, don't knock, don't demand - relax."</i>
+<i>"You are free, and that is why you are lost."</i>
 <br>
-<b>- Osho</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
