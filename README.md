@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let someone elses. opinion become your reality."</i>
+<i>"Happiness is not a goal...it's a by-product of a life well lived."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
