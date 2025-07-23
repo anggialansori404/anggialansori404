@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's very strange that the people you love are often the people you're most cruel to."</i>
+<i>"I've always tried to go a step past wherever people expected me to end up."</i>
 <br>
-<b>- Kenneth Branagh</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
