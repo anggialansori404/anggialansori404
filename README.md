@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good luck is opportunity meeting preparedness."</i>
+<i>"The key to success is action."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
