@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To the mind that is still, the whole universe surrenders."</i>
+<i>"Good luck is opportunity meeting preparedness."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
