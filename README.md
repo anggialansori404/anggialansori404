@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability."</i>
+<i>"To the mind that is still, the whole universe surrenders."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
