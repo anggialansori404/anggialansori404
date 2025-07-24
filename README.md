@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Riches don't make a man rich, they only make him busier."</i>
+<i>"The final mystery is oneself."</i>
 <br>
-<b>- Christopher Columbus</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
