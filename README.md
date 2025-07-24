@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The final mystery is oneself."</i>
+<i>"Absence makes the heart grow fonder."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
