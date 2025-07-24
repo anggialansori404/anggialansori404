@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What gets measured gets improved."</i>
+<i>"Riches don't make a man rich, they only make him busier."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Christopher Columbus</b>
 </blockquote>
 </p>
 
