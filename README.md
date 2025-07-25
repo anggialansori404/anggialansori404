@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Challenge yourself to find the good and beautiful thing inside of everyone."</i>
+<i>"For your life to be great, your faith must be bigger than your fear."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
