@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit."</i>
+<i>"In the End, we will remember not the words of our enemies, but the silence of our friends."</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
