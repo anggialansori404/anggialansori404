@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not stop thinking of life as an adventure."</i>
+<i>"You can have the mind or you can have the moment."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
