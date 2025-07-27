@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't think money does everything or you are going to end up doing everything for money."</i>
+<i>"You use a glass mirror to see your face; you use works of art to see your soul."</i>
 <br>
-<b>- Voltaire</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
