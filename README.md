@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A Quitter never wins - and - a Winner never quits."</i>
+<i>"Know yourself and you will win all battles."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
