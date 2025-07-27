@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Instead of being intimidated by the limitations, be inspired to find new ways around them."</i>
+<i>"No idea, no matter how good, will work if it doesn't get used."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Peter A. Cohen</b>
 </blockquote>
 </p>
 
