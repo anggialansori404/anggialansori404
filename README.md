@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing will work unless you do."</i>
+<i>"Waste not fresh tears over old griefs."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
