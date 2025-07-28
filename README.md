@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Engage in those actions and thoughts that nurture the good qualities you want to have."</i>
+<i>"What would you do if you weren't afraid?"</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
