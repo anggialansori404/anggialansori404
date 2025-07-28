@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is like a dragon where, for every head cut off, two more heads grow back."</i>
+<i>"Nothing will work unless you do."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
