@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What would you do if you weren't afraid?"</i>
+<i>"Sometimes it is more important to discover what one cannot do, than what one can do."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
