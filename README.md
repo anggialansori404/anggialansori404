@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes it is more important to discover what one cannot do, than what one can do."</i>
+<i>"Confidence is like a dragon where, for every head cut off, two more heads grow back."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
