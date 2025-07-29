@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make each day a new horizon."</i>
+<i>"Life happens in the river, not the shore."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
