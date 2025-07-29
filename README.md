@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To get angry is like to revenge yourself for the guilt of others."</i>
+<i>"Always render more and better service than is expected of you, no matter what your task may be."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
