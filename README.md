@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The consequences of today are determined by the actions of the past. To change your future, alter your decisions today."</i>
+<i>"To get angry is like to revenge yourself for the guilt of others."</i>
 <br>
-<b>- Unknown</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
