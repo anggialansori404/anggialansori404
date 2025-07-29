@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great acts are made up of small deeds."</i>
+<i>"The consequences of today are determined by the actions of the past. To change your future, alter your decisions today."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
