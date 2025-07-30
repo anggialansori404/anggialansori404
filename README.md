@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Silence is a source of great strength."</i>
+<i>"There are no shortcuts to any place worth going. "</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
