@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every moment of happiness requires a great amount of Ignorance"</i>
+<i>"Creative people are often found either disagreeable or intimidating by mediocrities."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
