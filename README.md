@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no shortcuts to any place worth going. "</i>
+<i>"Success is getting what you want, happiness is wanting what you get."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- W.P. Kinsella</b>
 </blockquote>
 </p>
 
