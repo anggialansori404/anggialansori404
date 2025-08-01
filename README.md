@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not wait for leaders; do it alone, person to person."</i>
+<i>"Decide what your truth is. Then live it."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
