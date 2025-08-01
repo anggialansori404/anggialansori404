@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There's no next time. It's now or never."</i>
+<i>"Don't learn to do, but learn in doing."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
