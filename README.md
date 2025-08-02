@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't know who is important to you until you actually lose them."</i>
+<i>"You Create Your Own Present By What You Give Your Attention To Today."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
