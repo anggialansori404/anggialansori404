@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You Create Your Own Present By What You Give Your Attention To Today."</i>
+<i>"A comfort zone is a beautiful place, but nothing ever grows there."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
