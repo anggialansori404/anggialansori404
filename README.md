@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Decide what your truth is. Then live it."</i>
+<i>"You don't know who is important to you until you actually lose them."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
