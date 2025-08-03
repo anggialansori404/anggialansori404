@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no one giant step that does it. It's a lot of little steps."</i>
+<i>"Great minds are always feared by lesser minds."</i>
 <br>
-<b>- Peter A. Cohen</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
