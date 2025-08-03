@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Winning isn't everything, but wanting to win is."</i>
+<i>"He who cannot be a good follower cannot be a good leader."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
