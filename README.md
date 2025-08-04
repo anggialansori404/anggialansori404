@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All animals except man know that the principal business of life is to enjoy it."</i>
+<i>"The Only Thing That Is Constant Is Change"</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
