@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance."</i>
+<i>"If you want to make God laugh, tell him about your plans. "</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
