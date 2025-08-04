@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The Only Thing That Is Constant Is Change"</i>
+<i>"The destiny of man is in his own soul. "</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
