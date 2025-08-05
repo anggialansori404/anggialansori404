@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most important thing is to enjoy your life, to be happy, it's all that matters."</i>
+<i>"Just because something isn't a lie does not mean that it isn't deceptive."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
