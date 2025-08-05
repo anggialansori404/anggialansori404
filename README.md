@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"May you find grace as you surrender to life. May you find happiness, as you stop seeking it."</i>
+<i>"If you have to be in a soap opera try not to be cast in the worst role."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
