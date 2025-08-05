@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to make God laugh, tell him about your plans. "</i>
+<i>"The man who moved the mountain was the one who began carrying away the smallest stones."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
