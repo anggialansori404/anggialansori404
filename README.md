@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose."</i>
+<i>"Fear is what stops you. Courage is what keeps you going."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
