@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to keep your memories, you first have to live them."</i>
+<i>"Confidence is what you have before you understand the problem."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
