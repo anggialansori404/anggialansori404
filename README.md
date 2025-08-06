@@ -28,7 +28,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear is what stops you. Courage is what keeps you going."</i>
+<i>"The finish line is just the beginning of a whole new race."</i>
 <br>
 <b>- Unknown</b>
 </blockquote>
