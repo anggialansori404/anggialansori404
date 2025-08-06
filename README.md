@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The finish line is just the beginning of a whole new race."</i>
+<i>"Things turn out best for the people who make the best of the way things turn out."</i>
 <br>
-<b>- Unknown</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
