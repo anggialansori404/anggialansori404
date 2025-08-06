@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Things turn out best for the people who make the best of the way things turn out."</i>
+<i>"If you want to keep your memories, you first have to live them."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
