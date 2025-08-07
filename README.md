@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time."</i>
+<i>"The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
