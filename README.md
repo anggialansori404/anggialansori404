@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams have only one owner at a time. That's why dreamers are lonely."</i>
+<i>"The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
