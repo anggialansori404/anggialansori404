@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True friendship ought never to conceal what it thinks. "</i>
+<i>"Ability is a poor man's wealth."</i>
 <br>
-<b>- St. Jerome</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
