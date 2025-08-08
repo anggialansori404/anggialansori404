@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every defeat, every heartbreak every loss, contains its own seed, its own lesson on how to improve your performance the next time."</i>
+<i>"If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
