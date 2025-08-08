@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present."</i>
+<i>"A leader leads by example, not by force."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
