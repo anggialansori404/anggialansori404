@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more acquaintances you have, the less you know them."</i>
+<i>"Life has more imagination than we carry in our dreams."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Christopher Columbus</b>
 </blockquote>
 </p>
 
