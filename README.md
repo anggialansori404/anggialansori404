@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Open your mind before your mouth."</i>
+<i>"The more acquaintances you have, the less you know them."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
