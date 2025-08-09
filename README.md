@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life has more imagination than we carry in our dreams."</i>
+<i>"The wise speak only of what they know."</i>
 <br>
-<b>- Christopher Columbus</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
