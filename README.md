@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only the hand that erases can write the true thing."</i>
+<i>"Open your mind before your mouth."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
