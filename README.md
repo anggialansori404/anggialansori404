@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Constantly think about how you could be doing things better."</i>
+<i>"We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
