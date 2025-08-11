@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Talent is luck. The important thing in life is courage."</i>
+<i>"Use your smile to change the world but don't let the world change your smile."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
