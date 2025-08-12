@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way out is always through."</i>
+<i>"Circumstances rule men; men do not rule circumstances. "</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
