@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be brave. Take risks. Nothing can substitute experience."</i>
+<i>"For things to change, you have to change."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
