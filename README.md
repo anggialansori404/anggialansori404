@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For things to change, you have to change."</i>
+<i>"If you can't feed a hundred people, then feed just one."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
