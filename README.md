@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man gotta right to decide his own destiny."</i>
+<i>"Be brave. Take risks. Nothing can substitute experience."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
