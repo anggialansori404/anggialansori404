@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't feed a hundred people, then feed just one."</i>
+<i>"There are no second chances in life, except to feel remorse."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
