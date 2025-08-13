@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man ever steps in the same river twice, for it's not the same river and he's not the same man."</i>
+<i>"Whether you think you can or think you can't – you are right."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
