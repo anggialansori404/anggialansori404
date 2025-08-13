@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whether you think you can or think you can't – you are right."</i>
+<i>"A man who cannot tolerate small misfortunes can never accomplish great things."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
