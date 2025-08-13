@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is the sum of small efforts, repeated day in and day out."</i>
+<i>"Trying to define yourself is like trying to bite your own teeth."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
