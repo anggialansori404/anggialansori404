@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trying to define yourself is like trying to bite your own teeth."</i>
+<i>"No man ever steps in the same river twice, for it's not the same river and he's not the same man."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
