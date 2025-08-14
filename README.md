@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of change is to focus all your energy not on fighting the old, but on building the new."</i>
+<i>"You can not live your life just based on what everyone else thinks."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
