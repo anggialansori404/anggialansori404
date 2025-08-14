@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have the ability, now apply yourself."</i>
+<i>"I learned the value of hard work by working hard. "</i>
 <br>
-<b>- Benjamin Mays</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
