@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The decisions of our past are the architects of our present."</i>
+<i>"Friendship is like money, easier made than kept."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
