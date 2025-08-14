@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I learned the value of hard work by working hard. "</i>
+<i>"Don't just sit there. Do something. The answers will follow."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
