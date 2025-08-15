@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Concentrated power has always been the enemy of liberty."</i>
+<i>"It's not about what it is, it's about what it can become."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
