@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not about what it is, it's about what it can become."</i>
+<i>"Be a master of change rather than a victim of change."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
