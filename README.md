@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life goes by fast. Enjoy it. Calm down. It's all funny."</i>
+<i>"Concentrated power has always been the enemy of liberty."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
