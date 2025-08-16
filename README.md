@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing more frightful than ignorance in action."</i>
+<i>"Do not wait for leaders; do it alone, person to person."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
