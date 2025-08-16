@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible."</i>
+<i>"There is nothing more frightful than ignorance in action."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
