@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything you've ever wanted is on the other side of fear."</i>
+<i>"If you look for perfection, you'll never be content."</i>
 <br>
-<b>- George Addair</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
