@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tall oaks grow from little acorns."</i>
+<i>"Everything you've ever wanted is on the other side of fear."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- George Addair</b>
 </blockquote>
 </p>
 
