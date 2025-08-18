@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you look for perfection, you'll never be content."</i>
+<i>"The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
