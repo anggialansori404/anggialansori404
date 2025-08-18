@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not engaging in ignorance is wisdom. "</i>
+<i>"Blessed is he who expects nothing, for he shall be disappointed."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
