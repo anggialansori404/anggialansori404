@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Blessed is he who expects nothing, for he shall be disappointed."</i>
+<i>"The sun shines upon good and bad alike."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
