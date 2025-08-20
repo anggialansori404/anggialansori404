@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be brave to stand for what you believe in even if you stand alone."</i>
+<i>"Rudeness is the weak man's imitation of strength."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
