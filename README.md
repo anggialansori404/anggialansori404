@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a balance of holding on and letting go."</i>
+<i>"Comedy = tragedy + time."</i>
 <br>
-<b>- Rumi</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
