@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rudeness is the weak man's imitation of strength."</i>
+<i>"Life is a balance of holding on and letting go."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
