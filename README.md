@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Self-control is strength."</i>
+<i>"We tend to live up to our expectations."</i>
 <br>
-<b>- James Allen</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
