@@ -28,7 +28,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We tend to live up to our expectations."</i>
+<i>"Every one of us is the sum total of his own thoughts."</i>
 <br>
 <b>- Earl Nightingale</b>
 </blockquote>
