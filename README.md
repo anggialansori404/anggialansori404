@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Management is doing things right; leadership is doing the right things."</i>
+<i>"Self-control is strength."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
