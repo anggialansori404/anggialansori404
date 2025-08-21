@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Maybe you are searching among the branches, for what only appears in the roots."</i>
+<i>"One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power."</i>
 <br>
-<b>- Rumi</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
