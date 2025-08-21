@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to find yourself is to lose yourself in the service of others."</i>
+<i>"Maybe you are searching among the branches, for what only appears in the roots."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
