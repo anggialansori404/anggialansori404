@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to not feel hopeless is to get up and do something."</i>
+<i>"If you're really truthful with yourself, it's a wonderful guidance.  "</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
