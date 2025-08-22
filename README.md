@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't concern yourself with the money. Be of service. Build. Work. Dream. Create."</i>
+<i>"Success is never final; failure is never fatal."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Conrad Hilton</b>
 </blockquote>
 </p>
 
