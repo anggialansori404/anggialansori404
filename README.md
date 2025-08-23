@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is never final; failure is never fatal."</i>
+<i>"Every day do something that will inch you closer to a better tomorrow."</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
