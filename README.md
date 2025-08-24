@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You make your own luck if you stay at it long enough."</i>
+<i>"We cannot change anything unless we accept it."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
