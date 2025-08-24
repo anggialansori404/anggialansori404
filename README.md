@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Empty your mind, be formless, shapeless, like water."</i>
+<i>"You make your own luck if you stay at it long enough."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
