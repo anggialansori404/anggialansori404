@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If someone betrays you once, it's their fault; if they betray you twice, it's your fault."</i>
+<i>"People think about what they don't want and attract more of the same."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
