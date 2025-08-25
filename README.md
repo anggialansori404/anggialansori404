@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners."</i>
+<i>"A man has to learn that he cannot command things but that he can command himself; that he cannot coerce the wills of others but that he can mold and master his own will."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
