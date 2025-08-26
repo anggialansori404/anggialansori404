@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is the progressive realization of a worthy goal or ideal."</i>
+<i>"Everything great that has ever happened to humanity has begun as a single thought in someone's mind."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
