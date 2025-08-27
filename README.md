@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All problems are interpersonal relationship problems."</i>
+<i>"The mind is the limit."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
