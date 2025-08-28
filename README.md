@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have to give up some of the old so that you can make room for the new."</i>
+<i>"To be totally at leisure for one day is to be immortal for one day. "</i>
 <br>
-<b>- Yanni</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
