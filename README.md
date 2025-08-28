@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people find fault like there is a reward for it.  "</i>
+<i>"Wishing to be friends is quick work, but friendship is a slow ripening fruit."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
