@@ -28,7 +28,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In order to be irreplaceable one must always be different."</i>
+<i>"Success is often achieved by those who don't know that failure is inevitable."</i>
 <br>
 <b>- Coco Chanel</b>
 </blockquote>
