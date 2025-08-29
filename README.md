@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is often achieved by those who don't know that failure is inevitable."</i>
+<i>"A fall into a ditch makes you wiser."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
