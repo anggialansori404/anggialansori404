@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unhappiness enters through a door that has been left open."</i>
+<i>"You cannot find peace by avoiding life."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
