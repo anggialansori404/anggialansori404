@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is feedback. Learn from it and move on."</i>
+<i>"If we will be quiet and ready enough, we shall find compensation in every disappointment."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
