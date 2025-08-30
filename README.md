@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot find peace by avoiding life."</i>
+<i>"If you need inspiration, don't do it."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
