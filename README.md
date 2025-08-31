@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For things to change, you have to change."</i>
+<i>"Failure is just information and an opportunity to change your course."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
