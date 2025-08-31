@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Engage in those actions and thoughts that nurture the good qualities you want to have."</i>
+<i>"Human beings believe just as they breathe - in order to survive."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
