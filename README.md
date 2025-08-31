@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we will be quiet and ready enough, we shall find compensation in every disappointment."</i>
+<i>"If everyone is moving forward together, then success takes care of itself."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
