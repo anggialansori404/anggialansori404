@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is just information and an opportunity to change your course."</i>
+<i>"Sadness is but a wall between two gardens."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
