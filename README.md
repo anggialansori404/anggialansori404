@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything that is done in the world is done by hope."</i>
+<i>"The best way to understanding is a few good examples."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
