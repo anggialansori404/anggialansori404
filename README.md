@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to understanding is a few good examples."</i>
+<i>"When you can't make them see the light, make them feel the heat."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
