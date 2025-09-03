@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not until we are lost do we begin to understand ourselves."</i>
+<i>"In spite of everything, I shall rise again."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
