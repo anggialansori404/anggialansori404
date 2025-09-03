@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Greatness comes from living with purpose and passion."</i>
+<i>"Not until we are lost do we begin to understand ourselves."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
