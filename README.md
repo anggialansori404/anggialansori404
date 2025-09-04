@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Genius is the ability to act rightly without precedent - the power to do the right thing the first time."</i>
+<i>"Life is a question and how we live it is our answer."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
