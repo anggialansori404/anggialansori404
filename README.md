@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding."</i>
+<i>"In order to be walked over, you have to be lying down."</i>
 <br>
-<b>- John D. Rockefeller</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
