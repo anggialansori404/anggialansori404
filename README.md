@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing has more strength than dire necessity."</i>
+<i>"Among the things you can give and still keep are your word, a smile, and a grateful heart."</i>
 <br>
-<b>- Euripides</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
