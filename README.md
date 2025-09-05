@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In order to be walked over, you have to be lying down."</i>
+<i>"Creative endeavors are by their nature uncertain."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
