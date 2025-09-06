@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Simple words, repeated daily, can change your life."</i>
+<i>"Failure is the highway to success."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
