@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are going to achieve excellence in big things, you develop the habit in little matters."</i>
+<i>"The few who do are the envy of the many who only watch."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
