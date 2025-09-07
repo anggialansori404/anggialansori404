@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The few who do are the envy of the many who only watch."</i>
+<i>"Knowing your own darkness is the best method for dealing with the darknesses of other people."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
