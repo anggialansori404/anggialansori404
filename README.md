@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't get in life what you want; you get in life what you are."</i>
+<i>"Success is the sum of small efforts, repeated day in and day out."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
