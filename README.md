@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A tiny change today brings a dramatically different tomorrow."</i>
+<i>"A different result requires doing something different."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
