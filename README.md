@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I want the fishing rod, not the fish."</i>
+<i>"A tiny change today brings a dramatically different tomorrow."</i>
 <br>
-<b>- Yanni</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
