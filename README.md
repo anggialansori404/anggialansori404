@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only people without problems are those in cemeteries."</i>
+<i>"A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
