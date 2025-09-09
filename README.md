@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is the dancer and you are the dance."</i>
+<i>"The only people without problems are those in cemeteries."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
