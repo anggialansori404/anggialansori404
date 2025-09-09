@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A different result requires doing something different."</i>
+<i>"The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
