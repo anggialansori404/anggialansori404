@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists."</i>
+<i>"I want the fishing rod, not the fish."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
