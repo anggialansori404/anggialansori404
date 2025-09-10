@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the nature of the wise to resist pleasures, but the foolish to be a slave to them."</i>
+<i>"Don't let the silly little dramas of each day get you down. For you are here to do great things."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
