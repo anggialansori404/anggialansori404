@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be fascinated instead of frustrated."</i>
+<i>"If you want to achieve greatness stop asking for permission."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
