@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to achieve greatness stop asking for permission."</i>
+<i>"Walk with those seeking truth... RUN FROM THOSE WHO THINK THEY'VE FOUND IT."</i>
 <br>
-<b>- Unknown</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
