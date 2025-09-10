@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid to go slowly. Be afraid of stopping."</i>
+<i>"A Quitter never wins - and - a Winner never quits."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
