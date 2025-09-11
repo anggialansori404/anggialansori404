@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Speak when you are angry - and you'll make the best speech you'll ever regret."</i>
+<i>"I defeat my enemies when I make them my friends."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
