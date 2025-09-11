@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is contagious. So is lack of confidence."</i>
+<i>"Being a good example is the best form of service."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
