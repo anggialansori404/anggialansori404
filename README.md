@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being a good example is the best form of service."</i>
+<i>"You can never get enough of what you don't need to make you happy."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
