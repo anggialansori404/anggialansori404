@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most great people have achieved their greatest success just one step beyond their greatest failure."</i>
+<i>"Leadership is solving problems"</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
