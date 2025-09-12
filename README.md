@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"At the center of your being you have the answer; you know who you are and you know what you want."</i>
+<i>"When you're the only sane person, you look like the only insane person."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
