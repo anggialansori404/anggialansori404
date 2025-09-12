@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Leadership is solving problems"</i>
+<i>"A person is only by the thoughts that he chooses."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
