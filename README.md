@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Turn the pain into power."</i>
+<i>"Giving back involves a certain amount of giving up."</i>
 <br>
-<b>- Unknown</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
