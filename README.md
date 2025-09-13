@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny."</i>
+<i>"A man should do his job so well that the living, the dead, and the unborn could do it no better."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
