@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have no methods; all I do is accept people as they are."</i>
+<i>"The only difference between success and failure is the ability to take action."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
