@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace is letting it be. Letting life flow, letting emotions flow through you."</i>
+<i>"Our stories may be singular, but our destination is shared."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
