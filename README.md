@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't let your failures define you. You have to let your failures teach you."</i>
+<i>"I have no methods; all I do is accept people as they are."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
