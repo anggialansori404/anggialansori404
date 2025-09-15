@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our stories may be singular, but our destination is shared."</i>
+<i>"Reality is nothing but a collective hunch."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
