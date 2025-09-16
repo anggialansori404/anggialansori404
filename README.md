@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even a hare will bite when it is cornered. "</i>
+<i>"Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
