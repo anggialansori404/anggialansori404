@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Forget yesterday - it has already forgotten you. Don't sweat tomorrow - you haven't even met. Instead, open your eyes and your heart to a truly precious gift - today."</i>
+<i>"Even a hare will bite when it is cornered. "</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
