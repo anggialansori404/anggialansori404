@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the advantages of being disorganized is that one is always having surprising discoveries."</i>
+<i>"The prettiest eyes have cried the most."</i>
 <br>
-<b>- A.A. Milne</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
