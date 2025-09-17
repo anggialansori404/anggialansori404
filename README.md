@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love your enemies, for they tell you your faults."</i>
+<i>"A flower falls, even though we love it; and a weed grows, even though we do not love it."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
