@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I persist long enough I will win."</i>
+<i>"Don't let them drag you down by rumors. Just go with what you believe in."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
