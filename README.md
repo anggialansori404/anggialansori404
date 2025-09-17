@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A flower falls, even though we love it; and a weed grows, even though we do not love it."</i>
+<i>"One of the advantages of being disorganized is that one is always having surprising discoveries."</i>
 <br>
-<b>- Dogen</b>
+<b>- A.A. Milne</b>
 </blockquote>
 </p>
 
