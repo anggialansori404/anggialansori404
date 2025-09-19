@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Duty makes us do things well, but love makes us do them beautifully.  "</i>
+<i>"Luck is a matter of preparation meeting opportunity."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
