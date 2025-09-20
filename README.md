@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be happy in the moment, that's enough. Each moment is all we need, not more."</i>
+<i>"You can put lipstick on a pig. It's still a pig."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
