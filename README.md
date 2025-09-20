@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are two kinds of perfect people: those who are dead, and those who have not been born yet."</i>
+<i>"It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
