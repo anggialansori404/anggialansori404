@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose."</i>
+<i>"One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
