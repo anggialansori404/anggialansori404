@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The past has no power over the present moment. "</i>
+<i>"Never let the fear of striking out keep you from playing the game."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Babe Ruth</b>
 </blockquote>
 </p>
 
