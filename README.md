@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever."</i>
+<i>"The very essence of instinct is that it's followed independently of reason."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
