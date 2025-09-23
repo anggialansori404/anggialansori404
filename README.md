@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The very essence of instinct is that it's followed independently of reason."</i>
+<i>"Simplicity is the glory of expression."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
