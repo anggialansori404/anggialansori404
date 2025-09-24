@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not use life to give life to death. Do not use death to bring death to life."</i>
+<i>"The world is open for play, everything and everybody is mockable in a wonderful way."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Robin Williams</b>
 </blockquote>
 </p>
 
