@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sad thing is, you can still love someone and be wrong for them."</i>
+<i>"If you truly expect something to be difficult, it will be."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Peter A. Cohen</b>
 </blockquote>
 </p>
 
