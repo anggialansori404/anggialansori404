@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing has more strength than dire necessity."</i>
+<i>"Nature does not hurry, yet everything is accomplished."</i>
 <br>
-<b>- Euripides</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
