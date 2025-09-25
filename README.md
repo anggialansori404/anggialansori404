@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you truly expect something to be difficult, it will be."</i>
+<i>"Nothing has more strength than dire necessity."</i>
 <br>
-<b>- Peter A. Cohen</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
