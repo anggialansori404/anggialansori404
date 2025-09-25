@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nature does not hurry, yet everything is accomplished."</i>
+<i>"In life you need either inspiration or desperation."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
