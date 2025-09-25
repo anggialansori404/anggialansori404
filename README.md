@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is only one thing in the world worse than being talked about, and that is not being talked about. "</i>
+<i>"Only those who dare to fail greatly can ever achieve greatly."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
