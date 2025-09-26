@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The whole world is a series of miracles, but we're so used to them we call them ordinary things."</i>
+<i>"He who knows best knows how little he knows."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
