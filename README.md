@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must find the place inside yourself where nothing is impossible."</i>
+<i>"Failure is just information and an opportunity to change your course."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
