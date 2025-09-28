@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The people who are crazy enough to think they can change the world are the ones who do."</i>
+<i>"If it is not right, do not do it, if it is not true, do not say it."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
