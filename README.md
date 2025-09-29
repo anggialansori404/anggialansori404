@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life can only be understood backwards; but it must be lived forwards."</i>
+<i>"Normal is the average of deviance."</i>
 <br>
-<b>- Soren Kierkegaard</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
