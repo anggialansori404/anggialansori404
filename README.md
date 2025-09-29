@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I would rather be hated for who I am than loved for who I'm not.  "</i>
+<i>"Life can only be understood backwards; but it must be lived forwards."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Soren Kierkegaard</b>
 </blockquote>
 </p>
 
