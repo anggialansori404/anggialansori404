@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have to live life with a sense of urgency so not a minute is wasted."</i>
+<i>"The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
