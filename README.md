@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a gift and the trick is not to expect it, but to delight in it when it comes."</i>
+<i>"It is better to be looked over than overlooked."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
