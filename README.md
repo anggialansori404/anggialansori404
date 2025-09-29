@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whenever you find yourself on the side of the majority, it is time to reform."</i>
+<i>"I would rather be hated for who I am than loved for who I'm not.  "</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
