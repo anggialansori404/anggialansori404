@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest weariness comes from work not done."</i>
+<i>"The health of nations is more important than the wealth of nations."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
