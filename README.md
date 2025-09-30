@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The health of nations is more important than the wealth of nations."</i>
+<i>"Cultivate the merry heart, develop the happiness habit, and life will become a continual feast."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
