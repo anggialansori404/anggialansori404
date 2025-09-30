@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is permanent in this wicked world - not even our troubles."</i>
+<i>"Doubt is an uncomfortable condition, but certainty is a ridiculous one."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
