@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't know where you're going, you will probably end up somewhere else."</i>
+<i>"When you stop questioning, you stop learning."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
