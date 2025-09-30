@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is like reaching an important birthday and finding you're exactly the same."</i>
+<i>"Nothing is permanent in this wicked world - not even our troubles."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
