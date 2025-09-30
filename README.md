@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Doubt is an uncomfortable condition, but certainty is a ridiculous one."</i>
+<i>"The greatest weariness comes from work not done."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
