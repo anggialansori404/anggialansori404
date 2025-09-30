@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you stop questioning, you stop learning."</i>
+<i>"Amateurs sit and wait for inspiration, the rest of us just get up and got to work."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
