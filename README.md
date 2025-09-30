@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Amateurs sit and wait for inspiration, the rest of us just get up and got to work."</i>
+<i>"Success is like reaching an important birthday and finding you're exactly the same."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
