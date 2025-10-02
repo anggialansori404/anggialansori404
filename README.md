@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every failure brings with it the seed of an equivalent success."</i>
+<i>"I am thankful to all those who said no. It's because of them, I did it myself.  "</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
