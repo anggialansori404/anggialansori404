@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the greatest of all mistakes to do nothing because you can only do little; do something."</i>
+<i>"Everything that is made beautiful and fair and lovely is made for the eye of one who sees."</i>
 <br>
-<b>- Sydney Smith</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
