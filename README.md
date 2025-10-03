@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is never final, failure is never fatal. It's courage that counts."</i>
+<i>"It is not that we have too little time to do all the things we need to do , it is that we feel the need to do too many things in the time we have."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
