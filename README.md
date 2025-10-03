@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone telling you it's pointless to share your perspective is sharing their perspective."</i>
+<i>"No man becomes rich unless he enriches others."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
