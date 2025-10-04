@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be kind whenever possible. It is always possible."</i>
+<i>"Look to the beauty of this day, miracles are all around you."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
