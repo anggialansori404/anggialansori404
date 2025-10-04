@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Look to the beauty of this day, miracles are all around you."</i>
+<i>"Everybody by your side ain't on your side."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
