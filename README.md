@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the midst of movement and chaos, keep stillness inside of you."</i>
+<i>"Be kind whenever possible. It is always possible."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
