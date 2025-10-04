@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing endures but change."</i>
+<i>"In the midst of movement and chaos, keep stillness inside of you."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
