@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only place where success comes before work is in the dictionary."</i>
+<i>"When you can't make them see the light, make them feel the heat."</i>
 <br>
-<b>- Vidal Sassoon</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
