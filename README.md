@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't program yourself, life will program you."</i>
+<i>"You cannot teach a crab to walk straight."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
