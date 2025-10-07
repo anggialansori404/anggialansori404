@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work out your own salvation. Do not depend on others."</i>
+<i>"You can never get enough of what you don't need to make you happy."</i>
 <br>
-<b>- Buddha</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
