@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be fully alive is to feel that everything is possible."</i>
+<i>"If you don't program yourself, life will program you."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
