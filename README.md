@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no greatness where there is not simplicity, goodness, and truth."</i>
+<i>"Work out your own salvation. Do not depend on others."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
