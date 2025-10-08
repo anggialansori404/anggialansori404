@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"They who have conquered doubt and fear have conquered failure."</i>
+<i>"Do not think you will necessarily be aware of your own enlightenment."</i>
 <br>
-<b>- James Allen</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
