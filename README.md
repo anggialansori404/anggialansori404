@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not think you will necessarily be aware of your own enlightenment."</i>
+<i>"The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.  "</i>
 <br>
-<b>- Dogen</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
