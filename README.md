@@ -28,7 +28,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Empty yourself of everything - let the mind become still."</i>
+<i>"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. "</i>
 <br>
 <b>- Lao Tzu</b>
 </blockquote>
