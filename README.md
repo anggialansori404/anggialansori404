@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes."</i>
+<i>"Do anything, but let it produce joy."</i>
 <br>
-<b>- A.A. Milne</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
