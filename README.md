@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The opportunity of defeating the enemy is provided by the enemy himself."</i>
+<i>"You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- A.A. Milne</b>
 </blockquote>
 </p>
 
