@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do anything, but let it produce joy."</i>
+<i>"I was angered, for I had no shoes. Then I met a man who had no feet. "</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
