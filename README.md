@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each problem has a positive side."</i>
+<i>"All life is a manifestation of the spirit, the manifestation of love."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
