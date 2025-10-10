@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All life is a manifestation of the spirit, the manifestation of love."</i>
+<i>"If you build the guts to do something, anything, then you better save enough to face the consequences."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
