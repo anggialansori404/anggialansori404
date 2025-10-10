@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sad thing is, you can still love someone and be wrong for them."</i>
+<i>"No duty is more urgent than that of returning thanks."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
