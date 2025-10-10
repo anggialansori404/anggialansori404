@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No duty is more urgent than that of returning thanks."</i>
+<i>"Each problem has a positive side."</i>
 <br>
-<b>- James Allen</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
