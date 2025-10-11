@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change begets change. Nothing propagates so fast."</i>
+<i>"Inspiration exists, but it has to find you working."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
