@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can not live your life just based on what everyone else thinks."</i>
+<i>"Change begets change. Nothing propagates so fast."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
