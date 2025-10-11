@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Inspiration exists, but it has to find you working."</i>
+<i>"Study logic and math, because once you've mastered them, you won't fear any book."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
