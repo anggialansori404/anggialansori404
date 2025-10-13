@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let your learning lead to knowledge. Let your learning lead to action."</i>
+<i>"It is better to change an opinion than to persist in a wrong one."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
