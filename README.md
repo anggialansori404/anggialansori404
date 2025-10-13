@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some."</i>
+<i>"When you are totally at peace with yourself, nothing can shake you."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Deepam Chaterjee</b>
 </blockquote>
 </p>
 
