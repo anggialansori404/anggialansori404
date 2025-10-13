@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reading should be a pleasure, not a chore."</i>
+<i>"The purpose of life is the expansion of happiness."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
