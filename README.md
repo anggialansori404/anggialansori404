@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are totally at peace with yourself, nothing can shake you."</i>
+<i>"Don't let your learning lead to knowledge. Let your learning lead to action."</i>
 <br>
-<b>- Deepam Chaterjee</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
