@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control."</i>
+<i>"Adults are just children who earn money."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Kenneth Branagh</b>
 </blockquote>
 </p>
 
