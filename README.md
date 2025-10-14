@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What gets measured gets improved."</i>
+<i>"The best thing to hold onto in life is each other."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
