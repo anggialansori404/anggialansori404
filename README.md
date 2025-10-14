@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be patient and calm; no one can catch fish in anger."</i>
+<i>"By the practice of meditation, you will find that you are carrying within your heart a portable paradise."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
