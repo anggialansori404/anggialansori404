@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can discover what your enemy fears most by observing the means he uses to frighten you."</i>
+<i>"Lack of emotion causes lack of progress and lack of motivation."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
