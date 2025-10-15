@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By the practice of meditation, you will find that you are carrying within your heart a portable paradise."</i>
+<i>"It's not the size of the dog in the fight, it's the size of the fight in the dog."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
