@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A memory is a beautiful thing, it's almost a desire that you miss."</i>
+<i>"Change is inevitable but personal growth is a choice."</i>
 <br>
-<b>- Gustave Flaubert</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
