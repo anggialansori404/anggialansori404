@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Problems remain as problems because people are busy defending them rather than finding solutions."</i>
+<i>"Live your life and forget your age."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
