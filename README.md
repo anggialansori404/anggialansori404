@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"But better die than live mechanically a life that is a repetition of repetitions."</i>
+<i>"Remember, today is the tomorrow you worried about yesterday."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
