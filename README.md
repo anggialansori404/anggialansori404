@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you think the world is withholding from you, you are withholding from the world."</i>
+<i>"Don't stop when you're tired. Stop when you're done."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Marilyn Monroe</b>
 </blockquote>
 </p>
 
