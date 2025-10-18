@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your only obligation in any lifetime is to be true to yourself."</i>
+<i>"Even if you persuade me, you won't persuade me."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
