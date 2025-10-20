@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The moment you stop to think about whether you love someone, you've already stopped loving that person forever."</i>
+<i>"Believe in one thing too much and you have no room for new ideas.  "</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
