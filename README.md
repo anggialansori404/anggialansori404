@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe in one thing too much and you have no room for new ideas.  "</i>
+<i>"What you do today can improve all your tomorrows."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
