@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The measure of who we are is what we do with what we have."</i>
+<i>"To judge a man by his weakest link or deed is like judging the power of the ocean by one wave."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
