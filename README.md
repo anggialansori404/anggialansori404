@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where ever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything."</i>
+<i>"The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
