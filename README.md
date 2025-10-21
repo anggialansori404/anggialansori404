@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry."</i>
+<i>"Where ever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
