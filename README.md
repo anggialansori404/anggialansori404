@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers."</i>
+<i>"The measure of who we are is what we do with what we have."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
