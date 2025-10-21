@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The deeper the truth in a creative work, the longer it will live.  "</i>
+<i>"Until you make the unconscious conscious, it will direct your life and you will call it fate."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
