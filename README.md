@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all in the gutter, but some of us are looking at the stars. "</i>
+<i>"Wrong does not cease to be wrong because the majority share in it."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
