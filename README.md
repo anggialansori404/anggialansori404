@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a constant series of opportunities."</i>
+<i>"What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
