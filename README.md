@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything eaten is killed. Every meal is a sacrifice."</i>
+<i>"All great truths begin as blasphemies."</i>
 <br>
-<b>- Adi Da Samraj</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
