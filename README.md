@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The farther backward you can look, the farther forward you are likely to see."</i>
+<i>"Your neighbor is the man who needs you."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
