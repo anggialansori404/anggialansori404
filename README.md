@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your world is a living expression of how you are using and have used your mind."</i>
+<i>"The future depends on what you do today. "</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
