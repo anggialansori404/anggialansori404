@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future depends on what you do today. "</i>
+<i>"The farther backward you can look, the farther forward you are likely to see."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
