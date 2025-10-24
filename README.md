@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you pray for rain, be prepared to deal with some mud."</i>
+<i>"Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. "</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
