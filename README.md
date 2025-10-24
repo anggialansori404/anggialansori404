@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take care of your cents: dollars will take care of themselves."</i>
+<i>"Friends ask you questions; enemies question you."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
