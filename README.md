@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friends ask you questions; enemies question you."</i>
+<i>"Your world is a living expression of how you are using and have used your mind."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
