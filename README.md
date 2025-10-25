@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The farther backward you can look, the farther forward you are likely to see."</i>
+<i>"Truth is like the sun. You can shut it out for a time, but it ain't going away."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
