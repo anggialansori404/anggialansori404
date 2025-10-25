@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't bother people for help without first trying to solve the problem yourself."</i>
+<i>"A thing must be loved before it is lovable."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
