@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't make someone feel good about themselves until you feel good about yourself."</i>
+<i>"Don't bother people for help without first trying to solve the problem yourself."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
