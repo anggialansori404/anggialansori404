@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A thing must be loved before it is lovable."</i>
+<i>"If you are unable to find the truth right where you are, where else do you expect to find it?"</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
