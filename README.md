@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A self that goes on changing is a self that goes on living."</i>
+<i>"How to get more opportunity: Create more opportunity for others."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
