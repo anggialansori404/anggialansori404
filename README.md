@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all self-made, but only the successful will admit it."</i>
+<i>"The journey, not the destination matters."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
