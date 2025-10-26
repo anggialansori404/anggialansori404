@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board."</i>
+<i>"A self that goes on changing is a self that goes on living."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
