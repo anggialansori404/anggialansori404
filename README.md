@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The journey, not the destination matters."</i>
+<i>"Many people will walk in and out of your life, but only true friends will leave footprints in your heart."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
