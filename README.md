@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence comes from crossing thresholds."</i>
+<i>"A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
