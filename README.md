@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Seek not the good in external things;seek it in yourselves."</i>
+<i>"Focus is a matter of deciding what things you're not going to do."</i>
 <br>
-<b>- Epictetus</b>
+<b>- John Carmack</b>
 </blockquote>
 </p>
 
