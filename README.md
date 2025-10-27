@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life would be tragic if it weren't funny."</i>
+<i>"You cannot push anyone up a ladder unless he is willing to climb a little himself."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
