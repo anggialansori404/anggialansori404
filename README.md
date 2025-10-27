@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Focus is a matter of deciding what things you're not going to do."</i>
+<i>"Life would be tragic if it weren't funny."</i>
 <br>
-<b>- John Carmack</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
