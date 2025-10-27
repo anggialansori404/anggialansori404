@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water."</i>
+<i>"Seek not the good in external things;seek it in yourselves."</i>
 <br>
-<b>- Buddha</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
