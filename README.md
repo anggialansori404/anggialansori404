@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better to live until you die."</i>
+<i>"Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
