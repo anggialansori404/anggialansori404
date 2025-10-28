@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good, better, best. Never let it rest. 'Til your good is better and your better is best. "</i>
+<i>"Confidence is what you have before you understand the problem."</i>
 <br>
-<b>- St. Jerome</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
