@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By seeking and blundering we learn."</i>
+<i>"If you're brave enough to say goodbye, life will reward you with a new hello."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
