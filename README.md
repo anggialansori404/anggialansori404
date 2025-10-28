@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot push anyone up a ladder unless he is willing to climb a little himself."</i>
+<i>"The only way round is through."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
