@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Definiteness of purpose is the starting point of all achievement. "</i>
+<i>"From morning till night, we should never rely on a single thing."</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
