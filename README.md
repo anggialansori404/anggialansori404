@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"From morning till night, we should never rely on a single thing."</i>
+<i>"True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
