@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Talk to someone about themselves and they'll listen for hours."</i>
+<i>"At every moment where language can't go, that's your mind."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
