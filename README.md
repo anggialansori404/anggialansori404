@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"At every moment where language can't go, that's your mind."</i>
+<i>"A man should do his job so well that the living, the dead, and the unborn could do it no better."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
