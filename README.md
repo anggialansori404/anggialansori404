@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must not sit down and wait for miracles. Up and be going!"</i>
+<i>"Talk to someone about themselves and they'll listen for hours."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
