@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do the work you get rewarded. There are no shortcuts in life."</i>
+<i>"Desire for the fruits of work must never be your motive in working."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
