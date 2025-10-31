@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Desire for the fruits of work must never be your motive in working."</i>
+<i>"The strongest and sweetest songs yet remain to be sung."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
