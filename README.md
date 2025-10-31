@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do something worth remembering."</i>
+<i>"Where does a thought go when it's forgotten?"</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
