@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where does a thought go when it's forgotten?"</i>
+<i>"If you do the work you get rewarded. There are no shortcuts in life."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
