@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anxiety is the dizziness of freedom."</i>
+<i>"We will outstretch the hand if you unclench your fist."</i>
 <br>
-<b>- Soren Kierkegaard</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
