@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is only one thing in the world worse than being talked about, and that is not being talked about. "</i>
+<i>"He who has overcome his fears will truly be free."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
