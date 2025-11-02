@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing can survive without food. Everything we consume acts either to heal us or to poison us."</i>
+<i>"We run to win, not just to be in the race.  "</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
