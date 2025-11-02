@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything is possible. The impossible just takes longer."</i>
+<i>"Let each man exercise the art he knows."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
