@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A self that goes on changing is a self that goes on living."</i>
+<i>"Instead of being intimidated by the limitations, be inspired to find new ways around them."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
