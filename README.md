@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is what we make out of what we have, not what we are given, that separates one person from another."</i>
+<i>"When you love someone, you love the person as they are, and not as you'd like them to be."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
