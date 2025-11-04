@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep your face to the sunshine and you cannot see the shadows."</i>
+<i>"We must have strong minds, ready to accept facts as they are."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
