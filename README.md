@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You miss 100% of the shots you don't take."</i>
+<i>"He who possesses most must be most afraid of loss."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
