@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first rule of business; treat others like they want to treat you."</i>
+<i>"There is no limitations except those we create for ourselves."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
