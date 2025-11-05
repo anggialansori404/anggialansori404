@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wherever there is danger, there lurks opportunity; wherever there is opportunity, there lurks danger. The two are inseparable."</i>
+<i>"True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
