@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All great truths begin as blasphemies."</i>
+<i>"Every saint has a past, and every sinner has a future."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
