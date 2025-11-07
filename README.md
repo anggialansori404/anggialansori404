@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Decide upon your major definite purpose in life and then organize all your activities around it."</i>
+<i>"Difficult roads often lead to beautiful destinations."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
