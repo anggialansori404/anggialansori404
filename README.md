@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Difficult roads often lead to beautiful destinations."</i>
+<i>"Lost Time is never found again."</i>
 <br>
-<b>- Unknown</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
