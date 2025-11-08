@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe nothing you hear, and only one half that you see."</i>
+<i>"No tree, it is said, can grow to heaven unless its roots reach down to hell."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
