@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A mountain never yields to the wind no matter how strong it is."</i>
+<i>"You may forget with whom you laughed, but you will never forget with whom you wept.  "</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
