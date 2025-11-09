@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more something scares you, the more you should do it."</i>
+<i>"A mountain never yields to the wind no matter how strong it is."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
