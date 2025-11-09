@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Death is not an ending. It is a transformation."</i>
+<i>"There is an essence of when you are fearless, you become more creative."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
