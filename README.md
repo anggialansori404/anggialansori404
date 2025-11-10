@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Deeds will not be less valiant because they are upraised."</i>
+<i>"You become a worrier by practicing worry. You become free of worry by practicing the opposite."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
