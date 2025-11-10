@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe and you're halfway there."</i>
+<i>"Deeds will not be less valiant because they are upraised."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
