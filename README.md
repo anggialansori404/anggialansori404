@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You may forget with whom you laughed, but you will never forget with whom you wept.  "</i>
+<i>"Remember that sometimes not getting what you want is a wonderful stroke of luck."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
