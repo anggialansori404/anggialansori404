@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Develop success from failures. Discouragement and failure are two of the surest stepping stones to success."</i>
+<i>"Live, travel, adventure, bless, and don't be sorry.  "</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Jack Kerouac</b>
 </blockquote>
 </p>
 
