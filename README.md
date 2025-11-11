@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live, travel, adventure, bless, and don't be sorry.  "</i>
+<i>"If you love life, don't waste time, for time is what life is made up of. "</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
