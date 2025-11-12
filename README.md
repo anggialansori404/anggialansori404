@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you love life, don't waste time, for time is what life is made up of. "</i>
+<i>"Nothing can survive without food. Everything we consume acts either to heal us or to poison us."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
