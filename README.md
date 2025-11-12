@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All things come into being by conflict of opposites."</i>
+<i>"One of the first signs of the beginning of understanding is the wish to die. "</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
