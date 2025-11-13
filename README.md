@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Distant water does not put out a nearby fire."</i>
+<i>"What the mind can conceive and believe, and the heart desire, you can achieve."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
