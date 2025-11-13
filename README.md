@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future belongs to those who learn more skills and combine them in creative ways."</i>
+<i>"The majority of what you want will come from the minority of what you do."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
