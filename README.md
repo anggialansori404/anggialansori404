@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truth is simple. If it was complicated, everyone would understand it."</i>
+<i>"Everything you can imagine is real."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
