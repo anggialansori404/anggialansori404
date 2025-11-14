@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most important single ingredient in the formula of success is knowing how to get along with people."</i>
+<i>"Greatness lies not in being strong, but in the right use of strength."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
