@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The Art of Peace begins with you."</i>
+<i>"The truth is simple. If it was complicated, everyone would understand it."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
