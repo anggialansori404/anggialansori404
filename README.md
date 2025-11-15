@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't make someone feel good about themselves until you feel good about yourself."</i>
+<i>"If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
