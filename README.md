@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A path is made by walking on it."</i>
+<i>"Peaceful is the one who expects nothing."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
