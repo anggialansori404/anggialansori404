@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why compare yourself with others? No one in the entire world can do a better job of being you than you."</i>
+<i>"He who violates another's honor loses his own."</i>
 <br>
-<b>- Unknown</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
