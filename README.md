@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am thankful to all those who said no. It's because of them, I did it myself.  "</i>
+<i>"Confidence is consistency of thinking about what is possible and how to make it possible."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
