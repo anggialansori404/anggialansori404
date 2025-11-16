@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. "</i>
+<i>"I am thankful to all those who said no. It's because of them, I did it myself.  "</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
