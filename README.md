@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who violates another's honor loses his own."</i>
+<i>"I learned the value of hard work by working hard. "</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
