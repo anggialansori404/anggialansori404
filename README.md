@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Decide what your truth is. Then live it."</i>
+<i>"A wise man can learn more from a foolish question than a fool can learn from a wise answer.  "</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
