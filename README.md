@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A wise man can learn more from a foolish question than a fool can learn from a wise answer.  "</i>
+<i>"The only time you run out of chances is when you stop taking them."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
