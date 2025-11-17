@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not tell the truth about yourself you cannot tell it about other people."</i>
+<i>"You get paid in direct proportion to the difficulty of problems you solve."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
