@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You need a plan to build a house. To build a life, it is even more important to have a plan or goal."</i>
+<i>"Success does not consist in never making mistakes but in never making the same one a second time."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
