@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only time you run out of chances is when you stop taking them."</i>
+<i>"It isn't what you do, but how you do it."</i>
 <br>
-<b>- Unknown</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
