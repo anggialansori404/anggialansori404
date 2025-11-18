@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction."</i>
+<i>"Fashion fades, only style remains the same."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
