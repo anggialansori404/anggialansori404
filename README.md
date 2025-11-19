@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fashion fades, only style remains the same."</i>
+<i>"Any fool can turn a blind eye but who knows what the ostrich sees in the sand."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
