@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing external to you has any power over you."</i>
+<i>"It is in changing that we find purpose."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
