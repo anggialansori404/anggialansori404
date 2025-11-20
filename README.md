@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember, hope is a good thing, maybe the best of things."</i>
+<i>"Even the smallest person can change the course of the future."</i>
 <br>
-<b>- Stephen King</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
