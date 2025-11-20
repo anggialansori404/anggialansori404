@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A diamond is a piece of charcoal that handled stress exceptionally well."</i>
+<i>"Whatever you are, be a good one."</i>
 <br>
-<b>- Unknown</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
