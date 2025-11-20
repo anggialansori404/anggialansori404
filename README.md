@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even the smallest person can change the course of the future."</i>
+<i>"A diamond is a piece of charcoal that handled stress exceptionally well."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
