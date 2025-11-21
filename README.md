@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change is not a four letter word...but often your reaction to it is!"</i>
+<i>"In order to carry a positive action, we must develop here a positive vision."</i>
 <br>
-<b>- Jeffrey Gitomer</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
