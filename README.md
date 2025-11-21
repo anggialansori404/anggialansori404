@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In order to carry a positive action, we must develop here a positive vision."</i>
+<i>"Don't wait for the right opportunity: create it."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
