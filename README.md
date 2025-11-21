@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Understanding that rests in what it does not understand is the finest."</i>
+<i>"How you think when you lose determines how long it will be until you win."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
