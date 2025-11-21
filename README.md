@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you are, be a good one."</i>
+<i>"Understanding that rests in what it does not understand is the finest."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
