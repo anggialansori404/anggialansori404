@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't wait for the right opportunity: create it."</i>
+<i>"Most of us will do anything to avoid facing ourselves."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
