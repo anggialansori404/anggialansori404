@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be happy now, without reason - or you never will be at all."</i>
+<i>"A man, as a general rule, owes very little to what he is born with - a man is what he makes of himself."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
