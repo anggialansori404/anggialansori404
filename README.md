@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perhaps the most tragic thing about mankind is that we are all dreaming about some magical garden over the horizon, instead of enjoying the roses that are right outside today."</i>
+<i>"Be happy now, without reason - or you never will be at all."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
