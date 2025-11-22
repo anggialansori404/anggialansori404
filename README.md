@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle."</i>
+<i>"Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- John D. Rockefeller</b>
 </blockquote>
 </p>
 
