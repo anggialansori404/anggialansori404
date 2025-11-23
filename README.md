@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your mind is infinite, it's your doubts that are limiting."</i>
+<i>"The best way to predict your future is to create it."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
