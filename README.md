@@ -1,41 +1,46 @@
-## Hi, there! I'm Anggi Al'Ansori <img src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/assets/Hi.gif" width="30px">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Anggi%20Al'Ansori&fontSize=70&fontAlignY=35&desc=Web%20Dev%20%7C%20Bot%20Creator%20%7C%20Roblox%20Enjoyer&descAlignY=60&descAlign=50" />
+</div>
 
-<p align="center">
-<a href="https://github.com/anggialansori404"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" /></a>
-<a href="https://www.instagram.com/anggialansori_"> <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" /></a>
-<a href="mailto:anggialansori.rpl4@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></p></a>
+<div align="center">
+  <h3>⚡ Code, Deploy, Play.</h3>
+  <p>
+    I build scalable web apps with <b>Next.js & Docker</b>.<br>
+    In my free time, I craft <b>Automation Bots</b> and vibe in <b>Roblox</b>.
+  </p>
+</div>
 
-
-**Here is my portofolio as follows:**
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/assets/git-header.svg" />
-
-- A ROM maintainer for Redmi Note 10
-- Official maintainer for [Nusantara ROM](https://github.com/Nusantara-ROM)
-- Windows & Ubuntu user 
-
-**Some programming languages that are already learned by me as follows:** 
-<p>
-  <a href="https://github.com/anggialansori404">
-    <img width="55%" align="right" alt="Anggi Al'Ansori's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anggialansori404&show_icons=true&hide_border=true" />
-  </a>
-
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-
-</p>
-<hr>
-<h3 align="center">Quote of The Day</h3>
-<p align="center">
-<blockquote>
-<i>"Ability is a poor man's wealth."</i>
 <br>
-<b>- John Wooden</b>
-</blockquote>
-</p>
+
+### 🛠️ The Arsenal
+
+| **Web & DevOps** | **Fun & Automation** | **Environment** |
+| :---: | :---: | :---: |
+| ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | ![DiscordBots](https://img.shields.io/badge/Bots-Discord_JS-5865F2?style=flat&logo=discord&logoColor=white) ![Roblox](https://img.shields.io/badge/Player-Roblox-000000?style=flat&logo=roblox&logoColor=white) | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+
+<br>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,docker,nodejs,linux,discord,git&perline=8" />
+  </a>
+</div>
+
+<br>
+
+### 📊 Github Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anggialansori404&show_icons=true&theme=tokyonight&hide_border=true&cache_bust=1" height="165" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anggialansori404&theme=tokyonight&hide_border=true" height="165" alt="streak graph" />
+</div>
 
 <hr>
-<h2 align="center">Thank You 🙏🏼</h2>
-<p align="center"><b><i>Nothing special with me!</i></b></p>
-<p align="center">
-</p>
+
+<div align="center">
+  <a href="https://instagram.com/anggialansori_">
+    <img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:anggialansori.rpl4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
