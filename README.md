@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future doesn't belong to the faint-hearted; it belongs to the brave."</i>
+<i>"Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Charles Spurgeon</b>
 </blockquote>
 </p>
 
