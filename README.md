@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose."</i>
+<i>"The majority of what you want will come from the minority of what you do."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
