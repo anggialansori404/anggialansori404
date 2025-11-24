@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Develop success from failures. Discouragement and failure are two of the surest stepping stones to success."</i>
+<i>"The farther backward you can look, the farther forward you are likely to see."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
