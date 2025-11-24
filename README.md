@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths."</i>
+<i>"Unhappiness enters through a door that has been left open."</i>
 <br>
-<b>- Charles Spurgeon</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
