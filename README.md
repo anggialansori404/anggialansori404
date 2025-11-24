@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The farther backward you can look, the farther forward you are likely to see."</i>
+<i>"Make no small plans for they have no power to stir the soul."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Niccolo Machiavelli</b>
 </blockquote>
 </p>
 
