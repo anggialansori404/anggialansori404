@@ -8,6 +8,9 @@
     I build scalable web apps with <b>Next.js & Docker</b>.<br>
     In my free time, I craft <b>Automation Bots</b> and vibe in <b>Roblox</b>.
   </p>
+  <p>
+    🌐 <b><a href="https://anggialansori404.github.io">Check out my Portfolio Website</a></b>
+  </p>
 </div>
 
 <br>
@@ -37,6 +40,9 @@
 <hr>
 
 <div align="center">
+  <a href="https://anggialansori404.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
   <a href="https://instagram.com/anggialansori_">
     <img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
