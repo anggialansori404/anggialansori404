@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are willing to believe anything other than the truth."</i>
+<i>"Convinced myself, I seek not to convince."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
