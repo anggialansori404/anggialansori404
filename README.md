@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The soul should always stand ajar, ready to welcome the ecstatic experience."</i>
+<i>"Where your talents and the needs of the world cross, there lies your vocation."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
