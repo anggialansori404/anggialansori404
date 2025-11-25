@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The majority of what you want will come from the minority of what you do."</i>
+<i>"Originality is the fine art of remembering what you hear but forgetting where you heard it. "</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
