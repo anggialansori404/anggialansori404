@@ -28,9 +28,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wherever you are, and whatever you do, be in love."</i>
+<i>"The road to success is always under construction."</i>
 <br>
-<b>- Rumi</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
